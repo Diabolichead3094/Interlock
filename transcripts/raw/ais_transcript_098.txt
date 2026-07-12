@@ -1,0 +1,302 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.9s:
+Could I please speak to a human?
+
+Agent (Mia) at 11.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.9s:
+[CUSTOMER_NAME]?
+
+Agent (Mia) at 19.7s:
+Thank you. Are you ready to be connected to a specialist now?
+
+Customer at 23.9s:
+Yes, please.
+
+Agent (Mia) at 26.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 48.7s:
+Affordable. Good afternoon. This is Shannon. How can I help?
+
+Customer at 62.8s:
+Oh, hi, Shannon. I am looking to speak with Ron, if I may, please.
+
+Agent (Human) at 67.7s:
+He's not available, and the moment. Can I get him to give you a callback?
+
+Customer at 72.9s:
+Yeah. I did miss this call before, and he just said call back and ask for him.
+
+Agent (Human) at 76.9s:
+Okay. Just give me one second, and I'll see if he is around. You okay to hold, [CUSTOMER_NAME]?
+
+Customer at 81.9s:
+They That's fine. Thanks so much.
+
+Agent (Human) at 84.9s:
+You're welcome. Yeah. Yeah. Thank you for holding there, [CUSTOMER_NAME]. Appreciate that.
+
+Customer at 169.9s:
+No worries.
+
+Agent (Human) at 170.6s:
+I'm just gonna transfer you through now. Okay? One few seconds. Thanks, [CUSTOMER_NAME].
+
+Customer at 173.4s:
+Amazing. Thank you so much.
+
+Agent (Human) at 176.0s:
+You're welcome.
+
+Unknown (441929) at 195.6s:
+Hello? Is that your daddy?
+
+Customer at 198.1s:
+Hi, Ron. Yeah. It's [CUSTOMER_NAME].
+
+Unknown (441929) at 199.6s:
+Hey. Thanks for calling back. How you doing?
+
+Customer at 202.8s:
+Good. Thank you. Sorry I missed your call before I had the sewing machine going and didn't hear my phone.
+
+Unknown (441929) at 206.3s:
+Oh, that's okay. Hey. I just wanna talk to you about your motorcycle there.
+
+Customer at 212.8s:
+Yes.
+
+Unknown (441929) at 214.6s:
+I'm a bike rider myself. And I personally think it's dangerous to have an interlock on a motorbike.
+
+Customer at 221.5s:
+Okay.
+
+Unknown (441929) at 222.0s:
+Because you need you gotta take your hands off the the handlebar to blow into it. Your
+
+Customer at 229.2s:
+Yep.
+
+Unknown (441929) at 229.8s:
+you also have to stop, take your helmet off so it can take an image. And, also, because it's got a camera installed and it's open to the weather, unlike a motor vehicle where it's inside. So if the camera plays up, your your problem? And the other thing that we've
+
+Customer at 248.0s:
+Yep.
+
+Unknown (441929) at 248.7s:
+the other thing that we've encountered too is some undesirables will walk past your bike and see the camera and then go, oh, that's nice. Snap. And then it's gone. And it's wrecked, and it Yeah. Yeah. You know what it's like. People touching your motorbike.
+
+Customer at 266.3s:
+Yep.
+
+Unknown (441929) at 267.0s:
+And but more importantly, it's it's just the safety aspect. I just I just think it's not safe. But that's totally up to you.
+
+Customer at 277.7s:
+No. That's okay. I do appreciate your input there because look, it's for my partner. Essentially, he's been stuck in a bit of a loophole. He's being subject to the interlock device because essentially where he had his motorbike parked was in a loading zone, and he wasn't intending on staying. But decided that it wouldn't be a good idea to ride. So thought that he would just move his bike out of the loading zone somewhere more safe because he's had problems before where people have kicked the bike over and caused damage to it.
+
+Unknown (441929) at 306.4s:
+Yeah. Yep.
+
+Customer at 307.7s:
+So, unfortunately, in that pinpoint decision moment, he decided to move it. He got done for the writing under the influence even though he's only relocating the bike from one side of the street to the other.
+
+Unknown (441929) at 320.2s:
+Wow.
+
+Customer at 320.9s:
+Doing the bike. That's how the cookie crumbles, all the rest of it. Anyway, moving forward from that, he's stuck in his loophole because he can't get his license back without the interlock, but he doesn't have a vehicle to put an interlock in, only a motorbike.
+
+Unknown (441929) at 334.9s:
+Oh, okay.
+
+Customer at 336.6s:
+Which if we put it in the vehicle, he'd like, I've got a car, So if I authorize him to put it in the car, he doesn't actually drive my car. So therefore, there's no data being recorded for him. So he's gonna get stuck on the interlock program, because there's no data for it. We live in a small regional town. I don't know. Are you the local store for LA Beach, or are you based at, like, a
+
+Unknown (441929) at 355.8s:
+Yeah. No. No. I'm by somewhere else.
+
+Customer at 355.9s:
+a bigger
+
+Unknown (441929) at 357.9s:
+But I've I've I've I've I've been to Airlie Beach. Lots lots of times. Yep.
+
+Customer at 361.4s:
+yep. Like, you know what I mean? It cost you about ten minutes to get from one side of town to the other.
+
+Unknown (441929) at 366.8s:
+Yeah. Yeah.
+
+Customer at 367.5s:
+But even if he was using the car, he's not gonna be using it for any lengthy time periods or anything like that. It just essentially, he's stuck in his loophole where he can't get his license back because we don't have the main to satisfy the requirements. So we need to what we we need to apply for exemption for him, but we need to be able to justify why he needs to apply for an exemption.
+
+Unknown (441929) at 389.3s:
+Well, well, let me I don't usually say this, but the require there is no requirement to drive the car and have x amount of kilometers on it It's just as long as you go for a service, So when you get it installed, so there's one service at thirty days. And then and then if you elect for the three monthly program, which will save you money,
+
+Customer at 409.3s:
+Yes.
+
+Unknown (441929) at 413.5s:
+then you go in once every three months to get it downloaded. As long as he's driven it a couple of times, like, the weekends and whatnot, happy days. So we have people that
+
+Customer at 425.3s:
+Yeah.
+
+Unknown (441929) at 426.1s:
+we have people that put in the car, park their car up, take it in for one service, park it up. Three months later, take it in for another service. And it fulfills the requirements for TMR. It's not the right thing to do because you should be driving with it. But that's how it is.
+
+Customer at 443.8s:
+Okay. Because they called off that
+
+Unknown (441929) at 443.8s:
+It's
+
+Customer at 445.8s:
+the first eight months is a learning period, and then the last four months is his like, assessed period where he has to have reported data on his driving.
+
+Unknown (441929) at 449.4s:
+correct. Yep. Yep. Yep. As long as you do some driving. But make sure he's not driving without an interlock because that's even worse.
+
+Customer at 462.0s:
+Yeah. Well, yeah. I mean, like I said, he doesn't drive my car. Because I'm always using it for work and stuff like that. So
+
+Unknown (441929) at 469.7s:
+Yep.
+
+Customer at 470.8s:
+that's essentially is our challenge.
+
+Unknown (441929) at 474.0s:
+Okay.
+
+Customer at 474.8s:
+But we've we've also we've also got some information off insurance, and it's unfeasible for us to be able to insure him as a driver on my car.
+
+Unknown (441929) at 483.9s:
+Yeah. Yeah. And what about if you just bought a shit box, you know, a couple of thousand dollars? And stuck it into there?
+
+Customer at 491.6s:
+Like your thinking, Ron. At the moment, we're trying to figure out how we're gonna pay just to get his license back to him.
+
+Unknown (441929) at 492.8s:
+Yeah. Yeah. Right.
+
+Customer at 497.0s:
+So, yeah, even that's not it's not a viable option for us. And the cost that the insurance is going to increase to is not something that we can sustain long term as well for the, you know, the twelve months that he's supposed to be on the program. So we're just stuck in this vicious loophole cycle that we just can't seem to find a solution. To get him out of. You know? And so we're just trying to gather the correct information that the TMR requires for him to put the application in for the
+
+Unknown (441929) at 525.3s:
+Wait.
+
+Customer at 526.7s:
+exemption.
+
+Unknown (441929) at 526.7s:
+Yeah. We we could definitely install it on the bike, but if the camera goes you know, it gets rained on because it you are you are up that way where it's, you know, rains. And b, it's over $1,000 because takes takes some doing. I've still gotta check with the service center whether they can do it.
+
+Customer at 548.8s:
+Yep.
+
+Unknown (441929) at 549.4s:
+I know down on the Gold Coast here, have service centers that can do it, but some some can't.
+
+Customer at 555.2s:
+Yeah. Well, that was the thing that Queensland Transport originally told us that it can't be done.
+
+Unknown (441929) at 561.1s:
+Alright. And you can you can
+
+Customer at 562.0s:
+So
+
+Unknown (441929) at 563.5s:
+hook it up to anything, but whether it's feasible. Like, we had a motorbike.
+
+Customer at 567.6s:
+We had a
+
+Unknown (441929) at 568.4s:
+Motorbike down here that was cost $1,200 to install. Actually, I think it was more than that 16 because it takes a lot of time to take the fairings off so you don't break anything.
+
+Customer at 581.7s:
+Yeah.
+
+Unknown (441929) at 582.4s:
+And then a lot of time to put everything back you know, the way it was. So
+
+Customer at 587.4s:
+Yeah. Yeah. Fair enough.
+
+Unknown (441929) at 588.3s:
+yeah, Yeah. So it's
+
+Customer at 591.8s:
+When you said that some places do, like you guys do down on the Gold Coast, other places don't, do you know if the person that does Airlie Beach locally does motorbikes or not?
+
+Unknown (441929) at 601.0s:
+I haven't checked because I wanted to talk to talk to you first.
+
+Customer at 604.7s:
+Okay. That something that you'd be able to do for me, please, Ron? Because if he can't do it, because we're in a regional area, we're subject to a no installer in a certain distance.
+
+Unknown (441929) at 616.4s:
+Yep. Yeah. Within a hundred
+
+Customer at 617.5s:
+So take time.
+
+Unknown (441929) at 618.4s:
+within a 150 k's.
+
+Customer at 619.0s:
+Yeah, if he can't do it,
+
+Unknown (441929) at 624.1s:
+Yeah. It's it's within a 150 k's. So
+
+Customer at 627.4s:
+Yeah. Because if if he can't do it, then
+
+Unknown (441929) at 627.7s:
+we've
+
+Customer at 629.8s:
+you know, we kind of stuck. There as well.
+
+Unknown (441929) at 635.1s:
+Yeah. Alright. But alright. Let me check. I'll give him a call, see how much it is and if they can do it.
+
+Customer at 644.5s:
+Okay.
+
+Unknown (441929) at 644.6s:
+But yeah, let's go from there.
+
+Customer at 648.6s:
+Alright. Legend. I appreciate your help, and I appreciate your input about the you know, your personal opinion with it being dangerous and stuff like that because those are very good points that we didn't think of as well.
+
+Unknown (441929) at 658.2s:
+Yeah. I've got an FJR 1,300 There's no way I would put an interlock on that. Because when you're on the highway and whatnot, it's it's hard enough as it is. Or even driving around town, it's even worse.
+
+Customer at 669.7s:
+Yep.
+
+Unknown (441929) at 672.1s:
+Yep. No worries. Alright. Let me let me give him a call, and you'll hear back from me soon.
+
+Customer at 679.8s:
+Too easy. Thank you so much, Ron. I appreciate your time and your help.
+
+Unknown (441929) at 682.3s:
+No worries. Thanks, [CUSTOMER_NAME]. Cheers.
+
+Customer at 684.6s:
+Bye.
+
+Unknown (441929) at 685.0s:
+Bye.

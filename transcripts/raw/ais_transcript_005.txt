@@ -1,0 +1,26 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.5s:
+I need to make a payment for a service on my breathalyzer device.
+
+Agent (Mia) at 13.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.7s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 25.4s:
+I I don't know how much the payment will be but I would say so. Yeah.
+
+Agent (Mia) at 33.3s:
+Thanks for confirming. I'll send you a payment link by text now. One moment, please. You'll receive a text with the payment link shortly. Is there anything else I can help you with today?
+
+Customer at 44.3s:
+No.
+
+Agent (Mia) at 47.1s:
+All good. Is there anything else I can help you with today?

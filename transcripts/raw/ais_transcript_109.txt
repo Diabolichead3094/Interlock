@@ -1,0 +1,143 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+Can I speak to a customer service representative, please?
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.1s:
+Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 22.5s:
+Yes, please.
+
+Agent (Mia) at 24.6s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 28.4s:
+Thank you.
+
+Agent (Mia) at 30.1s:
+You're welcome. Please hold while I connect you to our customer support team.
+
+Agent (Human) at 61.9s:
+Hi. [AGENT_NAME] speaking. How can I help?
+
+Customer at 64.5s:
+Hi. My name is [CUSTOMER_NAME]. How are you?
+
+Agent (Human) at 66.3s:
+Good. Thank you.
+
+Customer at 68.0s:
+Good. I have a car with a interlock in, obviously. I have finished the whatchamacallit, the program. Last week, I called up to get it removed but I wasn't told that it would be nearly $300 and that I had to make the payment within twenty four hours, so I was unable to do that last week.
+
+Agent (Human) at 88.4s:
+Okay.
+
+Customer at 88.5s:
+So I would like to begin that process again. And then also, as I am finished to the program and all of that, I just wanna know is there any way I can drive my car until I get this removed? Because I need to get to work so I can pay for this. That
+
+Agent (Human) at 105.9s:
+No. Okay. What's what's your last name, [CUSTOMER_NAME]?
+
+Customer at 110.9s:
+[CUSTOMER_NAME], g e o r g, e e?
+
+Agent (Human) at 117.3s:
+Let's have a look. Are you booked for the ninth?
+
+Customer at 122.7s:
+Yeah. But, like, I yeah.
+
+Agent (Human) at 122.9s:
+So when yeah. When are you able to pay for it?
+
+Customer at 127.7s:
+I can pay for it right now.
+
+Agent (Human) at 129.3s:
+Okay.
+
+Customer at 130.4s:
+Over the phone. Um, and then I'm happy to pay the extra 80 or $98 it is to get an unlock code if I
+
+Agent (Human) at 138.1s:
+Yeah.
+
+Customer at 138.1s:
+could until I get to the mechanic because I just really need my car.
+
+Agent (Human) at 141.7s:
+It's [AGENT_NAME]. You can definitely drive it because you're at the end of your program. We can give you a code once you've paid for your removal. That's completely fine.
+
+Customer at 148.5s:
+Oh, yeah. My god. Thank you so much.
+
+Agent (Human) at 151.0s:
+But what what day did you say you can wanna go in and get it done?
+
+Customer at 156.2s:
+ASAP. I'm available I know the mechanic might not be free with short notice, but just whenever they're available, I will make it happen as long as I could drive my car between now and then.
+
+Agent (Human) at 165.1s:
+Okay. Yeah. Yeah. Of course, you can. Okay. So once paid, when it codes. Okay. So it's 200 well, how much is it? Hang on. Okay. $2.42 62.
+
+Customer at 187.1s:
+Yeah. If you just give me two seconds to transfer into the account that you guys have on file, you'd be able to pull that straight away.
+
+Agent (Human) at 193.1s:
+Okay.
+
+Customer at 194.4s:
+Give me two seconds.
+
+Agent (Human) at 195.5s:
+No worries.
+
+Customer at 212.1s:
+Alright. That should be ready for you guys to charge that account.
+
+Agent (Human) at 215.2s:
+Mhmm. Is that the card [CARD_ON_FILE]?
+
+Customer at 224.1s:
+That is it.
+
+Agent (Human) at 225.1s:
+Okay. So perfect. All gone through. So I'll give them a call to that you guys. So is that right?
+
+Customer at 234.3s:
+Yes. It is. Down in Stuart. Yeah.
+
+Agent (Human) at 235.2s:
+Okay. Okay. So let me give you a code. Does your handset expired? No. It hasn't. Okay. I don't know what day they're gonna be able get you in, but I can give you a code now.
+
+Customer at 247.4s:
+Yeah. Would you be able to that to me? I just don't have anything to be writing down to write down with.
+
+Agent (Human) at 250.6s:
+Oh, yeah. Of course. Yep. No worries. I'll give them a call and see when they can do it because it'll determine what code I need
+
+Customer at 252.3s:
+Yeah. Beautiful.
+
+Agent (Human) at 256.3s:
+to give you anyway.
+
+Customer at 257.9s:
+Amazing. Thank you so much.
+
+Agent (Human) at 258.7s:
+Yep. Okay. Thanks for calling. Okay.
+
+Customer at 260.5s:
+Alright. Alright. Bye.
+
+Agent (Human) at 261.9s:
+Bye.

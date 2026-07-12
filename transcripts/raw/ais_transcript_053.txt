@@ -1,0 +1,44 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 2.8s:
+But again, does that
+
+Agent (Mia) at 3.4s:
+How may I assist you today?
+
+Customer at 3.7s:
+taking notes. Interlocking card? They were riding fire. They were getting fucking full brakes on my bike. Who's that part part that was on the back of that car then yesterday? Fucking Oh, yeah.
+
+Agent (Mia) at 18.5s:
+Just to make sure I'm on the right track, did you want help with your interlock device?
+
+Customer at 20.5s:
+Nine nine four. And there was a really cool doctor, like,
+
+Agent (Mia) at 23.3s:
+A question about your service dates?
+
+Customer at 25.7s:
+Yeah. Question about my service dates.
+
+Agent (Mia) at 30.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 34.7s:
+[CUSTOMER_NAME], [CUSTOMER_NAME], [CUSTOMER_NAME].
+
+Agent (Mia) at 38.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 42.4s:
+I just told you my full name computer, but it's Jaden with Bitmead. Yep. Move those fucking things. But then they took the rest Hey. Here it is. Nice to But Mhmm. The trailer with That's about the main coming to the trailer
+
+Agent (Mia) at 64.8s:
+All good. To check your next service date, please make sure your car is switched off. Let me know when you're ready for the first step.
+
+Customer at 73.6s:
+I'm ready for the first step.
+
+Agent (Mia) at 76.8s:
+Great. Step one, please make sure your car is switched off. Let me know when that's done.

@@ -1,0 +1,50 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.2s:
+Hey, John. I'm gonna get my inner lockdown on my car.
+
+Agent (Mia) at 11.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.7s:
+Gary Rice. Twenty first eight sixty eight.
+
+Agent (Mia) at 20.6s:
+Thank Just to make sure I'm on the right track. Did you mean a date, a code, or something else with twenty first eight sixty eight?
+
+Customer at 31.5s:
+No. Just the date of birth.
+
+Agent (Mia) at 34.4s:
+Thank you. How can I assist you with your interlock installation today? Are you after a quote or more information about the process?
+
+Customer at 38.3s:
+Dominic. That's Yeah. How do I how do I do it?
+
+Agent (Mia) at 47.2s:
+To get started with an interlock installation, have you already received a quote from us?
+
+Customer at 52.5s:
+No. Well, this is the first time I've done it. Yep.
+
+Agent (Mia) at 56.3s:
+Just a sec while I get that sorted for you. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 73.0s:
+Yep. Yep. But where I live, the phone cuts in and out all the time. It's not very good service.
+
+Agent (Mia) at 81.0s:
+Understood. Would you like me to connect you to our quote team now, or would you prefer to wait for the follow-up after submitting the form?
+
+Customer at 87.3s:
+Good. Thank you.
+
+Agent (Mia) at 90.5s:
+Perfect. Our team will be in touch after you submit the form. If you need anything else, just let me know. Thanks for calling Affordable Interlock Systems.
+
+Customer at 96.3s:
+Yes.
+
+Agent (Mia) at 98.8s:
+Have a wonderful day.

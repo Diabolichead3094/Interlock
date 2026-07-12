@@ -1,0 +1,146 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 11.2s:
+Real person.
+
+Agent (Mia) at 14.0s:
+Just to make sure I'm on the right track. Did you say real pasta? Are you calling about an interlock device or vehicle program today?
+
+Customer at 22.6s:
+My interlock. Did I need to cut wires? Of the interior. Do I need to cut interior?
+
+Agent (Mia) at 27.7s:
+That's not something I can help with here. I can help with that. May I have your full name for our records first?
+
+Customer at 35.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 39.7s:
+Thank you. Just to clarify, are you asking about removing your interlock device? Have you already received your official completion notice from your state authority?
+
+Customer at 45.5s:
+Yeah. No. So once I get the interlock removed, are they going to cut any wires?
+
+Agent (Mia) at 60.6s:
+Understood. The removal process is handled by authorized technicians and you should not need to cut any wires yourself. Cutting wires is not required or recommended. Would you like to speak with a specialist for more details?
+
+Customer at 75.3s:
+Will the interior be 100 be set 100% restored as it is now?
+
+Agent (Mia) at 83.2s:
+Authorized authorized technicians aim to restore your vehicle's interior as close as possible to its original condition after removal. If you have concerns about specific areas, you can discuss them directly with the technician at your appointment. Would you like to speak with a specialist for more details?
+
+Customer at 99.3s:
+Yes.
+
+Agent (Mia) at 101.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 106.4s:
+Yes.
+
+Agent (Mia) at 108.6s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 113.1s:
+I know I'm worried about it cutting wires.
+
+Agent (Human) at 145.8s:
+Affordable interlocks. This is [AGENT_NAME].
+
+Customer at 148.5s:
+Hi. Um, I just got a question about the interlock, like, removal process. So when they removed the device,
+
+Agent (Human) at 154.4s:
+Yes.
+
+Customer at 158.3s:
+are they going to
+
+Agent (Human) at 158.4s:
+Mhmm.
+
+Customer at 159.9s:
+Is the interior restored to, like, a 100% out? It wasn't before the interlock was there.
+
+Agent (Human) at 168.6s:
+Sorry. I it's a bit of interference there. Was the question do we restore it back to how it was originally?
+
+Customer at 175.6s:
+Yeah.
+
+Agent (Human) at 176.6s:
+Yep. As close as we can. So, obviously, we've had to
+
+Customer at 178.9s:
+Like, are they gonna need to cut any of the interior panels
+
+Agent (Human) at 183.9s:
+no. No.
+
+Customer at 184.1s:
+to install the look? There's no damage, like okay. Because yeah. Alright. There's no cutting involved, basically.
+
+Agent (Human) at 193.6s:
+Is this for the installation or the removal?
+
+Customer at 195.8s:
+Yeah. The installation.
+
+Agent (Human) at 197.7s:
+Right. No. With the installation, there is a a cut off the ignition wire circuit so that we can put the interlock into the circuit?
+
+Customer at 206.8s:
+Yes.
+
+Agent (Human) at 208.4s:
+But in regards to the dash or anything like that, no. There's no no cuts. We go and
+
+Customer at 213.0s:
+Okay.
+
+Agent (Human) at 214.9s:
+tuck things under and things like that.
+
+Customer at 217.7s:
+Yeah. Alright. That's But what if there was, like, some damage Do I have to pay for that to get fixed?
+
+Agent (Human) at 227.3s:
+Why would our installers are professional installers. They don't cut through dashboards or anything like that.
+
+Customer at 235.1s:
+Okay. Yeah. Yeah. Okay.
+
+Agent (Human) at 236.8s:
+No.
+
+Customer at 238.2s:
+Yep. And then also, I'm just wondering, so if I pick Calangas, the location,
+
+Agent (Human) at 243.7s:
+Yeah.
+
+Customer at 243.9s:
+where they install it, am I able to go to, like, another loc
+
+Agent (Human) at 245.5s:
+For the installation?
+
+Customer at 247.2s:
+yeah, am I able to go to, like, another location for a service?
+
+Agent (Human) at 247.8s:
+Yeah. Yeah. That's not a problem. Any of our service centers across any of the states that we we manage are available for your servicing.
+
+Customer at 258.5s:
+Oh, that's cool. That's great. Thank you.
+
+Agent (Human) at 260.6s:
+Not a problem. Was there any other questions that you had regarding the program?
+
+Customer at 265.0s:
+No. That's everything. Thank you.
+
+Agent (Human) at 266.4s:
+No? You're welcome. You have a good day. Thank you. Bye.

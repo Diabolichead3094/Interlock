@@ -1,0 +1,92 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Accounts.
+
+Agent (Mia) at 7.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 15.8s:
+Thank you. Would you like to know or do regarding your account?
+
+Customer at 20.3s:
+Statement.
+
+Agent (Mia) at 22.6s:
+Understood? Are you looking to get a copy of your account statement, or do you have a question about a specific transactional charge?
+
+Customer at 30.0s:
+Yes, Account statement.
+
+Agent (Mia) at 32.8s:
+I can't provide account statements directly, but a specialist can assist you. Are you ready to be connected to a car to our customer support team now?
+
+Customer at 40.2s:
+Yes.
+
+Agent (Mia) at 42.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 80.3s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 83.6s:
+Hi, Sarah. This is Bernie from CT four by four. How are you?
+
+Agent (Human) at 87.1s:
+Good, Bernie. How about yourself?
+
+Customer at 89.6s:
+I'm good. Thank you. We haven't been sent our May statement.
+
+Agent (Human) at 96.0s:
+Main statement.
+
+Customer at 98.3s:
+May. The May statement.
+
+Agent (Human) at 102.1s:
+Alright. Let me just see if I can help. Otherwise, I'll need our admin to have a look at that for you.
+
+Customer at 110.4s:
+Mhmm.
+
+Agent (Human) at 125.5s:
+Okay. So that would have been sent. June 4. So I will resend it to you. What is the best
+
+Customer at 141.6s:
+That would be
+
+Agent (Human) at 142.7s:
+email to send that to?
+
+Customer at 145.2s:
+Admin, a d m I n.
+
+Agent (Human) at 147.2s:
+Mhmm.
+
+Customer at 148.4s:
+At c t auto group dot com dot a u.
+
+Agent (Human) at 158.1s:
+Alright. Looks like nothing's changed there. Have you checked the junkets spam to see if it's in there?
+
+Customer at 163.0s:
+I have I have.
+
+Agent (Human) at 165.5s:
+Alright. Alright. Well, if you give me a couple of minutes after we finish speaking, and then refresh, and then you should have that.
+
+Customer at 174.7s:
+Perfect. Thank you so much.
+
+Agent (Human) at 176.2s:
+Alright. Thank you. Bye.
+
+Customer at 177.5s:
+Goodbye.

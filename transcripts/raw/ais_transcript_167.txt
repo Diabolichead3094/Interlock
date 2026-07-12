@@ -1,0 +1,146 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+Alright, ma'am. I get put on to a consultant, please?
+
+Agent (Mia) at 11.1s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 15.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.1s:
+Thank you. Our office is currently open. Are you ready to be connected to a specialist now?
+
+Customer at 24.5s:
+Yes. Thank you.
+
+Agent (Mia) at 26.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 64.0s:
+Affordable in Interlock. [AGENT_NAME] speaking.
+
+Customer at 67.5s:
+Good day, Sarah. How are you doing?
+
+Agent (Human) at 69.7s:
+Good. How about yourself?
+
+Customer at 71.9s:
+Not bad. My name's [CUSTOMER_NAME]. I rang up this morning to find out because I've got a like, an end of thing certificate. And I I got told I had to send that to your email or something, and they that you guys making a appointment for me to have this taken out.
+
+Agent (Human) at 95.3s:
+Alright. Well,
+
+Customer at 95.4s:
+But I haven't heard that.
+
+Agent (Human) at 97.3s:
+well, let me have a look at your account for you. So
+
+Customer at 100.5s:
+Yep.
+
+Agent (Human) at 102.3s:
+so, [CUSTOMER_NAME], what's your registration there?
+
+Customer at 106.1s:
+Two one four j c four.
+
+Agent (Human) at 115.2s:
+Okay. Mitsubishi Magna. Alright. So it looks like we have requested a booking with the service center, but they haven't yet responded, which is not unusual for a Monday
+
+Customer at 125.4s:
+Yes.
+
+Agent (Human) at 128.7s:
+because it's Monday.
+
+Customer at 131.5s:
+Okay.
+
+Agent (Human) at 131.5s:
+So so let me just see if there's been any updates. Okay. Just while I'm looking for this here, [CUSTOMER_NAME], so have you updated your driver's license to have the eye condition removed?
+
+Customer at 151.7s:
+No. I haven't. I don't I'm not sure. No one's just told me that. Actually, I
+
+Agent (Human) at 156.4s:
+Yeah. You should do that because it means then that you can drive other vehicles that don't require interlocks.
+
+Customer at 164.3s:
+Okay.
+
+Agent (Human) at 165.0s:
+And then that way, you're ready to go for when you go to get your car back from the service center.
+
+Customer at 169.4s:
+So if I get that changed now, I can go before I get that changed now, I can drive another vehicle without this being taken out.
+
+Agent (Human) at 176.1s:
+Yes. That's correct. Because you've
+
+Customer at 178.2s:
+Okay. Now I've met that before.
+
+Agent (Human) at 178.8s:
+you've completed the yeah, you've completed the program. So now you can have the eye condition removed. So then you can drive other vehicles. And yeah, we just need to get the interlock out of your car.
+
+Customer at 194.6s:
+Yep.
+
+Agent (Human) at 194.8s:
+So I'm going to just give the service center a call because I can see that they yeah. They they must have been busy this morning because they haven't responded yet, and that's unusual.
+
+Customer at 211.4s:
+Alright. Okay.
+
+Agent (Human) at 211.6s:
+They're usually pretty quick. Alright. So as soon as I've got a
+
+Customer at 213.9s:
+Yeah.
+
+Agent (Human) at 215.3s:
+response for you there, [CUSTOMER_NAME], you'll receive the booking email. And I have your your details and a removal agreement in there. So you just need to sign and submit to finalize your interlock program. If there's anything to pay, um, that would be in there also. You can either pay over the phone or you can pay on the link. And if you've got any other questions, you can always give us a call. But, yeah, otherwise, we'll just find out if we can get that booked for you. Alright?
+
+Customer at 245.4s:
+Yes. Thank you.
+
+Agent (Human) at 247.1s:
+No worries at all, [CUSTOMER_NAME], and congratulations. Good on you. You got to the end.
+
+Customer at 251.6s:
+Thank you. Oh, well.
+
+Agent (Human) at 254.0s:
+Alright. So, hopefully, I'll be able to send you that
+
+Customer at 254.5s:
+Jeez.
+
+Agent (Human) at 256.2s:
+booking email very, very soon. I'm gonna call them now.
+
+Customer at 259.7s:
+Thank you. Thank you very much.
+
+Agent (Human) at 260.8s:
+Thank you very much. Alright, [CUSTOMER_NAME]. Have a good afternoon.
+
+Customer at 262.7s:
+Enjoy the rest of your day.
+
+Agent (Human) at 263.9s:
+You too.
+
+Customer at 264.2s:
+Bye.
+
+Agent (Human) at 264.9s:
+Alright. Bye.
+
+Customer at 266.4s:
+Boy.

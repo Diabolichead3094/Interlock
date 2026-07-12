@@ -1,0 +1,98 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+I'd like to get my interlock removed.
+
+Agent (Mia) at 10.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.6s:
+Thank you. Have you already received your official completion notice from your state department?
+
+Customer at 24.2s:
+Yes.
+
+Agent (Mia) at 27.4s:
+Understood. I'll get you over to our customer support team now. You ready to be connected?
+
+Customer at 32.5s:
+Yes.
+
+Agent (Mia) at 34.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 82.8s:
+Hi, [CUSTOMER_NAME]. [AGENT_NAME] speaking. How can I help?
+
+Customer at 85.7s:
+I'd like to get my interlock removed, please. Now do you have to have a do you have to have a copy of the final
+
+Agent (Human) at 89.7s:
+Yeah. Sure. You got
+
+Customer at 96.6s:
+it says you have now finished the
+
+Agent (Human) at 96.7s:
+the letter?
+
+Customer at 99.0s:
+interlock program. Do you need a copy of that?
+
+Agent (Human) at 102.2s:
+Yes. We do. And what dates were you hoping get in and have that done?
+
+Customer at 106.5s:
+As soon as possible.
+
+Agent (Human) at 108.7s:
+Okay. No worries. And you wanna go to what is it? Raw Electrical?
+
+Customer at 112.2s:
+Yes. Yes.
+
+Agent (Human) at 113.8s:
+Okay. No worries. Can you email that through to us?
+
+Customer at 116.3s:
+Yeah. I can. It won't be till I don't know how to do it on my phone. See?
+
+Agent (Human) at 122.7s:
+Okay. That's one.
+
+Customer at 123.0s:
+Can you can you just send me your email address, please? And I'll try and send it now.
+
+Agent (Human) at 128.6s:
+Yeah. Of course. Coming read it out to you while you're on the phone, or do want me to text it through to you?
+
+Customer at 133.0s:
+Just text it through to me, please.
+
+Agent (Human) at 135.9s:
+Yes? Okay. No worries. Do you
+
+Customer at 136.8s:
+And then I can send you that paperwork through And then what you'll just book it for whenever they can fit me in
+
+Agent (Human) at 144.2s:
+Yeah. Soonest. Soonest they can do. I'll get out details too. Two seconds. Okay. Should've got that now, [CUSTOMER_NAME].
+
+Customer at 160.6s:
+Yeah. Okay. Alright. I'll try and do it. As soon as I can.
+
+Agent (Human) at 167.3s:
+Okay. No problem.
+
+Customer at 168.2s:
+Okay. Thank you very much.
+
+Agent (Human) at 170.1s:
+Okay. No worries. Bye.
+
+Customer at 171.3s:
+Bye bye.

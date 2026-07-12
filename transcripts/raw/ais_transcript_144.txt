@@ -1,0 +1,344 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+Get me a human.
+
+Agent (Mia) at 9.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.8s:
+Thank you. You ready to be connected to our customer support team now?
+
+Customer at 24.6s:
+Yep.
+
+Agent (Mia) at 27.5s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 59.3s:
+Hi, Tracy here. How can I help?
+
+Customer at 62.3s:
+Yeah. I tried to see. Just trying to figure out how it works. Getting this thing out of my car.
+
+Agent (Human) at 70.2s:
+Okay. Have you come to the end of your program or you wanting to just remove it yourself? Or
+
+Customer at 75.9s:
+No. I'm pretty, um, pretty glad.
+
+Agent (Human) at 78.3s:
+Oh, okay.
+
+Customer at 79.7s:
+So, well, I've got I've got to the '20 if they said I'm gonna have it out on the twenty fourth, but then they added an extra four days because I couldn't get it booked in in time at some point. Right right when the four month period started. Apparently, I can still at least four days take it off.
+
+Agent (Human) at 92.9s:
+Alright.
+
+Customer at 94.7s:
+So if I bring up TMR, but I haven't done it yet.
+
+Agent (Human) at 99.8s:
+Okay. Let me have a look for you. Lachlan, what was there? A license plate, please?
+
+Customer at 104.8s:
+Yeah. There is. Sorry. I'm in the car, though.
+
+Agent (Human) at 106.8s:
+That's right. Can you tell me what type of vehicle it is?
+
+Customer at 110.5s:
+It's a Ranger Raptor.
+
+Agent (Human) at 112.0s:
+Yep. And where do you normally go for your servicing?
+
+Customer at 117.3s:
+Usually, it was going early. They they we had I had a flight. The mechanic there ripped me off with something unrelated. Where do I the last two places at Rockhampton and Bowen.
+
+Agent (Human) at 131.7s:
+Awesome. Thank you. Okay. So a according to our record, which is the last time that you updated us, we've got your end date as being the June 21. Is that correct, or does that need four days added on?
+
+Customer at 147.2s:
+21st. No. I I had 28.
+
+Agent (Human) at 149.7s:
+You had '28? Okay.
+
+Customer at 150.6s:
+But if the 20 if it's the twenty first, that's even better then, I guess. But, like, what am I doing?
+
+Agent (Human) at 152.0s:
+What I'm okay.
+
+Customer at 156.1s:
+So because I've got the thing coming up. Yeah.
+
+Agent (Human) at 156.4s:
+What am I gonna do I'm going to send you an SMS a link for the
+
+Customer at 162.9s:
+Yep.
+
+Agent (Human) at 166.0s:
+TMR's on portal for their interlock program.
+
+Customer at 171.6s:
+Yes.
+
+Agent (Human) at 171.7s:
+If you log on to this, it will tell you exactly what your end of program date is. Because we don't get updated from TMR at all. Okay?
+
+Customer at 184.8s:
+Okay.
+
+Agent (Human) at 185.8s:
+And the last thing I want is for you to have it taken out and then TMR tell you we need data until, like, the day after. So we need to make sure that we're doing this on the right days.
+
+Customer at 199.4s:
+Yeah. How much is it? So got two questions then, Bill.
+
+Agent (Human) at 202.9s:
+Yep.
+
+Customer at 204.5s:
+So it's telling me service here is sixteenth of the sixth.
+
+Agent (Human) at 207.9s:
+Mhmm.
+
+Customer at 208.8s:
+So what? Tomorrow?
+
+Agent (Human) at 210.5s:
+Yes.
+
+Customer at 213.8s:
+And then if I miss that, I've got seven days again.
+
+Agent (Human) at 217.4s:
+Yep. It needs
+
+Customer at 217.5s:
+So if I am getting this if I if I can get this thing out on the twenty first, or whatever, am I like, are they expecting me to spend $200 again for this month? When I'm getting it out, like, the next day after?
+
+Agent (Human) at 230.1s:
+So what will happen on the last day of your program you should receive an email from Queensland Transport saying that you need to do a final upload.
+
+Customer at 240.2s:
+Yeah.
+
+Agent (Human) at 240.9s:
+Once you do that final upload, then forty eight hours later, you should receive another email from Queensland Transport to say about a decision about the end of your program, you can have it removed or whether it needs to stay in and the reason why.
+
+Customer at 258.0s:
+Well, there's nothing out there. I don't I don't
+
+Agent (Human) at 259.7s:
+There's nothing there? You've had no you've had no violations for the last four months? Awesome.
+
+Customer at 260.5s:
+see why that no.
+
+Agent (Human) at 264.4s:
+That's what we like to see.
+
+Customer at 264.9s:
+Yeah. Oh, yeah. Yeah. The only thing it's it's it's going off once when I I had the car running, and I got caught up talking to someone inside the shop and came out and things are going alarm is going off because I miss blowing into it. Then I blew into it, but I didn't blow it over or anything.
+
+Agent (Human) at 278.4s:
+Awesome. Okay. Cool.
+
+Customer at 280.2s:
+So that's it. That's the worst thing I think that's happened. I would don't think they'd give me
+
+Agent (Human) at 281.3s:
+That's
+
+Customer at 283.3s:
+another four months of that.
+
+Agent (Human) at 284.5s:
+no. No. They shouldn't, but it is their call. I can't give you a a definite answer. But it shouldn't. Yeah.
+
+Customer at 291.5s:
+Yeah.
+
+Agent (Human) at 291.7s:
+Okay. So if you can log in to that link that I just sent to your mobile log on, that will tell you what your final day is.
+
+Customer at 297.4s:
+Yep.
+
+Agent (Human) at 301.1s:
+And then we can go from there. Yeah. If you can do that first, the then we can work out whether you need to get a service done on it tomorrow or if you can wait a few more days or what the go is.
+
+Customer at 319.1s:
+Well, yeah, that's what yeah. Fair enough. Preview the destination. Performance. Log in to the hub. Okay. Log in to my dog is this the right thing?
+
+Agent (Human) at 341.9s:
+Yeah. That's the one.
+
+Customer at 346.0s:
+Accept the I I don't have any account or anything with them. To log straight into this. Let's verify.
+
+Agent (Human) at 353.5s:
+You should be able or you would have your driver's license.
+
+Customer at 366.5s:
+Literally, just got it in the mail five seconds ago.
+
+Agent (Human) at 369.0s:
+Oh, awesome. There you go. I think it asked you for your customer reference number.
+
+Customer at 379.4s:
+What's up?
+
+Agent (Human) at 380.5s:
+Which should be your driver's license.
+
+Customer at 382.9s:
+Okay. Yeah. Okay. Good. Online access code by email. Alright. Email it. Sorry. I just tell you a second. Figure out what it I don't know what email it is. No. New one. Oh, he he's he's the gizmo right now. I can't wait to get rid of it. It's letting me in yet. Yes. It's letting me in. My account, I am so familiar where I go.
+
+Agent (Human) at 488.6s:
+What options do you have there?
+
+Customer at 492.7s:
+I know. Sketches my details. My license is by infringement.
+
+Agent (Human) at 495.7s:
+That'd be it. Yep. My license and accreditations. That would be the one.
+
+Customer at 504.2s:
+Expire. So driver's license number, license type, class and type, and class c, type o. What's open?
+
+Agent (Human) at 514.2s:
+Yes.
+
+Customer at 514.3s:
+C, that's manual.
+
+Agent (Human) at 515.7s:
+C as a regular car?
+
+Customer at 518.0s:
+Yeah. I interlock license current expiry date of the twentieth May twenty twenty eight.
+
+Agent (Human) at 526.3s:
+Does it say my license and accreditation?
+
+Customer at 527.5s:
+Are you kidding me? Hang on. Additional license, interlock period, start that 05/12/2025, May 11 was the end date. So what why am I still on it?
+
+Agent (Human) at 538.1s:
+Say
+
+Customer at 538.6s:
+'20 no. It says 2030. What?
+
+Agent (Human) at 541.1s:
+Say
+
+Customer at 541.6s:
+2030?
+
+Agent (Human) at 542.0s:
+twenty thirty
+
+Customer at 543.0s:
+2030.
+
+Agent (Human) at 544.0s:
+so it hasn't updated. Can I get you to call TMR?
+
+Customer at 544.2s:
+Yeah. Yeah. I I almost for a second, I thought could've had it out for a month, but 2030 well, they haven't given me five years that day.
+
+Agent (Human) at 557.8s:
+Well, it's I can't speak for what it is for TMR, but normally, it's twelve months with an interlock. Five years disqualification without. So if you can give TMR a call and just ask them
+
+Customer at 573.4s:
+They sent me a letter. They they definitely sent me a letter sign.
+
+Agent (Human) at 575.7s:
+Yeah?
+
+Customer at 576.6s:
+I'm on my four month period, and I was getting it out around now.
+
+Agent (Human) at 578.3s:
+Awesome. Okay. So if you can give him a call,
+
+Customer at 581.8s:
+I just I'm just I'm just trying to get out of paying $200 right now for the
+
+Agent (Human) at 585.3s:
+yeah.
+
+Customer at 586.2s:
+for, like, a week or whatever.
+
+Agent (Human) at 586.4s:
+Well, yeah. So any monies you pay that you don't use the full value of, then it would go towards the cost of your
+
+Customer at 594.2s:
+Yeah.
+
+Agent (Human) at 596.0s:
+upload and your removal costs. So
+
+Customer at 599.1s:
+What and then what's that? Can I start to pay to get this thing out?
+
+Agent (Human) at 599.8s:
+Yep. Removal cost is $1.80. But it does also have a daily leasing charge for the device. It just depends on what day you're getting it out and how much it would be actually be. So if you were to call TMR, and ask them what your end date is,
+
+Customer at 621.3s:
+Yeah.
+
+Agent (Human) at 621.8s:
+and just say, I need to go and get service, but I don't wanna get a service and then find out I have to go back two days later to get the final upload. Can you let me know what would my end date be?
+
+Customer at 635.7s:
+Yep. Alright. I'll figure that out. Yeah. I'll call them up. And I'll call back, I guess. Is that what I do?
+
+Agent (Human) at 639.3s:
+You've got their number?
+
+Customer at 641.6s:
+Tim. Uh, Yeah. I'll just go to work.
+
+Agent (Human) at 642.5s:
+Yeah. Yeah.
+
+Customer at 643.9s:
+Oops. Damn it. He's laying off.
+
+Agent (Human) at 644.9s:
+Thirteen twenty three eighty. Yeah. Give them a call and
+
+Customer at 647.7s:
+Thirteen twenty three games.
+
+Agent (Human) at 649.3s:
+yeah,
+
+Customer at 650.8s:
+30. I'm holding now.
+
+Agent (Human) at 651.8s:
+Okay. And then then give us a callback. K?
+
+Customer at 654.5s:
+Alright. Alright. Thank you.
+
+Agent (Human) at 655.7s:
+Thanks, Malcolm. Stay safe. Bye.
+
+Customer at 657.8s:
+Thanks. Bye.

@@ -1,0 +1,47 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+I received an email suggesting that I was in the final six months of my interlock. But I've got three and a half years to go. So I just wanted to check that you understand that
+
+Agent (Mia) at 29.7s:
+Understood. You received an email saying you're in your final six months but you believe you have about three and a half years left on your interlock program. I can help clarify your program and date. May I have your full name for our records first?
+
+Customer at 44.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 47.8s:
+Thank you. Have you already received your official completion notice from your state transport department?
+
+Customer at 54.6s:
+No.
+
+Agent (Mia) at 56.2s:
+Thanks for letting me know. Are you in Queensland or another state? This helps me guide you to the right way to
+
+Customer at 60.3s:
+You said
+
+Agent (Mia) at 62.1s:
+your program end date.
+
+Customer at 64.8s:
+New South Wales.
+
+Agent (Mia) at 67.9s:
+For confirming you're in New South Wales. For Nisquah, you'll need to contact your state transport department to confirm your official program and date, and request your completion letter. Once you receive that letter, please email it to [EMAIL] You like me to send you our office email address by text for your records?
+
+Customer at 90.4s:
+No. You're misunderstanding. I don't finish in six months time. I finish in 2029.
+
+Agent (Mia) at 104.0s:
+Understood. Thanks for clarifying. The email you received was incorrect. Affordable interlock does not set your program end date. Only your state transport department can confirm your official end date. Please rely on their records, not the email. Would you like me to send you our office email address by text? In case you need to send your completion letter in the future? Or is there anything else I can help with?
+
+Customer at 127.5s:
+No. That that's that's fine. That's all. Thank you.
+
+Agent (Mia) at 132.8s:
+Thanks for calling Affordable Interlock Systems. A wonderful day.
+
+Customer at 141.2s:
+There's nothing. Thank you.

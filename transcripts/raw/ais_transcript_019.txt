@@ -1,0 +1,119 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+Hi, Mia. I need to speak to someone from AIS to make sure that an email has been received that I've sent and to make sure that I can get my interlocked system installed by Monday, next week as I've been approved with financial assistance and done the quote already.
+
+Agent (Mia) at 26.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 30.6s:
+So I have the full size.
+
+Agent (Mia) at 35.2s:
+Thank you. Have you already received a quote from us?
+
+Customer at 38.8s:
+Yes.
+
+Agent (Mia) at 40.9s:
+Appreciate that. Are you ready to be connected to our quotes team now to confirm your email was received and discuss your installation?
+
+Customer at 47.6s:
+Yes. Please.
+
+Agent (Mia) at 50.2s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 99.5s:
+Hi, Heather. [AGENT_NAME] speaking. How are you?
+
+Customer at 102.6s:
+Hi. Good. How are you?
+
+Agent (Human) at 104.1s:
+I'm good. You've got your financial assistance. I did see some oh, did you just email it to us? You did, didn't you?
+
+Customer at 114.2s:
+Yes. Yes.
+
+Agent (Human) at 116.5s:
+Scale of certificate. Okay. That's exactly what we need. So have you been quoted the financial assistance price, or were you quoted the full price?
+
+Customer at 126.4s:
+I was quoted the I was give me account number now.
+
+Agent (Human) at 131.2s:
+You are quoted the full price. Ready, We will send you through a a new quote with that in mind that you've got
+
+Customer at 139.7s:
+Yep.
+
+Agent (Human) at 141.2s:
+financial assistance. So just look out for that today, and then you will need to fill out the
+
+Customer at 144.9s:
+Yep.
+
+Agent (Human) at 146.2s:
+it'll just say book now or enrollment form or something like that on there. If you can just click on that,
+
+Customer at 150.9s:
+Yes.
+
+Agent (Human) at 152.0s:
+that lets us oh, you've already filled the enrollment format. But you're waiting on financial assistance. Oh, you've already done that.
+
+Customer at 156.5s:
+Okay. Yes.
+
+Agent (Human) at 158.6s:
+Look at you go. Okay. We will
+
+Customer at 161.1s:
+Yoo hoo.
+
+Agent (Human) at 161.9s:
+requote it. It will be a lot less. We will send it to you and ask you to reply saying that you accept the quote.
+
+Customer at 168.9s:
+Yep.
+
+Agent (Human) at 169.2s:
+And then we'll move forward with getting you a booking.
+
+Customer at 172.6s:
+Oh my god. Yeah. I thought
+
+Agent (Human) at 173.2s:
+Okay?
+
+Customer at 174.2s:
+to Adam just then. He said, no. Can't do it. It's gonna come from them. But he said I could do it by Monday or Tuesday week if if they can.
+
+Agent (Human) at 184.9s:
+Okay. Well, we can look into that. But, yeah, we'll send this back to you. You reply to us, and then we'll reach out to Adam and see what we can do.
+
+Customer at 194.3s:
+Yeah. That's great. Thank you.
+
+Agent (Human) at 195.9s:
+Yeah. It's a good day.
+
+Customer at 199.9s:
+It's a great tie. Yeah.
+
+Agent (Human) at 203.2s:
+Perfect. I'll put this into the thing that needs to do it, and it won't be too long. Okay?
+
+Customer at 204.2s:
+Yeah. That's great. Thank you so much. See you.
+
+Agent (Human) at 209.7s:
+Okay. It's okay. See you. Bye.
+
+Customer at 213.4s:
+Thank you. Bye, doll. Bye.
+
+Agent (Human) at 214.2s:
+No worries. Bye.

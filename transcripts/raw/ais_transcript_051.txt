@@ -1,0 +1,458 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+How may I help you Innerlocks inquiry.
+
+Agent (Mia) at 11.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.0s:
+Thank you. Could you tell me a bit more about your interlock inquiry? Are you asking about removal, a quote installation service, or something else?
+
+Customer at 33.4s:
+I think it might be due to come out on the twenty first. I'm going away on swing on the twenty first. I need to get it pulled out tomorrow the seventeenth.
+
+Agent (Mia) at 48.2s:
+Have you already received your official completion notice from your state transport department? This is required before any removal appointment can be arranged.
+
+Customer at 58.4s:
+I've just got a service date on my handpiece. Unrealize. Passport.
+
+Agent (Mia) at 63.6s:
+The service date on your handpiece is for or monitoring, not removal.
+
+Customer at 66.6s:
+Unrealize.
+
+Agent (Mia) at 68.3s:
+For removal, you'll need an official completion notice from your state transport department.
+
+Customer at 68.7s:
+Yes.
+
+Agent (Mia) at 72.6s:
+Have you received that notice yet?
+
+Customer at 75.9s:
+No. But it was due to come out on the fifteenth of last month.
+
+Agent (Mia) at 81.6s:
+If you haven't received your official completion notice yet, you'll need
+
+Customer at 82.0s:
+And it's been a month.
+
+Agent (Mia) at 84.6s:
+to contact your state transport department to confirm your removal date and request that letter. Once you have it, email it to [EMAIL] Would you like me to text you the email address for your records?
+
+Customer at 98.5s:
+Yes, please.
+
+Agent (Mia) at 101.4s:
+Just a sec while I send that through. I've sent you a text with our office email address. Once you receive your completion notice, just forward it there. Would you like to speak with our customer support team as well?
+
+Customer at 117.7s:
+You getting that?
+
+Agent (Mia) at 121.6s:
+Yes. Your text with the office email address has been sent.
+
+Customer at 122.2s:
+That?
+
+Agent (Mia) at 124.8s:
+Once you receive your completion notice, just forward it there. You like to speak with our customer support team now?
+
+Customer at 131.3s:
+Yes. I would like a speak to your customer support team now.
+
+Agent (Mia) at 136.7s:
+Our office is currently open. Are you ready to be connected to our customer support team now?
+
+Customer at 141.6s:
+Yes, please.
+
+Agent (Mia) at 144.3s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 183.4s:
+Can you say the Hi, Jasmine. It's Tracy. How are you?
+
+Customer at 187.9s:
+Hi, Tracy. Good. Yourself?
+
+Agent (Human) at 189.3s:
+Good. Thank you. I believe that we're talking about a remove
+
+Customer at 190.5s:
+Yes. Good.
+
+Agent (Human) at 193.6s:
+Is that right?
+
+Customer at 195.1s:
+I believe so. I'm just trying to ring up to find out. I believe it's due on the twenty first. I'm a little bit hurdle there. I'm due to go back on swing on the twenty first.
+
+Agent (Human) at 208.1s:
+Alright. Okay.
+
+Customer at 211.4s:
+And I know
+
+Agent (Human) at 211.6s:
+Okay.
+
+Customer at 212.6s:
+when I I went to get a pull out. It due to come out on the fifteenth of last month, but got a little bit of an extension because I didn't vote two and a half years ago.
+
+Agent (Human) at 221.9s:
+Oh, okay.
+
+Customer at 223.0s:
+Yeah. Yeah. I rang up on the fifteenth of last month I didn't get an email or anything. And so I chased that around, and then TMR said we've extended it. For ninety eight days, but then lady that I spoke to said, just lift this and not have it for four weeks. And then
+
+Agent (Human) at 243.3s:
+Okay. Right. Have you checked the hub?
+
+Customer at 243.4s:
+we can get it removed. Oh, so I believe
+
+Agent (Human) at 248.8s:
+Have you
+
+Customer at 249.6s:
+the handpicked
+
+Agent (Human) at 249.7s:
+have you heard of the hub? No. On the actual on the hub, which is the Queensland Transport online portal, you should be able to see what your end date is.
+
+Customer at 256.9s:
+What? Got it. Problem.
+
+Agent (Human) at 260.3s:
+I'm just gonna text you
+
+Customer at 261.2s:
+So do I just do it by?
+
+Agent (Human) at 263.1s:
+yeah, I'm just gonna text you the link now for you.
+
+Customer at 265.8s:
+Yep.
+
+Agent (Human) at 267.9s:
+So if you wanna log in there, it will show you what your end date is. Because the last that we had our system updated, it was the July 18. So I'm not sure whether that was before
+
+Customer at 281.4s:
+How old are these? Another one, ninety eight days.
+
+Agent (Human) at 284.7s:
+whether that was before the ninety eight days was reduced. Because TMR does not increase does not update us.
+
+Customer at 289.2s:
+So Okay. Yeah. So on the fifteenth of last month, Jenny, so much I will make.
+
+Agent (Human) at 300.9s:
+Yeah.
+
+Customer at 301.4s:
+It was due to come out. That was me twelve months, and I bloody I I did lose my license to a period of
+
+Agent (Human) at 305.5s:
+Yep.
+
+Customer at 308.1s:
+time there because I didn't vote, and then I paid for the paid lift, the suspension, and then one of like, your yourself, you lovely lady from AIS, was like, oh, I think because it's the last one you've gotta call the TMR. And so I did, and then
+
+Agent (Human) at 321.2s:
+Yeah.
+
+Customer at 322.5s:
+man was like, yep. Yep. We could see what's going on here. Ninety eight days. So that's that. And I was like, okay. Thank you very much. And then I don't know, but I bloody could've
+
+Agent (Human) at 333.0s:
+Yeah.
+
+Customer at 335.7s:
+sworn Bloody one of the ladies said, look. I can understand your frustration. It was all good on her. It's not you guys. She said, but let pay for it to be lifted, and then in a month's time, we'll aim to get that out. But that's alright. That's okay.
+
+Agent (Human) at 352.3s:
+Yeah.
+
+Customer at 352.6s:
+That means I can go and get me service done on the twenty first. And still go back out to work for me two weeks swing.
+
+Agent (Human) at 360.5s:
+You're on a two week swing? Okay.
+
+Customer at 362.5s:
+Yeah. Much do I need to
+
+Agent (Human) at 362.6s:
+So if you wanna log on
+
+Customer at 365.0s:
+pay for this service?
+
+Agent (Human) at 369.9s:
+Okay. So we'll we really need to know when your end of program date is because that will depend on how many months you wanna pay for. Are you how are you going logging in to the hub link that I sent you?
+
+Customer at 383.0s:
+Sorry. I'm a distracted. I was talking as it's up here. I'm on the hub.
+
+Agent (Human) at 384.7s:
+That's alright. Yep. Okay. Yep.
+
+Customer at 389.1s:
+I got the hub. Log in to the hub. I don't believe I've got an account.
+
+Agent (Human) at 394.6s:
+Okay. So it'll be your email address.
+
+Customer at 397.5s:
+Yep.
+
+Agent (Human) at 397.8s:
+And your driver's license.
+
+Customer at 400.5s:
+I'll go halfway.
+
+Agent (Human) at 402.5s:
+Yeah.
+
+Customer at 402.6s:
+Oh, Queensland driver's license number. [REDACTED]. One. I believe. That was Zach. I'm a bit slowly fine. Sorry.
+
+Agent (Human) at 426.9s:
+Oh, yeah. We're good.
+
+Customer at 429.1s:
+Online access code via email. Yep. Yeah. Do I need to pay, like, a removal fee?
+
+Agent (Human) at 446.7s:
+There is. Yeah.
+
+Customer at 446.8s:
+When it comes to
+
+Agent (Human) at 449.4s:
+Yeah. It starts at a $180. I say starts because it depends on where you are during your payment cycle as to if there'll be any extra days or whether we owe you a couple of days back or where you are.
+
+Customer at 466.4s:
+Right. Yep.
+
+Agent (Human) at 467.2s:
+Yeah.
+
+Customer at 469.4s:
+So it's pretty crazy because I have value of kept servicing it. I think I serviced it once or twice in that time that I didn't even know I had a suspended license, to be completely honest with you. And then when I because I didn't get an email,
+
+Agent (Human) at 484.4s:
+Yeah. Mhmm.
+
+Customer at 488.1s:
+I run up and they're like, man, you bloody got no license. It's been suspended. And I'm like, oh, Jesus. What
+
+Agent (Human) at 493.4s:
+From when? Yeah.
+
+Customer at 493.9s:
+for?
+
+Agent (Human) at 494.8s:
+Exactly. We don't get told you to see your privacy
+
+Customer at 495.8s:
+And I thought it was from driving down. The house.
+
+Agent (Human) at 499.3s:
+We don't get told by TMR any change to your program, any suspensions of your driver's license. We don't get told anything.
+
+Customer at 505.8s:
+That's the baby. Yeah. Yeah. Well, that's what? The lady said last well, it was a month ago now. And I was like, what's it for? What's this for? And they literally two and a half years ago, you didn't vote.
+
+Agent (Human) at 520.6s:
+Mhmm. Right.
+
+Customer at 523.8s:
+So we're gonna yeah. They did that to me. You know? I was like
+
+Agent (Human) at 526.8s:
+Mhmm.
+
+Customer at 528.4s:
+is this allowed to happen? Because that's a long time ago.
+
+Agent (Human) at 531.5s:
+Yeah.
+
+Customer at 532.6s:
+That's alright. I'll I'll copy it. It's okay. Sorry. I'm just logging in here.
+
+Agent (Human) at 537.4s:
+Yep. Alright.
+
+Customer at 543.6s:
+We can't we can't just get it taken out, sweetheart.
+
+Agent (Human) at 547.4s:
+If you do, oh, it's been a long time since someone called me, sweetheart. If if you do get it taken out and it's not your end of program, then they're gonna cancel your interlock program, and you're gonna have your license suspended. So probably best not we take it out early.
+
+Customer at 563.2s:
+No. I'm definitely not.
+
+Agent (Human) at 567.6s:
+Okay. Yeah.
+
+Customer at 568.8s:
+Okay. I'm logged in. Yes. I'm logged in. Alright. My name is Benjamin.
+
+Agent (Human) at 575.6s:
+Cool. Okay. So there's it'll be a section for license and accreditations.
+
+Customer at 586.0s:
+I just I went down there to look for your key card and Oh, that's all hit. Alright. HR. Current. Exploring. May 13. So when I get this pulled out too, I'll need to go change my license. Start date, end date,
+
+Agent (Human) at 616.0s:
+Yes. Yep. What's the end date?
+
+Customer at 621.3s:
+What? What's going on here? Tenth it says interlock period start date. 12/10/2024. End date, 12/09/2029.
+
+Agent (Human) at 634.8s:
+Okay. So it's still got the five years listed on there, Okay. Let me have a look through here.
+
+Customer at 644.2s:
+Holy moly. I didn't know. Five years. I thought it was two I can definitely
+
+Agent (Human) at 650.3s:
+Alright. I'm wondering if because when you had your license suspended if when it was reinstated, they've restarted your twelve months again.
+
+Customer at 664.0s:
+You're kidding.
+
+Agent (Human) at 664.5s:
+Would've I I really don't know. I'm just trying to work through this.
+
+Customer at 668.4s:
+Yeah.
+
+Agent (Human) at 669.6s:
+So the tenth of
+
+Customer at 669.9s:
+I thought we ever had a twelve month.
+
+Agent (Human) at 673.3s:
+yeah. But one of the conditions of having the interlock program is that your license is current. And not suspended.
+
+Customer at 682.9s:
+Yep. Yep. Yep. It does say current. I've got the digital license in it.
+
+Agent (Human) at 684.5s:
+Yeah. Yeah. But remember how you said that you've you out your license was suspended when you didn't vote?
+
+Customer at 693.0s:
+That's alright. From two and a half years ago, I was like, oh,
+
+Agent (Human) at 694.1s:
+Yeah. So I would give TMR a call quickly before they close. And just ask them what your end of
+
+Customer at 701.7s:
+Mhmm.
+
+Agent (Human) at 704.5s:
+end of program date is.
+
+Customer at 707.0s:
+Okay.
+
+Agent (Human) at 708.0s:
+Yep. And then give us a callback and let us know.
+
+Customer at 708.5s:
+Alright. Alright. I will do.
+
+Agent (Human) at 712.6s:
+Okay? Your service is not due till the twenty first.
+
+Customer at 713.1s:
+Alright. I will do that right now.
+
+Agent (Human) at 715.6s:
+So we've got a couple of days to get this sorted.
+
+Customer at 719.3s:
+Alright. Amazing.
+
+Agent (Human) at 719.3s:
+Okay? Yep.
+
+Customer at 720.4s:
+Alright.
+
+Agent (Human) at 720.4s:
+I give GMR a call now. You've got their number?
+
+Customer at 721.0s:
+I'm due to drive back here. On the I don't have TMRs, but Google's wonderful thing.
+
+Agent (Human) at 727.6s:
+It's [AGENT_NAME]. I'll put her to you.
+
+Customer at 729.4s:
+You are so amazing. Thank you so much. It's way easier for me to just click buttons and have to try and find
+
+Agent (Human) at 734.8s:
+Exactly.
+
+Customer at 735.2s:
+Google.
+
+Agent (Human) at 737.1s:
+Yep. Okay. So you're going back out on the twenty first. It's a two week swing out.
+
+Customer at 737.3s:
+No. Amazing. Alright.
+
+Agent (Human) at 741.6s:
+Are you back for two weeks?
+
+Customer at 741.7s:
+Yeah. Oh, well, actually, gonna be completely honest. So I was actually planning on going and doing, like, a four week swing, and then I'm gonna be driving down south for my daughter's birthday.
+
+Agent (Human) at 752.0s:
+Okay. Well, let's
+
+Customer at 752.5s:
+But I can just work any best, but I do need to be
+
+Agent (Human) at 754.7s:
+yeah.
+
+Customer at 755.6s:
+there on the twenty first.
+
+Agent (Human) at 757.8s:
+Yeah. Let's let's find out when you're in date is, and then we can work out how we're gonna go through. Okay?
+
+Customer at 759.0s:
+Yep. Awesome. Amazing. Thank you so much.
+
+Agent (Human) at 764.0s:
+Awesome. Thank you. Okay. Talk soon.
+
+Customer at 765.7s:
+Alright. I'll see you then.
+
+Agent (Human) at 767.1s:
+Bye.
+
+Customer at 767.7s:
+Bye. Bye. Bye.

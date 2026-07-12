@@ -1,0 +1,59 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.5s:
+I'm at I'm just trying to find a branch that to get my in lock service.
+
+Agent (Mia) at 15.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.8s:
+Just a sec while I pull that up for you. I've sent you a text with a link to our locations page. You can enter your postcode there to find the nearest branch. Is there a a for the cross page? And is this your eyesight? It's true. Now it's right. Just to say it's like that. The right And the the Just checking in. Did you need any more finding a branch or with anything else today?
+
+Customer at 72.0s:
+Can I talk to someone real, please?
+
+Agent (Mia) at 75.1s:
+I can help with that. Are you ready to be connected to our customer support team now?
+
+Customer at 80.6s:
+Yes, please, Mike. Okay. You are the truck.
+
+Agent (Mia) at 83.0s:
+I'll get you over to our customer support team now. One moment. In. Are you still there? Let me know if you need any more help. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER]? Or would you prefer a different number?
+
+Customer at 127.2s:
+Different number, mate.
+
+Agent (Mia) at 130.5s:
+No worries. What's the best number for our team to reach you on?
+
+Customer at 134.9s:
+[REDACTED].
+
+Agent (Mia) at 141.8s:
+Just to confirm, that number is [PHONE_NUMBER]. Is that right?
+
+Customer at 148.1s:
+Yeah. Yeah, mate.
+
+Agent (Mia) at 151.1s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 155.7s:
+Thanks. I might.
+
+Agent (Mia) at 159.4s:
+Thanks for confirming your number.
+
+Customer at 161.0s:
+Okay.
+
+Agent (Mia) at 161.2s:
+If you need anything else like a quote, installation info, or help with your interlock, just let me know.
+
+Customer at 167.5s:
+Yep.

@@ -1,0 +1,233 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+Yeah. I'm ringing up about a affordable in about a interlock installation.
+
+Agent (Mia) at 11.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.3s:
+Thank you. Have you already received a quote from us?
+
+Customer at 21.9s:
+No.
+
+Agent (Mia) at 24.2s:
+I've sent you a text with a link to submit your details. Our team will follow-up with a quote. Usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 35.0s:
+Yes, please.
+
+Agent (Mia) at 37.7s:
+Our quotes team is available now. Are you ready to be connected?
+
+Customer at 41.6s:
+Yes.
+
+Agent (Mia) at 44.8s:
+I'll get you over to our quotes team now. One moment.
+
+Customer at 48.3s:
+Thank you.
+
+Agent (Mia) at 50.3s:
+Connecting you now. One moment.
+
+Agent (Human) at 80.4s:
+Affordable Intaluxe. This is Tracy.
+
+Customer at 83.5s:
+Yes. Good day. Um, I was wondering if, like, if you could help answer a couple of questions. I've gotta get it into lock fitted, and I was just wondering if you could just give me an idea of what it's gonna cost me in logistics how I can get it done.
+
+Agent (Human) at 94.0s:
+Yeah. Sure. What state are you calling from?
+
+Customer at 96.9s:
+New South Wales.
+
+Agent (Human) at 98.1s:
+Okay. What I'm gonna do is I'm gonna send you the link to our quote form. Which I can see that you called from my mobile number. If you wanna complete that quote link there that I've sent you, we'll get a quote back to you shortly. Where about in New South Wales are you located?
+
+Customer at 118.4s:
+LICA.
+
+Agent (Human) at 119.9s:
+Lycarton, Sydney?
+
+Customer at 121.8s:
+Yes.
+
+Agent (Human) at 122.5s:
+Yep. So your closest service center would be the one at Saint Peter's.
+
+Customer at 144.8s:
+Okay. So that before I get on to numbers, can you
+
+Agent (Human) at 148.8s:
+Mhmm.
+
+Customer at 149.3s:
+explain this to me? I've got a letter from Transport for New South Wales saying, the first thing I have to do is complete a medical certificate, which I've done that. It then says the second thing I have to do is get the interlock fitted
+
+Agent (Human) at 161.8s:
+Mhmm.
+
+Customer at 162.2s:
+And then the third thing I can do once I've got that is I can then go to service new south service center in New South Wales to get my driver's license.
+
+Agent (Human) at 170.8s:
+Yes.
+
+Customer at 171.1s:
+So my question is this. How do I physically get the car? If this thing's in Saint Peter's,
+
+Agent (Human) at 176.6s:
+Yep.
+
+Customer at 177.6s:
+but I don't have a license, and I won't let me get the license until the install's done, but I can't drive the car to the place to get the install done. I mean, am I the first one that's
+
+Agent (Human) at 185.4s:
+Great.
+
+Customer at 187.5s:
+this issue up? I suspect I'm not.
+
+Agent (Human) at 190.7s:
+No. So you will need to get somebody else to drive the vehicle there.
+
+Customer at 196.0s:
+Oh, that's just insanity. God. Well, got it. I didn't even live with an 85 year old mother, and
+
+Agent (Human) at 197.7s:
+And then drive the vehicle
+
+Customer at 201.8s:
+now we're not all my mates work. They're gonna take a half a day off to drive my car to a mechanic. I mean, it's just so there's no mobile installations anything like that. You don't they don't have that.
+
+Agent (Human) at 212.9s:
+No. We're not legally allowed to do mobile installations.
+
+Customer at 218.1s:
+It's [AGENT_NAME]. Dear ID. Alright. Going on to the on to the cost. So what what are you looking at for the for the installation cost and then the the the monthly fee, whatever that is? How What what are you looking at for a a small car?
+
+Agent (Human) at 237.3s:
+Okay. Well, what type of car are we installing in?
+
+Customer at 241.0s:
+Just a two liter Holden.
+
+Agent (Human) at 243.2s:
+What year model?
+
+Customer at 245.2s:
+2,006.
+
+Agent (Human) at 246.7s:
+2006. Is it a Holden Commodore, a cruise,
+
+Customer at 252.6s:
+Hold on.
+
+Agent (Human) at 253.9s:
+Astra? Yep. Okay. And can I confirm, is it a KeyStat?
+
+Customer at 260.7s:
+Yes.
+
+Agent (Human) at 261.8s:
+And are you on a concession at all?
+
+Customer at 266.5s:
+No.
+
+Agent (Human) at 269.1s:
+Okay. So 2006 Holden Astra. Keystart, you're looking at $923.50 for installation in the first thirty days. And then ongoing, you would be looking at either sixty days servicing as in servicing done every sixty days, which is $3.57, Or every thirty days, you could do it, the servicing either, and
+
+Customer at 297.5s:
+Mhmm.
+
+Agent (Human) at 301.8s:
+you could that would be $1.98 50.
+
+Customer at 306.3s:
+So thirty days is $1.98. 50.
+
+Agent (Human) at 311.5s:
+Yep.
+
+Customer at 312.9s:
+And sixty days was how much again?
+
+Agent (Human) at 315.4s:
+Free $3.57.
+
+Customer at 318.6s:
+$3.50. Seven
+
+Agent (Human) at 322.0s:
+Mhmm. And this is
+
+Customer at 322.4s:
+Are there any other costs that I that I need to know about far as the installation and the the the servicing, whatever else is involved there.
+
+Agent (Human) at 331.6s:
+No. That's all the installation and the servicing charges. And then at the
+
+Customer at 335.7s:
+Yep.
+
+Agent (Human) at 337.4s:
+end of the the program, it would be a $180 for the removal.
+
+Customer at 344.3s:
+Yep.
+
+Agent (Human) at 347.3s:
+If you do get a alcohol violation or a permanent lockout during the program, then it would be a $70 code every time to unlock it.
+
+Customer at 359.6s:
+Right. Okay.
+
+Agent (Human) at 360.3s:
+Hopefully, there's not too many of them.
+
+Customer at 365.9s:
+Should be I mean, done, and So the 923 install how long how long do you do you when's the next when's the first service required after the install? What what's the maximum
+
+Agent (Human) at 385.1s:
+Thirty days. So it
+
+Customer at 386.9s:
+So you you got thirty days you
+
+Agent (Human) at 387.6s:
+the first one
+
+Customer at 389.3s:
+Sorry?
+
+Agent (Human) at 390.3s:
+the first the first service done after installation is always thirty days after.
+
+Customer at 399.9s:
+Right. Right. Okay.
+
+Agent (Human) at 402.9s:
+And then after that, if you wish, you can either stay at the thirty day servicing or extend it to sixty days.
+
+Customer at 411.9s:
+Right. Okay. And that's it. And the removal, 180. Alright. Yeah. I'll, yeah, I'll I'll have a look at that, and I'll just yell see how that compares to the other guys, and we'll go from there. Anyway, thank you so much for your time. I appreciate it.
+
+Agent (Human) at 432.1s:
+Not a problem. Not a problem. Have a good day. Thank you.
+
+Customer at 434.3s:
+Thank you. You too. Bye bye.
+
+Agent (Human) at 434.9s:
+Bye.

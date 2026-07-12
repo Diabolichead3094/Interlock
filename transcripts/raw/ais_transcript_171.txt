@@ -1,0 +1,119 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+Inquiries.
+
+Agent (Mia) at 9.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.0s:
+Thank you. Are you looking for training materials and instruction video or a manual for your interlock device?
+
+Customer at 26.4s:
+No.
+
+Agent (Mia) at 28.2s:
+Could you tell me a bit more about your inquiry so I can assist you further?
+
+Customer at 35.0s:
+Service servicing.
+
+Agent (Mia) at 37.8s:
+To check your next service date, please make sure your car is switched off. Let me know when you're ready for the next step.
+
+Customer at 46.3s:
+I'm ready.
+
+Agent (Mia) at 48.1s:
+Great. Hold down the top left button on your interlock device to enter the menu. Let me know when you see the menu on the screen. Just checking in. Were you able to see the menu on your device after holding down the top left button?
+
+Customer at 70.6s:
+Yes.
+
+Agent (Mia) at 72.7s:
+Now use the big bottom button to scroll through the menu and select service date. Let me know once you see your service date on the screen. Just checking. Were you able to find your service date on the device screen?
+
+Customer at 96.7s:
+Yeah.
+
+Agent (Mia) at 98.6s:
+There is a seven day grace period after your service date. If you go past the seventh day, it's a violation. Your car will lock out, and a fee will apply. Anything else I can help with?
+
+Customer at 108.3s:
+No.
+
+Agent (Mia) at 110.2s:
+All good. If you have any other questions about your lock or servicing, just let me know.
+
+Customer at 118.1s:
+This I have overdue service. Will it affect my four month trial period?
+
+Agent (Mia) at 129.2s:
+I can't advise on how overdue service might affect your trial period. Or program eligibility. Would you like me to connect you with a specialist to discuss this?
+
+Customer at 138.3s:
+Yes, please.
+
+Agent (Mia) at 140.3s:
+Are you ready to be connected to a specialist now?
+
+Customer at 143.3s:
+Yeah.
+
+Agent (Mia) at 145.1s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 149.2s:
+Thank you.
+
+Agent (Mia) at 150.7s:
+You're welcome. Please hold while I connect you to our customer support team.
+
+Agent (Human) at 188.9s:
+Affordable interlocks. [AGENT_NAME] speaking.
+
+Customer at 191.4s:
+Hi, Leonard. This is [CUSTOMER_NAME] here.
+
+Agent (Human) at 193.5s:
+How can I help?
+
+Customer at 196.3s:
+I have a service today, but it was meant to be at 09:00, but I couldn't get it in 09:00. I got it booked in for 03:30. But this won't affect my four months. The four month trial period.
+
+Agent (Human) at 210.3s:
+No. You can get it in today, but it's at 03:30.
+
+Customer at 213.8s:
+Yep. Yep.
+
+Agent (Human) at 214.4s:
+Yep. No. That's perfect. No. That's fine. Yep. That that time on your handset,
+
+Customer at 217.1s:
+Awesome. Thank you.
+
+Agent (Human) at 221.0s:
+is just a standard time that we know the service centers are open for you to make bookings. That's that's what that time
+
+Customer at 226.7s:
+Okay. Yeah.
+
+Agent (Human) at 228.0s:
+But as long as you make it on any time after that, you'll be fine.
+
+Customer at 228.2s:
+Awesome. Awesome. Thank you for that.
+
+Agent (Human) at 232.6s:
+Okay. Thank you. Bye.
+
+Customer at 235.2s:
+Alright. Bye.
+
+Agent (Human) at 236.0s:
+Bye.

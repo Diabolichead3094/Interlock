@@ -1,0 +1,44 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Hi, ma'am. My name is Sean Hens. I need to call up in regards to unlocking my car to have your device removed.
+
+Agent (Mia) at 16.9s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 23.0s:
+No. I have not received my completion notice due to I lost my license for two years. Therefore, I don't comply to your system anymore until I get my license back.
+
+Agent (Mia) at 38.3s:
+Understood. If you haven't received your official completion notice, Affordable Interlock can't authorize removal yet. You'll need to contact your state transport department to confirm your removal date and request your completion letter. Once you have that, please email it to [EMAIL] Would you like me to send our office email address to your phone for reference?
+
+Customer at 61.0s:
+Yes. But I have more inquiries. At least to speak to a human. 10.
+
+Agent (Mia) at 67.8s:
+Our office is currently open. Would you like me to connect you to our customer support team now? Are you ready to be transferred?
+
+Customer at 75.5s:
+Yeah. That'll be great. Thanks.
+
+Agent (Mia) at 78.5s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 84.2s:
+10. Tell me we're gonna speak, or we'll have to talk.
+
+Agent (Mia) at 131.9s:
+It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER]? Or would you prefer a different number?
+
+Customer at 144.9s:
+Yeah. That number's great. Thanks.
+
+Agent (Mia) at 149.6s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there any
+
+Customer at 155.9s:
+That's it. Thank you.
+
+Agent (Human) at 157.7s:
+When to

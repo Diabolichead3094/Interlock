@@ -1,0 +1,119 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.4s:
+About my interlock.
+
+Agent (Mia) at 10.4s:
+I can help with that. May I have your full name for our record first?
+
+Customer at 15.0s:
+[CUSTOMER_NAME] McMahon.
+
+Agent (Mia) at 19.5s:
+I'm seeing. Thank you. Are you looking to remove your interlock device, or is there something else I can help with regarding your interlock?
+
+Customer at 26.4s:
+Yeah. It's due to Camille. I just wanna see what the next steps are.
+
+Agent (Mia) at 31.7s:
+Have you already received your official completion notice from your state transport department?
+
+Customer at 36.4s:
+Yeah.
+
+Agent (Mia) at 38.3s:
+Great. You have your completion notice, I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 45.0s:
+Yes.
+
+Agent (Mia) at 47.0s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 53.1s:
+Yes.
+
+Agent (Mia) at 55.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 95.0s:
+Good morning. Affordable Interlock.
+
+Customer at 97.8s:
+Hi. Good morning. Can you hear me okay? Okay.
+
+Agent (Human) at 100.2s:
+No. I'm sorry. It's really loud.
+
+Customer at 102.8s:
+I'll just take you to the phone. Eight fifty five.
+
+Agent (Human) at 109.3s:
+Hello?
+
+Customer at 110.7s:
+Hi. Is that better?
+
+Agent (Human) at 111.9s:
+Yeah. That's better.
+
+Customer at 113.2s:
+Hi. Will I give you my registration?
+
+Agent (Human) at 116.6s:
+Yes, please.
+
+Customer at 118.2s:
+Yeah. It's two seven seven t for Taylor, v for Victor, and b for bravo.
+
+Agent (Human) at 128.5s:
+Lovely. So have you received your completion notice?
+
+Customer at 132.2s:
+Yes. So I got an email after the apparently transport yesterday.
+
+Agent (Human) at 132.9s:
+Oh, sorry.
+
+Customer at 138.1s:
+And I emailed it over to you. And then I just
+
+Agent (Human) at 143.4s:
+So did oh, so you haven't received the up the completion notice just yet? You went in yesterday for the upload?
+
+Customer at 150.8s:
+Yes. So I went I went oh, sorry. I'm I just don't know what to do next. So I went over to the
+
+Agent (Human) at 155.8s:
+Oh,
+
+Customer at 157.6s:
+to the I sent you his email yesterday, and then I went over to the service fella, and he doing the last service today. And now I don't know what to do.
+
+Agent (Human) at 170.3s:
+That's okay. You just wait from now. So forty eight hours, receive a completion notice. So after you go into that final reading, transport will email you after about a forty eight hour period. So now you've just gotta really just wait until so, hopefully, Thursday, they'll get back to you. Or maybe tomorrow afternoon, and then we can start organizing that removal for you.
+
+Customer at 189.9s:
+Amazing. Perfect.
+
+Agent (Human) at 191.9s:
+Yeah. Lovely.
+
+Customer at 192.3s:
+Alright. Well, thank you so much.
+
+Agent (Human) at 193.8s:
+That's okay. That's okay. We'll speak to them a few times time.
+
+Customer at 195.2s:
+Thank you. No worries. Have a lovely day.
+
+Agent (Human) at 197.5s:
+Thank you. Yeah. You too. Thank you.
+
+Customer at 198.6s:
+See you. Bye bye. Bye bye.
+
+Agent (Human) at 199.6s:
+Bye bye.

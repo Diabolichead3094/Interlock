@@ -1,0 +1,701 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Yeah. My name is Jerome Hayden. How are going?
+
+Agent (Mia) at 9.0s:
+I'm doing well. Thanks. Appreciate that. How can I help you today?
+
+Customer at 10.6s:
+Good. Please no worries. Listen. Now my youth has got an inner lock in it. And we're rural, and more. They've it's locked me out.
+
+Agent (Mia) at 25.8s:
+Understood. How long has the device been locked
+
+Customer at 26.6s:
+Can you give me a code? Sorry?
+
+Agent (Mia) at 29.4s:
+I can't provide a code to unlock the device. If your interlock is in a lockout, how long does the countdown on the screen say is left?
+
+Customer at 38.3s:
+Okay. It's been in getting a service. And they've had to get a code just to move it out of the shed. And the bloke that does it he's just been broken into. And his brain's not working that well. They've raised this thing, but I have to go to Inverill right now. And I need to start that use.
+
+Agent (Mia) at 66.3s:
+Thanks for explaining. I can't provide a code to bypass the lockout. You tell me how many minutes are left on the lockout countdown on your device screen?
+
+Customer at 75.4s:
+Now?
+
+Agent (Mia) at 77.1s:
+Can you please check the screen on your interlock device and tell me how many minutes are left on the lockout out countdown?
+
+Customer at 82.9s:
+Yeah. Well, you gotta wait because we have to wait. Now it is lockout 14.
+
+Agent (Mia) at 90.3s:
+Thanks for letting me know. Since your lockout is fourteen minutes,
+
+Customer at 90.8s:
+Lockout Four nine.
+
+Agent (Mia) at 93.3s:
+you'll need to wait until the countdown finishes. There's no way to override or unlock it remotely during this time.
+
+Customer at 96.1s:
+Yeah.
+
+Agent (Mia) at 99.2s:
+Is there anything else I can help with?
+
+Customer at 102.3s:
+No. But when I when I get because we've we've got it booked in for this bloke. To have a serve like, it's having a service. Now or this afternoon, but they're just being broken in. So they don't even know whether they can this service. Because I've been away in Brisbane. So it says lockout 14. So it's fourteen minutes.
+
+Agent (Mia) at 124.2s:
+Thanks for clarifying. Since your lockout is fourteen minutes,
+
+Customer at 126.0s:
+Yeah. Hang on a minute. Handleman. Yeah. Yeah. What? Hello?
+
+Agent (Mia) at 136.7s:
+No worries. Since your device says lockout 14, you
+
+Customer at 138.0s:
+Just hang on a minute. Yeah. What happened?
+
+Agent (Mia) at 140.1s:
+need to wait fourteen
+
+Customer at 142.4s:
+Yeah. Then what?
+
+Agent (Mia) at 145.7s:
+You'll need to stay with your vehicle until the fourteen minute lockout countdown finishes. Once the timer reaches zero, you'll be able to try starting your vehicle again.
+
+Customer at 150.2s:
+Yes.
+
+Agent (Mia) at 153.7s:
+Is there anything else you'd like help with?
+
+Customer at 154.0s:
+Yes. It's not gonna lock me out if I go out because I gotta go out to another block, which is about two hours away. It was not gonna lock me out again, is it?
+
+Agent (Mia) at 164.7s:
+If your service is overdue or nearly due, the device may lock you out again if you don't complete the service soon. Would you like me to guide you through checking your next service date on the device?
+
+Customer at 174.8s:
+Yes, please.
+
+Agent (Mia) at 175.4s:
+Let's check your next service date on the device. Your car switched off right now?
+
+Customer at 181.2s:
+Yes. We can't start it.
+
+Agent (Mia) at 184.6s:
+No worries. Let's check your next service date on the device. With the car switched off, can you hold down the top left button until the menu appears? Let me know when you see the menu.
+
+Customer at 197.1s:
+Yes. Services. So it says preview. So select next. Service dates. Yeah. Right?
+
+Agent (Mia) at 205.2s:
+Great. Use the big bottom button to scroll until you
+
+Customer at 205.9s:
+Now what?
+
+Agent (Mia) at 208.2s:
+see service date. Let me know when it appears on the screen.
+
+Customer at 212.6s:
+Fifteen o six two six at 9AM.
+
+Agent (Mia) at 217.0s:
+Thanks. Your next service is due on June 26. 2026 at 9AM. There's a seven day grace period after this date.
+
+Customer at 222.6s:
+Yeah. So
+
+Agent (Mia) at 224.8s:
+If you miss it, the car will lock out and extra fees apply. Anything else I can help with?
+
+Customer at 229.8s:
+Yeah. So I should be able I should be able to drive it now because it's I've got seven days. What's the date today?
+
+Agent (Mia) at 236.9s:
+That's right. You have a seven day grace period. After 06/26/2026. Just make sure you complete your service within that time to avoid a lockout and extra fees. Anything else I can help with?
+
+Customer at 247.3s:
+Yeah. I couldn't why did it lock me out now? It's not even due.
+
+Agent (Mia) at 253.1s:
+Your device can lock you out for reasons other than a missed service. Such as missed breath tests, failed tests, or tampering alerts. Has the device shown any other messages or warnings before the lockout?
+
+Customer at 265.5s:
+It was getting an oil change, you know, and it and it locked the boys out. Permanent lockout. Fourteen. But then
+
+Agent (Mia) at 274.1s:
+Thanks for explaining. Since your device is showing a four
+
+Customer at 276.0s:
+yeah. But how much they yeah. It says fourteen, but it's not it's not dropping in the the the minutes. It's still at fourteen.
+
+Agent (Mia) at 285.9s:
+If the count down is stuck at fourteen minutes and not decreasing, that could indicate a technical issue. Would you like me to connect you to a specialist for further help?
+
+Customer at 295.0s:
+Yes, please.
+
+Agent (Mia) at 297.0s:
+I can connect you to a specialist for further help. Are you ready to be transferred now?
+
+Customer at 301.4s:
+Yeah. Right now.
+
+Agent (Mia) at 304.2s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 308.6s:
+Jeez.
+
+Agent (Mia) at 310.8s:
+Just letting you know, I'm connecting you to our customer support team now. One moment.
+
+Unknown (460813) at 341.5s:
+A photo thank you. Hi, Sharon. It's Tracy. How are you?
+
+Customer at 364.8s:
+Good choice. Can you tell me if there's a How you going, choice?
+
+Unknown (460813) at 367.6s:
+Good. Good. Good. What's going on with your device? You gotta lock out?
+
+Customer at 369.0s:
+Well, well, it's not even due for service yet. And it's been in getting an oil service
+
+Unknown (460813) at 377.8s:
+Mhmm.
+
+Customer at 378.1s:
+And the boy couldn't even get it out of out of the shed. And it's got permanent lockout, fourteen.
+
+Unknown (460813) at 387.5s:
+14.
+
+Customer at 387.9s:
+So
+
+Unknown (460813) at 388.7s:
+Okay.
+
+Customer at 389.1s:
+it's [AGENT_NAME] it's not going down. It's supposed to go down, but I'm not even due service. From fixed.
+
+Unknown (460813) at 396.9s:
+Sharon, can you confirm the registration for the vehicle, please?
+
+Customer at 403.6s:
+I'll tell you on Tuesday.
+
+Unknown (460813) at 405.2s:
+Okay.
+
+Customer at 410.5s:
+F n d eight seven q.
+
+Unknown (460813) at 413.1s:
+Thank you. Okay. So your service on the vehicle was due on the fifteenth. So it's that but if it is a permanent lockout 14, it's due to the battery being disconnected.
+
+Customer at 431.8s:
+They didn't disconnect the battery.
+
+Unknown (460813) at 435.1s:
+It looks like
+
+Customer at 435.3s:
+All I did all I did was it in my mechanics at the moment, and I dropped the oil out of it.
+
+Unknown (460813) at 440.7s:
+Okay.
+
+Customer at 440.7s:
+And we were going to take it around to for a service on them, but they've just been broken into. So they've got police there and all sorts of rubbish going on. So but I have to go two or three hours drive right now.
+
+Unknown (460813) at 455.3s:
+Okay. Are you with the vehicle at the moment?
+
+Customer at 457.7s:
+I'm in it now.
+
+Unknown (460813) at 459.5s:
+Can you tell me well, after it says the the lockout 14, it'll give you a date.
+
+Customer at 467.6s:
+Yeah. You gotta hold the bottom button. Oh, you gotta pull the left hand button on. Yeah. And then you go through that. Yeah. So it's the fifteenth.
+
+Unknown (460813) at 473.5s:
+What's
+
+Customer at 477.2s:
+O six twenty six nine AM. But I've still got seven days grace.
+
+Unknown (460813) at 484.6s:
+Yeah. No. Not the service date.
+
+Customer at 485.0s:
+I even know.
+
+Unknown (460813) at 487.8s:
+Can you okay. So if you've if you've gone out and gone into the messages, can you press the little button at the bottom of the device where it connects onto the curly cord?
+
+Customer at 500.4s:
+Yeah.
+
+Unknown (460813) at 500.8s:
+So it disconnects from the curly cord.
+
+Customer at 503.2s:
+I only Oh, you wanna disconnect the curly cord?
+
+Unknown (460813) at 507.4s:
+Yeah.
+
+Customer at 508.4s:
+Okay. Hang on. So I pull that out?
+
+Unknown (460813) at 518.3s:
+Yes, please.
+
+Customer at 520.4s:
+Yeah. It's out.
+
+Unknown (460813) at 522.0s:
+K. We're just gonna leave it out for about five five, ten seconds. So you're saying Cooper's Automotive has had has been broken into?
+
+Customer at 534.5s:
+Yeah.
+
+Unknown (460813) at 535.5s:
+Okay. I'll let people know so that we don't try and call them at the moment. Okay. When we plug the handset back in, it's gonna say on the permanent lockout or immediate recall whatever it's saying, number 14, and it's gonna give you a date after that. I just need the date if at all possible.
+
+Customer at 561.4s:
+Can I I put it back in now?
+
+Unknown (460813) at 563.2s:
+Yeah. Pop it back in now.
+
+Customer at 570.4s:
+The ten. Terminal lockout. Fourteen.
+
+Unknown (460813) at 574.0s:
+Yeah. And then the date? Alright. No. You don't need to press any buttons. It'll have a date behind or underneath. The permanent lockout for them.
+
+Customer at 586.9s:
+It hasn't No. It hasn't come up. I'll do it again. Right?
+
+Unknown (460813) at 594.8s:
+Okay.
+
+Customer at 597.9s:
+Date there. There's no date come up. It says point permanent lockout fourteen.
+
+Unknown (460813) at 603.3s:
+Mhmm. And it should have a couple more numbers after that.
+
+Customer at 607.9s:
+Yeah. Nothing. I'll put it back in in about five, ten seconds.
+
+Unknown (460813) at 612.4s:
+Yep. Okay.
+
+Customer at 614.0s:
+Do you have much trouble with this?
+
+Unknown (460813) at 616.1s:
+No. So because it's gone to a permanent lockout, it's tells me that somebody disconnected the the battery. More than seven days ago. So if I can
+
+Customer at 633.8s:
+No. We have to be haven't disconnected the battery.
+
+Unknown (460813) at 635.6s:
+some
+
+Customer at 637.2s:
+Oh, Danny,
+
+Unknown (460813) at 637.3s:
+okay. Well,
+
+Customer at 638.7s:
+Alright. We're we're rural. So this unit is a rural ute, and all I did was I jump started my truck.
+
+Unknown (460813) at 641.4s:
+yeah. Yeah.
+
+Customer at 645.6s:
+That's all I've done with the battery has not been connect disconnected. And this has just come up permanent lockout, 14, nothing else.
+
+Unknown (460813) at 653.6s:
+Okay. When you say you jump started the vehicle,
+
+Customer at 657.1s:
+Yeah.
+
+Unknown (460813) at 658.0s:
+why did you jump start the vehicle?
+
+Customer at 660.5s:
+With my truck battery went flat.
+
+Unknown (460813) at 663.2s:
+Okay. So that would be a battery disconnection. If it had no battery, it would be classified as a disconnection.
+
+Customer at 671.9s:
+What are you talking about? No battery. I just used a jumper lead to to start my truck. I use this one.
+
+Unknown (460813) at 677.0s:
+That's right.
+
+Customer at 677.8s:
+I use this truck. This route
+
+Unknown (460813) at 678.0s:
+Because the truck had no battery.
+
+Customer at 680.5s:
+This sorry?
+
+Unknown (460813) at 681.6s:
+The truck had no battery.
+
+Customer at 684.0s:
+Yeah. It had battery dinner. Nope.
+
+Unknown (460813) at 684.2s:
+That's why you had to
+
+Customer at 686.0s:
+It it had batteries in it, but it wasn't the batteries weren't dead flat.
+
+Unknown (460813) at 691.2s:
+they were?
+
+Customer at 692.6s:
+No. They weren't.
+
+Unknown (460813) at 694.4s:
+But you just said you had to jump start the truck?
+
+Customer at 697.9s:
+You know what I mean by jump start? We use we use Jumper Lee,
+
+Unknown (460813) at 702.0s:
+Yeah.
+
+Customer at 702.6s:
+when we got a flat battery in one of our machines.
+
+Unknown (460813) at 705.4s:
+Mhmm.
+
+Customer at 705.6s:
+We used jumper leads to to restart the truck. So this ute has got a good battery. Everything's got plenty of power in x y z. It wasn't disconnected. All we did was jump start. Another vehicle.
+
+Unknown (460813) at 720.3s:
+Another vehicle by using this this ute.
+
+Customer at 721.0s:
+So yes.
+
+Unknown (460813) at 724.9s:
+Okay. Right. So the ute wasn't the one with the flat battery. It was the other
+
+Customer at 728.8s:
+No.
+
+Unknown (460813) at 729.9s:
+Right. Okay.
+
+Customer at 730.4s:
+No.
+
+Unknown (460813) at 732.5s:
+Okay. So that's what's caused it looks like that's what caused it. So on what is it saying on the screen at the moment?
+
+Customer at 741.1s:
+Permanent lockout 14.
+
+Unknown (460813) at 742.9s:
+Okay. Can I get you to press and hold the top left hand button? The ignition's turned off at the moment, isn't it?
+
+Customer at 750.1s:
+Well, we can't start it.
+
+Unknown (460813) at 753.8s:
+Yep.
+
+Customer at 763.6s:
+It's [AGENT_NAME] doing anything. I've got the left hand button pressed in.
+
+Unknown (460813) at 767.7s:
+Mhmm.
+
+Customer at 772.4s:
+Jesus. This is a pie now.
+
+Unknown (460813) at 776.3s:
+Have you got the case in the ignition at all?
+
+Customer at 779.0s:
+We don't have a key in the ignition. This is a press Doesn't go. We this is a Ram. It's a new Ram.
+
+Unknown (460813) at 783.8s:
+Okay. It's a new RAM? Okay.
+
+Customer at 787.1s:
+Yeah.
+
+Unknown (460813) at 787.6s:
+Is the ignition turned off?
+
+Customer at 790.0s:
+Yeah. Nothing's on.
+
+Unknown (460813) at 791.4s:
+Nothing's on. Okay. And if you press and hold the top left hand button, it's not even
+
+Customer at 793.0s:
+Nothing's on.
+
+Unknown (460813) at 797.4s:
+responsive at all to that.
+
+Customer at 797.7s:
+No. Nothing. Jesus.
+
+Unknown (460813) at 802.8s:
+Does it give you any other message like hold to cancel?
+
+Customer at 805.2s:
+Here we go. We got we got we got got yeah. We got something new now.
+
+Unknown (460813) at 809.0s:
+Awesome.
+
+Customer at 809.3s:
+So service date,
+
+Unknown (460813) at 811.9s:
+Okay. Can you press the right button and cross until you see the word reset?
+
+Customer at 819.4s:
+Wake up.
+
+Unknown (460813) at 820.8s:
+Next.
+
+Customer at 821.1s:
+Wait.
+
+Unknown (460813) at 822.1s:
+Next.
+
+Customer at 822.8s:
+Language,
+
+Unknown (460813) at 823.8s:
+Next.
+
+Customer at 825.1s:
+Service lockout release.
+
+Unknown (460813) at 826.7s:
+Next.
+
+Customer at 829.1s:
+Reset.
+
+Unknown (460813) at 829.9s:
+Awesome. So we're gonna press select, is the big button at the bottom.
+
+Customer at 836.7s:
+Yeah.
+
+Unknown (460813) at 837.7s:
+Okay.
+
+Customer at 837.8s:
+Zero zero zero zero.
+
+Unknown (460813) at 839.8s:
+Perfect. So the code I need you to type in is three six So you can use the left and right buttons to go through and bring the numbers up. And then when you've got the number on the screen, you press the big button
+
+Customer at 852.8s:
+Three six nine nine
+
+Unknown (460813) at 854.2s:
+Yep. Oh, you've got it?
+
+Customer at 855.5s:
+then so do I press the left button to go to the next one?
+
+Unknown (460813) at 862.3s:
+Press the button at the bottom. Select.
+
+Customer at 865.7s:
+Best department. Bingo. Right on. Three six
+
+Unknown (460813) at 870.4s:
+Yep. Five eight
+
+Customer at 872.7s:
+Hang on. Five eight.
+
+Unknown (460813) at 884.5s:
+Yes. And then press select, the button at the bottom. What's it saying now?
+
+Customer at 893.0s:
+And then go select. It's I got 3658. I press the bottom.
+
+Unknown (460813) at 896.7s:
+Yes. Yes. So press select and then accept.
+
+Customer at 904.9s:
+Now it's gone back to 0.
+
+Unknown (460813) at 905.3s:
+Know? Does it ask you for a sub code?
+
+Customer at 906.7s:
+000. Sorry?
+
+Unknown (460813) at 909.8s:
+Does it say subcode at the top of the screen?
+
+Customer at 911.9s:
+Yep. Yes. Yes. It does.
+
+Unknown (460813) at 912.8s:
+Excellent. Subcode is 00. So just press select, select, go across to the third number.
+
+Customer at 921.8s:
+Yes.
+
+Unknown (460813) at 922.6s:
+And that's seven five.
+
+Customer at 936.0s:
+Yes. Select.
+
+Unknown (460813) at 937.7s:
+Yep. And then accept.
+
+Customer at 944.3s:
+Misdemeanor. Misdemeanor.
+
+Unknown (460813) at 944.7s:
+Awesome. Okay. So that's been done for you. It's been reset.
+
+Customer at 947.1s:
+Sir,
+
+Unknown (460813) at 950.6s:
+Okay?
+
+Customer at 953.4s:
+Now is that gonna cause me when I go away, because as I said, two can't do it for a few days. They've been broken into.
+
+Unknown (460813) at 960.7s:
+Mhmm.
+
+Customer at 960.8s:
+That's not gonna that's not gonna get me stuck here at the back of nowhere, is it?
+
+Unknown (460813) at 965.4s:
+Whereabouts are you going?
+
+Customer at 967.3s:
+I gotta go west of Ambrell right now.
+
+Unknown (460813) at 970.6s:
+Mhmm. Yeah. And how long are you away for?
+
+Customer at 972.4s:
+To one of our properties. Just this afternoon.
+
+Unknown (460813) at 976.9s:
+Oh, yeah. That's fine. So if your service must be done no later than Monday afternoon.
+
+Customer at 986.3s:
+Right.
+
+Unknown (460813) at 987.3s:
+Okay. Are you driving through any other towns?
+
+Customer at 991.3s:
+Yeah. Inverall.
+
+Unknown (460813) at 991.6s:
+Are you You're going through Inverill? Are going through Armadale at all?
+
+Customer at 996.0s:
+No.
+
+Unknown (460813) at 996.9s:
+No? Okay. Yeah. So if you can if you can get into Cooper's, by Monday, afternoon. That won't be a problem.
+
+Customer at 1010.2s:
+Today is Wednesday.
+
+Unknown (460813) at 1011.6s:
+Today is Wednesday. Yes.
+
+Customer at 1013.3s:
+Yeah. Yeah.
+
+Unknown (460813) at 1015.5s:
+If you can't, let us know. The next closest service center to you is in Armandale.
+
+Customer at 1022.9s:
+Can you give me their number?
+
+Unknown (460813) at 1025.1s:
+For Armadale? Yeah. Sure. I'll SMS it to you if you like so you've got it on your
+
+Customer at 1031.3s:
+Yeah. That'd be really good. If you could ask them,
+
+Unknown (460813) at 1033.0s:
+on your phone. Yeah. Not a problem. Let me do that now for you. Okay? Okay. So that's all reset for you. You shouldn't have an issue now, Jerome. Okay?
+
+Customer at 1053.9s:
+Okay. I'm just starting it now.
+
+Unknown (460813) at 1056.1s:
+Yep.
+
+Customer at 1056.5s:
+With Cook. Alright. Thank you. If I get in trouble, I mean can you give me text me your direct number
+
+Unknown (460813) at 1061.8s:
+Not a problem.
+
+Customer at 1066.2s:
+There's that other girl. On the other number.
+
+Unknown (460813) at 1069.2s:
+Yeah. I don't have a direct number. I'm sorry.
+
+Customer at 1072.9s:
+That'd be right. Okay.
+
+Unknown (460813) at 1075.2s:
+Okay.
+
+Customer at 1075.2s:
+Hope you're good. Bye.
+
+Unknown (460813) at 1076.4s:
+Thanks, Jerome. Okay. Bye.

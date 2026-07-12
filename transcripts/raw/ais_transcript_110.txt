@@ -1,0 +1,38 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+Hey, Mia. I'm just calling to find out if there is anywhere in Gladstone that I can get my car calibrated for its next appointment.
+
+Agent (Mia) at 18.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 23.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 27.7s:
+Just a sec while I pull that up. I've sent you a text with a link to our locations page. You can enter your postcode there to find the nearest calibration center in Gladstone. Let me know once you've received the message or if you need help with anything else.
+
+Customer at 50.8s:
+Do you know the postcode for Gladstone?
+
+Agent (Mia) at 54.2s:
+The main postcode for Gladstone, Queensland is 4680. You can enter that on the locations page to find your nearest calibration center. Anything else I can help with?
+
+Customer at 63.9s:
+Perfect. Thank you.
+
+Agent (Mia) at 67.0s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 71.9s:
+You too.
+
+Agent (Mia) at 73.7s:
+All the best.
+
+Customer at 79.8s:
+You too.
+
+Agent (Mia) at 81.6s:
+All good.

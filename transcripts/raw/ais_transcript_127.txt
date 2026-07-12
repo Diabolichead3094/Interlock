@@ -1,0 +1,95 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Can I please talk to a customer service person, please? I I sort of need to talk to someone now today.
+
+Agent (Mia) at 10.5s:
+I can help.
+
+Customer at 13.6s:
+Please.
+
+Agent (Mia) at 14.3s:
+I can Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 21.1s:
+Yes. If I can, and I I I would like to talk to someone.
+
+Agent (Mia) at 27.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 63.7s:
+Foldable Inteluxe. [AGENT_NAME] speaking.
+
+Customer at 66.5s:
+Hey, Linda. It's Troy Simpson. How are you?
+
+Agent (Human) at 68.4s:
+Hi. Good thanks, Troy. How can I help?
+
+Customer at 71.9s:
+I got a recall on this interlock handpiece again.
+
+Agent (Human) at 74.9s:
+Oh,
+
+Customer at 76.2s:
+And it's the number 31, the one that keeps coming up.
+
+Agent (Human) at 79.7s:
+Oh, yeah. Yeah. And you're supposed to be going in soon shortly, aren't you, Tim?
+
+Customer at 83.2s:
+Yeah. This this Friday. Yes.
+
+Agent (Human) at 85.1s:
+Yep. Friday. Perfect.
+
+Customer at 87.3s:
+Yeah. I just needed to get it cleared bef because it run the date on it is tomorrow. That it locks up or
+
+Agent (Human) at 93.6s:
+Cool. Are you ready to take the code? Are you in the car? Or want me to text it to you?
+
+Customer at 97.9s:
+I'm just getting into the settings now.
+
+Agent (Human) at 100.5s:
+Oh, yeah. You can go to research.
+
+Customer at 103.7s:
+Yep. First code.
+
+Agent (Human) at 105.7s:
+It's [AGENT_NAME] two one three
+
+Customer at 108.5s:
+Nine two one three
+
+Agent (Human) at 113.8s:
+Yep. And zero zero four nine.
+
+Customer at 118.4s:
+Sarah, they're alright.
+
+Agent (Human) at 119.7s:
+Four nine.
+
+Customer at 121.2s:
+Four nine.
+
+Agent (Human) at 123.3s:
+That's.
+
+Customer at 127.0s:
+Sweet. Thank you.
+
+Agent (Human) at 127.6s:
+Awesome. Thanks, Troy. Bye.
+
+Customer at 129.7s:
+You too. Bye.
+
+Agent (Human) at 130.3s:
+Bye.

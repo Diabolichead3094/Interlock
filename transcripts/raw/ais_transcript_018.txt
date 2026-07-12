@@ -1,0 +1,176 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 3.8s:
+May I ask [CUSTOMER_NAME] Rosterol again? Sorry. I got cut off.
+
+Agent (Mia) at 9.8s:
+All good. I can help with that. May I have your full name for our records first?
+
+Customer at 14.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. How can I assist you today?
+
+Customer at 20.7s:
+Can you call Scott?
+
+Agent (Mia) at 23.7s:
+Just to make sure I'm on the right track, did you want me to contact someone named Scott for you?
+
+Customer at 24.1s:
+On Oakport
+
+Agent (Mia) at 28.5s:
+If so, I can't make outgoing calls, but I can help with interlock support or connect you to our team.
+
+Customer at 29.1s:
+Yes.
+
+Agent (Mia) at 33.4s:
+What would you like to do next?
+
+Customer at 35.3s:
+Can I bring to your chain, please?
+
+Agent (Mia) at 39.0s:
+Just to clarify, did you mean you want to bring something to our attention? Or are you asking about bringing your vehicle or device to a service center? Let me know so I can assist you properly.
+
+Customer at 48.6s:
+I need to talk to someone on the team.
+
+Agent (Mia) at 52.2s:
+Understood. Are you ready to be connected to a specialist now?
+
+Customer at 56.0s:
+Yes. Thanks.
+
+Agent (Mia) at 58.4s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 114.3s:
+Affordable Interlocks. This is [AGENT_NAME].
+
+Customer at 117.5s:
+Oh, Tracy, is it?
+
+Agent (Human) at 118.8s:
+Yes. It is.
+
+Customer at 120.7s:
+Tracy, my name is [CUSTOMER_NAME] Rastarola. I've got an interlock system in my car. I'm actually in hospital at the moment, and it's getting hail damage fixed. And it keeps locking the people out. It's done it four times now morning. I was just wondering if you can ring Scott there and go through what he has to do.
+
+Agent (Human) at 143.4s:
+Okay. Where am I calling?
+
+Customer at 147.1s:
+At child dot com.
+
+Agent (Human) at 149.1s:
+Hail.com.
+
+Customer at 151.3s:
+Yeah. And the number is o four two two
+
+Agent (Human) at 154.8s:
+Yes.
+
+Customer at 156.0s:
+zero two three
+
+Agent (Human) at 157.4s:
+Yes.
+
+Customer at 158.7s:
+one three seven
+
+Agent (Human) at 161.3s:
+Okay. And the
+
+Customer at 162.8s:
+My my rego number do you need my rego number?
+
+Agent (Human) at 162.9s:
+they're fixing Yeah. Sure.
+
+Customer at 168.4s:
+Eight zero eight
+
+Agent (Human) at 169.8s:
+Mhmm.
+
+Customer at 170.6s:
+h a seven.
+
+Agent (Human) at 173.6s:
+And your name?
+
+Customer at 175.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 177.0s:
+Thank you. And how long will I have your vehicle?
+
+Customer at 181.7s:
+They're trying to actually paint it at the moment, but they can't move it because the interlock keeps locking on them.
+
+Agent (Human) at 188.0s:
+Okay. So whenever you take your car in for a service or any work to be done, they should be calling us so that we can give them a a mechanic code so that they're not trying to blow in the vehicle.
+
+Customer at 200.3s:
+A rot Can you explain that to him when you ring him?
+
+Agent (Human) at 204.9s:
+Yeah. Sure.
+
+Customer at 206.7s:
+That'll be great.
+
+Agent (Human) at 206.8s:
+But just for your own your own notice as well in future.
+
+Customer at 210.5s:
+Yeah. Okay. Okay.
+
+Agent (Human) at 211.4s:
+Yeah. Okay. So have they had the car for a while?
+
+Customer at 216.2s:
+Yeah. They have.
+
+Agent (Human) at 217.9s:
+A couple of weeks? Or
+
+Customer at 219.9s:
+Yes. Yeah. Couple of weeks.
+
+Agent (Human) at 222.1s:
+yeah. Because they actually already called us and asked for codes as well. So they should know this.
+
+Customer at 227.0s:
+Yeah. Yeah. Well, this guy's name is Scott.
+
+Agent (Human) at 233.1s:
+Scott. Yeah. We've spoken to Ben previously from there.
+
+Customer at 236.5s:
+Right. Would you be able to ring Scott for me?
+
+Agent (Human) at 237.7s:
+So I'm not sure Yeah. Not a problem. I'll give him a call now.
+
+Customer at 242.8s:
+I'm in hospital, and there's nothing that I can do. So that'd be great if you could give him a ring.
+
+Agent (Human) at 249.6s:
+Yep. I'll give him a call and and give him the code for for the next couple of days.
+
+Customer at 254.9s:
+Okay. Great. Thank you.
+
+Agent (Human) at 255.9s:
+Okay. Thank you. Bye.
+
+Customer at 257.6s:
+Thanks, Tracy. Bye.

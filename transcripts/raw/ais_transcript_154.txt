@@ -1,0 +1,170 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.1s:
+Pay. Service fee till I'm on a sorry.
+
+Agent (Mia) at 14.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 21.3s:
+Michael m I c h e a l. T I n e I, Tinay.
+
+Agent (Mia) at 30.4s:
+Thank you. Do you have the payment value or amount ready? Just checking in. Do you have the payment amount ready? If you know the figure, I can send you the payment link now.
+
+Customer at 52.6s:
+No. I do not have the payment. I need to skip to the next
+
+Agent (Mia) at 56.2s:
+Under
+
+Customer at 58.2s:
+Thursday.
+
+Agent (Mia) at 60.6s:
+Just to make sure I'm on the right track, did you mean you want to reschedule something for next Thursday? Thursday? Or are you asking about your service or calibration date?
+
+Customer at 69.2s:
+Yeah. I need those. Pay the service for next week because I can't afford it this Thursday.
+
+Agent (Mia) at 76.4s:
+Understood. Since you're not sure of the payment amount, I'll connect you with a specialist who can help with your service booking and payment options. Are you ready to be connected now?
+
+Customer at 84.0s:
+Thank you. Yes. Thank you.
+
+Agent (Mia) at 86.7s:
+All good. Since you're unsure of the payment amount, I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 94.0s:
+Yes.
+
+Agent (Mia) at 96.4s:
+I'll get you over to our customer support team now. One moment. Transferring you now. One moment, please.
+
+Agent (Human) at 138.4s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 141.9s:
+I was wondering if I could reschedule my payment.
+
+Agent (Human) at 145.4s:
+Alright. And what's your name?
+
+Customer at 150.0s:
+Teenage.
+
+Agent (Human) at 150.3s:
+Michael. Do you know your registration, Michael?
+
+Customer at 152.1s:
+Michael. Yep. Zero eight zero o t seven.
+
+Agent (Human) at 159.4s:
+You got the Ford Territory?
+
+Customer at 161.8s:
+Yep.
+
+Agent (Human) at 165.4s:
+Okay. So your service is due on the June 18, but you always have
+
+Customer at 168.8s:
+Yep. Yeah.
+
+Agent (Human) at 170.4s:
+additional seven days. So you've got till close of business next Thursday, June 25.
+
+Customer at 177.0s:
+I paid for it.
+
+Agent (Human) at 178.6s:
+To pay and complete your service.
+
+Customer at 181.8s:
+Alright. So yeah. The next Thursday is when I can pay for it.
+
+Agent (Human) at 186.2s:
+Thursday, the twenty fifth?
+
+Customer at 186.2s:
+So that'll be alright?
+
+Agent (Human) at 188.2s:
+Thursday.
+
+Customer at 188.2s:
+Yeah. That's when I get my pay.
+
+Agent (Human) at 190.8s:
+Alright. So as long as you don't go past that day, then I would suggest that you call and book with the service center so that you definitely got an appointment for that day also. Just because
+
+Customer at 200.9s:
+Okay. I need an appointment for that day, and I need to pay it before that date. Is that right?
+
+Agent (Human) at 205.8s:
+well, you need to pay it and get it done. Before close of business on that Thursday because that's your last day.
+
+Customer at 208.9s:
+On that day. Okay.
+
+Agent (Human) at 213.0s:
+If you go past it, then you'll lock out overnight. You'll have $70 extra to pay, and then
+
+Customer at 220.0s:
+Yeah. I've done that before.
+
+Agent (Human) at 221.5s:
+yeah, and
+
+Customer at 221.5s:
+I was just wondering.
+
+Agent (Human) at 222.6s:
+yeah, and then
+
+Customer at 223.3s:
+Oh, yeah.
+
+Agent (Human) at 223.8s:
+because you're in your last four months, that can impact your program. So
+
+Customer at 228.0s:
+Oh, okay. Okay.
+
+Agent (Human) at 229.2s:
+that's why it's very, very important that you get it done.
+
+Customer at 229.8s:
+Yep. Okay.
+
+Agent (Human) at 232.3s:
+Okay?
+
+Customer at 232.5s:
+Alright then. I can pay for that all in the morning and get it done on that pay.
+
+Agent (Human) at 236.2s:
+Yes. Certainly. You can give us a call in the morning, make the payment, and then go in and get
+
+Customer at 238.0s:
+Okay.
+
+Agent (Human) at 241.3s:
+that service completed.
+
+Customer at 243.2s:
+Alright. Thank you.
+
+Agent (Human) at 244.5s:
+No worries at all, Michael. Have a good afternoon.
+
+Customer at 246.1s:
+I'll call you next Thursday. Thank you. Bye.
+
+Agent (Human) at 248.4s:
+Thank you. Bye.
+
+Customer at 250.1s:
+Bye.

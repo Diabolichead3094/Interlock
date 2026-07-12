@@ -1,0 +1,152 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.3s:
+Operator.
+
+Agent (Mia) at 9.3s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 13.7s:
+Are you in [CUSTOMER_NAME] Tarricks?
+
+Agent (Mia) at 16.8s:
+Just to make sure I'm on the right track, did you say [CUSTOMER_NAME] Pavix? Could you clarify what you mean or how I can assist with that?
+
+Customer at 24.9s:
+Operator.
+
+Agent (Mia) at 27.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 32.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 36.6s:
+Thank you. Would you like to be connected to a customer support specialist now?
+
+Customer at 41.4s:
+Yes. That's what I said.
+
+Agent (Mia) at 44.3s:
+I'll get you over to our customer support team now. One moment. Connecting you now. One moment, please.
+
+Agent (Human) at 85.2s:
+Afford Of Glen's Lot. How can I help?
+
+Customer at 88.6s:
+How you doing? I'm Mark. Car was due for a service this morning.
+
+Agent (Human) at 95.5s:
+I can't start with your first and last name and then just your vehicle details?
+
+Customer at 100.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] Pavricks. And it's a white Toyota Land Cruiser.
+
+Agent (Human) at 105.3s:
+Alrighty. How can I help?
+
+Customer at 109.1s:
+I was meant to be in there this morning at nine but I just drove back down from Bundaberg, and I was really tired. I've slept in. I don't know what to do.
+
+Agent (Human) at 117.3s:
+Okay. Can you still got seven days. Let me just have a look at your
+
+Customer at 123.9s:
+It said it said on the thing that it's due for service today.
+
+Agent (Human) at 128.0s:
+yep. Just give me
+
+Customer at 128.5s:
+This is a fucking big roll. You see, I only just paid it, like, a month ago. How come it every month?
+
+Agent (Human) at 133.6s:
+Okay. Can I I just asked if I can pop you on a brief hold? I can look over your account. Thank you.
+
+Customer at 139.4s:
+Yep.
+
+Customer at 140.8s:
+Fuck. K. Because you went MIA, Are you is he kidding me? What the fuck? This guy My patience is limited today. Hey, Shan. Could you come here super quickly? Fuck. This doesn't take. I fucking got this service out fucking month. So he was went to debt payment and was referred. With MIA. How can I just tell him how my brain just isn't working? So he's that's how many months is that? So he he because he paid that much. So that's, like, unlock fee plus, like, one, two, three, four, five, So that would have taken that would have only given him thirty. That was his Yeah. Only given him thirty days on the twenty third. But he was missing for how many months does it look like? Because we've got a monitor here. And he pays for $3.96, and then what that took him to February. So he hadn't gotten a service done, so I can just say it's because you went four months without getting a service. Yeah. And then you okay. Cool. Yep. Okay. Cool. Cool. Cool. Cool. Cool. The payment that he made, and he put the thirty day from the tenth. Yep. And he's still paying $3.96. Again, not three months. Yep. Alrighty.
+
+Customer at 249.5s:
+Yep.
+
+Agent (Human) at 249.6s:
+Thank you for your patience. So I just had a review over your account. Because you were revoked MIA and haven't been serviced since so your last payment was one that you recently made was in November last year, and you paid for $3.96 to get you up until February. And then
+
+Customer at 263.9s:
+[SENSITIVE_CONTENT] Remember last year, I got out of jail May this year.
+
+Agent (Human) at 265.7s:
+excuse me, excuse me, adjust that
+
+Customer at 267.5s:
+And I've paid Just
+
+Agent (Human) at 269.1s:
+sir, I just said, besides the payment you just made, So
+
+Customer at 273.8s:
+Yep.
+
+Agent (Human) at 274.6s:
+because you it's gone you so there's four months missing of rental. So that payment you just made in May, was four months of rental plus the month that you owe, so the month going forward. So from the May 7 to the to up until now. So you paid another month of rental. So you only paid for thirty days of rental. Last month because you went you had a pay the owed amount for the months that you didn't pay for. So you have a week from today. So you have up until the twenty
+
+Customer at 305.4s:
+[SENSITIVE_CONTENT] Cheese. We're all all locked. Accounts holding up there. I went in you guys told me I can get this exemption thing in $8 a month. I went and paid extra money to have this thing done, and I got denied it. I just got out of fucking jail. I don't have a job. Like, how do do this shit?
+
+Agent (Human) at 316.4s:
+That has nothing Okay. That has nothing to that has nothing to do with us. We're not trans school. We don't give out hand we don't give out the financial assistance.
+
+Customer at 324.1s:
+These are the ones that are getting the fucking money.
+
+Agent (Human) at 326.1s:
+Yet because you're renting an interlock device from us. If you want to drive your vehicle, you have to have an eye condition on your license, and you have to have an interlock installed in the vehicle.
+
+Customer at 334.3s:
+[SENSITIVE_CONTENT] Yeah. I do understand? On just got out of jail. I don't have a job, and I've just paid over a grand to get this thing
+
+Agent (Human) at 335.8s:
+So if you I I know.
+
+Customer at 340.6s:
+and truck drive.
+
+Agent (Human) at 341.3s:
+It wasn't over a grand. It was 864, and you paid
+
+Customer at 344.6s:
+Reggie, mate. Reggie.
+
+Agent (Human) at 346.0s:
+okay. That's not that's not anything to do with us. You paying your rego has not
+
+Customer at 348.6s:
+That's another fucking airlock. How the fuck can I expect a little dude to fucking afford this shit? Like,
+
+Agent (Human) at 353.9s:
+okay. I'm gonna end the call now and I'm not continuing this conversation. You have
+
+Customer at 358.5s:
+So what do I do now? It says it's due today. What do I
+
+Agent (Human) at 359.7s:
+you have up until you have up until the twenty fourth if you the handset tomorrow, will say miss service May 24. So you have up until the twenty fourth to make one month rental payment, is $1.32. You can make that online, or we can send you an invoice. But I'm not continue
+
+Customer at 375.0s:
+can you send me an invoice? Because I've got nothing on my phone. All I've got is this interlock
+
+Agent (Human) at 376.5s:
+yeah.
+
+Customer at 379.3s:
+me it was due for service today. That's all I've got.
+
+Agent (Human) at 380.6s:
+Okay. Okay. I'll send you an invoice. Thank you.
+
+Customer at 384.0s:
+Great. Thank you.

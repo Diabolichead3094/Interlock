@@ -1,0 +1,125 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.2s:
+Five trying to get my car booked in. I've watched the video, but I don't know what to do from there.
+
+Agent (Mia) at 15.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 20.5s:
+[CUSTOMER_NAME]
+
+Agent (Mia) at 25.3s:
+Thank you. Just to clarify, are you looking to book a monitor or calibration service for your interlock device? Or is this for general mechanical work on your car?
+
+Customer at 37.3s:
+Trying to book my monitor.
+
+Agent (Mia) at 40.3s:
+Thanks for clarifying. Have you already made payment for your monitored service and received a confirmation SMS?
+
+Customer at 46.3s:
+Yes.
+
+Agent (Mia) at 48.2s:
+All good. Are you ready to be connected to a specialist now to finalize your monitor booking?
+
+Customer at 53.7s:
+Yes. Thank you.
+
+Agent (Mia) at 55.8s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 62.1s:
+Yes.
+
+Agent (Mia) at 64.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 100.2s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 103.6s:
+How you going, Sarah? It's [CUSTOMER_NAME] Farr here.
+
+Agent (Human) at 105.9s:
+Good, [CUSTOMER_NAME]. How about yourself?
+
+Customer at 107.9s:
+Oh, not too bad. Thanks. Hey. I'm just received an email from you guys saying I need to complete the video like, I paid for handle lock and all this stuff. I was booked in Monday, and I I what's the I'll do the online interlock training program.
+
+Agent (Human) at 123.5s:
+Yes. So there's a video that you just view. It takes
+
+Customer at 125.9s:
+Yeah.
+
+Agent (Human) at 127.3s:
+you about how the interlock works, and it's got a checklist So that would have been
+
+Customer at 131.9s:
+Where did you get to the checklist? Because I got I watched the video, like, four times.
+
+Agent (Human) at 136.4s:
+so when you click
+
+Customer at 137.5s:
+What's the guessing?
+
+Agent (Human) at 138.8s:
+so when you click and open it, so if you go past step one, because obviously you viewed the video, then you'll see step
+
+Customer at 147.3s:
+Yeah.
+
+Agent (Human) at 147.7s:
+two, review the policies and manuals. Step three, And then step four is the checklist.
+
+Customer at 152.5s:
+Well, when I get when I when I get out of the video when I get out of the video, it's got me
+
+Agent (Human) at 155.3s:
+Yes.
+
+Customer at 157.3s:
+in some other thing. I got back out of the video, like, to sit back it it hasn't got me in that email
+
+Agent (Human) at 159.1s:
+Yes.
+
+Customer at 162.9s:
+And then if I go back to the email, it wants me to put in all my name and license number and everything again, and I gotta start it all again.
+
+Agent (Human) at 168.2s:
+Yeah. Yeah. So all you have to do is when you start it again, you don't need to watch the video again. So you just go to the next step. So if you can just go through and check
+
+Customer at 179.1s:
+Okay.
+
+Agent (Human) at 183.2s:
+that you've watched and you understand you've been
+
+Customer at 187.6s:
+Yep.
+
+Agent (Human) at 187.8s:
+a link to the instruction manual, etcetera, etcetera. And then go through everything. Tick all those boxes. Sign your name.
+
+Customer at 191.6s:
+Okay.
+
+Agent (Human) at 195.2s:
+And then submit. And then that's it.
+
+Customer at 197.3s:
+Wonderful. Okay. Thank you very much for that. Appreciate it.
+
+Agent (Human) at 200.4s:
+Thank you. Alright.
+
+Customer at 200.9s:
+Okay. Bye. Bye. Bye.
+
+Agent (Human) at 202.8s:
+Bye.

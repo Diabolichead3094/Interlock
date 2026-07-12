@@ -1,0 +1,212 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.7s:
+Take help.
+
+Agent (Mia) at 13.1s:
+I can help with that. May I have your full name for our records first? Just checking in. May I have your full name, I can assist you further?
+
+Customer at 34.7s:
+Oh, What's order of electrics?
+
+Agent (Mia) at 49.3s:
+Just to make sure I'm on the right track. Did you mean you want to know the order of steps for removing your interlock device? Or are you asking about something else?
+
+Customer at 58.8s:
+That can help.
+
+Agent (Mia) at 60.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 64.2s:
+Woods or a metrics.
+
+Agent (Mia) at 67.2s:
+Just to clarify, are you asking for technical help with your interlock device's wiring or electrical system?
+
+Customer at 71.2s:
+Yes.
+
+Agent (Mia) at 74.4s:
+Thank you. Can you confirm if your asking for help with the interlock device's wiring or do you need assistance with booking a service or removal?
+
+Customer at 83.6s:
+One.
+
+Agent (Mia) at 86.0s:
+Thanks for confirming. Just to clarify, are you experiencing a lockout or violation on your interlock device right now?
+
+Customer at 92.0s:
+No.
+
+Agent (Mia) at 95.0s:
+Understood. Are you currently locked out of your interlock device
+
+Customer at 96.2s:
+I'd like to talk to a person. I'd like to talk to a real human being.
+
+Agent (Mia) at 100.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 104.6s:
+What's the order of electrics?
+
+Agent (Mia) at 107.5s:
+Auto electrics refers to the electrical systems and wiring in your vehicle. Including things like the battery, starter motor, alternator, lights,
+
+Customer at 113.9s:
+Want to talk to a real person.
+
+Agent (Mia) at 117.3s:
+Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 120.2s:
+Yes.
+
+Agent (Mia) at 123.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 171.6s:
+Hello. [AGENT_NAME] speaking.
+
+Customer at 173.7s:
+Hello, Hannah. I'm ready from Watts Auto.
+
+Agent (Human) at 176.0s:
+Hi. How are you?
+
+Customer at 177.9s:
+You doing a monitor for Rick this morning.
+
+Agent (Human) at 185.5s:
+Okay. What's the original number?
+
+Customer at 190.2s:
+Five three nine
+
+Agent (Human) at 191.6s:
+Five three
+
+Customer at 191.9s:
+a w
+
+Agent (Human) at 193.2s:
+Sorry. Five
+
+Customer at 193.3s:
+Yep. Sorry. Five three nine k w three.
+
+Agent (Human) at 196.6s:
+Sorry. It's a bit it's a sunny line. Five three nine?
+
+Customer at 201.8s:
+Five three nine
+
+Agent (Human) at 204.0s:
+Yep.
+
+Customer at 204.1s:
+k w three.
+
+Agent (Human) at 207.1s:
+3. Yep. I don't see that. The camera has not been downloaded. Oh, okay. We can set you trying to put the monitor through on the computer?
+
+Customer at 221.8s:
+Yeah. Yes. I'm figuring
+
+Agent (Human) at 222.6s:
+Yeah.
+
+Customer at 223.3s:
+doesn't not let me through because it
+
+Agent (Human) at 224.6s:
+Hasn't been set up from our end because
+
+Customer at 225.5s:
+should be.
+
+Agent (Human) at 227.6s:
+the photos have been downloaded, and we do need a photo for his profile.
+
+Customer at 230.6s:
+Sorry. Sorry. But the camera comes over the picture on the on the handpiece when it's going through its procedure.
+
+Agent (Human) at 238.0s:
+Yep.
+
+Customer at 239.0s:
+But when it goes to upload, it says zero zero pictures.
+
+Agent (Human) at 244.1s:
+Oh gosh. Okay. Have you got a spare camera there we could exchange or no?
+
+Customer at 251.3s:
+Done. Moment. No. I've got one that I've removed from a vehicle, but that was because
+
+Agent (Human) at 254.5s:
+Okay. So it says none to upload.
+
+Customer at 259.3s:
+yeah. So it's none till I upload. Although there's a there's a picture on the screen.
+
+Agent (Human) at 263.1s:
+So when
+
+Customer at 263.3s:
+The camera's
+
+Agent (Human) at 264.3s:
+hi?
+
+Customer at 265.5s:
+yeah. So the camera's sort of active, but it's not not uploading. Taking
+
+Agent (Human) at 272.4s:
+Righty. We might have to send a new one out to you to change over at the next service.
+
+Customer at 275.0s:
+Yep. Yes.
+
+Agent (Human) at 277.7s:
+He has paid for three months, though. Okay. Yeah. I'll set it up for you now, and then I'll organize for that to happen. So
+
+Customer at 286.0s:
+You.
+
+Agent (Human) at 286.0s:
+it even like, if you plot like sorry. You don't have the handset connected at the same time as you have the cable for the camera connected, do
+
+Customer at 296.4s:
+No. No. So I separate the bite.
+
+Agent (Human) at 297.5s:
+No.
+
+Customer at 298.5s:
+Separate them. Yeah. I'll do the camera first and then
+
+Agent (Human) at 298.7s:
+Yeah.
+
+Customer at 300.8s:
+then I'll do the.
+
+Agent (Human) at 300.9s:
+And then and that's all it says. No photos to upload.
+
+Customer at 304.8s:
+Yeah. It just says zero photos.
+
+Agent (Human) at 306.6s:
+Okay. We'll have to get that sorted. Right now, I'll set this up for you now. Okay?
+
+Customer at 311.6s:
+Thank you, honey.
+
+Agent (Human) at 312.5s:
+Thank you. See you. Bye.
+
+Customer at 314.2s:
+Bye bye.

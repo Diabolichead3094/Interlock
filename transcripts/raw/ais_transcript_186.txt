@@ -1,0 +1,68 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+I'm looking to see the pricing for an interlock system on my car.
+
+Agent (Mia) at 12.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.8s:
+Thank you. Have you already received a quote from us?
+
+Customer at 25.3s:
+No.
+
+Agent (Mia) at 27.2s:
+Thanks for letting me know. I can send you a link to request a quote for a new interlock installation, Or if you prefer, I can connect you to our quotes team to discuss pricing directly. Which would you like?
+
+Customer at 38.9s:
+Direct me to the pricing team.
+
+Agent (Mia) at 43.0s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote. Usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 58.1s:
+Yes.
+
+Agent (Mia) at 60.5s:
+Our office is currently open. Are you ready to be connected to our quotes team now?
+
+Customer at 65.1s:
+Yes.
+
+Agent (Mia) at 67.2s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 101.2s:
+K. Yep. Affordable Interlux. This is Tracy.
+
+Customer at 109.6s:
+Hi. How are you today?
+
+Agent (Human) at 110.9s:
+Good. Thanks. How are you?
+
+Customer at 112.6s:
+Yeah. Well, thanks. I'm ask I'm looking to see how much it will cost to get an interlock system on my car.
+
+Agent (Human) at 119.2s:
+Okay. Certainly. I can see you've you've called from a mobile number. I can send the link for our quote to your mobile number for you.
+
+Customer at 123.9s:
+Yeah.
+
+Agent (Human) at 128.1s:
+If you could fill in that little form, we'll be able to send you the quote for you.
+
+Customer at 133.9s:
+Okay. I'll do that now then.
+
+Agent (Human) at 134.6s:
+Yeah. Awesome. Fantastic. Thank you so much. You have a good day. Bye.
+
+Customer at 137.6s:
+Alright. Thanks.

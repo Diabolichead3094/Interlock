@@ -1,0 +1,62 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+I may I got a message to get my interlock calibrated. So I've gotta pay, I guess, for the next three to August. My next installment, whatever it is.
+
+Agent (Mia) at 17.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.8s:
+Yes. Craig and Mackenzie. M c k.
+
+Agent (Mia) at 27.6s:
+Just a sec while I get that sorted for you.
+
+Customer at 30.0s:
+Yep.
+
+Agent (Mia) at 30.2s:
+I've sent you a payment link by text. You can use that to pay for your next calibration period. Is there anything else I can help you with today?
+
+Customer at 37.9s:
+I think you could pay over the phone. Just I normally do. I can't do I'm pretty dumb on this stuff. I'm just fine. You there?
+
+Agent (Mia) at 49.7s:
+All good? Just to clarify, are you asking about a fine related to your interlock?
+
+Customer at 51.0s:
+Hi.
+
+Agent (Mia) at 54.4s:
+Or do you need help with something else on your account?
+
+Customer at 57.2s:
+No. I just wanna pay for the because I've I've booked it in for Friday because I could go to hospital the following week, so I won't make the sick and that's the due date it's supposed to be done. 09/26 or something. It's on the. No. The seventh. Or the sixth of the sixth. Is that right?
+
+Agent (Mia) at 79.1s:
+To check your exact service due date, you can use your interlock device. Would you like step by step instructions to find the service date on your device?
+
+Customer at 83.5s:
+Yeah. No. No. No. I know. I've already booked it in for the service, but I just wanna pay for it now. Because I have to have it paid in a text message.
+
+Agent (Mia) at 93.2s:
+No worries. Do
+
+Customer at 96.4s:
+From you guys.
+
+Agent (Mia) at 97.0s:
+You're all set. The payment link has already been sent to you by text. You can pay for your upcoming service using that link. Anything else I can help with today?
+
+Customer at 105.8s:
+No. That's it. Thank you. Alright.
+
+Agent (Mia) at 108.7s:
+Thank
+
+Customer at 109.0s:
+Okay. Thanks. Have a good day. Bye.
+
+Agent (Mia) at 112.5s:
+Thanks for calling Affordable Interlock Systems. Have on the fork? Get book a call. Have a wonderful day.

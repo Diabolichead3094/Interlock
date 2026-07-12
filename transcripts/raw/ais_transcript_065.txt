@@ -1,0 +1,203 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+I have a permanent lock here. 14.
+
+Agent (Mia) at 11.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.4s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME].
+
+Agent (Mia) at 20.1s:
+Thank you. Just to confirm, is your device showing a permanent lock or is there a countdown timer displayed?
+
+Customer at 30.4s:
+Just a permanent lockout.
+
+Agent (Mia) at 33.0s:
+Thanks for confirming. For a ten minute lockout, you'll need to wait until the countdown finishes, There's no way to override it remotely. Please stay with your vehicle until the timer expires. Is there anything else I can help with?
+
+Customer at 47.5s:
+There's no timer.
+
+Agent (Mia) at 51.2s:
+Just to make sure I'm on the right track. Did you mean your device is locked out but there's no countdown showing on the screen?
+
+Customer at 57.3s:
+Correct.
+
+Agent (Mia) at 59.6s:
+Understood. Since there's no countdown showing, but you're locked out, this could be a service or calibration issue. Would you like step by step help to check your next service date on the device?
+
+Customer at 71.5s:
+I just paid just now. I'm booked in for tomorrow.
+
+Agent (Mia) at 77.2s:
+Thanks for letting me know since you've already paid and have a booking. I'll connect you with a specialist to help further. Are you ready to be transferred now?
+
+Customer at 85.4s:
+Yes, please.
+
+Agent (Mia) at 87.8s:
+I'll get you over our customer support team now. One moment.
+
+Agent (Human) at 130.1s:
+Affordable Interlocks. [AGENT_NAME] speaking.
+
+Customer at 133.9s:
+Sarah. I need to have the permanent lockout taken off the end, please.
+
+Agent (Human) at 140.5s:
+Sure. Can I just grab your name and vehicle registration?
+
+Customer at 145.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME]. Five three nine k w three.
+
+Agent (Human) at 154.4s:
+Thanks, [CUSTOMER_NAME]. Alright. So let's have a look there. So you've got the Mitsubishi Triton. Okay. So your vehicle was having repairs for your brakes? Is that right?
+
+Customer at 171.5s:
+It wasn't for the brakes. Right.
+
+Agent (Human) at 174.4s:
+Or some issue you were having?
+
+Customer at 174.4s:
+I had I'm at a I've had a lot of trouble with it. We've got it going. There's still some issues. There's electrical issues. So I was gonna do the the fuses. That was the last time I spoke to him. Was gonna do the fuses. But because there was a immediate re recall 30, which I believe is the camera, They said, when did you get home? Because I wasn't home at the time. They said, when you get home, disconnect the battery for half an hour,
+
+Agent (Human) at 208.0s:
+Yes.
+
+Customer at 208.1s:
+then reconnect it. So I did
+
+Agent (Human) at 211.5s:
+Mhmm.
+
+Customer at 211.8s:
+and the car really been driven since then, and now I have this permanent lockout fourteen.
+
+Agent (Human) at 219.5s:
+Alright. So and have you got your vehicle booked to have a service? Would you be taking it towards
+
+Customer at 228.4s:
+Tomorrow. I'm booked in 12:00 tomorrow.
+
+Agent (Human) at 232.0s:
+Excellent. Alright. Well, on this occasion, I will clear that message of your handset with the permanent lockout.
+
+Customer at 241.6s:
+What does it mean? What does it fourteen mean?
+
+Agent (Human) at 244.9s:
+It's [AGENT_NAME] to your battery or having it disconnected for longer than thirty minutes. But, also, it when you get permanent lockout, that's after seven days of having the message on your handset. So that's what you need to keep an eye on, [CUSTOMER_NAME], in the future. If you see immediate recall, you need to call us within seven days. As after seven days, it locks you out if it's not cleared. Okay?
+
+Customer at 273.3s:
+I as I said, it's been the car's been worked on It's been well, I've had a lot of trouble with it.
+
+Agent (Human) at 278.5s:
+Yes. I understand that, but I'm just letting you know for the future, a permanent lockout is $70 to clear. Okay?
+
+Customer at 287.8s:
+Alright. Thank you, sir.
+
+Agent (Human) at 289.3s:
+That's alright. So, um, are you with the vehicle at the moment, [CUSTOMER_NAME]?
+
+Customer at 294.4s:
+I'm in the vehicle. I got the keys in the ignition, but not turned on, and I've got the hand in the hand.
+
+Agent (Human) at 299.3s:
+Alright. Excellent. Great. So on the handset right now, you have permanent lockout. Reading on the front. Okay. Press and hold the left hand button.
+
+Customer at 306.4s:
+Yep.
+
+Agent (Human) at 310.1s:
+You should see it will bring up service dates. What's showing on your handset there, [CUSTOMER_NAME]?
+
+Customer at 326.2s:
+Lit up. Bright. Permanent lockout. 14, but nothing else has happened.
+
+Agent (Human) at 329.8s:
+So take your finger off and try again.
+
+Customer at 331.3s:
+Nothing. Yeah. We have service dates. Yeah.
+
+Agent (Human) at 334.9s:
+Alright. Use your right button short presses until you see the word reset.
+
+Customer at 341.5s:
+Service. Yeah. Reset. Yep.
+
+Agent (Human) at 343.4s:
+Then select with the large button.
+
+Customer at 349.3s:
+Went back down to permanent lockout. Let's try and be
+
+Agent (Human) at 351.7s:
+So you you must have held it too long. You just gotta short press. Okay?
+
+Customer at 360.5s:
+Select. Yeah. Okay. We got it. Yeah.
+
+Agent (Human) at 362.7s:
+Okay. So now the code we need to enter is eight eight three nine and you can use left or right to find the number and then select after each number.
+
+Customer at 377.4s:
+Eight eight eight
+
+Agent (Human) at 379.8s:
+Three nine.
+
+Customer at 387.4s:
+Three. Oh, 8839. Select. Got it.
+
+Agent (Human) at 394.3s:
+Select and then accept. And then it will come up with subcode.
+
+Customer at 400.1s:
+Yep.
+
+Agent (Human) at 401.1s:
+And the subcode is zero zero nine four.
+
+Customer at 417.1s:
+Accept.
+
+Agent (Human) at 420.4s:
+That's it.
+
+Customer at 422.2s:
+Service due the eighteenth of the sixth. 2026.
+
+Agent (Human) at 425.8s:
+Excellent. So this is, um, letting you know your service due date. And then with your service due, you always have seven days either side of that date. And seeing as you've already booked it in for tomorrow at midday, you'll be good for another three months once that's completed. Okay?
+
+Customer at 449.6s:
+Yeah. Excellent. Thank you very much. So will that come from
+
+Agent (Human) at 451.9s:
+Alright, [CUSTOMER_NAME].
+
+Customer at 453.6s:
+Will that come up again? That as
+
+Agent (Human) at 456.0s:
+Yes. It it'll remind you each day. Until you get the service completed. So it'll remind you today and then tomorrow, probably as you're driving it in. But then once the service is completed, then the reminders will be well, they'll be completed also because you'll be good for ninety days. Okay?
+
+Customer at 480.8s:
+Thank you very much, sir.
+
+Agent (Human) at 482.8s:
+No worries at all. Have a good afternoon.
+
+Customer at 483.1s:
+Thank you. Okay. Great. Thank you. Bye bye.
+
+Agent (Human) at 487.5s:
+Thank you. Bye.

@@ -1,0 +1,20 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+Get a quote.
+
+Agent (Mia) at 7.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 15.3s:
+Just to make sure I'm on the right track. Did you say items in relation to your quote request? Or did you mean something else?
+
+Customer at 23.2s:
+I want to get a quote.
+
+Agent (Mia) at 26.2s:
+I can help with that. May I have your full name for our records first?

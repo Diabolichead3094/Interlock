@@ -1,0 +1,116 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.5s:
+Need to get a o five code, please.
+
+Agent (Mia) at 13.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.6s:
+Oh, thank you. Can you tell me what message or error your device is showing right now?
+
+Customer at 28.5s:
+It says immediate recall o five.
+
+Agent (Mia) at 33.1s:
+Understood. Is your device currently allowing you start the vehicle, or is it locked out?
+
+Customer at 38.6s:
+Allow me to stop. Vehicle.
+
+Agent (Mia) at 42.4s:
+Yes. Please switch your vehicle off before we continue. Let me know when that's done.
+
+Customer at 49.6s:
+The vehicle's off.
+
+Agent (Mia) at 52.3s:
+Great. Place hold down the top left button on your interlock device to enter the menu. Let me know when you see the menu appear.
+
+Customer at 64.4s:
+Yeah.
+
+Agent (Mia) at 67.4s:
+Now use the big bottom button to scroll through the menu and select service date. Let me know what date appears on the screen.
+
+Customer at 80.6s:
+11 with the ice. Twenty twenty six.
+
+Agent (Mia) at 84.8s:
+Thanks for checking. Your service date is the 06/11/2026. There is a seven day grace period after this date. After that, the car will lock out and a fee applies. Would you like help with anything else?
+
+Customer at 98.7s:
+Yes. Could I please get a code for an o five message.
+
+Agent (Mia) at 107.0s:
+I can help with that. Just to confirm you have your payment amount ready, or do you need to check your balance first?
+
+Customer at 114.2s:
+No. I'm not. I'm not paying for something. It's
+
+Agent (Mia) at 119.4s:
+No.
+
+Customer at 119.7s:
+for so it said the immediate recall.
+
+Agent (Mia) at 132.5s:
+Understood. Since you're seeing an immediate recall of five message, do not wish to make a payment, I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 143.3s:
+Yeah.
+
+Agent (Mia) at 145.2s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 149.8s:
+Thank you.
+
+Agent (Mia) at 152.5s:
+Connecting you now. Please hold.
+
+Agent (Human) at 189.0s:
+Hi, [CUSTOMER_NAME]. [AGENT_NAME] speaking. How are you?
+
+Customer at 191.6s:
+Good. How are you?
+
+Agent (Human) at 192.8s:
+Good. You got the o five?
+
+Customer at 195.1s:
+Yeah.
+
+Agent (Human) at 196.1s:
+Okay. Are you in the car at the moment?
+
+Customer at 198.4s:
+Yeah.
+
+Agent (Human) at 199.2s:
+Yep. So if you can go across to reset and put in three six five eight.
+
+Customer at 205.5s:
+Yep. Just give me a sec. Sorry. Three six five eight.
+
+Agent (Human) at 215.8s:
+Yes.
+
+Customer at 222.2s:
+Yeah.
+
+Agent (Human) at 223.6s:
+Sub code zero zero seven five.
+
+Customer at 232.7s:
+Sweet. Thank you.
+
+Agent (Human) at 233.6s:
+Well done. Thank you. See you.
+
+Customer at 235.4s:
+See you. See you.

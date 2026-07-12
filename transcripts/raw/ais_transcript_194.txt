@@ -1,0 +1,89 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.3s:
+Interlock installation.
+
+Agent (Mia) at 9.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.8s:
+It's.
+
+Agent (Mia) at 18.8s:
+Could you please provide your full name for our records?
+
+Customer at 22.2s:
+Italicea model.
+
+Agent (Mia) at 25.5s:
+Thank you. Have you already received a quote from us?
+
+Customer at 28.9s:
+Yes.
+
+Agent (Mia) at 30.7s:
+Thanks for letting me know. Would you like to speak with someone from our quotes team now?
+
+Customer at 35.0s:
+Yes.
+
+Agent (Mia) at 37.0s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 42.2s:
+Yes.
+
+Agent (Mia) at 44.1s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 83.6s:
+Affordable interlocks. This is [AGENT_NAME].
+
+Customer at 86.8s:
+Hi. I got a quote for an installation and it was booked for the July 21, but I'm unable to make the payment until the July 17.
+
+Agent (Human) at 97.9s:
+Okay. Let me just have a look through here you. What was your registration for your vehicle, please?
+
+Customer at 103.4s:
+BJ. P ninety one f.
+
+Agent (Human) at 107.9s:
+Thank you. And what was your name?
+
+Customer at 110.1s:
+Itzelisimo.
+
+Agent (Human) at 111.6s:
+Thank you. Okay. So we are to make that payment on the seventeenth.
+
+Customer at 117.1s:
+Yes.
+
+Agent (Human) at 117.9s:
+Okay. So we'd be able to book that in on the twenty fourth. We just need to move your booking.
+
+Customer at 125.1s:
+Yeah. That's fine. Thank you.
+
+Agent (Human) at 126.2s:
+Okay. Paying on the seventeenth. And would you be able to make that payment before 3PM?
+
+Customer at 133.6s:
+On the seventeenth. Yes.
+
+Agent (Human) at 135.1s:
+Yes. Yep. Okay. Not a problem. I'll have your booking moved for you, but thank you very much for giving us a call.
+
+Customer at 147.0s:
+Thank you so much.
+
+Agent (Human) at 148.0s:
+You're welcome. You have a good day.
+
+Customer at 149.2s:
+Thanks. Bye.
+
+Agent (Human) at 150.0s:
+Thank you. Okay. Bye.

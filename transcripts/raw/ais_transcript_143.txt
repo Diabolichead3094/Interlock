@@ -1,0 +1,98 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 11.2s:
+Talk to a human.
+
+Agent (Mia) at 13.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.7s:
+Please let me talk to a human.
+
+Agent (Mia) at 22.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 28.1s:
+Please let me talk to a human first.
+
+Agent (Mia) at 31.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 35.9s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME].
+
+Agent (Mia) at 39.2s:
+Thank you. Would you like me to connect you to a customer support specialist now? Are you ready to be transferred?
+
+Customer at 44.4s:
+Yes, please. Yes, please.
+
+Agent (Mia) at 47.9s:
+I'll get you over to our customer support team now. One moment. Connecting you
+
+Agent (Human) at 85.8s:
+Hi. You're speaking to Tracy.
+
+Customer at 88.4s:
+Hi, Trish. How are you?
+
+Agent (Human) at 89.5s:
+Good. Thanks. How are you?
+
+Customer at 91.3s:
+I'm okay. I was just calling regarding the analogs. I'm trying to install one in my car.
+
+Agent (Human) at 96.1s:
+Right?
+
+Customer at 96.6s:
+Trying to see, yeah, what like, anything, like, around me around me where I live.
+
+Agent (Human) at 101.7s:
+Have you received the quotas yet?
+
+Customer at 105.5s:
+Sorry?
+
+Agent (Human) at 106.0s:
+Have you received the quotas yet?
+
+Customer at 109.0s:
+No.
+
+Agent (Human) at 109.5s:
+Okay. Can see that you called from a mobile number [CARD_ON_FILE]. I'm just gonna send the low the link for our quote form. If you can complete that, then we'll have the quote back to you later on this afternoon.
+
+Customer at 123.2s:
+Okay. Do you have to do that before you book an appointment?
+
+Agent (Human) at 126.0s:
+Yes. You do. Yes.
+
+Customer at 128.1s:
+Okay. I got it.
+
+Agent (Human) at 131.5s:
+Awesome. Fantastic. I'll wait to see from you quite soon.
+
+Customer at 134.2s:
+So so once received, you're gonna I'm gonna get a callback?
+
+Agent (Human) at 138.2s:
+Yeah. You'll get a quote back or through your email.
+
+Customer at 141.2s:
+I mean, like, a callback to book an appointment.
+
+Agent (Human) at 143.9s:
+No. Once you make a quote, if you're happy go ahead with it, then you'll press the enroll now button at the bottom of the quote. And we'll make a booking. And we'll advise you via email.
+
+Customer at 156.5s:
+Okay. Thank you.
+
+Agent (Human) at 158.2s:
+Okay. You. Have a good day. Bye.
+
+Customer at 160.7s:
+You too. Bye.

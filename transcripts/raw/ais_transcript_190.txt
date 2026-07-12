@@ -1,0 +1,50 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.1s:
+Hello, Mia. I'd like to get my interlock taken out of my car.
+
+Agent (Mia) at 10.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Have you already received your official completion notice from your state department?
+
+Customer at 24.1s:
+Yes.
+
+Agent (Mia) at 26.2s:
+Understood. Are you ready to be connected to a customer support specialist now to discuss your removal?
+
+Customer at 31.7s:
+Yes.
+
+Agent (Mia) at 33.5s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 39.0s:
+Yes.
+
+Agent (Mia) at 41.0s:
+I'll get you over to our customer support team now. One moment. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [REDACTED], or would you prefer a different number?
+
+Customer at 110.0s:
+No. That's the correct number.
+
+Agent (Mia) at 113.8s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 117.8s:
+Thank you. No. That's it. Thank you.
+
+Agent (Mia) at 120.7s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 123.5s:
+Thank you. Bye.
+
+Agent (Mia) at 125.7s:
+Thanks for calling Affordable Interlock Systems. Have VA wonder full dash cash.

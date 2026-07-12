@@ -1,0 +1,26 @@
+Customer at 0.0s:
+You have to wipe
+
+Agent (Mia) at 0.1s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+Permanent lockout. Breathalyzer.
+
+Agent (Mia) at 9.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.4s:
+Thank you. Can you tell me how long the lockout timer on your device is currently showing?
+
+Customer at 22.4s:
+Fifteen minutes.
+
+Agent (Mia) at 25.0s:
+If your device is showing a fifteen minute lockout, you'll need to wait until the timer expires. There's no way to override this period. Please remain with your vehicle until the countdown finishes.
+
+Customer at 39.5s:
+That's who you put. I'm gonna

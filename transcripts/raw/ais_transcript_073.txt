@@ -1,0 +1,317 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+Currently, what of done my online quote form waiting to hear back from you guys. Just wondering what's going on.
+
+Agent (Mia) at 15.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 22.1s:
+Thank you. Have you already received a quote from us?
+
+Customer at 26.6s:
+No.
+
+Agent (Mia) at 28.7s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours.
+
+Customer at 34.6s:
+I've already done that.
+
+Agent (Mia) at 37.8s:
+Would you also like to speak with someone
+
+Customer at 38.1s:
+I've already done Yes, please.
+
+Agent (Mia) at 41.0s:
+Understood. Would you like to speak with someone from our quotes team now?
+
+Customer at 45.2s:
+Yes, please.
+
+Agent (Mia) at 47.1s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 51.7s:
+Yes, please.
+
+Agent (Mia) at 54.8s:
+I'll get you over to our quote team now. One moment.
+
+Agent (Human) at 91.4s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 94.4s:
+Hi. I'm over Yesterday, I did my quote form and all that with you guys, and sent through the financial assistance. Paperwork too. I just haven't heard back yet, I don't think.
+
+Agent (Human) at 108.6s:
+Oh, okay. Let me have a look at that for you. So
+
+Customer at 111.2s:
+I just wanted to try and get the car booked in. That's all.
+
+Agent (Human) at 114.3s:
+so can I grab your name and vehicle details?
+
+Customer at 118.7s:
+My name is [CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 120.3s:
+Mhmm.
+
+Customer at 121.0s:
+And the vehicle is a silver Subaru Liberty. Registration's one nine four zed u w. It's a 2010 model.
+
+Agent (Human) at 128.1s:
+Alright. Let's let's have a look there.
+
+Customer at 129.2s:
+Subaru Liberty. Sir. I did receive an email back, but it was just what I sent to you guys, I think. And it was just a that that
+
+Agent (Human) at 140.9s:
+Just the confirmation that you submitted the request.
+
+Customer at 143.2s:
+yeah. Yeah. It was just pretty much what I've sent to you guys. I just
+
+Agent (Human) at 145.3s:
+Okay.
+
+Customer at 147.6s:
+got that, like, back. I think. And then I just haven't heard nothing back. That's all.
+
+Agent (Human) at 149.5s:
+Yeah. Alright. So I can see that it's the financial assistance. So just a moment while I check with the quotes team. You mind holding a moment?
+
+Customer at 162.9s:
+Alright. Yeah. That's fine, though.
+
+Agent (Human) at 165.0s:
+Thank you. Thank you for holding, [CUSTOMER_NAME].
+
+Customer at 198.7s:
+Yeah.
+
+Agent (Human) at 199.7s:
+Sorry to keep you. So it looks like they are working on your quote at present. Sorry for the holdup. Mondays can sometimes be very, very busy, and we have had a lot of quotes.
+
+Customer at 212.5s:
+That's okay.
+
+Agent (Human) at 214.8s:
+For the month of June. So that seems to be what the issue has been.
+
+Customer at 214.9s:
+Yep. That was fine. I've actually I've actually just got this paperwork in front of me that's from the government, and they've actually got my driver's license number wrong on it. If you wanna fix that up. That's on the
+
+Agent (Human) at 227.3s:
+Oh,
+
+Customer at 229.8s:
+the financial assistance program. So the driver's license number is [REDACTED] not [REDACTED]. I was just looking. I'm like, that's not right.
+
+Agent (Human) at 237.0s:
+Oh, really?
+
+Customer at 238.7s:
+Yeah. So I just thought, do you wanna fix that up while I'm here?
+
+Agent (Human) at 241.2s:
+Yes. Yes. Yes.
+
+Customer at 242.7s:
+Sorry. Yeah. That was on the government. They've they've done that.
+
+Agent (Human) at 246.7s:
+Alright. So
+
+Customer at 247.1s:
+So but I've got my driver's license. The
+
+Agent (Human) at 248.6s:
+so it's o
+
+Customer at 250.5s:
+It's O87033967. That's my last number.
+
+Agent (Human) at 253.9s:
+[REDACTED]
+
+Customer at 255.2s:
+On that on that other paperwork, it's they've got [NUMBER].
+
+Agent (Human) at 255.5s:
+one
+
+Customer at 261.5s:
+So
+
+Agent (Human) at 262.2s:
+Yeah. I know that sometimes they put the o because they've gotta fill that space.
+
+Customer at 267.4s:
+Oh, did I?
+
+Agent (Human) at 269.3s:
+Yeah. And sometimes it's there, sometimes it's not.
+
+Customer at 273.1s:
+Yeah. They oh, they've just forgot the o. Sorry. Yeah. That that
+
+Agent (Human) at 274.4s:
+Yeah.
+
+Customer at 276.6s:
+so
+
+Agent (Human) at 277.6s:
+But
+
+Customer at 277.6s:
+that's just gone past me too. Sorry.
+
+Agent (Human) at 280.2s:
+yeah. That's okay. But it's a good pickup.
+
+Customer at 280.4s:
+No. I'm good.
+
+Agent (Human) at 283.8s:
+But, yeah, I think it's just because that's where we're at now with how many numbers
+
+Customer at 288.1s:
+Okay.
+
+Agent (Human) at 288.6s:
+are in licenses. So it's just to align them all, I think.
+
+Customer at 290.7s:
+Oh, okay.
+
+Agent (Human) at 292.9s:
+Yeah. Alright.
+
+Customer at 294.2s:
+And so what happens when your users process, and then do you do do you because I do you just pick the area where I get it?
+
+Agent (Human) at 302.1s:
+So
+
+Customer at 302.8s:
+Like,
+
+Agent (Human) at 304.0s:
+it will be
+
+Customer at 304.4s:
+like, what
+
+Agent (Human) at 305.9s:
+it can be installed to like, it can be installed at whoever is closest to you. And just going off the address that you've given Parkwood,
+
+Customer at 312.0s:
+Yeah. Yeah.
+
+Agent (Human) at 315.9s:
+So we would probably send you to the service center in Labrador opposite Harbortown
+
+Customer at 319.6s:
+Yeah. That's about four yeah. Yeah. Okay. Yeah. Cool.
+
+Agent (Human) at 323.6s:
+Yeah. So if that suits you,
+
+Customer at 324.6s:
+Now that's what I was just curious. And so you just do that and then give me the like, the time to to take the car in, or do I book it in once you finalize it?
+
+Agent (Human) at 333.5s:
+Yes. So we we do the booking. But before we get to the booking, we've actually got
+
+Customer at 336.7s:
+Yep.
+
+Agent (Human) at 340.1s:
+enrollment checks that we have to do. We have to make sure all your data aligns with what how transport has you recorded as in your license, your name,
+
+Customer at 348.8s:
+Yeah. Yeah. Yeah. Yeah.
+
+Agent (Human) at 350.7s:
+how your name appears on the license. So even with your name so [CUSTOMER_NAME] is your second name [CUSTOMER_NAME] or is that part of your first name [CUSTOMER_NAME] [CUSTOMER_NAME]?
+
+Customer at 361.7s:
+Yeah. That that's fine. That's my middle name.
+
+Agent (Human) at 364.6s:
+Oh, it's your middle name. Okay.
+
+Customer at 366.7s:
+Yeah.
+
+Agent (Human) at 367.5s:
+Alrighty. So we can fix that up. No worries. But
+
+Customer at 370.3s:
+That's how I've just done it now. It says on the license. Like, it's there.
+
+Agent (Human) at 373.9s:
+mhmm. Yeah. So those are the sort of things that we would check just to make sure all the data aligns so that when you get in
+
+Customer at 380.7s:
+Yeah.
+
+Agent (Human) at 382.8s:
+installed on the day, everything just goes through, and then all your servicing and rental
+
+Customer at 386.4s:
+Yep.
+
+Agent (Human) at 388.3s:
+um, sorry. Your servicing going forward, you know, that data just transfers
+
+Customer at 392.0s:
+Yeah.
+
+Agent (Human) at 396.2s:
+perfectly every time. So
+
+Customer at 397.5s:
+Okay. No worries.
+
+Agent (Human) at 399.2s:
+we'll get on with this. You just keep an eye out for a
+
+Customer at 401.5s:
+Yep.
+
+Agent (Human) at 402.7s:
+courtesy text message to your phone. That will be to let you know that the quote has been sent.
+
+Customer at 405.0s:
+Yep. Okay.
+
+Agent (Human) at 407.9s:
+And if you have any other questions, we're here till five.
+
+Customer at 408.4s:
+Okay. No worries.
+
+Agent (Human) at 410.4s:
+Alright?
+
+Customer at 411.2s:
+No. That's all. Thank you.
+
+Agent (Human) at 412.8s:
+Thank you. Have a good afternoon.
+
+Customer at 413.9s:
+Okay. Be safe. Bye.
+
+Agent (Human) at 415.4s:
+Bye.

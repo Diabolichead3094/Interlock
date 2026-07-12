@@ -1,0 +1,56 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Can I please speak with a, uh, real person?
+
+Agent (Mia) at 10.6s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 15.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.2s:
+Thank you. Are you ready to be connected to a specialist now?
+
+Customer at 23.2s:
+Yes, please.
+
+Agent (Mia) at 25.6s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 59.1s:
+Affordable Interlocks. How can I help?
+
+Customer at 61.9s:
+Hey. How you going? My name is [CUSTOMER_NAME] [CUSTOMER_NAME]. I just I need you guys to be send out the invoice for my monthly service. I just wanna go get it done today. That's all.
+
+Agent (Human) at 72.0s:
+Alrighty. Can I just have your vehicle details just to make and model all the registration number?
+
+Customer at 77.7s:
+It's a Isuzu Trayback, and it's 533LU5.
+
+Agent (Human) at 82.7s:
+Alrighty. So it's due on the twenty second. Are you just attending early?
+
+Customer at 87.1s:
+Yeah. I I need to get it done today. I won't have time around work. Otherwise,
+
+Agent (Human) at 90.6s:
+That's okay. I'll just get it sent to you now. Do you want me to take a payment while I've got you on the phone, or did you just wanna pay by the invoice?
+
+Customer at 98.2s:
+I'll pay a valid invoice. Yeah. Thank you.
+
+Agent (Human) at 99.8s:
+No worries at all. Just make sure before you get there, if you don't receive your text message, that means we haven't set it up just yet. So if you do arrive, just give us a call. Otherwise, if you have your text message, then it should be all good to go through.
+
+Customer at 112.2s:
+Yeah. Okay. No worries. Thank you.
+
+Agent (Human) at 113.7s:
+No worries. Have a nice day. Bye bye.
+
+Customer at 115.8s:
+Bye.

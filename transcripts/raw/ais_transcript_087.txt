@@ -1,0 +1,161 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.9s:
+Talk to an operator, please.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.0s:
+Yes. [CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.7s:
+Thank you. Are you ready to be connected to a customer support specialist now?
+
+Customer at 25.4s:
+Yes. Thank you.
+
+Agent (Mia) at 28.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 71.0s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 74.0s:
+Hi, Sarah. This is Reese. How are you this afternoon?
+
+Agent (Human) at 77.0s:
+Good race. Yourself?
+
+Customer at 79.1s:
+Good. Thank you. I've just got my I've been away for two weeks with my car, uh, car staying here in New South Wales. I've just turned it on, started it, the battery was flat. But trickle charged the battery to get it going. And now it's got an immediate recall zero five on the screen.
+
+Agent (Human) at 100.1s:
+Alright. Well, I can help you with that, Ray. So can I just grab your last name and your vehicle registration?
+
+Customer at 107.3s:
+Yes. It's [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 109.1s:
+Mhmm.
+
+Customer at 109.6s:
+Vehicle rego, d o seven one r j.
+
+Agent (Human) at 113.9s:
+Thank you. Alright. So you got the Ford Falcon. Okay.
+
+Customer at 118.8s:
+Yes.
+
+Agent (Human) at 119.4s:
+So an o five or immediate recall O5 is relating to a missed retest. So sometimes that happens if you know, you're outside of the car and you've left it running and then you just don't hear it beeping.
+
+Customer at 131.7s:
+That's that's what I've done. Yes.
+
+Agent (Human) at 133.9s:
+Alright. So let's clear that. So are you with your car now, Reese?
+
+Customer at 140.2s:
+Yes. I am.
+
+Agent (Human) at 141.1s:
+Okay. So now this is with the car not running. So you'll need to just grab the handset, and you can press any button.
+
+Customer at 145.7s:
+Yep.
+
+Agent (Human) at 149.3s:
+To wake it up.
+
+Customer at 149.9s:
+Yep. Yep.
+
+Agent (Human) at 151.3s:
+Okay? And then press and hold the left hand button for the menu. It'll bring up service dates. So have you got service dates there, Reese?
+
+Customer at 168.3s:
+No. It's saying hold right button, cancel, restart.
+
+Agent (Human) at 171.3s:
+Oh, I Yes. You gotta cancel the restart first.
+
+Customer at 174.5s:
+Okay. Okay. Now hold the left button.
+
+Agent (Human) at 177.9s:
+And now press the left. Yes. And then use your right button, but short presses.
+
+Customer at 180.4s:
+Further step. Yeah.
+
+Agent (Human) at 185.0s:
+Until you see the word reset.
+
+Customer at 191.2s:
+Reset. Yes.
+
+Agent (Human) at 192.2s:
+And then select with the large button.
+
+Customer at 193.7s:
+Correct.
+
+Agent (Human) at 195.2s:
+And the code here that we need to enter is eight eight three nine
+
+Customer at 218.4s:
+Oops. Three nine.
+
+Agent (Human) at 222.0s:
+That's it.
+
+Customer at 225.9s:
+And select
+
+Agent (Human) at 226.8s:
+And select and then accept.
+
+Customer at 230.6s:
+Accept.
+
+Agent (Human) at 231.9s:
+And then the subcode is zero zero nine four.
+
+Customer at 234.1s:
+Yep. Yep. Four. Select and accept.
+
+Agent (Human) at 250.4s:
+And then accept.
+
+Customer at 254.1s:
+Beautiful.
+
+Agent (Human) at 254.3s:
+There you go. It's all good now, Reese.
+
+Customer at 256.1s:
+Thank sir. Thank you so much for your help. I was panicking what to do.
+
+Agent (Human) at 259.4s:
+No worries. No. As long as you always call within the seven days of having a message with immediate recall, we can always help you with that.
+
+Customer at 267.8s:
+Yep.
+
+Agent (Human) at 268.6s:
+Okay?
+
+Customer at 269.9s:
+Very much. Appreciate your help.
+
+Agent (Human) at 271.6s:
+Okay. Have a good afternoon.
+
+Customer at 272.7s:
+Thank You too. See you later. Bye bye.
+
+Agent (Human) at 274.8s:
+Alright. Bye.

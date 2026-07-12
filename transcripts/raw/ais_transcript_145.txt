@@ -1,0 +1,92 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+I was wondering, Mia, how are you going with the quote I submitted please.
+
+Agent (Mia) at 11.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.6s:
+Thank you. To check on your submitted quote, I'll need to connect you with our quotes team. Are you ready to be transferred now?
+
+Customer at 27.2s:
+Ready when you
+
+Agent (Mia) at 31.6s:
+Get you over to our quotes team now. One moment.
+
+Agent (Human) at 82.3s:
+Good afternoon. Affordable Invalox. You're speaking with Tanya.
+
+Customer at 86.2s:
+Good day, Tanya. My name is [CUSTOMER_NAME]. How are you today?
+
+Agent (Human) at 89.6s:
+Oh, good. Thanks, [CUSTOMER_NAME]. How can I help you?
+
+Customer at 91.9s:
+Yeah. The reason for my call is I submitted a quote this morning. I was just wondering how long it would take potentially, please.
+
+Agent (Human) at 101.6s:
+Okay. Can I have your surname, please, Lynn?
+
+Customer at 104.6s:
+Short [CUSTOMER_NAME], spelled g r a y s o n. Tanya.
+
+Agent (Human) at 110.1s:
+K. Let me just have a look here.
+
+Customer at 112.6s:
+Thanks, Jane.
+
+Agent (Human) at 120.6s:
+Did you submit that online?
+
+Customer at 125.0s:
+Yeah. On my phone. Online. That's right. Why you haven't received it?
+
+Agent (Human) at 129.6s:
+We haven't no. We haven't got anything.
+
+Customer at 132.7s:
+Oh my god. I did the virtual robot and everything. I spent I spent quarter of an hour, twenty minutes on it. You haven't got anything.
+
+Agent (Human) at 142.1s:
+No. We've got nothing. If you just go to our website, and do it on our website, and then I can send you I'll send you a text message with a link and just use that link to to do the quote, and then that will be then that will come through. As soon as that's been sent back to you, you'll get a text message confirming that they've that they are booking sorry. Our quotes seem to have responded
+
+Customer at 161.9s:
+Yeah. I think I might have received the number 10 You know that? Just bear with me while I look for the I've got the recent number. Thanks.
+
+Agent (Human) at 172.8s:
+Sure.
+
+Customer at 198.1s:
+Yeah. So from what I've written down, I've got a code here. A I s in capital dash net. N a t dash zero dash zero two one.
+
+Agent (Human) at 215.7s:
+Okay. That doesn't mean anything to me. Sorry.
+
+Customer at 218.2s:
+Alright. Okay. Alright. Well,
+
+Agent (Human) at 218.9s:
+Yeah. But we we we get a we get an email populated as well, and I can't find the email as well to say that you've submitted a quote. So I'll just send you a text message with that link. And then if you can complete that, the form that opens when you then we'll send you a text message once we have replied to it with your quote.
+
+Customer at 233.1s:
+Mhmm.
+
+Agent (Human) at 235.4s:
+K?
+
+Customer at 236.4s:
+Okay. I'll do the best I can. Thanks, Daniel.
+
+Agent (Human) at 238.0s:
+Okay. Thanks, Lynn. Bye bye.
+
+Customer at 239.4s:
+Bye.

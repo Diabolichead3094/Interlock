@@ -1,0 +1,284 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+Would like to speak to someone on the team about making my into work payment.
+
+Agent (Mia) at 12.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.5s:
+It's y a w I j a c h o l Surname's Stanley, s t a n l e y.
+
+Agent (Mia) at 28.6s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 34.0s:
+No. No. No. Normally, they send me a copy of it, and I didn't get a copy of it. This time.
+
+Agent (Mia) at 40.2s:
+Understood. I'll connect you to our customer support team so they can help with your payment details. Are you ready to be connected now?
+
+Customer at 45.5s:
+Thank you. Yes, please.
+
+Agent (Mia) at 49.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 94.2s:
+Affordable interlocks. [AGENT_NAME] speaking.
+
+Customer at 97.2s:
+Hi. Hi there. My name is Wade. W a t e. My surname is Stanley, s t a n l e y.
+
+Agent (Human) at 103.7s:
+Hi, Wade. How can I help?
+
+Customer at 104.3s:
+Uh-huh. I spoke to someone there last week because my owner looks just over to you. I thought it was due to come out. But when I ring the RTO, they said it's not. It's not due to come out yet.
+
+Agent (Human) at 116.2s:
+Oh,
+
+Customer at 116.2s:
+Whatever information they gave me before was misinformation.
+
+Agent (Human) at 120.5s:
+Oh,
+
+Customer at 120.6s:
+Which I'll sort out within the next month.
+
+Agent (Human) at 122.8s:
+oh, just did they say when it can come out? Did they give you a time? Or a date?
+
+Customer at 127.4s:
+No. They said that they they said December this year, but when I was when I I recently moved and changed my residential address and and all that, and I went down to the service center down here at the RCA, and they said oh, I said, I think my airlock's due to come out. And I said, on the June 10.
+
+Agent (Human) at 144.7s:
+Oh,
+
+Customer at 146.0s:
+And then they said, oh, yeah. Yeah. Yeah. That sounds right. Said, oh, normally, we normally, we send you a letter that they said we might have sent it to you. Was via previous address.
+
+Agent (Human) at 155.2s:
+Oh my god. God.
+
+Customer at 156.6s:
+Because I'm yet to make it down to the I'm trying to get the baby's life. A bad need to let me know at the moment. So I'm yet to get down to the RPA.
+
+Agent (Human) at 161.5s:
+Wow. Yeah.
+
+Customer at 167.2s:
+And I thought, like, I wanna make the payment because I'm gonna need my car.
+
+Agent (Human) at 171.1s:
+Yeah. Yeah. Sure. So
+
+Customer at 173.2s:
+Yeah.
+
+Agent (Human) at 174.9s:
+because you it would have been two years. So you know,
+
+Customer at 178.7s:
+Sorry?
+
+Agent (Human) at 179.4s:
+it would have been two years so that you would have had it in total.
+
+Customer at 179.9s:
+Yes. Yeah. Well, it is in December, apparently.
+
+Agent (Human) at 187.9s:
+And so the they think it's you've got another six months to go?
+
+Customer at 192.1s:
+Yeah.
+
+Agent (Human) at 193.0s:
+Oh, wow.
+
+Customer at 195.0s:
+I'll I'll you know, when I'm feeling a bit physically healthier, I'll go down to the RTI and just
+
+Agent (Human) at 201.3s:
+Yep.
+
+Customer at 201.4s:
+make it clear exactly what the date is. But as I said, I rather just pay you guys with your normal service fee or pay.
+
+Agent (Human) at 207.6s:
+Yep. Yep. Yep.
+
+Customer at 208.3s:
+I'm just trying to at at an arm carbon in you know, another month or two to go with that. Actually, I
+
+Agent (Human) at 214.8s:
+[SENSITIVE_CONTENT] Yeah. And, Wade, you're still on the Centrelink, aren't you? Still got Centrelink? Awesome.
+
+Customer at 221.1s:
+Yes. Go on some links here.
+
+Agent (Human) at 223.1s:
+Do you know do you happen to know your your card, the expiry date?
+
+Customer at 228.4s:
+Oh, I can get it. You. Could you just bear with me for a moment?
+
+Agent (Human) at 231.9s:
+No problem. Thank you.
+
+Customer at 233.9s:
+Thank you. My son had expired. The March 31.
+
+Agent (Human) at 259.5s:
+The thirteenth of the ninth.
+
+Customer at 260.2s:
+2020. Thirty first of the third.
+
+Agent (Human) at 264.2s:
+Thirty first and the third.
+
+Customer at 265.8s:
+Yeah.
+
+Agent (Human) at 267.4s:
+Yep.
+
+Customer at 267.9s:
+That's alright. And the the thousand twenty seven.
+
+Agent (Human) at 272.3s:
+Fantastic. Thanks for that. I've got a card on file you that [CARD_ON_FILE]. Are we gonna use that one?
+
+Customer at 277.5s:
+Yep. Checking. There's one Yep. That's the one.
+
+Agent (Human) at 284.2s:
+That's the one. Thank you very much. 132 it is. Now I'm gonna send you a text message. And make sure
+
+Customer at 294.1s:
+You send me text beside it. Try the talking side mechanic.
+
+Agent (Human) at 298.3s:
+that's the one. You got it
+
+Customer at 300.4s:
+Yeah.
+
+Agent (Human) at 300.5s:
+Here we go. Are you going to leave her?
+
+Customer at 300.9s:
+Cool. Sorry?
+
+Agent (Human) at 304.5s:
+Are you going to Lever Automotive in Armadale? Is that where you are?
+
+Customer at 308.1s:
+Yeah.
+
+Agent (Human) at 309.0s:
+Yep.
+
+Customer at 309.1s:
+Yeah. That's where I got the last one done.
+
+Agent (Human) at 311.0s:
+Yeah. Cool.
+
+Customer at 311.7s:
+But, normally, I get it done, like, every three months. But last time, I thought I've only got a month once to go, so I only got it done for the month. But
+
+Agent (Human) at 318.2s:
+Yeah. What do you wanna do this time? Because I only took a month. Because of that.
+
+Customer at 322.3s:
+yeah,
+
+Agent (Human) at 322.6s:
+What is it just a month for now until you sort out what's going on? Yeah.
+
+Customer at 325.5s:
+Just another box. Yeah. Just just another month would be great.
+
+Agent (Human) at 328.5s:
+I've I think so. Just till you can get time to get down there and
+
+Customer at 334.4s:
+Yeah. Just say, hey. What's going on?
+
+Agent (Human) at 336.2s:
+yeah, sort that out. Because, yeah, because they do everything by snail mail, it's
+
+Customer at 343.6s:
+Yeah.
+
+Agent (Human) at 345.2s:
+you know?
+
+Customer at 346.1s:
+Well, they said to me I was in there that because I'd only been here I've only been here about another well, I've just had a month now. Now I was ten weeks. But
+
+Agent (Human) at 355.4s:
+Yeah.
+
+Customer at 356.4s:
+they said, we might have already sent it by mail, like, by your old postal address, but I don't know.
+
+Agent (Human) at 361.3s:
+Yeah. Because you've been in hospital and everything.
+
+Customer at 362.8s:
+And then they and then I take the time. Why is that? And if she if she didn't receive it where your new address is, just come down and see
+
+Agent (Human) at 371.5s:
+Gee. Yeah. Well, look what's happened then.
+
+Customer at 377.7s:
+Yeah.
+
+Agent (Human) at 378.3s:
+Did you get the text message, Wade?
+
+Customer at 382.6s:
+Hang on a minute. I'll just check. I'm not ready checking with my phone.
+
+Agent (Human) at 386.6s:
+And you've been in hospital too, so that doesn't help.
+
+Customer at 389.9s:
+I got a highway. Please send a photo RMS program completion letter. 38468O. [NUMBER]. Oh, and then it's got all regards of four of the with the one eight hundred number. Oh, yep. No. Look out. I just went back.
+
+Agent (Human) at 408.6s:
+You got it. Perfect.
+
+Customer at 410.2s:
+Yeah. Yeah. Your financial service in June has been received.
+
+Agent (Human) at 415.1s:
+Perfect.
+
+Customer at 415.6s:
+Yeah. That's all. Yeah.
+
+Agent (Human) at 416.7s:
+Thank you very much, Wade.
+
+Customer at 419.2s:
+Thank you so much for your help.
+
+Agent (Human) at 420.6s:
+No problem. You have a good afternoon.
+
+Customer at 422.7s:
+Yeah. You have a nice afternoon. Thank you.
+
+Agent (Human) at 424.9s:
+Bye. Bye.
+
+Customer at 426.1s:
+Bye.

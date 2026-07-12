@@ -1,0 +1,29 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.8s:
+I've missed a call.
+
+Agent (Mia) at 9.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.2s:
+Lydia May Miller.
+
+Agent (Mia) at 16.7s:
+Thank you. Did you want to check when when your next service monitor or calibration is due, or was your missed call about something else?
+
+Customer at 22.4s:
+No.
+
+Agent (Mia) at 26.2s:
+No worries. Is there something else I can help you with regarding your interlock device or program?
+
+Customer at 31.4s:
+I wanna talk to customer service.
+
+Agent (Mia) at 36.0s:
+All good. Are you ready to be connected to our customer support team now?
+
+Customer at 40.3s:
+Yes.

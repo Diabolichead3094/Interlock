@@ -1,0 +1,47 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+May I speak to an operator? Please?
+
+Agent (Mia) at 10.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.4s:
+Thank you. Are you calling about a new quote or installation? Is this about an existing interlock program?
+
+Customer at 25.6s:
+An existing interlock program.
+
+Agent (Mia) at 29.2s:
+Thanks for clarifying. Just to confirm, do you wanna speak with customer support now? If so, are you ready to be connected?
+
+Customer at 35.8s:
+Yes, please.
+
+Agent (Mia) at 38.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 41.8s:
+Thank you.
+
+Agent (Mia) at 43.5s:
+You're welcome. Please hold while I connect you to our customer support team. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [NUMBER]? [NUMBER], or would you prefer a different number?
+
+Customer at 106.3s:
+That number is fine. Thank you.
+
+Agent (Mia) at 110.0s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 116.6s:
+No. Thank you.
+
+Agent (Mia) at 119.6s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 123.5s:
+Thank you.

@@ -1,0 +1,137 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 10.9s:
+Talk to a human.
+
+Agent (Mia) at 13.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.5s:
+Thank you. Would you like me to connect you to a specialist now? Are you ready to be transferred?
+
+Customer at 27.1s:
+Yes.
+
+Agent (Mia) at 29.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 35.7s:
+I speak Windows,
+
+Agent (Human) at 58.0s:
+Afternoon, [CUSTOMER_NAME]. It's Shannon again. How are you?
+
+Customer at 61.1s:
+Yeah. Good. Thanks, Shannon. Hi. I just wanna let you know that I completed that form. I don't know if that's all you needed.
+
+Agent (Human) at 66.4s:
+Yeah. I
+
+Customer at 66.8s:
+To book it in.
+
+Agent (Human) at 68.3s:
+yeah, I do need that. When will you be
+
+Customer at 70.9s:
+Yeah.
+
+Agent (Human) at 71.3s:
+register the registering it? [CUSTOMER_NAME]?
+
+Customer at 74.4s:
+I'm gonna go take it in tomorrow. So
+
+Agent (Human) at 77.6s:
+Yeah. Once you once you complete the registration, can you please give us a call and let us
+
+Customer at 81.5s:
+yeah,
+
+Agent (Human) at 82.8s:
+know or send us through the paperwork? That would be greatly appreciated.
+
+Customer at 85.8s:
+Oh, the the registration paperwork as well?
+
+Agent (Human) at 87.8s:
+Yeah. Yep. And then
+
+Customer at 88.9s:
+Okay. Yep.
+
+Agent (Human) at 89.7s:
+I'll I'll start the booking process now, though. So that, hopefully, we can secure that. But if you could please send those
+
+Customer at 93.1s:
+Yeah. Perfect. Yeah.
+
+Agent (Human) at 96.5s:
+through as soon as it's done tomorrow. So I'm gonna
+
+Customer at 98.7s:
+Of course. No prob.
+
+Agent (Human) at 99.9s:
+perfect. I'm gonna try for the twenty fourth. Is that the the original date that you wanted? Next Wednesday?
+
+Customer at 105.1s:
+Yeah. Next Wednesday. Yeah.
+
+Agent (Human) at 107.1s:
+Yeah. So I'm gonna try for the twenty fourth first. See how we go. If not, it'll be the twenty fifth.
+
+Customer at 110.0s:
+Yep. Okay. Perfect. Thanks. Thank you. Nice
+
+Agent (Human) at 112.9s:
+Fingers fingers crossed.
+
+Customer at 114.2s:
+they said they're free from Tuesday onwards, so I thought I'd do the Wednesday. It'd be easier.
+
+Agent (Human) at 117.8s:
+Wonderful. Yep.
+
+Customer at 119.1s:
+Yeah, for my wife. Okay. Thank you.
+
+Agent (Human) at 119.7s:
+Perfect. Excellent. But, yeah, send that through to us tomorrow.
+
+Customer at 122.7s:
+Bye.
+
+Agent (Human) at 124.2s:
+So do you have our email address at all, [CUSTOMER_NAME]?
+
+Customer at 124.5s:
+Yep. I've got, like, emails from you guys. Can I do want me to just respond to the one that the quote was sent from?
+
+Agent (Human) at 132.7s:
+I'll send you the best one to get contact with us, sending that sort of information. I'll text that to you now so you've got it on your phone.
+
+Customer at 136.1s:
+Yeah. Okay.
+
+Agent (Human) at 139.6s:
+Okay?
+
+Customer at 140.1s:
+No worries.
+
+Agent (Human) at 140.8s:
+Perfect.
+
+Customer at 140.9s:
+Thank you.
+
+Agent (Human) at 141.6s:
+Thanks, [CUSTOMER_NAME]. Bye.
+
+Customer at 143.0s:
+Bye.

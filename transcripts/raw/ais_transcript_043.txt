@@ -1,0 +1,32 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+Permanent lockout.
+
+Agent (Mia) at 9.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.8s:
+Thank you. Can you tell me how long your device has been locked out for? Is there a countdown showing on the screen, or does it say permanent lockout?
+
+Customer at 29.2s:
+Overnight permanent lockout.
+
+Agent (Mia) at 32.5s:
+Understood. Since your device is showing a permanent lockout, this will need specialist support. Are you ready to be connected to our customer support team now?
+
+Customer at 40.8s:
+Yes.
+
+Agent (Mia) at 43.1s:
+I'll get you over to our customer support team now. One moment. Looks like our team is unavailable right now. If you leave your
+
+Customer at 99.8s:
+Yeah. When I spoke to him on the phone,
+
+Agent (Mia) at 106.2s:
+It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach

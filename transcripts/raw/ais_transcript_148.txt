@@ -1,0 +1,26 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.0s:
+In a look. Device question.
+
+Agent (Mia) at 15.2s:
+Thank you. Could you tell me a bit more about your device question so I can assist you?
+
+Customer at 21.5s:
+I have a service coming up soon, I'm not in town. Just wondering if you can do it after the service date.
+
+Agent (Mia) at 31.1s:
+You must complete your monitored service before leaving town. There's a seven day grace period after your service date, but missing it will cause a violation, lockout, and extra extra fees. Would you like steps to check your exact service date on your device?
+
+Customer at 45.4s:
+So you can so you have seven days after the date to get it done?
+
+Agent (Mia) at 50.7s:
+Yes. You have a seven day grace period after your service date to complete it. After that, it's a violation. Your car will lock out, and extra fees apply. Would you like help checking your exact service date on your device?
+
+Customer at 64.8s:
+No. My service date is on the twentieth.
+
+Agent (Mia) at 68.5s:
+Understood. You have until the twenty seventh to complete your service. After that, it's a violation. Your car will lock out, and extra fees apply. Would you like steps to check your service date on your device?

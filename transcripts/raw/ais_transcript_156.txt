@@ -1,0 +1,218 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.7s:
+Operator.
+
+Agent (Mia) at 7.5s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 13.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.1s:
+Thank you. Just to confirm, you'd like to speak with a specialist now. Is that correct? Are you ready to be connected?
+
+Customer at 23.6s:
+Right. Yes.
+
+Agent (Mia) at 26.2s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 59.6s:
+No. That's good.
+
+Agent (Human) at 59.8s:
+Affordable Interlocks. How can I help?
+
+Customer at 62.4s:
+Hi. Hey. It's Sunny here. Who am I talking to?
+
+Agent (Human) at 66.5s:
+This is [AGENT_NAME] Belle from Affordable Interlocks. Can I just have your first and your last name and the vehicle it's installed into?
+
+Customer at 74.0s:
+Sunny [CUSTOMER_NAME]. Toyota Hilux.
+
+Agent (Human) at 76.2s:
+Wood. Awesome. Just confirming the rego's 869FAsFredLForLama3?
+
+Customer at 85.5s:
+Correct.
+
+Agent (Human) at 86.1s:
+Awesome. How can I help today?
+
+Customer at 89.2s:
+I'll get a EMELA recall on my interlock.
+
+Agent (Human) at 94.8s:
+Alrighty. What's the number to the immediate recall?
+
+Customer at 98.1s:
+Fourteen.
+
+Agent (Human) at 99.8s:
+Alrighty. Have you done any work to the battery?
+
+Customer at 103.5s:
+It was in the mechanic shop.
+
+Agent (Human) at 106.1s:
+No worries.
+
+Customer at 106.4s:
+For the month and a half or something.
+
+Agent (Human) at 109.7s:
+Okay. When you take it to the mechanic, do you provide them with our phone number?
+
+Customer at 116.0s:
+They did have the phone number on the dash because they use one of the little thingy bobs The blower.
+
+Agent (Human) at 123.5s:
+Okay. Just in in the future, if you cannot leave it in there, like the
+
+Customer at 124.8s:
+Thing.
+
+Agent (Human) at 129.2s:
+the mouthpieces, just because if your vehicle is getting work done, and they blow into your device, just because mechanics can have different elements on them such as different chemicals that actually can cause readings on your device. And then if they don't let you know and you're on your performance period, that will extend you within the program. So it's just very important that in the future, when you're especially when you are in your performance period, you're not allowing them to blow into your device.
+
+Customer at 157.7s:
+Yeah. Okay. Yeah.
+
+Agent (Human) at 159.8s:
+But I can reset that with you now. Are you on the are you on the vehicle?
+
+Customer at 164.3s:
+Yes.
+
+Agent (Human) at 165.1s:
+Alright. Is the vehicle on or off at the moment?
+
+Customer at 168.1s:
+I'm on.
+
+Agent (Human) at 169.1s:
+Can you turn it off for me?
+
+Customer at 171.6s:
+Yep. It's off.
+
+Agent (Human) at 175.7s:
+Lovely. So we're gonna hold down the top left button till we see the word service dates appear.
+
+Customer at 196.2s:
+Yep. Service dates.
+
+Agent (Human) at 197.8s:
+Yep. So we're gonna keep pressing the top right button now until you see the word reset.
+
+Customer at 208.1s:
+Yep.
+
+Agent (Human) at 209.0s:
+And then we're gonna press select, and then four zeros are gonna come up.
+
+Customer at 213.8s:
+Yep.
+
+Agent (Human) at 214.9s:
+So the first two numbers are gonna be nine and then two. So just using the top right button until you see the number nine, and then press the middle button to skip to the next number, which will be two.
+
+Customer at 227.6s:
+Yep.
+
+Agent (Human) at 228.8s:
+And then the next two numbers will be one and then three.
+
+Customer at 235.5s:
+Good.
+
+Agent (Human) at 236.4s:
+And then press select, and then
+
+Customer at 236.9s:
+Chris.
+
+Agent (Human) at 238.1s:
+accept. So middle button first and then top right, and then it's gonna come up with a sub code.
+
+Customer at 244.1s:
+Yep.
+
+Agent (Human) at 245.0s:
+Sub code will be double zero four nine.
+
+Customer at 258.3s:
+Order. Select.
+
+Agent (Human) at 260.1s:
+Yep.
+
+Customer at 263.4s:
+Rudder.
+
+Agent (Human) at 264.6s:
+And then just the select and then accept, and then it should clear.
+
+Customer at 270.9s:
+Yeah. Right. I'm how do I go back through?
+
+Agent (Human) at 274.3s:
+What are you on now?
+
+Customer at 277.5s:
+I'm on reset. Can do I go back to the menu sort of thing? So I don't have to go in
+
+Agent (Human) at 282.5s:
+Did you when you when you did the sorry. When you did the subcode, did you press accept after?
+
+Customer at 288.0s:
+Yes.
+
+Agent (Human) at 288.7s:
+Oh, okay. Then then you don't have to provide another breath sample. You just if you're turning the vehicle off, you just turn the vehicle off. But if you are driving anywhere, then pop in that breath sample.
+
+Customer at 298.3s:
+Yeah. Righto. And I don't need to go into the workshop at all then.
+
+Agent (Human) at 302.8s:
+No. No. Not at all. Not for this. They're just mechanics. So anytime a immediate recall or any message displays on the screen, always call affordable interlocks just because the mechanics won't be able to provide you any help They don't even know what the numbers relate to.
+
+Customer at 316.8s:
+Alrighty. So that's all good now.
+
+Agent (Human) at 317.7s:
+Yeah. Yeah.
+
+Customer at 318.9s:
+Yep.
+
+Agent (Human) at 320.2s:
+Awesome. Well, if you have any other questions, then give us a call.
+
+Customer at 320.5s:
+Righty. What's what was the code about? 14?
+
+Agent (Human) at 327.0s:
+Oh, it's just because it's been disconnected for more than
+
+Customer at 327.4s:
+What was
+
+Agent (Human) at 330.4s:
+a few it was when it's the battery disconnects, from the it loses power. The handset loses power, so that message just comes up. But it doesn't affect your program at all.
+
+Customer at 341.0s:
+Oh, righto. Yep. That that's all good. Thank you.
+
+Agent (Human) at 343.9s:
+No worries at all. Have a nice afternoon.
+
+Customer at 346.1s:
+And you too. Catch you. Bye.
+
+Agent (Human) at 347.1s:
+Thank you. Bye bye.

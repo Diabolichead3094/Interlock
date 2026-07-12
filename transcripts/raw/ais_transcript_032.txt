@@ -1,0 +1,143 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+I would like to make confirmation of a payment, please.
+
+Agent (Mia) at 11.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.4s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 23.3s:
+Yes.
+
+Agent (Mia) at 25.9s:
+Just a sec while I send that through. I've sent you a payment link by SMS. You can use that to complete your payment. Is there anything else I can help you with today?
+
+Customer at 35.3s:
+Yes.
+
+Agent (Mia) at 39.1s:
+What else can I help you with today?
+
+Customer at 41.6s:
+I would like to confirm a payment has been made with a person, please.
+
+Agent (Mia) at 48.2s:
+Understood. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 53.6s:
+Yes. I'm ready.
+
+Agent (Mia) at 56.2s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 60.3s:
+Thank you.
+
+Agent (Mia) at 62.4s:
+You're welcome. Please hold while I connect you now.
+
+Customer at 66.1s:
+Thank you.
+
+Agent (Mia) at 111.0s:
+It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. What's the best number for our team to reach you on?
+
+Customer at 119.8s:
+The best number, Mia, for your team contact me on is as follows. [REDACTED]. Shall I repeat that? Let's see.
+
+Agent (Human) at 132.8s:
+Hi, [CUSTOMER_NAME]. It's Tracy. How are you?
+
+Customer at 135.0s:
+Oh, good day, Tracy. I made that payment I just the virtual assistant was very helpful, but she sent me a link to actually pay it, and I've already paid it. I just wanted to see you had the capacity to see that I had paid it.
+
+Agent (Human) at 151.2s:
+You've put it into the bank account. Is that right?
+
+Customer at 154.1s:
+Yes. That's right. And it's
+
+Agent (Human) at 154.6s:
+Yep. Okay.
+
+Customer at 156.6s:
+shouldn't be instantaneous.
+
+Agent (Human) at 159.9s:
+Let me just log in and see if I can see it in the bank account for you.
+
+Customer at 164.1s:
+Okay. No worries. Thanks.
+
+Agent (Human) at 164.2s:
+Might be a moment. What was the amount that you put into the bank account?
+
+Customer at 181.3s:
+$786.75.
+
+Agent (Human) at 185.4s:
+Thank you. $7.86 75. Yes. I can see that there for you.
+
+Customer at 208.6s:
+Okay. Is it possible to try and get a installation time now?
+
+Agent (Human) at 214.9s:
+Yep. I will get our bookings team to call the service center, and we'll be in contact via email.
+
+Customer at 219.9s:
+Okay.
+
+Agent (Human) at 222.6s:
+To let you know what day we've got. Is there any
+
+Customer at 222.7s:
+Yep.
+
+Agent (Human) at 225.6s:
+particular day that you're after or need to avoid?
+
+Customer at 229.6s:
+No. Will it be I mean, if I can get it before the twentieth, which is Saturday, I mean, yeah, would be good if you can manage that. But any other time as well, on flexible, yes.
+
+Agent (Human) at 244.2s:
+Okay. I would just need to check to make sure they still have your kit. From the removal. If not, we would need to send them a new
+
+Customer at 250.6s:
+Release. Rod.
+
+Agent (Human) at 254.7s:
+kit so that could impact on the installation date.
+
+Customer at 256.0s:
+Mhmm.
+
+Agent (Human) at 259.3s:
+Yeah.
+
+Customer at 259.4s:
+I see. Okay. Well, thanks very much for intercepting the virtual assistant. It's
+
+Agent (Human) at 268.1s:
+That's okay.
+
+Customer at 269.2s:
+answered a few questions. I mean, you've confirmed that you've got the payment and we're one step further. So I'll await that once you contact them, and I'll see what I can do. Alright?
+
+Agent (Human) at 286.9s:
+Awesome. Fantastic. Thank you so much.
+
+Customer at 288.3s:
+Okay. Thanks, Tracy. Thanks. Bye.
+
+Agent (Human) at 289.8s:
+Have a good day. Bye.
+
+Customer at 291.0s:
+You too. Bye.

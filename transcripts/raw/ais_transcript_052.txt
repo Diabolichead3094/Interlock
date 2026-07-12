@@ -1,0 +1,50 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.7s:
+Removal of Pincho.
+
+Agent (Mia) at 10.5s:
+Just to make sure I'm on the right track, did you say enable of interest? Could you please clarify what you need help with regarding your interlock device or program?
+
+Customer at 20.0s:
+Remove. Remove. Remove.
+
+Agent (Mia) at 22.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 28.8s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME].
+
+Agent (Mia) at 32.6s:
+Thank you. Have you already received your official completion notice from your state transport department?
+
+Customer at 39.0s:
+No.
+
+Agent (Mia) at 40.7s:
+Are you in Queensland or another state?
+
+Customer at 43.6s:
+Queensland.
+
+Agent (Mia) at 45.9s:
+The completion notice is an official letter from your state transport department confirming you've finished your interlock program. You'll need this letter before your device can be removed. Would you like help checking your program end date online? If so, which state are you in?
+
+Customer at 62.1s:
+No.
+
+Agent (Mia) at 64.4s:
+No worries. Which state are you in? This helps me guide you on how to check your program and date and get your completion notice.
+
+Customer at 72.7s:
+I'm selling my vehicle and need the install removed.
+
+Agent (Mia) at 77.3s:
+Understood. Before your interlock device can be removed, you'll need an official completion notice from your state department. Have you received this letter yet?
+
+Customer at 87.3s:
+No.
+
+Agent (Mia) at 89.3s:
+You'll need to get your official completion notice from your state

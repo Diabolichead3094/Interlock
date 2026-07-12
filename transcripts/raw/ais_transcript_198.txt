@@ -1,0 +1,38 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+Hello. I need my interlock transferred into another car.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.3s:
+Thank you. Have you already received a quote from us for transferring your interlock to another car?
+
+Customer at 24.7s:
+No.
+
+Agent (Mia) at 26.9s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 40.9s:
+Hello? No. Thanks.
+
+Agent (Mia) at 44.8s:
+No problem. Anything else I can help you with today?
+
+Customer at 47.9s:
+No. That's alright. I'll do the quote.
+
+Agent (Mia) at 50.8s:
+All good. Once your quote is confirmed, our team will be in touch to arrange the installation, so you don't need to book that separately right now. Anything else I can help you with today?
+
+Customer at 59.8s:
+No. No. That's all. Thank you.
+
+Agent (Mia) at 63.2s:
+Thanks for calling Affordable Systems. Have a wonderful day.

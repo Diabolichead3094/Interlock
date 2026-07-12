@@ -1,0 +1,86 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Speak to a human, please.
+
+Agent (Mia) at 8.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Just confirming you're you'd like to speak with a specialist. Are you ready to be connected now?
+
+Customer at 24.1s:
+Yes.
+
+Agent (Mia) at 25.9s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 58.1s:
+Hello. [AGENT_NAME] speaking. How can I help?
+
+Customer at 61.1s:
+Oh, hi, Hailey. My name's [CUSTOMER_NAME]. Um, how are you?
+
+Agent (Human) at 63.6s:
+Good. Thank you.
+
+Customer at 65.6s:
+I was speaking with Ron yesterday. I'm just wondering if he is available, please.
+
+Agent (Human) at 70.7s:
+Oh, I can see if he's available. I tell him what it was regarding?
+
+Customer at 75.6s:
+Yeah. Yeah. I was talking to him yesterday about Interlocks on motorbikes. He was making an inquiry for me.
+
+Agent (Human) at 79.1s:
+Okay. Okay. No worries. Let me see if I can get a hold of them for you.
+
+Customer at 84.2s:
+Thank you.
+
+Agent (Human) at 130.3s:
+Are you there, [CUSTOMER_NAME]?
+
+Customer at 132.2s:
+Yes.
+
+Agent (Human) at 132.7s:
+Yeah. There's no answer on that line. Can I get him to give you a callback? I'll him an email to let him know that you've rung.
+
+Customer at 139.1s:
+Yeah. No worries. He was just
+
+Agent (Human) at 140.0s:
+Is the number you're calling on okay?
+
+Customer at 143.2s:
+yes, please.
+
+Agent (Human) at 144.1s:
+Yep. Okay. Sorry. Carry on.
+
+Customer at 146.6s:
+Yeah. He was just, like, making an inquiry for me whether one of the local interlock installers like, to where I live did them on motorbikes. I had a missed call from a private number earlier, so I'm not sure if he tried to call back.
+
+Agent (Human) at 159.7s:
+Oh, it could have been. Oh, we'll let them know that you've run.
+
+Customer at 163.1s:
+Yeah. Perfect. Thank you. And, like, on
+
+Agent (Human) at 164.3s:
+Yes.
+
+Customer at 166.0s:
+all over the place this afternoon. So if he rings and I don't answer, tell him feel free to leave a message for me. Thank you.
+
+Agent (Human) at 171.3s:
+Okay. No problem at all. I will do. Thank you. See you. Bye.
+
+Customer at 176.2s:
+Thanks. Bye.

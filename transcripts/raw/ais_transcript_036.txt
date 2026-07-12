@@ -1,0 +1,299 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.9s:
+I would like to get a quote fast tracked, Mia.
+
+Agent (Mia) at 11.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.5s:
+Thank you. Have you already received a quote from us before? Or would this be your first time requesting one?
+
+Customer at 27.7s:
+Yes and no, really.
+
+Agent (Mia) at 31.8s:
+Just to clarify, have you ever received a quote from us before for an interlock installation or would this be your first time?
+
+Customer at 40.1s:
+No. I've received a quote before for an interlock installation. Yes.
+
+Agent (Mia) at 45.6s:
+Understood. I'll get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 50.8s:
+Yes, please.
+
+Agent (Mia) at 53.5s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 89.1s:
+Hi, [CUSTOMER_NAME]. It's Tracy. How are you? Hi, [CUSTOMER_NAME]. It's Tracy. How are you?
+
+Customer at 92.0s:
+Oh, good. How are you?
+
+Agent (Human) at 94.4s:
+Good. Thank you. How can I help?
+
+Customer at 96.5s:
+Yeah. I filled out the, uh, quote form a couple of days ago, and I'm just sweating on getting a reply. Only because the service in New South Wales will disqualify my license on Saturday. So I was trying to tee it all up before this weekend if possible.
+
+Agent (Human) at 116.1s:
+Okay. Just having a look through here. So we're looking at reinstalling. Is that right?
+
+Customer at 122.5s:
+Yes. Intro. A new vehicle.
+
+Agent (Human) at 125.8s:
+Right. Okay.
+
+Customer at 129.6s:
+I previously had one in Hyundai,
+
+Agent (Human) at 132.6s:
+Mhmm.
+
+Customer at 133.8s:
+You may remember, I think you're involved in all the
+
+Agent (Human) at 137.1s:
+Yeah.
+
+Customer at 138.1s:
+yeah.
+
+Agent (Human) at 138.6s:
+Yeah. Your name's familiar. Yeah. Okay. So I can see that we sent you a quote back on the June 15 at four forty three. So we were re
+
+Customer at 149.2s:
+June 15.
+
+Agent (Human) at 150.9s:
+June 15, 04:43PM. We're reinstalling in a 2021 Toyota HiAce.
+
+Customer at 154.4s:
+Oh, okay. Yeah. What what sorry for asking. But what email did you have on that? Please? Is it glengrason two one six?
+
+Agent (Human) at 169.1s:
+That's the one at icloud.com?
+
+Customer at 171.7s:
+I must have overlooked it. Let me just cover a
+
+Agent (Human) at 174.2s:
+Okay. I know we do have some trouble sometimes with iCloud accounts.
+
+Customer at 179.9s:
+Alright.
+
+Agent (Human) at 181.0s:
+Is there any other email address I could forward this to perhaps? To make sure you do definitely get it?
+
+Customer at 190.4s:
+Not really. I I mean, I have an Outlook account, but
+
+Agent (Human) at 193.5s:
+Yeah.
+
+Customer at 194.5s:
+I have trouble getting into it. Is it is it at all possible to get it verbally with you now?
+
+Agent (Human) at 203.2s:
+Yes. Not a problem. So we've got a quote. If it's in prior to the July 5. It would be $7.86 75.
+
+Customer at 210.9s:
+Mhmm. [NUMBER].
+
+Agent (Human) at 217.2s:
+Correct?
+
+Customer at 218.3s:
+Okay.
+
+Agent (Human) at 218.4s:
+And if it's after the July 5, then it would be $1,001.75.
+
+Customer at 226.5s:
+Okay. Well, I'd love to save some money on that. And does that include the the
+
+Agent (Human) at 229.4s:
+Yeah. Save $2.15. Yeah.
+
+Customer at 232.1s:
+yeah. All this is costing me a fortune, but okay. Well, does that include three months service or a month service?
+
+Agent (Human) at 243.6s:
+No. That includes the one month service. Because even though it's a reinstallation, it would need to have that warranty check at
+
+Customer at 246.7s:
+A one month.
+
+Agent (Human) at 250.9s:
+thirty days.
+
+Customer at 252.5s:
+Okay. Alright. So you gave me your BSB a n zed.
+
+Agent (Human) at 258.0s:
+Yes.
+
+Customer at 258.1s:
+I think it was you, and account number.
+
+Agent (Human) at 261.1s:
+Yep.
+
+Customer at 261.6s:
+So can I I think you said the other day I spoke to you, if if I pay you now, through my end, do I need to put a an like, a a reference number or something so you're aware?
+
+Agent (Human) at 277.5s:
+Yes. Put always put your name as your reference.
+
+Customer at 281.2s:
+Right.
+
+Agent (Human) at 281.7s:
+Yep.
+
+Customer at 282.7s:
+Okay. And
+
+Agent (Human) at 282.8s:
+Or if they can only do numbers, then put your mobile number.
+
+Customer at 288.1s:
+Okay. Alright. I follow. And then we can go ahead and and and try and organize an appointment or installation date. Is that right?
+
+Agent (Human) at 298.9s:
+Yes.
+
+Customer at 300.2s:
+Okay. Alright. Well, I might do that now. That that that wouldn't be getting I mean, if you sent me something on Tuesday see, I've just looked on my emails and yeah, I had something on Monday.
+
+Agent (Human) at 316.9s:
+But nothing on the fifteenth?
+
+Customer at 319.5s:
+The fifteenth.
+
+Agent (Human) at 320.5s:
+Which is Monday. Yeah? It was 04:43PM, if that helps you find it.
+
+Customer at 333.3s:
+Yeah. No. I can't find it. So alright. We'll disregard that. We'll go back to the old method. I mean, I trust you, and I think I hope you trust me.
+
+Agent (Human) at 343.1s:
+Yes.
+
+Customer at 344.1s:
+I'll I'll I'll get that off now. And then in which case,
+
+Agent (Human) at 346.3s:
+Mhmm.
+
+Customer at 349.9s:
+you try sending an email kit
+
+Agent (Human) at 352.5s:
+Yep. What's your Outlook address?
+
+Customer at 353.5s:
+Is that your Glen [CUSTOMER_NAME] two 16 oh, Outlook.
+
+Agent (Human) at 359.7s:
+Yeah.
+
+Customer at 360.0s:
+Oh, jeez. Okay. It's Glen [CUSTOMER_NAME] in five four five
+
+Agent (Human) at 365.2s:
+Yes.
+
+Customer at 366.5s:
+at outlook dot com. That means I'm gonna have to go to that and try and access that, but that's alright. I'll fiddle around with it.
+
+Agent (Human) at 376.4s:
+Res[CARD_ON_FILE] At Outlook. Dot com. Awesome.
+
+Customer at 383.8s:
+You can't send an SMS. There's no way of doing that.
+
+Agent (Human) at 389.6s:
+No. Our
+
+Customer at 390.8s:
+No. Okay. So
+
+Agent (Human) at 391.0s:
+No. Unfortunately, not.
+
+Customer at 393.9s:
+just going over what you told me.
+
+Agent (Human) at 397.5s:
+Mhmm.
+
+Customer at 397.7s:
+The total amount is $786.75.
+
+Agent (Human) at 401.8s:
+Yes.
+
+Customer at 402.9s:
+And I'll just without sounding boring, I'll just go over your numbers, account number, [NUMBER]
+
+Agent (Human) at 409.9s:
+Hang on. Hang on. On.
+
+Customer at 411.2s:
+oh,
+
+Agent (Human) at 416.0s:
+Sorry. I don't know her numbers off the top of her head.
+
+Customer at 418.5s:
+Alright. Well, you I think one of you girls sent it to me. So
+
+Agent (Human) at 422.0s:
+Yeah.
+
+Customer at 422.5s:
+I hope it's right.
+
+Agent (Human) at 424.5s:
+Okay. I've got
+
+Customer at 425.0s:
+It'll tell me anyway when Beg your pardon?
+
+Agent (Human) at 430.3s:
+I have the BS B as [REDACTED]
+
+Customer at 440.1s:
+Correct. Yeah.
+
+Agent (Human) at 440.6s:
+Account number [REDACTED].
+
+Customer at 445.8s:
+Mhmm. Okay. And it's a n zed. And what name is it? Affordable Interlocks?
+
+Agent (Human) at 453.2s:
+Correct.
+
+Customer at 454.7s:
+Okay. Alright. I'll shoot that off now and hopefully, I'll hear something from you today if possible. And we'll take it from there. You've been most helpful. Thank you, Tracy.
+
+Agent (Human) at 465.7s:
+Not a problem at all. You have a good day.
+
+Customer at 467.4s:
+Okay. You have a nice day. Thank you, Bye. Bye.
+
+Agent (Human) at 467.7s:
+Thanks, Lynn. Bye.

@@ -1,0 +1,47 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Hey. How you going? I'm just I've I've gotta get my handset serviced. Today.
+
+Agent (Mia) at 13.0s:
+I'm doing well. Thanks. I can help with that.
+
+Customer at 13.6s:
+Am I able to get the invoice
+
+Agent (Mia) at 17.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 21.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 24.4s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 29.1s:
+I will. I just need the invoice sent first, please.
+
+Agent (Mia) at 33.4s:
+Just a sec while I send that through for you. I've sent you a payment link by SMS. You can view your invoice and pay directly from there.
+
+Customer at 39.0s:
+Yep.
+
+Agent (Mia) at 41.3s:
+Anything else I can help with today?
+
+Customer at 41.8s:
+Perfect. No. Thanks. Perfect.
+
+Agent (Mia) at 46.1s:
+Thanks for calling Affordable Interlock Systems.
+
+Customer at 47.3s:
+Alright.
+
+Agent (Mia) at 49.1s:
+Have all and have a wonderful day.
+
+Customer at 52.6s:
+Like

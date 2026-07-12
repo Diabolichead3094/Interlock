@@ -1,0 +1,86 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+I need an interlock for my car.
+
+Agent (Mia) at 8.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.7s:
+Thank you. Have you already received a quote from us for your interlock installation? Or would this be your first time getting a quote?
+
+Customer at 21.7s:
+No. This time.
+
+Agent (Mia) at 26.6s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 41.8s:
+I if it's gonna help me get a interlocking store quicker, yeah,
+
+Agent (Mia) at 48.2s:
+I'll get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 52.3s:
+Yes.
+
+Agent (Mia) at 55.0s:
+Great. I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 58.3s:
+Thanks. Yes. That was you, ma'am.
+
+Agent (Mia) at 62.7s:
+I'll get you over to our quotes team now. One moment.
+
+Customer at 65.2s:
+Thanks.
+
+Agent (Mia) at 67.0s:
+All good. Connecting you now. One moment.
+
+Agent (Human) at 101.2s:
+Hi. [AGENT_NAME] speaking. How can I help?
+
+Customer at 103.4s:
+How you going? I'm a need to get my an interlocking store in my car.
+
+Agent (Human) at 107.1s:
+Yeah. Sure. Have you had a quote from us before?
+
+Customer at 110.3s:
+No.
+
+Agent (Human) at 110.9s:
+No. So that would be the first step. You want me to text you the link so you can fill that out?
+
+Customer at 116.3s:
+I think I got some virtual thing sent me something as I've I've got the same thing. Yeah.
+
+Agent (Human) at 119.2s:
+Oh, okay. No worries. I'll send it through to you as well just in case. It's you fill that out, and then we'll email you back with a quote. Have a look at it.
+
+Customer at 124.4s:
+Yep. Yep.
+
+Agent (Human) at 127.9s:
+And if you do wanna go ahead with us, you just click on the book now button. And we will get you booked in.
+
+Customer at 132.0s:
+Yep. Okay. Cool.
+
+Agent (Human) at 134.6s:
+Yeah. Okay. I'll send it through shortly.
+
+Customer at 134.9s:
+Thank you. Yep. Thanks.
+
+Agent (Human) at 138.4s:
+Thank you. See you. Bye.
+
+Customer at 139.7s:
+Okay. Bye.

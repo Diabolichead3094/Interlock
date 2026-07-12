@@ -1,0 +1,77 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+I wanna book my car in to get the breatho removed.
+
+Agent (Mia) at 11.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.8s:
+Jake Gordon's wife.
+
+Agent (Mia) at 20.0s:
+Thank you. For breather removal bookings, I can connect you to a special who can arrange this. Are you ready to be connected now?
+
+Customer at 27.3s:
+Yes.
+
+Agent (Mia) at 29.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 70.5s:
+Hi, Jake. [AGENT_NAME] speaking. How can I help? You got your removal letter?
+
+Customer at 76.1s:
+Yeah. I wanna get my inner lock removed. I got an email today from transport department saying I can
+
+Agent (Human) at 81.5s:
+Amazing.
+
+Customer at 81.9s:
+drive with the
+
+Agent (Human) at 83.5s:
+That's so good. Are you able to email that through to us? We just need a copy of it, and then we can book you in.
+
+Customer at 90.9s:
+I what do you need a copy of? Because they're definitely two things. One, alcohol in lock program completion notice.
+
+Agent (Human) at 102.9s:
+That's the one. That's what we need a copy of. Yeah.
+
+Customer at 102.9s:
+Do you want that one? Okay.
+
+Agent (Human) at 108.5s:
+Have you got a email address?
+
+Customer at 111.1s:
+I don't think so.
+
+Agent (Human) at 112.7s:
+No. Do you want me to text it through to you?
+
+Customer at 115.5s:
+Oh, yeah. If you could, that'd be awesome.
+
+Agent (Human) at 116.5s:
+Yep. Okay. No worries. And what day were you hoping to get in for your removal?
+
+Customer at 121.5s:
+Friday, if possible.
+
+Agent (Human) at 123.5s:
+Okay. Worries. I'll pop a note on your account, and we will organize that for you tomorrow. We will email you and text you with confirmation. Okay?
+
+Customer at 132.4s:
+Beautiful.
+
+Agent (Human) at 133.2s:
+Yeah. Perfect. Thanks for calling.
+
+Customer at 136.0s:
+Sounds good. Thank you.
+
+Agent (Human) at 137.7s:
+Okay. See you. Bye.

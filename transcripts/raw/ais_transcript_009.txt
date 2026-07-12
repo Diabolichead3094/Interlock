@@ -1,0 +1,143 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.7s:
+Removing the interlock from my car.
+
+Agent (Mia) at 12.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.0s:
+It Brusano. Hernandez dot lardo.
+
+Agent (Mia) at 23.5s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 28.9s:
+Yes. I did.
+
+Agent (Mia) at 30.9s:
+Appreciate that. Are you ready to be connected to a customer support specialist now to discuss your interlock removal?
+
+Customer at 37.3s:
+Yep.
+
+Agent (Mia) at 39.3s:
+I'll get you over to our customer support team now. You ready to be connected?
+
+Customer at 44.1s:
+Yes.
+
+Agent (Mia) at 46.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 85.9s:
+Hi. [AGENT_NAME] speaking. How are you?
+
+Customer at 88.5s:
+Hello. Hello there.
+
+Agent (Human) at 89.9s:
+You got your removal letter?
+
+Customer at 92.3s:
+Yes. I got the letter from New South Wales Services.
+
+Agent (Human) at 95.9s:
+Perfect.
+
+Customer at 96.2s:
+And and they said, yeah. I can take the car in there for removal. And I also called the the guys, like, from the from the service place in Peter in Saint Peter's.
+
+Agent (Human) at 107.4s:
+Yep.
+
+Customer at 107.4s:
+They said that they cannot they can attend me on on this Friday.
+
+Agent (Human) at 111.2s:
+Oh, perfect. Okay. What date does it say you can get it out on your letter?
+
+Customer at 115.7s:
+It's [AGENT_NAME] it's on there. My program finishes on the twentieth.
+
+Agent (Human) at 120.6s:
+Okay. So you can't go in Friday because the twentieth is Saturday. So it would have to be early next week. But we book your removal anyway. So what day next week would suit you?
+
+Customer at 131.8s:
+Any day next week. Uh, just just one thing. The thing is saying that need services on the thing when I say the thing, the device on the card says it needs services service on the Friday, this Friday, nineteen
+
+Agent (Human) at 144.7s:
+Yeah. Don't worry don't worry about that. You get a week after that before it would lock you out. So as long as we get it removed that following week, you're you're fine.
+
+Customer at 153.0s:
+Okay. I was afraid that the
+
+Agent (Human) at 153.7s:
+Yeah.
+
+Customer at 154.3s:
+car wouldn't turn on if I don't take in there on the nineteenth.
+
+Agent (Human) at 156.5s:
+No. No. No. You're fine. So do you want me to try for Monday, the twenty second?
+
+Customer at 162.2s:
+Yeah. That's that's perfect.
+
+Agent (Human) at 163.1s:
+Okay. I do need you to email me a copy of that before I can reach out to the service center. Can you send that through?
+
+Customer at 170.7s:
+Yeah. How can I send that through you?
+
+Agent (Human) at 172.6s:
+Oh, do you wanna do want me to text you, and you can take a photo and send it back? Would that be easier?
+
+Customer at 176.9s:
+Perfect.
+
+Agent (Human) at 177.8s:
+Yeah?
+
+Customer at 177.8s:
+That's perfect.
+
+Agent (Human) at 179.0s:
+Okay. Let me do that now. K. Coming through now.
+
+Customer at 212.7s:
+Yeah. We've got.
+
+Agent (Human) at 214.2s:
+Did you get that?
+
+Customer at 216.8s:
+Then I take a picture. Hand light on the bike.
+
+Agent (Human) at 232.4s:
+Oh, you sent it?
+
+Customer at 234.0s:
+Yep.
+
+Agent (Human) at 234.8s:
+Okay. You still there?
+
+Customer at 243.7s:
+I'm still here. Yeah. Yeah.
+
+Agent (Human) at 244.9s:
+Yep. Okay. Oh, perfect. Here it goes. On or after the twenty first? Okay. So that's Sunday. That's fine. So let's try for Monday. Perfect. I'll reach out now and try and get you booked in. We'll email you and text you with confirmation. Okay?
+
+Customer at 262.8s:
+Perfect. Thank you very much.
+
+Agent (Human) at 264.1s:
+That's okay. See you.
+
+Customer at 266.1s:
+Have a good day. Bye.
+
+Agent (Human) at 267.2s:
+You too. Bye.

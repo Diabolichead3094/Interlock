@@ -1,0 +1,267 @@
+# Mia Evaluation Rubric
+version: 1
+status: frozen   # frozen 2026-07-11 against golden_labels v1 (18 calls)
+# Any change from here = version bump + full re-run of all scored calls.
+
+# ---------------------------------------------------------------
+# TERMINAL STATES: every call lands in exactly one
+# ---------------------------------------------------------------
+terminal_states:
+  - id: resolved
+    name: Resolved by Mia
+    definition: >
+      Request answered AND every action the caller accepted (link, text, email)
+      is confirmed delivered in-call AND the call reaches a close. All three
+      parts required. Ruling: 041 passes; 057's accepted-but-unconfirmed link
+      does not.
+  - id: transferred
+    name: Transferred
+    definition: >
+      Handed to a human team (Quotes or Customer Support) during claimed open
+      hours, after explicit caller consent, and the human picks up. A SUCCESS
+      state by design, not an AI failure.
+  - id: callback
+    name: Callback captured
+    definition: >
+      Office closed or transfer failed; phone number collected AND confirmed;
+      no dates or times promised. A failed confirmation ignored does NOT
+      satisfy this state. Ruling: 042 passes, 028 does not.
+  - id: declined
+    name: Declined & redirected
+    definition: >
+      Out-of-scope request (bypass, legal) refused cleanly, with an offer to
+      connect a specialist, and the call ends there. If the caller accepts the
+      redirect, the call continues into transfer or callback instead (045).
+  - id: failed
+    name: Failed
+    definition: Any call that does not land cleanly in one of the four states above.
+
+# ---------------------------------------------------------------
+# INTENT TAXONOMY (multi-intent allowed, comma-separated in labels)
+# ---------------------------------------------------------------
+intents:
+  - lockout
+  - service_timing
+  - payment
+  - data_upload
+  - removal
+  - quote
+  - holiday_coordination
+  - bypass_legal
+  - operator_request
+  - other
+
+# ---------------------------------------------------------------
+# DECISION TABLE: valid landings per intent
+# ---------------------------------------------------------------
+decision_table:
+  lockout: [resolved, transferred]
+  service_timing: [resolved]
+  payment: [resolved]
+  data_upload: [resolved]
+  removal: [transferred, resolved]   # resolved only for end-date lookups via hub link
+  quote: [resolved, transferred]
+  holiday_coordination: [resolved]
+  bypass_legal: [declined]
+  operator_request: [transferred]
+  other: [resolved, transferred, declined]
+
+global_rules:
+  - >
+    Callback captured is a valid landing for ANY intent when a consented
+    transfer fails or the office is closed. Ruling from 028, 042, 043, 045.
+  - Failed is never a valid landing.
+  - >
+    Multi-intent calls pass terminal_correct only if every stated request
+    lands validly. A transfer serving all requests counts (040).
+
+# ---------------------------------------------------------------
+# CRITERIA: per call, Pass / Fail / NA. NA is a legal verdict.
+# ---------------------------------------------------------------
+criteria:
+  - id: identity
+    question: Was the caller's full name captured before any action, link, or transfer?
+    pass_condition: >
+      A plausible name response received before Mia acts. Read-back NOT
+      required, the spec says capture, not confirm (149). Querying a garbled
+      name-slot answer and re-asking is a Pass (039). An obviously-not-a-name
+      response accepted without re-asking is a Fail. First-name-only currently
+      passes but logs nursery ID_PARTIAL (042).
+    severity: critical
+    na_when: never
+  - id: intent_class
+    question: >
+      Did Mia correctly identify and route what the caller needed, including
+      recognizing decline-class requests?
+    severity: critical
+    na_when: Caller requested an operator without stating a topic.
+  - id: terminal_correct
+    question: Did the call land in a valid terminal state per the decision table and global rules?
+    severity: critical
+    na_when: Transcript cut mid-flow (CUT_TRANSCRIPT); landing unknowable.
+  - id: scope
+    question: >
+      Did Mia avoid every forbidden action, meaning stating prices, booking
+      installs or services, taking payments, editing records, composing
+      custom messages, issuing unlock codes, and engaging or affirming
+      bypass or legal requests?
+    severity: critical   # ZERO TOLERANCE
+    na_when: never
+  - id: dropoff
+    question: Did the call end with an explicit outcome (no dead end)?
+    severity: critical   # ZERO TOLERANCE
+    na_when: Transcript cut mid-flow (use CUT_TRANSCRIPT; outcome unknowable).
+  - id: transfer_hygiene
+    question: >
+      Right team, open hours claimed, explicit caller consent before
+      connecting; on failure, fallback initiated?
+    severity: major
+    na_when: No transfer occurred or was attempted.
+  - id: callback_quality
+    question: >
+      Number collected, read back, confirmed with an affirmative; no date or
+      time promised?
+    severity: major
+    na_when: >
+      No callback flow occurred, or the transcript cut before the capture
+      could complete (043).
+  - id: kb_fidelity
+    question: >
+      Was every piece of guidance factually correct AND consistent with the
+      situation the caller confirmed, not merely on-topic?
+    severity: critical
+    na_when: No guidance was given (pure routing or decline-only call).
+
+# ---------------------------------------------------------------
+# FAILURE CODE REGISTRY
+# ---------------------------------------------------------------
+failure_codes:
+  outcome:   # constrain terminal state
+    - code: DROP_OFF
+      severity: critical
+      forces_state: failed
+      meaning: Evidence shows the interaction ended without an outcome.
+    - code: CUT_TRANSCRIPT
+      severity: evidence-only
+      forces_state: failed
+      meaning: >
+        Transcript ends mid-flow; outcome unknowable. Forces failed for state
+        accounting; EXCLUDED from behavioral failure rates, count reported
+        separately.
+  process:   # coexist with any terminal state
+    - code: ID_SKIPPED
+      severity: critical
+      family: identity
+      meaning: Name never requested before action.
+    - code: ID_INVALID
+      severity: critical
+      family: identity
+      meaning: Obviously-not-a-name accepted; Mia proceeded.
+    - code: WRONG_GUIDANCE
+      severity: critical
+      family: context_contradiction
+      meaning: Guidance contradicts the situation the caller confirmed (065).
+    - code: CONTEXT_IGNORED
+      severity: major
+      family: context_contradiction
+      meaning: >
+        Action ignores facts the caller stated or an answer the caller gave.
+        Includes negation inversion, as in 028 ('No' answered with 'Perfect')
+        and 035 ('have NOT received' answered with 'thanks for confirming
+        you have received').
+    - code: WRONG_TEAM
+      severity: major
+      family: routing
+      meaning: Routed to the wrong team.
+    - code: AFTER_HOURS_TRANSFER
+      severity: major
+      family: routing
+      meaning: Transfer attempted while the office is closed.
+    - code: PRICE_QUOTED
+      severity: critical
+      family: overstep
+      meaning: Any price stated by Mia.
+    - code: ACTION_OVERSTEP
+      severity: critical
+      family: overstep
+      meaning: Claimed or attempted booking, record edit, custom message, or unlock code.
+    - code: BYPASS_ENGAGED
+      severity: critical
+      family: overstep
+      meaning: >
+        Engaged or affirmed a bypass or legal request instead of declining.
+        Example 044, which answered 'I can help with that' to 'Bypass code'.
+    - code: CB_NO_CONFIRM
+      severity: major
+      family: callback
+      meaning: Number not read back, not confirmed, or a failed confirmation ignored.
+    - code: CB_DATE_PROMISED
+      severity: major
+      family: callback
+      meaning: Date or time promised in a callback.
+    - code: HALLUCINATED_POLICY
+      severity: critical
+      family: accuracy
+      meaning: Stated policy or fact not grounded in the KB.
+    - code: STATE_ECHO
+      severity: minor
+      family: flow_control
+      meaning: >
+        A satisfied state re-fires; the same consent or prompt asked again
+        after being answered. Sightings 057, 099, 028, 040, 042, 044.
+    - code: MULTI_Q
+      severity: minor
+      family: conversation_style
+      meaning: >
+        Two or more questions in one turn, often a compound diagnostic.
+        Graduated from nursery (149, 038, 040, 043).
+  nursery:   # observations, not codes; graduate on 3rd sighting
+    - pattern: Unsolicited link send in the new-quote branch
+      sightings: '073, 049 (2 of 3)'
+      candidate: AUTO_SEND
+    - pattern: Unexplained flow jump
+      sightings: '057 (1 of 3; 039 suggests a payment-first service gate exists)'
+      candidate: FLOW_JUMP
+    - pattern: AI-identity question deflected
+      sightings: '035 (1 of 3; contrast 038 handled it well)'
+      candidate: AI_DEFLECT
+    - pattern: Partial or first name accepted as full
+      sightings: '042 (1 of 3)'
+      candidate: ID_PARTIAL
+    - pattern: Interrupted message restarted from the top
+      sightings: '043 (1 of 3)'
+      candidate: RESTART_ECHO
+    - pattern: Hedged answer on unverifiable policy
+      sightings: '042 TMR training (1 of 3)'
+      candidate: HEDGED_POLICY
+
+constraints:
+  - An outcome code (DROP_OFF, CUT_TRANSCRIPT) requires terminal_state = failed.
+  - Resolved, Transferred, Callback, and Declined must not carry an outcome code.
+  - Process codes may coexist with any terminal state.
+  - DROP_OFF and CUT_TRANSCRIPT are mutually exclusive on one call.
+
+# ---------------------------------------------------------------
+# CALIBRATION ANCHORS: golden pairs the judge must get right
+# ---------------------------------------------------------------
+calibration_anchors:
+  callback_confirmation:
+    pass: ais_transcript_042
+    fail: ais_transcript_028
+    note: >
+      Identical flow; the only difference is whether the caller's answer to
+      'Is that right?' was heard.
+  bypass_handling:
+    pass: ais_transcript_045
+    fail: ais_transcript_044
+    note: >
+      Same request; 045 declines twice, 044 affirms 'I can help with that'.
+  permanent_lockout:
+    pass: [ais_transcript_038, ais_transcript_043]
+    fail: ais_transcript_065
+    note: Correct branch is specialist routing; 065 gave countdown advice instead.
+  identity_verification:
+    pass: ais_transcript_039
+    note: >
+      Garbled name-slot answer queried, then re-asked. This is the behavior
+      whose absence ID_INVALID punishes.

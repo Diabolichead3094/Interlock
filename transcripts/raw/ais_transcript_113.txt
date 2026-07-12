@@ -1,0 +1,287 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.1s:
+I wanna talk to a specialist.
+
+Agent (Mia) at 11.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.6s:
+Thank you. Just to confirm, you'd like to speak with a specialist. Are you ready to be connected now?
+
+Customer at 27.1s:
+Yes.
+
+Agent (Mia) at 29.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 60.2s:
+Affordable Interlocks. This is [AGENT_NAME].
+
+Customer at 61.6s:
+Hi there. Um, I've just got a question.
+
+Agent (Human) at 64.7s:
+Hey.
+
+Customer at 65.1s:
+So I'm on my last, like, two months of my interlock.
+
+Agent (Human) at 66.9s:
+Mhmm.
+
+Customer at 71.0s:
+I'm currently in my car, like, eating my lunch. I'm on my
+
+Agent (Human) at 71.6s:
+Mhmm.
+
+Customer at 74.2s:
+my lunch break for work, and I've just gone to blow into my interlock.
+
+Agent (Human) at 78.1s:
+Mhmm.
+
+Customer at 79.3s:
+And it, like, spazzed out and had the alarm go and everything, and I'm locked out for five minutes now. And feel like that's gonna, like, go against my probation period or whatever, but I'm I feel like it's from my lunch, like, all all the source that I've had.
+
+Agent (Human) at 97.5s:
+What were you eating for lunch?
+
+Customer at 98.8s:
+It's [AGENT_NAME] a chicken karate bowl, like, with sauce and stuff on it, Coke Zero. But I just finished it, and I've, like, gone to blow into it, and it just locked me out instantly.
+
+Agent (Human) at 110.8s:
+Yeah.
+
+Customer at 112.0s:
+Like, I'll I've got another minute until I can blow into it again, which
+
+Agent (Human) at 113.9s:
+Yep.
+
+Customer at 115.4s:
+I'm sure will be fine. But it's just annoying that I'm so close, and that's just gonna hinder me, I feel.
+
+Agent (Human) at 118.7s:
+Mhmm. Yeah. Okay. Now yep. Okay. So with the karaoke bowl, is there pickled ginger at all?
+
+Customer at 129.4s:
+I don't think so. Because I didn't even like that. So it's just
+
+Agent (Human) at 129.8s:
+With it?
+
+Customer at 132.6s:
+karagi
+
+Agent (Human) at 132.9s:
+No.
+
+Customer at 134.5s:
+like,
+
+Agent (Human) at 134.7s:
+Okay.
+
+Customer at 135.3s:
+bottles of mayo and rice, I think.
+
+Agent (Human) at 140.0s:
+Okay. Right. So it could be something in the source.
+
+Customer at 142.0s:
+Well,
+
+Agent (Human) at 144.7s:
+Or it could be something in the marinade.
+
+Customer at 146.4s:
+yep.
+
+Agent (Human) at 147.9s:
+For the chicken. Okay. I'm putting a note on your account
+
+Customer at 149.7s:
+Yep.
+
+Agent (Human) at 152.6s:
+Blue inch. And was it a five minute lockout?
+
+Customer at 154.0s:
+Yeah. Just a five minute lockout. I can blow into it again in thirty seconds.
+
+Agent (Human) at 160.8s:
+Okay. Please wash your mouth out with water.
+
+Customer at 161.8s:
+Yeah. I will.
+
+Agent (Human) at 165.4s:
+Yep. Before you blow into it. Yeah.
+
+Customer at 166.1s:
+Yeah. But I just thought I'd ring up straight away and just, like, see there's not on there or something because
+
+Agent (Human) at 170.4s:
+Yeah. Of course.
+
+Customer at 171.6s:
+I'm so close, and I've done so well for ages. I just hate for that to, like, keep in
+
+Agent (Human) at 173.4s:
+Yep.
+
+Customer at 176.5s:
+in
+
+Agent (Human) at 177.0s:
+Exactly. Yeah. So I'm putting this note on your phone on your on your
+
+Customer at 182.5s:
+Yep.
+
+Agent (Human) at 182.8s:
+account right now. Now I can see that your next service is at the end of your program.
+
+Customer at 190.3s:
+Yeah.
+
+Agent (Human) at 190.4s:
+So you have
+
+Customer at 192.4s:
+Yep.
+
+Agent (Human) at 192.6s:
+two options here. You can just let this one go today So please wash your mouth out before you blow in. We just wanna make sure this this blow is clean.
+
+Customer at 205.8s:
+Yeah. It worked that time.
+
+Agent (Human) at 210.0s:
+Awesome. Thank you.
+
+Customer at 210.1s:
+Yep. It was, like, straight after I I was eating food, that's
+
+Agent (Human) at 213.8s:
+Retest. Successful.
+
+Customer at 215.6s:
+my fault. I probably should've waited a little bit.
+
+Agent (Human) at 220.8s:
+Yeah. But as you said, you're so close.
+
+Customer at 223.1s:
+Yep.
+
+Agent (Human) at 224.8s:
+Yeah. It happens. With water. Okay. Now okay. So two options. You can either let it go see if it does register as a violation at your next monitor,
+
+Customer at 234.9s:
+Yep.
+
+Agent (Human) at 236.8s:
+If it does, you can dispute it
+
+Customer at 238.1s:
+Okay.
+
+Agent (Human) at 241.1s:
+It does take twenty eight days for the dispute for the dispute to be finished.
+
+Customer at 247.0s:
+Okay.
+
+Agent (Human) at 250.2s:
+Okay. Now the option the option you have is if you wanted to go in for a extra monitor now. If it does come up with a if if it does come up with a violation, you can then dispute it straight away. And therefore, the dispute will be sorted whichever way it's whichever way it is before the end of your program.
+
+Customer at 280.2s:
+Okay.
+
+Agent (Human) at 284.0s:
+K. So if you wanna have a think about that, and if you do wanna go in for that extra service, let us know, and we can adjust your your profile here. Now there is an additional cost for that service.
+
+Customer at 301.2s:
+Yep.
+
+Agent (Human) at 304.1s:
+Now I'll just let you know how much that would be. So it's an additional $70 for that monitor.
+
+Customer at 321.8s:
+Yeah. Okay.
+
+Agent (Human) at 325.7s:
+Yep. So if you wanna have a think about it,
+
+Customer at 326.8s:
+Yeah. I was
+
+Agent (Human) at 328.5s:
+I can't give you an answer on your dispute whether it would be successful or not. That's something that would be done with
+
+Customer at 334.2s:
+Yep.
+
+Agent (Human) at 335.0s:
+TMR. Yeah. So if you yeah. Have a think about it, and let us know if you wanted to do that additional service.
+
+Customer at 344.4s:
+Okay. I will do. Because I just have I had a service, just on the Friday just gone That was, like, my last one until I get it out pretty much. So
+
+Agent (Human) at 352.7s:
+Yeah.
+
+Customer at 355.4s:
+I just
+
+Agent (Human) at 357.7s:
+Well, you'll need to do one more for the final upload, but yeah.
+
+Customer at 359.9s:
+yeah.
+
+Agent (Human) at 360.9s:
+Final upload, and then forty eight hours, you should get your decision letter.
+
+Customer at 363.2s:
+Okay. Yeah.
+
+Agent (Human) at 364.8s:
+For end of program.
+
+Customer at 366.7s:
+Alright. Well, yeah, I'll I'll have to think about it and get back to you guys if that's
+
+Agent (Human) at 366.8s:
+Yeah.
+
+Customer at 370.5s:
+okay.
+
+Agent (Human) at 371.9s:
+Mhmm. Yeah. Not a problem. But I'll put a note on your account now. Say that you're already in a chicken cargo bowl with sauce
+
+Customer at 377.8s:
+Yeah.
+
+Agent (Human) at 380.2s:
+blue in device, received five minute lockout. Was able to to test successfully after washing mouth out with water. So that's all noted on your account for you.
+
+Customer at 388.0s:
+Amazing. Thank you so much. I appreciate it.
+
+Agent (Human) at 392.4s:
+Not a problem. Not a problem at all. Okay. Thanks, [CUSTOMER_NAME]. You have a good day.
+
+Customer at 393.9s:
+Thank you. You too. See you.
+
+Agent (Human) at 397.4s:
+Thanks. Bye.

@@ -1,0 +1,182 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Oh, I did to the the get a a different appointment for a service please.
+
+Agent (Mia) at 20.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 24.7s:
+Yes. [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 28.7s:
+Thank you. Is your request for an interlock monitor service? Or is it for regular mechanical work on your vehicle?
+
+Customer at 38.2s:
+The first one, you said monitor service, I think.
+
+Agent (Mia) at 42.7s:
+Understood. Have you already completed your payment for the monitor service? And received a confirmation SMS?
+
+Customer at 50.9s:
+No.
+
+Agent (Mia) at 52.9s:
+Would you like to make a payment for your monitor service now?
+
+Customer at 53.0s:
+But they've got you've got my credit
+
+Agent (Mia) at 57.4s:
+All good. Just to clarify, do you have the payment value or amount ready for your monitor service?
+
+Customer at 65.5s:
+No. I don't know.
+
+Agent (Mia) at 68.8s:
+Understood. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 72.3s:
+Thank you. Yes.
+
+Agent (Mia) at 75.5s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 80.5s:
+Yes.
+
+Agent (Mia) at 83.6s:
+Get you over to our customer support team now. One moment.
+
+Customer at 88.5s:
+Thank you.
+
+Agent (Mia) at 90.4s:
+You're welcome. Please hold while I connect you now.
+
+Agent (Human) at 121.9s:
+Affordable Interlock. This is [AGENT_NAME].
+
+Customer at 124.7s:
+Hi, Tyson. Steve [CUSTOMER_NAME]. How are you?
+
+Agent (Human) at 127.1s:
+Good. Thank you. How are you?
+
+Customer at 129.0s:
+Not too bad. My interlock handset's telling me I've got a a service on Friday, I think the nineteenth. At 09:00. In the morning. I was wondering if we could not have it quite so early because we're traveling in on Friday from Moranbah
+
+Agent (Human) at 160.5s:
+Oh, okay. For the monitoring servicing, you need contact the service center directly and make those appointments.
+
+Customer at 170.0s:
+Oh, okay.
+
+Agent (Human) at 171.3s:
+Yeah.
+
+Customer at 173.6s:
+What were they called the name?
+
+Agent (Human) at 174.0s:
+Have you got was it Chili's that you wanted to go back to, the one at Mackay?
+
+Customer at 179.3s:
+Oh, look at that. That's fine. Yeah.
+
+Agent (Human) at 183.1s:
+Yep. Are you at Moranbah, are you?
+
+Customer at 184.3s:
+Doesn't Yes. Yeah. I work out here.
+
+Agent (Human) at 187.0s:
+Yeah. Okay. So one closer to you there's one at Dysart.
+
+Customer at 194.5s:
+Yeah. But we're we're actually going into Mackay.
+
+Agent (Human) at 198.0s:
+Okay.
+
+Customer at 199.3s:
+For the for the weekend. So
+
+Agent (Human) at 202.3s:
+So that would work better for you? Yeah?
+
+Customer at 204.7s:
+it would be better for us to go to
+
+Agent (Human) at 206.7s:
+Yeah. Not a problem.
+
+Customer at 207.8s:
+I just want to make it a bit a bit of a later time. That's all.
+
+Agent (Human) at 212.0s:
+Yeah. Not a problem at all. I'll send that over to you via SMS. I'll send you their details. How does that work?
+
+Customer at 219.0s:
+Yeah. That's fine. That's fine. What what's
+
+Agent (Human) at 220.3s:
+Yeah.
+
+Customer at 222.0s:
+you you guys call them? Chilies, but it's something else. Iron g. I can't remember.
+
+Agent (Human) at 234.1s:
+R and G was their previous name? And I'll also send you their new address as well.
+
+Customer at 237.4s:
+Oh, okay. Right.
+
+Agent (Human) at 242.1s:
+Yep.
+
+Customer at 242.5s:
+Okay. Yeah. Because I've been there,
+
+Agent (Human) at 245.4s:
+Yeah.
+
+Customer at 245.4s:
+and it's still got LNG on it. Front of the drop.
+
+Agent (Human) at 248.7s:
+Yeah. They've also moved as well. They moved week before last.
+
+Customer at 255.0s:
+Okay. That early.
+
+Agent (Human) at 256.4s:
+Yeah.
+
+Customer at 257.1s:
+Yeah. Okay.
+
+Agent (Human) at 259.6s:
+Okay.
+
+Customer at 259.6s:
+So so they call you'll you'll send me all the details. Okay.
+
+Agent (Human) at 263.4s:
+All of sudden, you will the details with their phone number as well as their new address for you.
+
+Customer at 270.4s:
+Excellent. Alright. Thank you. I think that was all I needed to do. Yep. Very good.
+
+Agent (Human) at 278.3s:
+Awesome. Fantastic. I will send this through for you now.
+
+Customer at 282.5s:
+Thank you, Chance.
+
+Agent (Human) at 283.4s:
+You're welcome. Have a good day. Thank you. Bye bye.
+
+Customer at 286.5s:
+Bye.

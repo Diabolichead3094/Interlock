@@ -1,0 +1,161 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Query on invoice.
+
+Agent (Mia) at 9.0s:
+I can help away with that. May I have your full name for our records first?
+
+Customer at 13.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Can you tell me if your invoice question is about payment you've already made? Charge you don't recognize, or something else?
+
+Customer at 25.5s:
+Something else.
+
+Agent (Mia) at 28.0s:
+Understood. For detailed invoice queries, I'll connect you to our customer support team. Are you ready to be transferred now?
+
+Customer at 35.2s:
+Yes.
+
+Agent (Mia) at 37.4s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 79.6s:
+Hi. [AGENT_NAME] speaking. How can I help?
+
+Customer at 82.1s:
+Hi, Hailey. It's Bridget [AGENT_NAME] speaking.
+
+Agent (Human) at 84.8s:
+Hi.
+
+Customer at 86.4s:
+Husband, Alan, just got an invoice for installation of an interlock.
+
+Agent (Human) at 90.3s:
+Yes.
+
+Customer at 92.8s:
+But the the invoice says removal,
+
+Agent (Human) at 95.7s:
+Oh,
+
+Customer at 97.7s:
+not installation.
+
+Agent (Human) at 101.0s:
+let me have a look. Is that the one for $1,228.50?
+
+Customer at 105.7s:
+Yeah. But the invoice is for 800 and teen.
+
+Agent (Human) at 110.2s:
+And your what's his what's his name? Alan, what's his last name?
+
+Customer at 111.1s:
+Well, That was r a u w h e r o.
+
+Agent (Human) at 121.9s:
+Let me have a look. That's when it Let me just I'll just edit this, and then I will ring send it. So that's for the Labrador on the twenty ninth. Is that right?
+
+Customer at 147.4s:
+Yep. That's the one.
+
+Agent (Human) at 147.9s:
+Yep. Okay. So it's one two two eight five o
+
+Customer at 158.7s:
+Was like, it's all good. Just pay it. And he's like, no. It says removal, and it and it's less money. And I was like, oh, yeah. Okay. I'll ring up.
+
+Agent (Human) at 167.4s:
+I like his thinking, though.
+
+Customer at 170.8s:
+I was saying just pay it. It must be right, but then he was like, no. It's not. It's says removal. I wish it was getting removed.
+
+Agent (Human) at 176.9s:
+Oh, I see. The email says that oh, that's my fault. I did that. I'm gonna resend it to you now. Okay. Let me just update that.
+
+Customer at 186.9s:
+You did the invoice head removal as well, so it was like
+
+Agent (Human) at 190.2s:
+Oh, no. I was It doesn't say removal from my end.
+
+Customer at 194.8s:
+okay. That's
+
+Agent (Human) at 195.5s:
+K.
+
+Customer at 195.5s:
+cool.
+
+Agent (Human) at 196.2s:
+Did you just get that new one? That I just sent through? Do want me to text it as well?
+
+Customer at 200.7s:
+Yep.
+
+Agent (Human) at 202.2s:
+Or you got it
+
+Customer at 206.4s:
+I'll just no. I'm just messaging her. But he does FIFO.
+
+Agent (Human) at 210.9s:
+Oh, okay.
+
+Customer at 212.5s:
+I'll just say they just sent you a new
+
+Agent (Human) at 212.7s:
+I can I can send it to you? Can send it to you if you
+
+Customer at 215.3s:
+No. It's okay. He's paying it. I'm not paying it. I just think Not those
+
+Agent (Human) at 220.4s:
+Sorry, Nikki.
+
+Customer at 221.9s:
+I'm not paying those ones. That's on you, mate, through the crime paid
+
+Agent (Human) at 224.1s:
+Nope. Not your problem.
+
+Customer at 225.8s:
+Yeah. Through the crime paid the fine.
+
+Agent (Human) at 229.1s:
+Yep.
+
+Customer at 229.2s:
+Just sent you a new email
+
+Agent (Human) at 232.6s:
+Hang on.
+
+Customer at 232.6s:
+so you can pay off that one. Okay. Thank you.
+
+Agent (Human) at 236.5s:
+Look good? Okay. And I'll resend the email the correct email. Sorry about that. My fault.
+
+Customer at 238.3s:
+Yep. Okay.
+
+Agent (Human) at 242.4s:
+Okay.
+
+Customer at 242.6s:
+Okay. Thank you. Bye.
+
+Agent (Human) at 243.4s:
+See you. Bye.

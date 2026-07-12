@@ -1,0 +1,53 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+I'm after a price on installing an interlock.
+
+Agent (Mia) at 10.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Have you already received a quote from us?
+
+Customer at 21.5s:
+No.
+
+Agent (Mia) at 24.7s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 38.6s:
+Yes.
+
+Agent (Mia) at 40.2s:
+I'll get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 44.3s:
+Yes.
+
+Agent (Mia) at 46.4s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 89.0s:
+For more interlocks. This is Tracy.
+
+Customer at 91.9s:
+Hi. Just after a price, I'm getting an interlock installed.
+
+Agent (Human) at 95.2s:
+Yes. Certainly. I can see that you've called from a mobile number. So I'll send you the link for our quote.
+
+Customer at 99.3s:
+Mhmm.
+
+Agent (Human) at 104.9s:
+Okay. That's just gone through to your mobile balance. If you wanna complete that quote, link, we will have that quote back to you this afternoon.
+
+Customer at 113.8s:
+Okay. No worries. Thank you.
+
+Agent (Human) at 114.7s:
+Okay. Thank you so much. Have a good day.

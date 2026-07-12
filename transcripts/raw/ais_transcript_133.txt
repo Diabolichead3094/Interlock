@@ -1,0 +1,398 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+Inquiry about my interlock program.
+
+Agent (Mia) at 10.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME]
+
+Agent (Mia) at 20.5s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 25.8s:
+No.
+
+Agent (Mia) at 27.6s:
+Are you in Queensland or another state? This helps me guide you to the right next step.
+
+Customer at 29.9s:
+New South White.
+
+Agent (Mia) at 33.1s:
+All good. I just need to know if you're in Queensland or another state.
+
+Customer at 33.5s:
+You said need to
+
+Agent (Mia) at 36.7s:
+This helps me guide you to the right next step for your interlock program.
+
+Customer at 37.0s:
+Another steak. Another steak.
+
+Agent (Mia) at 43.5s:
+Thanks for clarifying. For states outside Queensland, you'll need to contact your state transport department to confirm your removal date and request your completion letter. Once you have that letter, let me know and I'll guide you on the next step. Would you like the office email address sent to your phone for easy reference?
+
+Customer at 61.8s:
+No. I'd like that phone number.
+
+Agent (Mia) at 65.3s:
+Just a sec while I get that sorted for you. I've sent a text with our office email address for your records. If you need to call, the number is [REDACTED]. Would you like to speak with customer support now?
+
+Customer at 81.0s:
+Yes, please.
+
+Agent (Mia) at 83.3s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 88.5s:
+Yes.
+
+Agent (Mia) at 90.7s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 95.2s:
+Thank you.
+
+Agent (Mia) at 97.0s:
+You're welcome. Please hold while I connect you to customer support.
+
+Agent (Human) at 131.8s:
+Hi, [CUSTOMER_NAME]. It's Tracy. How can I help?
+
+Customer at 134.6s:
+Oh, Tracy. I'm just reading up in regards to my completion date for the interlock.
+
+Agent (Human) at 138.8s:
+Mhmm. Mhmm. We have you listed as the June 13. 2027. Now New South Wales Transport does not update us. That was just based on your installation date and a two year program.
+
+Customer at 159.5s:
+I've been on it for two years. Which car have you got that under?
+
+Agent (Human) at 166.1s:
+Just having a look through here. Through I've got currently under a 2017 Hyundai I load.
+
+Customer at 177.9s:
+Yeah. Okay. So I've actually got the interlock on two cars.
+
+Agent (Human) at 182.1s:
+Okay.
+
+Customer at 182.3s:
+I've got it on the Hyundai, and I've also got it on the CTZed77Q.
+
+Agent (Human) at 191.4s:
+Sorry. Can you just repeat that license plate again?
+
+Customer at 194.1s:
+Okay. I'll repeat the license plate. It is c t zed
+
+Agent (Human) at 199.5s:
+Mhmm.
+
+Customer at 200.2s:
+seven seven q.
+
+Agent (Human) at 202.1s:
+Q. Thank you. Okay. Just confirming that's c for cat t for tango, zed for Zulu, number seventy seven, q for Quebec,
+
+Customer at 225.8s:
+Yep.
+
+Agent (Human) at 226.6s:
+Yeah.
+
+Customer at 227.3s:
+Did you say CForCat?
+
+Agent (Human) at 229.0s:
+Yes.
+
+Customer at 230.5s:
+Yeah. C for cat, t for tango, z for zebra, 77Q. QForQuebecQuebec.
+
+Agent (Human) at 238.7s:
+Correct. Yep. We don't have that license plate registered. On our system. Have you got two systems? [CUSTOMER_NAME]?
+
+Customer at 252.5s:
+Yeah. Yes. That's right. So okay. I was on the Toyota,
+
+Agent (Human) at 257.1s:
+Mhmm.
+
+Customer at 257.9s:
+the original car, and that should be due in June or no. Sorry. July this year. '26. The Hyundai was put on because that was a work vehicle.
+
+Agent (Human) at 269.1s:
+Mhmm.
+
+Customer at 269.1s:
+And it was a shared work vehicle. I had to get it put on there. But my last my last more lost Test with Guardian Interlock.
+
+Agent (Human) at 286.2s:
+Yeah.
+
+Customer at 286.3s:
+Was both same to me that the completion date was the install date was the nineteenth of the seven twenty twenty four. And so I'm assuming completion date would be sometime because it was a two year So it says here Anticipated end date, 07/19/2026.
+
+Agent (Human) at 318.2s:
+Okay. Are both of those interlock through affordable interlocks?
+
+Customer at 323.1s:
+No. So
+
+Agent (Human) at 323.9s:
+Oh, okay.
+
+Customer at 324.0s:
+are you affordable to
+
+Agent (Human) at 325.4s:
+Yes. That's who you called.
+
+Customer at 328.4s:
+I rang Guardian.
+
+Agent (Human) at 330.2s:
+Oh, no. You've
+
+Customer at 332.5s:
+Or in Guardian? And somehow, it went from Guardian to you guys.
+
+Agent (Human) at 338.9s:
+okay. I work for Affordable Interlocks.
+
+Customer at 342.6s:
+Yeah. Well, there's the confusion.
+
+Agent (Human) at 344.1s:
+Okay. Cool. Awesome. Okay.
+
+Customer at 344.3s:
+Yeah. But I actually rang up the portal interlock number. I I the Guardian Inn in number. I looked it up.
+
+Agent (Human) at 351.4s:
+Oh, Oh, okay. What number have you got for Guardian?
+
+Customer at 359.1s:
+Gonna look. What was the one on the on
+
+Agent (Human) at 360.8s:
+Can you see what number you've dialed?
+
+Customer at 365.6s:
+hang on. I'm gonna get this [NUMBER].
+
+Agent (Human) at 374.6s:
+Yep. That's affordable interlocks.
+
+Customer at 377.8s:
+Well, it it came up under Guardian. That's weird.
+
+Agent (Human) at 384.8s:
+Okay. Anyway, okay. So the interlock that you've got with us was installed on the 06/13/2025.
+
+Customer at 399.9s:
+The yeah. That's right. That that's absolutely right. Because that's when I had to transfer. I had to get another one on the work vehicle.
+
+Agent (Human) at 408.2s:
+Right. Okay.
+
+Customer at 411.0s:
+Well, anyway, while I've got you on the phone,
+
+Agent (Human) at 412.8s:
+Mhmm.
+
+Customer at 414.7s:
+until I can find out exactly what's going on here, this is all very weird. Anyway, I I'm looking to get off the interlock
+
+Agent (Human) at 425.1s:
+Uh-huh.
+
+Customer at 426.9s:
+next month. Because it was a two year period. So I realized you've got me down for two years.
+
+Agent (Human) at 433.1s:
+Mhmm.
+
+Customer at 433.7s:
+If I leave you guys after a year, what happens then? Because it'll be taken off the work vehicle.
+
+Agent (Human) at 443.4s:
+So we can we can remove you We will need the letter from New South Wales Transport to say that you have completed the program. Otherwise, it will be listed as a voluntary removal.
+
+Customer at 457.1s:
+Yep. Sorry. Sorry. You're what? A train just went past. Sorry.
+
+Agent (Human) at 463.9s:
+Sorry.
+
+Customer at 464.1s:
+I I couldn't hear that right.
+
+Agent (Human) at 465.5s:
+That's okay. We need a letter from New South Wales Transport to say that you have completed the program.
+
+Customer at 471.3s:
+Yep.
+
+Agent (Human) at 474.2s:
+In order that we can remove it.
+
+Customer at 474.2s:
+Right.
+
+Agent (Human) at 476.7s:
+Otherwise, it would be a voluntary removal. Which is possible as well. But there would be a early termination fee included.
+
+Customer at 488.0s:
+And what would that be?
+
+Agent (Human) at 489.6s:
+$2.15.
+
+Customer at 491.6s:
+02:15. Right.
+
+Agent (Human) at 492.8s:
+Yeah.
+
+Customer at 494.2s:
+For early removal. Otherwise, if you do get that letter, then it's it's fine.
+
+Agent (Human) at 502.2s:
+That would need
+
+Customer at 502.7s:
+Is it?
+
+Agent (Human) at 503.4s:
+be looked into because we were told that it was a two year program. So do you I I would suggest you contact New South Wales Transport and confirm with them when your actual end date is. Let us know
+
+Customer at 520.2s:
+Let
+
+Agent (Human) at 520.7s:
+we don't get updated from New South Wales. And just confirm that you can have both of these
+
+Customer at 524.6s:
+Right.
+
+Agent (Human) at 528.5s:
+removed. At whatever date it is.
+
+Customer at 534.8s:
+Okay. So then it would be reviewed. So the the the steps forward here is to contact New South Wales Transport. For the give the exact date get that correct. And find out from them then they'd have to send you a letter. Is that the way this process is gonna work? If
+
+Agent (Human) at 560.6s:
+Yeah. So if
+
+Customer at 561.0s:
+hello?
+
+Agent (Human) at 561.5s:
+if you can send us that letter from New South Wales Transport, so that we can get it removed, the the letter is just on your program. It's not vehicle specific at all.
+
+Customer at 573.3s:
+Right.
+
+Agent (Human) at 574.1s:
+Yeah.
+
+Customer at 574.8s:
+Okay.
+
+Agent (Human) at 576.6s:
+That would probably be the best way forward because if you are still in the
+
+Customer at 576.8s:
+Okay.
+
+Agent (Human) at 580.2s:
+program, you're gonna need this in the work vehicle, I take it. But if you can get it removed because you're no longer in the interlock program, you need to get this one removed as well.
+
+Customer at 591.9s:
+Yeah. No. Exactly.
+
+Agent (Human) at 592.8s:
+Yeah.
+
+Customer at 594.6s:
+I don't wanna go for another year.
+
+Agent (Human) at 596.5s:
+No. If you don't have to. Exactly.
+
+Customer at 599.1s:
+No. No. I don't wanna
+
+Agent (Human) at 599.2s:
+So, yeah, definitely give give New South Wales Transport a call. Have you got their number?
+
+Customer at 606.1s:
+No. I don't. Sorry. Not only.
+
+Agent (Human) at 607.1s:
+Okay. Yeah. John, I'll send you a text with their number if you like.
+
+Customer at 611.8s:
+Yeah. That'd be great. This is really weird because I I rang I did did see it looked up Guardian.
+
+Agent (Human) at 613.0s:
+Yep. Mhmm.
+
+Customer at 616.9s:
+And rang the number that was on on there, I don't know what's going on. The first time
+
+Agent (Human) at 619.9s:
+I don't know either. Yeah.
+
+Customer at 622.5s:
+That is bizarre. I got I got a a automated voice message
+
+Agent (Human) at 626.2s:
+Mhmm.
+
+Customer at 626.2s:
+and said I'll put you through.
+
+Agent (Human) at 627.8s:
+Yes. That's all.
+
+Customer at 628.3s:
+And I said, alright.
+
+Agent (Human) at 629.0s:
+That's how I'm I yeah. That's how AI.
+
+Customer at 632.4s:
+Okay.
+
+Agent (Human) at 634.1s:
+Yeah. But I'll I'll put through the number for New South Wales and Guardian for you. Okay?
+
+Customer at 634.2s:
+Okay. Oh, okay. Thank you very much. And maybe I can get in contact with him and work
+
+Agent (Human) at 641.4s:
+Not a problem.
+
+Customer at 644.0s:
+what's going on. Okay.
+
+Agent (Human) at 645.0s:
+Yeah. Not a problem. Okay.
+
+Customer at 646.9s:
+Yeah. Okay.
+
+Agent (Human) at 647.3s:
+Thank you so much. Have a good day. Bye.
+
+Customer at 647.9s:
+Thanks very much. Bye. Bye.

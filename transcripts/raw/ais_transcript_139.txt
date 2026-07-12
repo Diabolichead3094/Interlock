@@ -1,0 +1,224 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+I'd like to get a quote, please.
+
+Agent (Mia) at 8.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+My full name is Glenn Grayson.
+
+Agent (Mia) at 19.8s:
+Thank you. Have you already received a quote from us?
+
+Customer at 23.1s:
+No.
+
+Agent (Mia) at 24.9s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 38.2s:
+Yes, please.
+
+Agent (Mia) at 40.8s:
+Great. I'll to get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 46.8s:
+Ready. Yes.
+
+Agent (Mia) at 50.0s:
+I'll get you over to our quotes team now. One moment.
+
+Customer at 53.4s:
+Thank you.
+
+Agent (Mia) at 55.1s:
+You're welcome. Please hold while I connect you to our quotes team.
+
+Agent (Human) at 88.2s:
+Hi, Glenn. [AGENT_NAME] speaking. How are you?
+
+Customer at 90.6s:
+Hi. Good. How are you today?
+
+Agent (Human) at 92.0s:
+Good. Thank you.
+
+Customer at 94.0s:
+I'm having trouble submitting a quote. I do all the preforma questions, and then down the bottom, I tried it this morning too. I thought I had it working, but when it goes to I try and click on the I'm a I'm not a robot box. There seems to be something not working.
+
+Agent (Human) at 118.0s:
+Okay. When you do that,
+
+Customer at 118.9s:
+From my end anyway. Yeah.
+
+Agent (Human) at 120.2s:
+it should take you back up or it should be highlighted in red. The part that's not being accepted. Usually, it's the phone number because you've gotta take
+
+Customer at 128.4s:
+No.
+
+Agent (Human) at 130.2s:
+0 off and put plus 61 in front of it. Have you got it in front of you?
+
+Customer at 134.4s:
+Yeah. I've I've I've yeah. I got caught with that this morning, but I corrected it. You're right. It comes up red. But I've
+
+Agent (Human) at 142.2s:
+Yeah.
+
+Customer at 144.4s:
+I'm sure I got it right. But when it then came down to the I'm a robot thing, won't acknowledge. Maybe if I click submit first and then
+
+Agent (Human) at 158.3s:
+Try.
+
+Customer at 158.4s:
+might do an yeah. Okay. You're not having any other people having problems by any chance?
+
+Agent (Human) at 164.9s:
+No. I haven't.
+
+Customer at 165.8s:
+No.
+
+Agent (Human) at 167.3s:
+Do you know what your new vehicle is that you're trying to get it installed into?
+
+Customer at 171.8s:
+Yeah. I do. I've got those
+
+Agent (Human) at 172.8s:
+Yeah.
+
+Customer at 173.5s:
+particulars in front of me.
+
+Agent (Human) at 175.0s:
+Yeah. Sorry. Do wanna just tell me, and then I can send you through a quote if you want?
+
+Customer at 177.4s:
+Yeah. Okay. Thanks. It's a Toyota HiAce van.
+
+Agent (Human) at 182.4s:
+Yep.
+
+Customer at 184.0s:
+Long wheelbase, 2.8 liter
+
+Agent (Human) at 187.9s:
+I just need the year, make, and model. What year is it?
+
+Customer at 189.8s:
+Oh, okay. Okay. So 2021.
+
+Agent (Human) at 194.7s:
+Mhmm. Is it case set or push button?
+
+Customer at 197.6s:
+E start.
+
+Agent (Human) at 198.5s:
+Key start. And you're the registered owner?
+
+Customer at 202.0s:
+Yes.
+
+Agent (Human) at 202.7s:
+Yep. Okay. No worries. So you are still at Murray Street?
+
+Customer at 212.4s:
+Yeah. [ADDRESS], Lane Cavnaur.
+
+Agent (Human) at 214.2s:
+Yep. Okay. Perfect. So I only headed out the system six. Okay. We'll take the early termination fee of that as well. Okay. No worries. Let me work that out for you, Glyn. Okay? If
+
+Customer at 227.9s:
+Alright.
+
+Agent (Human) at 231.8s:
+it's [AGENT_NAME]
+
+Customer at 232.2s:
+I appreciate it.
+
+Agent (Human) at 233.7s:
+yeah, I should get that through to you tonight before I leave.
+
+Customer at 233.7s:
+Thank you, Daniel. Okay. Oh, okay. Wonderful. The only other thing, if I'm to pay you because I wanna try and do it as soon as possible.
+
+Agent (Human) at 244.9s:
+Yeah.
+
+Customer at 247.5s:
+Can I get your bank details to deposit into? Normally, I'd use my credit card, but I I've run into some trouble with fraudulent. I'm not suggesting you you or you guys, but
+
+Agent (Human) at 259.0s:
+Oh, Yeah.
+
+Customer at 262.3s:
+yeah, someone took my must have I don't know how they do it, but they got my account details and took out $400. So
+
+Agent (Human) at 270.7s:
+Oh, okay.
+
+Customer at 272.2s:
+that's a long story around, but I'd like to deposit into your
+
+Agent (Human) at 277.2s:
+Yeah. You can do that.
+
+Customer at 278.9s:
+facilities if possible.
+
+Agent (Human) at 280.4s:
+Yeah. Well, I'll text you through our bank details. And when you get
+
+Customer at 280.8s:
+So, yeah, do you
+
+Agent (Human) at 283.5s:
+sent out the
+
+Customer at 283.6s:
+yeah.
+
+Agent (Human) at 285.6s:
+the confirmation that we've got you booked in, that's when you'd make that payment.
+
+Customer at 289.0s:
+Okay. Right. Okay. So that's the next step, is it? I'm just getting ahead of the game.
+
+Agent (Human) at 293.6s:
+Yeah. So I'll send you through this quote
+
+Customer at 296.3s:
+Thank you.
+
+Agent (Human) at 297.0s:
+There'll be a link on there. You have to click on. It'll say additional vehicle form. Click on it.
+
+Customer at 301.6s:
+Okay.
+
+Agent (Human) at 302.5s:
+Fill out those details, and that's letting us know that you wanna go ahead with that quote, and we'll get you a booking.
+
+Customer at 308.1s:
+Okay. Wonderful. That sounds terrific. Thanks very much.
+
+Agent (Human) at 309.2s:
+Yeah.
+
+Customer at 310.9s:
+For all your help, and you have a nice day. Okay?
+
+Agent (Human) at 311.1s:
+No worries. That's okay. So yeah. Bye.
+
+Customer at 314.3s:
+Thank you. See you. Bye.

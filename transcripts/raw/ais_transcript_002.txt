@@ -1,0 +1,158 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Hi. Can I speak to a human please?
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.8s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 16.5s:
+Just to confirm. You please provide your full name for our records?
+
+Customer at 21.6s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME].
+
+Agent (Mia) at 26.8s:
+Thank you. Are you ready to be connected to a customer support specialist now?
+
+Customer at 31.6s:
+Yep.
+
+Agent (Mia) at 33.5s:
+I'll get you over our customer support team now. One moment.
+
+Agent (Human) at 73.1s:
+Hi, [CUSTOMER_NAME]. [AGENT_NAME] speaking.
+
+Customer at 75.7s:
+Hi. I'm supposed to call you guys. My my handset got delivered for my my car. I I'm I'm I'm not sure if it's kind of complicated. They said I was going to call you guys
+
+Agent (Human) at 95.6s:
+Alright. What for? What's happening?
+
+Customer at 100.0s:
+They said that my my handset just got delivered for my car. I have get it replaced because some error message kept showing up.
+
+Agent (Human) at 109.3s:
+Oh, yeah. And when are you gonna go pick it up?
+
+Customer at 113.6s:
+Well, they said that I'm supposed to do that today. I'm pretty sure. I'm not sure. They just they texted me about it. I can read you the text with you.
+
+Agent (Human) at 122.3s:
+Okay. So you need to take your old hand in there, and I'll give you a new one. Which you can take back to your car.
+
+Customer at 127.5s:
+Yeah.
+
+Agent (Human) at 129.0s:
+You just plug it in, press activate, and it should be good to go.
+
+Customer at 133.3s:
+I can't drive it. So should I just
+
+Agent (Human) at 136.4s:
+Pardon?
+
+Customer at 138.1s:
+I can't drive my car, so I need to get a lift to that one, I assume.
+
+Agent (Human) at 143.5s:
+Oh, because of the handset, or why can't you drive it? Because of the handset? Okay. Yeah. You'd need to get someone to give you a ride there to but you need to drop the old one off to them. And they'll give you the new one.
+
+Customer at 157.9s:
+Okay. And I don't need my car, though.
+
+Agent (Human) at 158.7s:
+Okay. You don't need your car there. No. When you take this new one back, you can just activate it yourself.
+
+Customer at 166.1s:
+Okay.
+
+Agent (Human) at 167.0s:
+Yeah.
+
+Customer at 167.6s:
+Okay.
+
+Agent (Human) at 168.4s:
+Okay.
+
+Customer at 170.1s:
+Like, I'm not fully sure I don't need my collar.
+
+Agent (Human) at 173.1s:
+No. You don't need your car there.
+
+Customer at 175.2s:
+Okay. Right. I just I I can show up just any time today, or should I call the service provider?
+
+Agent (Human) at 181.1s:
+I would call them and ask them what time they're closing just so you don't get called out.
+
+Customer at 185.5s:
+Oh, yeah.
+
+Agent (Human) at 186.4s:
+Yeah.
+
+Customer at 186.5s:
+Yep. Awesome. Is is there anything else I need
+
+Agent (Human) at 187.5s:
+Okay.
+
+Customer at 191.4s:
+to know? Like, do I need to call you guys before I plug it in?
+
+Agent (Human) at 194.9s:
+Nope. Just when you get the new one back. Just it'll come up on the screen, and it'll ask you to press activate, and then it will just be back to normal.
+
+Customer at 204.6s:
+Do I have to pay the service provider to people any faking?
+
+Agent (Human) at 208.3s:
+No. No.
+
+Customer at 209.8s:
+Alright. Okay. It's not super easy.
+
+Agent (Human) at 213.6s:
+Yeah. Doesn't sound too easy.
+
+Customer at 214.9s:
+Alright. Yeah. Okay. Okay.
+
+Agent (Human) at 219.0s:
+Yeah. Nope. It's all good.
+
+Customer at 222.4s:
+Alright. Alright. That's much
+
+Agent (Human) at 223.5s:
+Okay.
+
+Customer at 224.4s:
+easier than I thought it would be.
+
+Agent (Human) at 227.0s:
+Okay. Go in there and pick it up.
+
+Customer at 229.7s:
+Thank you so much. Thank you.
+
+Agent (Human) at 230.2s:
+Remember to take the old one with you, though.
+
+Customer at 232.5s:
+Oh, yeah. Bear bear. I'll write it down. Thank you so much.
+
+Agent (Human) at 233.6s:
+Yep. Perfect. Okay. See you. Bye.
+
+Customer at 238.0s:
+Bye. Bye.

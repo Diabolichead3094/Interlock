@@ -1,0 +1,290 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Oh, hi. I'm wanting to speak to one of the ladies with regards to an installation of application.
+
+Agent (Mia) at 12.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.4s:
+Thank you. Have you already received a quote from us for your installation?
+
+Customer at 27.7s:
+I need a new
+
+Agent (Mia) at 32.7s:
+Just a sec while I send that through for you. I've sent you a text with a link to submit your details.
+
+Customer at 35.9s:
+Thanks.
+
+Agent (Mia) at 39.1s:
+Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 47.0s:
+Yes, please.
+
+Agent (Mia) at 49.6s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 52.6s:
+Thank you. Yes, please.
+
+Agent (Mia) at 56.8s:
+All good. Are you ready to be connected to our quotes team now?
+
+Customer at 60.9s:
+Yes, please.
+
+Agent (Mia) at 62.9s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 105.9s:
+Affordable Interlocks. How can I help?
+
+Customer at 108.6s:
+Oh, hi there. You guys have been amazing. I've been organizing Inchlock. For quite some time, and I'm due to get my twenty eight days with the application through TMR is due to come back to me on the twenty third of this month.
+
+Agent (Human) at 122.9s:
+Yep.
+
+Customer at 123.0s:
+So I'm wanting to progress with the interlock booking.
+
+Agent (Human) at 127.8s:
+So when you say the application with is that regarding the financial assistance?
+
+Customer at 133.4s:
+Yeah.
+
+Agent (Human) at 134.2s:
+Okay. So I wouldn't recommend booking in until you have the letter. Just because we're we're not able to get a booking without the confirmation from them. So once they provide you the certificate, you can then email that to us, and then we can quote you and get you a booking. However, if we start
+
+Customer at 149.6s:
+Yeah.
+
+Agent (Human) at 150.5s:
+if we start the process now, we won't be able to take that financial assistance rate. Nor once you're approved, we're unable to refund it. So I would yeah, I would I would wait until you have the letter just
+
+Customer at 160.7s:
+Somebody else.
+
+Agent (Human) at 164.2s:
+because if we do it any sooner, we won't be able to apply that second that the fee that they charge and whatnot.
+
+Customer at 172.4s:
+Okay. Yeah. Because I'm keen to get back on the road with I'm sure, you know, most people are.
+
+Agent (Human) at 177.3s:
+Yeah.
+
+Customer at 178.5s:
+How far in advance do I have to book it, though? What is the
+
+Agent (Human) at 181.8s:
+Well, I mean, once you
+
+Customer at 182.8s:
+installer booked out?
+
+Agent (Human) at 183.5s:
+once you do the quote enrollment, it's about five to ten business days. To get the booking.
+
+Customer at 188.7s:
+That's what I mean. I can't wait. Like,
+
+Agent (Human) at 191.5s:
+Yeah. Well, if you're if you're happy to pay the full rate or the concession rate, if you have concession, we can proceed, but you won't be refunded
+
+Customer at 198.4s:
+Worth the concession right.
+
+Agent (Human) at 200.2s:
+I'm not too sure just because I don't your vehicle. You can pop in a quote and then just pop your concession card
+
+Customer at 205.7s:
+I already I did I my details are on file currently.
+
+Agent (Human) at 213.8s:
+What's your name? Sorry.
+
+Customer at 216.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME]?
+
+Agent (Human) at 218.7s:
+Okay.
+
+Customer at 220.5s:
+Yes. Thanks, Ryan.
+
+Agent (Human) at 227.0s:
+Okay. So the quote that you would have received that has the concession rates on it let me just get that up.
+
+Customer at 233.4s:
+Yep.
+
+Agent (Human) at 238.9s:
+So it's $7.45 50.
+
+Customer at 239.2s:
+It's [AGENT_NAME] the worst.
+
+Agent (Human) at 242.0s:
+So that's with the concession. So if you pay that, we can get a book
+
+Customer at 242.8s:
+Yep.
+
+Agent (Human) at 245.3s:
+booking. However, it won't be refunded if you get if you do get proof of financial assistance. The financial assistance moving forward would only cover the rental.
+
+Customer at 251.0s:
+I changed.
+
+Agent (Human) at 255.2s:
+And then the removal fee. So the rental, it doesn't
+
+Customer at 255.6s:
+Yep.
+
+Agent (Human) at 259.3s:
+cover the it covers the rental, but not the loss protection plan. So it's $25.50 for every ninety days of servicing. So normally for a normal non concession holder, it's $5.35 50. With concession, it's $3.96. And then with the financial assistance, it's $25.50 for three months in the program. So if you'll have
+
+Customer at 281.2s:
+So $25.50 per month? Or
+
+Agent (Human) at 284.0s:
+put for three months within the program. But that the financial assist
+
+Customer at 286.9s:
+oh,
+
+Agent (Human) at 287.4s:
+However, if we install however, if we install you, you would have to pay the $7.45 50 up front and then the concessions.
+
+Customer at 295.8s:
+Yep.
+
+Agent (Human) at 298.1s:
+Fee for rental as well until you do get approved. However, if you do get approved, that that cost will decrease significantly. So personally,
+
+Customer at 309.0s:
+Yeah. So it'll
+
+Agent (Human) at 309.8s:
+I I would wait until you do get approved because if you get approved, then that cost will be heavily reduced.
+
+Customer at 317.7s:
+So it's 35% that they cover, isn't it? Is that right?
+
+Agent (Human) at 322.1s:
+Concessions, 35%. And then I'm not
+
+Customer at 324.7s:
+Yep.
+
+Agent (Human) at 325.6s:
+I'm not not in the quotes team, to be quite honest. I'm not too sure with this with the financial
+
+Customer at 328.1s:
+That's okay.
+
+Agent (Human) at 330.6s:
+assistance amount. But do do you know how many more so you said that they they'll get back to
+
+Customer at 332.2s:
+Yep.
+
+Agent (Human) at 335.5s:
+on the twenty third?
+
+Customer at 337.7s:
+Yeah. Sorry. What was that?
+
+Agent (Human) at 339.5s:
+They'll get back to you on the
+
+Customer at 339.9s:
+Do I know
+
+Agent (Human) at 341.2s:
+yeah.
+
+Customer at 342.5s:
+Yeah. He said if I haven't got an email by the twenty third, that I should contact their office. And I'm like, Yeah. Okay. Well, look, I really do appreciate your help. I know it's very difficult Yes. And then, of course, government Yeah. Yeah. So it'd be 35% off the 700 approximately. Is that
+
+Agent (Human) at 370.8s:
+I believe I believe I'm not too
+
+Customer at 371.1s:
+am I reading that correctly?
+
+Agent (Human) at 374.4s:
+sure, to be quite honest. I don't know the it depends on each vehicle. Everyone's very different. It's it's once we have the letter we're able to quote, we without that letter, we're unable to quote what we don't know what they're covering.
+
+Customer at 383.1s:
+Yes. Yeah. Okay. Alright. Oh, yes. I see. That makes more sense. Alright. Well, let's see. I'll just say my prayers.
+
+Agent (Human) at 394.2s:
+Yeah. If you wanna have a think about it and then get
+
+Customer at 395.3s:
+And hope that they'll get back to me.
+
+Agent (Human) at 396.9s:
+back yeah. Awesome.
+
+Customer at 398.7s:
+Yeah. Because I get my license tomorrow, and I was trying to get it all done in time, but I couldn't apply six weeks before. Until six weeks before. And then a friend of mine passed away and had a bit of a meltdown. So yes. So, anyway, that's okay. Alright. Let's see how we go. I do appreciate your help.
+
+Agent (Human) at 418.4s:
+Yeah. That's okay.
+
+Customer at 419.6s:
+And I'll be back in touch. So when I do get the letter from them, do I just what do I do? I just email you a cough
+
+Agent (Human) at 428.4s:
+Yeah. Just give us a call. When you when you get approved, give us a call, and then
+
+Customer at 428.9s:
+a letter the letter?
+
+Agent (Human) at 432.7s:
+we'll go from there. Because you just need to email it to us, and then we'll have to requote you. And then you just
+
+Customer at 437.2s:
+Okay.
+
+Agent (Human) at 437.7s:
+roll out all your other details, like your license number, all of that, and then we'll be able to get you the booking.
+
+Customer at 443.7s:
+Do I need to do I need to go through the online again?
+
+Agent (Human) at 449.5s:
+Maybe. I'm not too sure. Just depending if the quote's expired. Otherwise, we may be able to do the quote over the phone with you. But
+
+Customer at 459.0s:
+Yeah.
+
+Agent (Human) at 459.6s:
+yeah, it just depends when you get the approval and and and when when it is. It I'm not too sure.
+
+Customer at 465.6s:
+Okay. That's cool. Alright, Bill. Thank you. I appreciate your time.
+
+Agent (Human) at 469.6s:
+No worries at all. Hope you have a great rest of your day.
+
+Customer at 472.6s:
+Yeah. You too. Thanks so much.
+
+Agent (Human) at 473.9s:
+Thank you. Thank you. Bye bye.
+
+Customer at 475.6s:
+See you. Bye. Bye bye.

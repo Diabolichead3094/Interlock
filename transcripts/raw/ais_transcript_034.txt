@@ -1,0 +1,284 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.8s:
+Query about completion of program.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.7s:
+[CUSTOMER_NAME]. Oh,
+
+Agent (Mia) at 18.5s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 23.7s:
+Yes.
+
+Agent (Mia) at 25.5s:
+Thanks for confirming. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 31.7s:
+Yes.
+
+Agent (Mia) at 34.3s:
+I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 38.8s:
+Yes.
+
+Agent (Mia) at 40.8s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 46.9s:
+Yes.
+
+Agent (Mia) at 49.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 89.6s:
+Affordable interlocks. This is [AGENT_NAME].
+
+Customer at 92.2s:
+Yeah. Tracy, I've received a letter about the completion of the interlock program.
+
+Agent (Human) at 98.5s:
+Awesome. Yes. Have you
+
+Customer at 99.7s:
+I was just wondering just wondering if you need
+
+Agent (Human) at 102.6s:
+you
+
+Customer at 103.6s:
+a copy of that letter, or did I just automatically send it to you?
+
+Agent (Human) at 105.5s:
+Yes, please. No. They don't, unfortunately. If you could email it through to us,
+
+Customer at 113.0s:
+Okay. Yeah.
+
+Agent (Human) at 114.7s:
+If you could email it through to our inquiries drop box. We can then all them yeah.
+
+Customer at 118.8s:
+In foreign. Okay then.
+
+Agent (Human) at 121.2s:
+So it's e n q u I r I e s.
+
+Customer at 126.7s:
+Yep.
+
+Agent (Human) at 127.9s:
+At affordable interlocks with an s on the end, dot com dot a u.
+
+Customer at 134.2s:
+Okay then.
+
+Agent (Human) at 136.5s:
+Now when were you looking to have this removed?
+
+Customer at 136.7s:
+Uh-huh. You, sir? Maybe tomorrow.
+
+Agent (Human) at 142.4s:
+Okay.
+
+Customer at 143.9s:
+Do I have to get it moved straight away?
+
+Agent (Human) at 147.2s:
+No. But it would be in your best interest. You do actually pay a leasing charge for every day until it is removed.
+
+Customer at 156.0s:
+From I listen. Well, service needs a file of is paying for this Saturday payment.
+
+Agent (Human) at 171.5s:
+They would pay part of it? Yes.
+
+Customer at 174.4s:
+Okay.
+
+Agent (Human) at 174.7s:
+So I can see you've got financial assistance. Is that what you're referring to? Yeah.
+
+Customer at 177.7s:
+Yeah. Yeah.
+
+Agent (Human) at 179.2s:
+Yeah. Yeah. Is there is there a particular day that you wanted it out?
+
+Customer at 185.2s:
+Oh, gonna call the mechanic today for tomorrow. Like, I received
+
+Agent (Human) at 191.5s:
+Yeah. So we organize the removal and everything for you.
+
+Customer at 195.7s:
+Okay. Are you organized that? Oh,
+
+Agent (Human) at 196.5s:
+Yeah. Yeah. We do.
+
+Customer at 198.3s:
+don't ring. Oh, okay.
+
+Agent (Human) at 200.5s:
+Yeah. So is that Central Coast Roadside at Berkeley Vale that where you've been going to for your servicing? Is that where you wanted to go to for the removal?
+
+Customer at 208.6s:
+Yeah. But I want to speak to them and work out a time suitable.
+
+Agent (Human) at 215.1s:
+Okay. If you wanna give him a call and let us know, what time you've arranged,
+
+Customer at 219.5s:
+Alright. Okay then. Yeah. No worries.
+
+Agent (Human) at 223.2s:
+Yep.
+
+Customer at 223.6s:
+So it'd probably be tomorrow or will be tomorrow.
+
+Agent (Human) at 226.2s:
+Okay.
+
+Customer at 227.6s:
+And yeah.
+
+Agent (Human) at 230.4s:
+Awesome. Yeah. We just need a copy of that removal letter first before we can book it in.
+
+Customer at 231.6s:
+So Okay. Also,
+
+Agent (Human) at 235.5s:
+If you can send that through to us, Yeah.
+
+Customer at 237.7s:
+I've been looking conversely via AI. Sorry.
+
+Agent (Human) at 242.7s:
+Yeah.
+
+Customer at 243.2s:
+And it's exciting that I have to get my license first changed before it's renewed.
+
+Agent (Human) at 251.0s:
+Yeah. Absolutely. The last thing we want
+
+Customer at 254.2s:
+You do. Do.
+
+Agent (Human) at 255.5s:
+is for you to drive out of the booking to have it removed. Getting pulled over by police, and your license showing that you need an interlock.
+
+Customer at 270.5s:
+On that I need an inter okay.
+
+Agent (Human) at 274.8s:
+Because your license at the moment says that you need you need an interlock. Correct?
+
+Customer at 279.1s:
+Yeah. But wouldn't I just be, like, look up my record and just say, well,
+
+Agent (Human) at 280.0s:
+Yeah.
+
+Customer at 283.8s:
+he's finished
+
+Agent (Human) at 284.3s:
+No.
+
+Customer at 285.6s:
+No.
+
+Agent (Human) at 286.0s:
+No. No. So does the letter that you have does that state that you're allowed to have it removed as of
+
+Customer at 294.2s:
+Yeah.
+
+Agent (Human) at 297.7s:
+today's date, tomorrow's date,
+
+Customer at 300.5s:
+Oh, no. I I've just received it. But it's dated the fifteenth, so Monday.
+
+Agent (Human) at 304.8s:
+Fifteenth. Awesome. So if you wanted to go in today and have
+
+Customer at 305.7s:
+Monday.
+
+Agent (Human) at 308.4s:
+your license updated,
+
+Customer at 310.5s:
+Yep.
+
+Agent (Human) at 311.3s:
+yeah, Definitely get your license updated before the removal.
+
+Customer at 313.2s:
+So that's the only product. Yeah. But that's the only problem, like, with the police pulling me over. So like, Grant or the one of the guys done at at the mechanics done. They to see my wife or something.
+
+Agent (Human) at 327.4s:
+No. We don't we don't control licensing. We don't have anything to do with licensing. But, yeah, if if you were to get pulled over and, you know, the time that you think, oh, yeah. It'll be fine, is definitely time that it's gonna happen. So yeah. Please don't risk it. It is always the way. Yeah.
+
+Customer at 347.8s:
+Okay then. Alright.
+
+Agent (Human) at 347.9s:
+And the last thing we want is for you to have to go back on the interlock program just because you didn't get your license updated. So please get it updated before the removal.
+
+Customer at 356.2s:
+Oh, is that what happened? It's not a phone. You have to go back on the program.
+
+Agent (Human) at 359.9s:
+Uh-huh.
+
+Customer at 365.0s:
+I've never escaped it.
+
+Agent (Human) at 367.3s:
+So please get that license updated first. Yeah.
+
+Customer at 371.2s:
+Alright. So thanks for that information. I'll send that
+
+Agent (Human) at 373.3s:
+Not a problem.
+
+Customer at 374.7s:
+letter off to inquiries.
+
+Agent (Human) at 375.6s:
+Mhmm. Yeah. That'd be great. And, yeah, if you wanna let us know when is a good time that both of you and the mechanic have arranged, that's fine.
+
+Customer at 385.8s:
+Okay. Then It'll be tomorrow. Yeah. I'll I'll call back. Is that okay?
+
+Agent (Human) at 393.5s:
+Yeah. Yeah. Not a problem. And then
+
+Customer at 394.5s:
+Or can I can I could I just put it in the email to make it easier for you?
+
+Agent (Human) at 398.4s:
+yeah. Yeah. Put it in the email. It'll be perfect.
+
+Customer at 400.9s:
+Okay then. Thank you. Have a nice afternoon.
+
+Agent (Human) at 401.8s:
+Okay. Thank you. Thank you. You too. Bye.
+
+Customer at 404.9s:
+Bye.

@@ -1,0 +1,146 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+I want to get my interlock transferred.
+
+Agent (Mia) at 9.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.6s:
+Thank you. Have you already received a quote from us for your interlock transfer?
+
+Customer at 22.6s:
+No.
+
+Agent (Mia) at 24.5s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 37.0s:
+Yes, please.
+
+Agent (Mia) at 39.7s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 75.9s:
+Hi, [CUSTOMER_NAME]. It's Tracy. How are you? Good. Thank you. How can I help?
+
+Customer at 82.8s:
+Good. How are you? I'm looking to get my interlock transferred from one unit into another.
+
+Agent (Human) at 86.2s:
+Okay. Yeah. You just wanted a quote. Is that right? Yeah. Not a problem. Kyle, what
+
+Customer at 96.0s:
+Yeah. Quote and how to go about it all?
+
+Agent (Human) at 97.1s:
+type of vehicle are we taking it out of? Okay. And
+
+Customer at 104.0s:
+It's [AGENT_NAME] a 2006 Hilux.
+
+Agent (Human) at 104.1s:
+so that's your current vehicle. What's the new vehicle? Nineteen seventy four international.
+
+Customer at 111.5s:
+So the new one will be a 1974 in international.
+
+Agent (Human) at 117.1s:
+And is that a Toyota? Alright. Okay.
+
+Customer at 127.9s:
+No. No. The actual the actual make of it is international. I'm not sure if it has come up in your system or not as an option because
+
+Agent (Human) at 133.3s:
+Okay. Is it an international harvester? Is scout, or what type? Harvester? Yep.
+
+Customer at 141.7s:
+Yeah. International Harvester. Yes.
+
+Agent (Human) at 147.0s:
+Okay. Now just because of the age, because it is a 1974 model, can I just ask, is is it in good roadworthy condition?
+
+Customer at 155.9s:
+Yep.
+
+Agent (Human) at 156.4s:
+Yeah. It will be? Yep. And it's road registered. Is that right?
+
+Customer at 159.9s:
+Yep. It will be. Yep. Not currently, but hopefully, in two weeks, I'll have it registered.
+
+Agent (Human) at 165.4s:
+Right. Okay. And will it be registered in your name? Excellent. And can you tell me is that a petrol or a diesel?
+
+Customer at 173.0s:
+Yep.
+
+Agent (Human) at 175.9s:
+Petrol. And is I'm gathering it is
+
+Customer at 179.0s:
+A petrol.
+
+Agent (Human) at 179.1s:
+a case Yep. Okay. What I'm gonna do is
+
+Customer at 185.0s:
+Yep.
+
+Agent (Human) at 187.1s:
+go through and do a quote for you. Now I will send you an email, and that'll have the details on there that we need completed. Yeah. And we'll go from there. So in about two weeks, you'll have it registered. Is that right?
+
+Customer at 199.9s:
+Yeah.
+
+Agent (Human) at 202.6s:
+Yep. And then shortly after that, we'll we can book it in.
+
+Customer at 202.9s:
+Yep. Yep. Yeah. Yes. I am. Hopefully, I'll have it register.
+
+Agent (Human) at 212.4s:
+That sounds like a photo ID.
+
+Customer at 213.3s:
+And then put it in within a week of having it registered, hopefully.
+
+Agent (Human) at 214.2s:
+Yeah. Awesome. Okay. I will go ahead and do this for you now, and we'll
+
+Customer at 218.8s:
+Yep.
+
+Agent (Human) at 221.3s:
+converse via email. Awesome. Do you have the oh, you don't have a registration for that vehicle at the moment, do you?
+
+Customer at 227.5s:
+Yep. Right. So is he saying?
+
+Agent (Human) at 232.5s:
+Yeah. Let's
+
+Customer at 234.6s:
+No. No. It's unregistered at the moment.
+
+Agent (Human) at 242.2s:
+Keystone and Petrol. And it will be Queensland registered. Right? New South Wales. Okay. Fantastic. Not a problem. I will go ahead and get that started for you now.
+
+Customer at 255.7s:
+New South Wales.
+
+Agent (Human) at 260.7s:
+Okay. Thank you so much. You have a good day.
+
+Customer at 263.8s:
+Yep. Right.
+
+Agent (Human) at 264.0s:
+Okay. Bye bye.
+
+Customer at 267.7s:
+Thank you. Bye.

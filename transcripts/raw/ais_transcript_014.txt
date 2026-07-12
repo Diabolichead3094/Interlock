@@ -1,0 +1,143 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+Hi, ma'am. I'm just looking for a quote for a interlock.
+
+Agent (Mia) at 9.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.8s:
+Thank you. Have you already received a quote from us?
+
+Customer at 19.8s:
+No.
+
+Agent (Mia) at 21.7s:
+Thanks for letting me know. One moment while I send you a text with a link to request your quote. I've sent you a text with a link to submit your details. Our team will follow-up with a quote. Usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 37.3s:
+Yes, please.
+
+Agent (Mia) at 39.3s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 44.1s:
+Yeah.
+
+Agent (Mia) at 46.0s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 84.4s:
+Affordable Interlocks. [AGENT_NAME] speaking.
+
+Customer at 87.8s:
+Hi, Sarah. I'm just looking for a quote for an interlock device. A rough quote.
+
+Agent (Human) at 93.9s:
+Alright. Well, we do that in writing. So I'll need to send you a link to our quote request form. Uh, what state are you calling from? Okay. Do you know when you're eligible to get your
+
+Customer at 101.6s:
+New South Wales.
+
+Agent (Human) at 105.6s:
+interlock license?
+
+Customer at 107.7s:
+Yeah. Right now.
+
+Agent (Human) at 109.6s:
+Okay. Alright. And the vehicle that you're looking to install is it registered to you?
+
+Customer at 119.2s:
+No.
+
+Agent (Human) at 120.1s:
+Alright. So I'll need to send an additional form which is permission to install. So once we get to the quote and the enrollment process, will just get you to have the owner complete that form. Alright?
+
+Customer at 140.7s:
+Is there no sorry. Is there no verbal quote you can give me?
+
+Agent (Human) at 143.9s:
+I can give you a rough idea.
+
+Customer at 146.3s:
+That would be fantastic.
+
+Agent (Human) at 150.3s:
+Alright. So the vehicle year, make, and model,
+
+Customer at 158.2s:
+2010 Holden Cruise.
+
+Agent (Human) at 162.4s:
+Okay. Just a few moments while I look that up. And twenty ten Is that a case start or a push to start?
+
+Customer at 185.9s:
+Keystop.
+
+Agent (Human) at 187.1s:
+Okay. So you would be looking at a thousand and $88.50. That includes your first thirty days of monthly rental.
+
+Customer at 197.1s:
+Mhmm.
+
+Agent (Human) at 201.5s:
+Actually, that's New South Wales. Actually, it's a little bit more here. $1,233.50.
+
+Customer at 214.9s:
+Mhmm.
+
+Agent (Human) at 217.1s:
+Yes. That's what you would be looking at in that range.
+
+Customer at 221.4s:
+Is that for installation, or is that is that just for installation?
+
+Agent (Human) at 223.3s:
+Installation, plus your first thirty days of monthly rental.
+
+Customer at 228.2s:
+Okay. And then how much is it every successive month? How much is the
+
+Agent (Human) at 232.6s:
+So if you if you service
+
+Customer at 232.7s:
+the
+
+Agent (Human) at 234.5s:
+monthly, it's a $198.50.
+
+Customer at 237.7s:
+mhmm.
+
+Agent (Human) at 238.6s:
+Every thirty days. Or if you select going every two months, it's three hundred and fifty seven
+
+Customer at 244.1s:
+Mhmm.
+
+Agent (Human) at 246.7s:
+There's a discount of $40 when you pay for two months at a time.
+
+Customer at 252.1s:
+And is there a three month option or not?
+
+Agent (Human) at 254.4s:
+No.
+
+Customer at 255.7s:
+Okay. No worries. Thank you very much.
+
+Agent (Human) at 257.6s:
+Alright. Have a good day.
+
+Customer at 259.6s:
+See you. Bye.
+
+Agent (Human) at 260.4s:
+Bye.

@@ -1,0 +1,92 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 0.7s:
+It's
+
+Agent (Mia) at 3.3s:
+How may I assist you today?
+
+Customer at 5.7s:
+Mike. Interlock has immediate recall. Or 17 flashing on it. And it's working out Got alarm, you know,
+
+Agent (Mia) at 17.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 21.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME], [CUSTOMER_NAME].
+
+Agent (Mia) at 24.6s:
+Thank you. Can you tell me how long the lockout timer on your device is showing right now?
+
+Customer at 30.2s:
+When I left, it was twenty nine minutes. I'm now walking away from yeah.
+
+Agent (Mia) at 33.8s:
+You'll you'll need to stay with your vehicle until the timer finishes. For a lockout under thirty minutes, there's no remote override. Once the countdown ends, you'll be able to use the device again.
+
+Customer at 48.5s:
+Alarms were going off. It dropped me out of the red water. It was really scary. For two seconds, I left me up five minutes, ten, thirty minutes. So scary.
+
+Agent (Mia) at 59.4s:
+That sounds really stressful. Once the timer finishes, you'll be able to start your car again. If you'd like this event formally noted or want to speak with a specialist,
+
+Customer at 64.2s:
+Are you sure?
+
+Agent (Mia) at 67.6s:
+let me know, and I can connect you.
+
+Customer at 69.9s:
+Yes, please. I just wanna make sure I can definitely start because it's very Yeah. And what what I should do about the immediate recall, like, when when what do I do?
+
+Agent (Mia) at 83.0s:
+Understood. For an immediate recall or service alert, you'll need to book a service or calibration as soon as possible. If you'd like, I can connect you to a specialist now to discuss your next steps.
+
+Customer at 92.8s:
+Yes, please.
+
+Agent (Mia) at 92.8s:
+Are you ready to be connected?
+
+Customer at 94.3s:
+Yes, please.
+
+Agent (Mia) at 96.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 99.2s:
+Thank thank you. Yes.
+
+Agent (Mia) at 103.3s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 106.2s:
+Thank Three.
+
+Agent (Mia) at 110.6s:
+Transferring you now. If the call does not connect, I'll collect your details Sorry. It looks like our team wasn't able to answer just now. It's understandable. This is frustrating. If you leave your details, someone will be in touch with you soon. What's the best number for our team to reach you on?
+
+Customer at 171.5s:
+Thirty four. [REDACTED].
+
+Agent (Mia) at 178.9s:
+Just to confirm, that number is (342) 362-3690. Is that right?
+
+Customer at 184.8s:
+No.
+
+Agent (Mia) at 188.4s:
+Perfect. I've noted your details. And our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 195.3s:
+Yes. I need to book the immediate recall. Please.
+
+Agent (Mia) at 201.2s:
+I can't book the immediate recall directly, but our team will contact you soon to arrange your service. Is there anything else I can help you with today?
+
+Customer at 209.7s:
+What? Eight three.
+
+Agent (Mia) at 215.8s:
+All good. If you need anything else, just let me know. Otherwise, thanks for calling Affordable Interlock Systems. Have a wonderful day.

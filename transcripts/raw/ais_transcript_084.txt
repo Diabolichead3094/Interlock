@@ -1,0 +1,215 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.3s:
+Pull a brand.
+
+Agent (Mia) at 11.1s:
+Thank you. How can I help you today?
+
+Customer at 14.2s:
+Pizza Alfredo.
+
+Agent (Mia) at 16.8s:
+Just to make sure I'm on the right track, did you say pizza Alfredo? Could you clarify how this relates to your interlock device or support needs?
+
+Customer at 26.0s:
+Speak to operator.
+
+Agent (Mia) at 28.7s:
+Understood. Are you ready to be connected to a specialist now?
+
+Customer at 33.0s:
+Yes, please.
+
+Agent (Mia) at 35.3s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 69.7s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 72.8s:
+Hi. Good afternoon, Sarah. My name is Tammy. And I had an immediate recall message pop up on my interlock. And I've also had basically, what's been happening, like, power's been shutting off in my car. Um, and just now, like, my steering wheel's just locked up. But, yeah, I think it could have something to do with the electricity. And the interlock.
+
+Agent (Human) at 101.8s:
+Alright, Naomi. So I need to start with your last name and your registration, please.
+
+Customer at 107.5s:
+No worries. Naomi Louise Bowley, and my registration is double eight two v q d.
+
+Agent (Human) at 118.7s:
+Okay. Let's have a look there. Okay. So you've got the Toyota Yaris. So what's the message on your handset?
+
+Customer at 131.0s:
+Immediate recall.
+
+Agent (Human) at 133.0s:
+Immediate recall and what number?
+
+Customer at 138.0s:
+Eight fourteen.
+
+Agent (Human) at 140.7s:
+Alright. So that's relating to a flat battery or if you've had work done on your car and they've had to disconnect it. So have you had work done on your vehicle recently?
+
+Customer at 149.0s:
+Yep. I've recently taken it to to have a car serviced.
+
+Agent (Human) at 159.1s:
+Yes.
+
+Customer at 160.8s:
+But what's been happening is that the electricity actually has been cutting off from the terminal.
+
+Agent (Human) at 169.1s:
+Yeah. So that's not an interlock problem, though. But that would result in you having a message that relates to the battery. So I can help you to clear that over the phone, but you should get that looked at if the terminals are loose or your battery um, the connection to the terminals. Is a problem.
+
+Customer at 190.5s:
+Yeah. Sorry. Hold on one second. I'm just I'm yep. So what was that? Did you just say it's the battery issue?
+
+Agent (Human) at 208.3s:
+So immediate recall 14 is relating to
+
+Customer at 210.9s:
+Yep.
+
+Agent (Human) at 212.1s:
+battery.
+
+Customer at 213.4s:
+Yep.
+
+Agent (Human) at 214.0s:
+So if you've had work done on your car, like you said that you have, then that's why you've got the message. So we can clear that over the phone,
+
+Customer at 219.0s:
+Yes.
+
+Agent (Human) at 223.0s:
+But if it keeps recurring, you need someone to look and check your battery terminals and or
+
+Customer at 228.1s:
+Yep.
+
+Agent (Human) at 229.8s:
+if you haven't replaced your battery, maybe it's time for that to happen too.
+
+Customer at 234.6s:
+Okay.
+
+Agent (Human) at 236.9s:
+Alright. So we just need to reset your hand
+
+Customer at 237.4s:
+Alrighty.
+
+Agent (Human) at 239.4s:
+Naomi.
+
+Customer at 241.7s:
+Alright. Well, so I jump in the vehicle and you give me a a code?
+
+Agent (Human) at 246.0s:
+Yes. So on your handset, you just need to press and hold the left hand button until service dates comes up.
+
+Customer at 259.5s:
+Let him button service date.
+
+Agent (Human) at 261.6s:
+Mhmm. So has that come up yet?
+
+Customer at 275.5s:
+No. So I'm holding that button in? But it's just still flashing immediately.
+
+Agent (Human) at 278.8s:
+So so is your car running?
+
+Customer at 282.0s:
+Yes.
+
+Agent (Human) at 282.7s:
+So you need to turn it off.
+
+Customer at 285.1s:
+Yes.
+
+Agent (Human) at 285.8s:
+Mhmm. Key all the way off.
+
+Customer at 287.1s:
+Okay.
+
+Agent (Human) at 288.7s:
+And when it says restart available, you cancel the restart, then press and hold the left hand button.
+
+Customer at 299.0s:
+Cancel the restock. Press and hold the left hand button.
+
+Agent (Human) at 302.9s:
+Mhmm.
+
+Customer at 304.2s:
+Nope.
+
+Agent (Human) at 307.8s:
+So you canceled the restart first by pressing the right
+
+Customer at 312.3s:
+Oh, yeah. Sorry. I went straight to the left.
+
+Agent (Human) at 315.6s:
+Mhmm.
+
+Customer at 318.7s:
+Service dates.
+
+Agent (Human) at 320.4s:
+Okay. So now use your right button, but short presses until you see it says reset.
+
+Customer at 331.2s:
+What?
+
+Agent (Human) at 332.2s:
+And then select with the large button.
+
+Customer at 335.4s:
+Yes.
+
+Agent (Human) at 336.4s:
+Okay. And the code for today is eight eight three nine.
+
+Customer at 340.8s:
+Eight eight three nine.
+
+Agent (Human) at 342.6s:
+Mhmm.
+
+Customer at 355.7s:
+That's Some cards.
+
+Agent (Human) at 357.8s:
+And the sub code is zero zero nine four.
+
+Customer at 373.1s:
+Cool.
+
+Agent (Human) at 374.9s:
+And then select and accept. It might say wait, but then it should come back to ready for test. And that means it's all clear for you.
+
+Customer at 384.3s:
+Alrighty. Thank you.
+
+Agent (Human) at 387.3s:
+No worries at all. Alright, Naomi. You have a good afternoon.
+
+Customer at 391.2s:
+You too.
+
+Agent (Human) at 392.0s:
+Thank you.
+
+Customer at 392.8s:
+Bye.
+
+Agent (Human) at 393.1s:
+Bye.

@@ -1,0 +1,89 @@
+Agent (Mia) at 0.1s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Remotely.
+
+Agent (Mia) at 8.8s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 14.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.9s:
+Thank you. How can I assist you with your interlock today?
+
+Customer at 22.8s:
+I received my completion notice.
+
+Agent (Mia) at 26.9s:
+Great progress. Since you have your completion notice, I'll connect you with our customer support team to assist with the removal process. Are you ready to be transferred now?
+
+Customer at 36.2s:
+Yes.
+
+Agent (Mia) at 38.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 79.5s:
+Yes. Good morning. Affordable Interlock. How can I help?
+
+Customer at 85.3s:
+How's it going? My name is. I just got my, notice from Queensland Transport.
+
+Agent (Human) at 92.4s:
+Oh, awesome. Congratulations. Did you wanna send it through to us so we can book in your removal?
+
+Customer at 97.8s:
+Yeah. Yeah. We'll just send it through to
+
+Agent (Human) at 100.8s:
+I'm just gonna send you an email. Yeah. What's your vehicle details, Sean?
+
+Customer at 100.9s:
+email It's three two six zed p n.
+
+Agent (Human) at 108.2s:
+Awesome. And your phone number can is it just the one [CARD_ON_FILE]?
+
+Customer at 113.2s:
+Yeah. That's it.
+
+Agent (Human) at 114.5s:
+Awesome. Can you just send us your completion notice and then we'll book in your approval. Are you just wanting the closest date possible?
+
+Customer at 117.7s:
+Yes. Yeah. We fucked them. Yeah.
+
+Agent (Human) at 123.4s:
+Awesome. Awesome. Thank you so much. Yeah. Just send that through, and book in your removal. I'll give Ganex a call now.
+
+Customer at 130.2s:
+No worries. What costs are involved in the removal? Do you know? Or
+
+Agent (Human) at 135.3s:
+We it looks like you paid for your upload fee on the eleventh. You've on I think you've you've should be covered because you've got some money sitting on your account on do up a quick quote once I call them just to see what date we can get you in because it's just based on a rental, just how many days of rent we were using. But I'll give them a Hopefully, we can get you in as soon as possible, and then I'll email you everything But I don't think you'd be paying a lot.
+
+Customer at 161.8s:
+Alright. And my handset's telling me that it's due for another service. On Saturday.
+
+Agent (Human) at 165.9s:
+Yeah. That's only because what you'll if you turn the handset around, it's it's only calibrated till the twenty third. So that's how far we can push the the service tool. So you've but you've got another seven days after the twenty first, so it won't lock you out at all.
+
+Customer at 181.9s:
+Alright. Cool. Thank you.
+
+Agent (Human) at 182.9s:
+What's that? Awesome. No worries. I'll give Demicks a call now. But if you can send that completion notice through, we'll just forward the whole email that Transport sent you, and then we'll be able to book it in.
+
+Customer at 191.6s:
+No worries. I'll send it through now.
+
+Agent (Human) at 193.4s:
+Awesome. Have a great day, [CUSTOMER_NAME]. We'll speak to you soon.
+
+Customer at 196.2s:
+Thank you.
+
+Agent (Human) at 197.1s:
+Thank you. Thanks.

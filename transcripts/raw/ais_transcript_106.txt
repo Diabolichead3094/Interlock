@@ -1,0 +1,530 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.2s:
+Speak to someone.
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.2s:
+Thank you. Our office is open now. Would you like me to connect you to our customer support team?
+
+Customer at 21.8s:
+Yes.
+
+Agent (Mia) at 22.5s:
+Are you ready to be transferred?
+
+Customer at 24.8s:
+Yes.
+
+Agent (Mia) at 26.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 59.2s:
+Hi, Kaisa. How can I help?
+
+Customer at 61.8s:
+Hi. Hey, Jan. I'm Yeah. I called up I called up. I think it was the May 21. I had to walk out of my car,
+
+Agent (Human) at 70.5s:
+Mhmm.
+
+Customer at 70.5s:
+I'm just gonna I've got today. I had a bottle of perfume, like, explode all over my seat and go through the handset.
+
+Agent (Human) at 78.0s:
+Okay.
+
+Customer at 79.7s:
+And that's what paused it. It was after work.
+
+Agent (Human) at 83.0s:
+Yeah.
+
+Customer at 84.5s:
+Yeah. On the write it down. Yeah. On the twenty first. That was from about five 5PM till about eight.
+
+Agent (Human) at 91.7s:
+Okay. Mhmm.
+
+Customer at 94.1s:
+What do I I'm in my performance period.
+
+Agent (Human) at 96.7s:
+Right. Let's note that on your
+
+Customer at 97.6s:
+What do I
+
+Agent (Human) at 99.2s:
+yeah. Carson, what was your surname, please?
+
+Customer at 102.1s:
+My surname is [CUSTOMER_NAME].
+
+Agent (Human) at 103.5s:
+Thank you. And what was
+
+Customer at 104.8s:
+S h h e r d.
+
+Agent (Human) at 106.6s:
+thank you. And your registration for your vehicle?
+
+Customer at 109.9s:
+Oh, boy. Nine two eight
+
+Agent (Human) at 115.1s:
+Mhmm.
+
+Customer at 115.1s:
+an l six,
+
+Agent (Human) at 116.3s:
+Thank you. Okay. And it was the twenty first, was it?
+
+Customer at 120.8s:
+Yeah. The May 21. I did call up, but then
+
+Agent (Human) at 123.4s:
+Mhmm.
+
+Customer at 123.5s:
+just didn't get her around to calling back. It was busy at work and stuff. And then I noticed today that I've got a overdue invoice as June 12 when it got sent to me on the June 12.
+
+Agent (Human) at 133.7s:
+Rice. Okay.
+
+Customer at 135.4s:
+But I do have a what do you call it? After go for a service this week. So, yeah, I'm just about to pay it.
+
+Agent (Human) at 144.4s:
+Mhmm. Okay.
+
+Customer at 145.5s:
+But I I know I'm in my performance period, and I'm like, oh, okay. The I'm just looking for this.
+
+Agent (Human) at 155.6s:
+So the bottle exploded in the vehicle.
+
+Customer at 159.0s:
+Well, it it leaked all through my seat. Sort of thing. Does that make sense? Because that's where I let have my head headset. Which call it my Internet.
+
+Agent (Human) at 166.6s:
+Okay. Mhmm.
+
+Customer at 169.4s:
+And that's what I'm into it. And then I've gone to Blow because I've work at five, and then I've gotten in my car to go home, and it just locked locked me out. Me out. I said that for three hours. Waiting. And then it finally worked. I drove like, down the road. So and then, you know, it's first, like, test period.
+
+Agent (Human) at 189.6s:
+Yes.
+
+Customer at 191.0s:
+Yeah. And then it locked me out again.
+
+Agent (Human) at 193.0s:
+Okay.
+
+Customer at 193.5s:
+It's [AGENT_NAME] then after that, I I set my way. The dogs just sound crazy. Sorry. Yeah. And then after that, alright. It's a great day. Yeah. I I sat there and it worked again, and then I didn't have any further problems with it. I haven't had any further problems, except it does. Every now and then. I just sprain doesn't work. That was work. Hold on.
+
+Agent (Human) at 217.7s:
+Okay.
+
+Customer at 217.9s:
+My life. Sorry. Is that gonna affect me?
+
+Agent (Human) at 224.6s:
+It may I'm just gonna put a note on there to say that on the May 21, that that perfume bottle leaked all through the vehicle, the console where the device was located. Causing a lockout, was unable to drive, then failed to retest has since cleaned car, and is working. Correctly.
+
+Customer at 248.1s:
+The machine's working fine. I haven't had any further blockouts, like,
+
+Agent (Human) at 250.0s:
+Yep.
+
+Customer at 251.9s:
+I haven't trained since
+
+Agent (Human) at 253.3s:
+Mhmm.
+
+Customer at 254.6s:
+this happened.
+
+Agent (Human) at 255.6s:
+Yep.
+
+Customer at 255.7s:
+Like yeah.
+
+Agent (Human) at 257.6s:
+Account all working fine. So when you say the screen is not working, what do you mean it's not working?
+
+Customer at 266.3s:
+Okay. Sorry. Sorry. Every now and then when handset it's called a hand grip. Every now and then when I have the handset, like, when I tap start my car on, the screen will just be blank.
+
+Agent (Human) at 279.7s:
+Mhmm.
+
+Customer at 280.0s:
+Like, it'll it'll flash like a white screen. It still used the device.
+
+Agent (Human) at 284.4s:
+Yep.
+
+Customer at 285.5s:
+But, yeah, just I'll I'll probably say, like, maybe once a month, it happens, but that's happened since I've got it sort of thing.
+
+Agent (Human) at 292.0s:
+Okay.
+
+Customer at 292.0s:
+So I took my car in the other day for a service. And the you know, after that finished the service, it happened, and they were like, did we break it? They were, like, worried that they broke the handset. Like, I don't know. That makes sense.
+
+Agent (Human) at 308.4s:
+Yeah. I understand. Yeah. So the the screen's blank. Okay.
+
+Customer at 309.4s:
+Yeah. Yeah. Yeah. The screen's blank, but the device works fine. But then I literally just unplugged it, plugged it back in, and then the screen turns to straight back on.
+
+Agent (Human) at 314.8s:
+Yeah. Yeah. Okay.
+
+Customer at 320.7s:
+Yeah.
+
+Agent (Human) at 322.3s:
+Okay. In regards to the perfume, it may cause a violation. It's something that I'll put a note on your account to say this is what happened. If you do get a restart of your performance period after you do your next service, you could dispute it with TMR to say, This is what actually happened, and this is would this would verify against the notes that we've left on your account now. Okay. So that's part one.
+
+Customer at 354.0s:
+Yeah.
+
+Agent (Human) at 358.6s:
+The disputes happen after you get your next service. So as you said, you're due to go in to get a service shortly.
+
+Customer at 363.5s:
+That's The nineteenth. Yeah.
+
+Agent (Human) at 366.6s:
+Yeah. Yeah. The nineteenth will be the day that you lock out, so make sure you get it done before then. It is it was due on the twelfth, but you do have that seven day grace period.
+
+Customer at 377.9s:
+Yeah. It it did say that, but I hadn't received the invoice
+
+Agent (Human) at 379.5s:
+Yeah.
+
+Customer at 380.7s:
+until the afternoon. They already shut
+
+Agent (Human) at 381.1s:
+Yep. Yeah. So I actually tried to give you a call last week in regards to your
+
+Customer at 388.3s:
+It was you. Awesome.
+
+Agent (Human) at 389.4s:
+[SENSITIVE_CONTENT] yep. That's alright. So I looked up your concession eligibility, and the portal that we can log in to Centrelink to confirm your eligibility is coming up to say that you're no longer eligible for concession.
+
+Customer at 407.6s:
+I did send you through the card last week.
+
+Agent (Human) at 410.3s:
+Exactly. So I have used your new card number, and I've logged into the portal. And it's showing that you're not eligible for the concession anymore.
+
+Customer at 420.2s:
+Oh, it doesn't matter.
+
+Agent (Human) at 421.7s:
+Yeah. So I'm not sure if you wanted
+
+Customer at 423.9s:
+Okay. That's weird.
+
+Agent (Human) at 425.5s:
+[SENSITIVE_CONTENT] to give Centrelink a call and to find out
+
+Customer at 427.7s:
+Yeah. Then I'll I'll do that then. Sure.
+
+Agent (Human) at 429.6s:
+why it's coming up to say you're not eligible. Yeah.
+
+Customer at 436.5s:
+Okay. Yep. Usually because I'm with open universities.
+
+Agent (Human) at 442.7s:
+Mhmm.
+
+Customer at 444.5s:
+They suddenly, it's weird with it, and they don't accept their course online as a full time course enrollment. So every semester, I pretty much have to redo my thing. So I'm guessing that's just good. Yeah.
+
+Agent (Human) at 458.2s:
+Right. Okay. Okay.
+
+Customer at 461.3s:
+Yeah. That that's alright. I I literally just finished up my semester with them on the May 28.
+
+Agent (Human) at 467.1s:
+Okay.
+
+Customer at 467.8s:
+So I'm due for it to put in my new
+
+Agent (Human) at 468.2s:
+Yep.
+
+Customer at 471.7s:
+what is it? You know, the thing where you show where you study? I don't know if you know it or not.
+
+Agent (Human) at 475.2s:
+Yeah. Your new transcript. Yeah.
+
+Customer at 476.3s:
+Yeah. Yeah. Yeah. Oh oh, statement of enrollment. Sorry.
+
+Agent (Human) at 480.9s:
+Yeah. That that could be it. Yeah.
+
+Customer at 481.3s:
+Yeah. That's the one. Yeah. Right. I'm waiting to I haven't really put that in yet for you.
+
+Agent (Human) at 487.7s:
+Yeah. Okay. So you need to go and get a a a monitor. If you wanted, because we can't give you the concession rate at the moment, if you wanted to just pay for one month, which is $1.98 50, I can see that you've been previously doing three months. But whilst you're trying to sort out the concession, if you just wanted to do one month, which will carry through
+
+Customer at 519.4s:
+No. I can't. I was at least about to pay for $3.96 right now.
+
+Agent (Human) at 522.6s:
+Exactly. Yeah. But the concession won't run won't go through. Because the system was saying that you're no longer eligible for concession.
+
+Customer at 528.3s:
+Oh, okay. Okay.
+
+Agent (Human) at 533.2s:
+Yeah.
+
+Customer at 533.6s:
+Can I pay the $1.90? 8,000?
+
+Agent (Human) at 535.6s:
+98? Yeah. Not a problem. And you're so close to the end of the program as well. So
+
+Customer at 571.0s:
+I know. Yeah. That's why I'm annoyed.
+
+Agent (Human) at 573.1s:
+yeah.
+
+Customer at 573.2s:
+Like, why would I pick yeah. It just doesn't make sense for me to you know, I've been good and
+
+Agent (Human) at 583.1s:
+Yeah.
+
+Customer at 583.1s:
+you know, doing the right thing.
+
+Agent (Human) at 584.7s:
+Exactly. Kyson, do you have your card there with you?
+
+Customer at 591.3s:
+Yes. Trying to create up.
+
+Agent (Human) at 594.7s:
+If you just let me know how your card is on the oh, sorry. How your name is on the credit card? Is it Clyson's Base Sheppard? Is there any middle initials?
+
+Customer at 604.7s:
+No. Do have any initials?
+
+Agent (Human) at 606.2s:
+No. Okay. And that card number when you're ready.
+
+Customer at 654.5s:
+Yeah. Yeah. Just bring it up. Sorry.
+
+Agent (Human) at 655.7s:
+Sure. Yeah.
+
+Customer at 659.1s:
+Yeah. That is [REDACTED]
+
+Agent (Human) at 662.7s:
+Mhmm.
+
+Customer at 664.4s:
+[REDACTED]
+
+Agent (Human) at 665.8s:
+Yes.
+
+Customer at 668.8s:
+Oh, wait. Where do I go? Forty four. How much was it? Sorry.
+
+Agent (Human) at 680.9s:
+[NUMBER].
+
+Customer at 682.7s:
+150. Yes. [REDACTED]
+
+Agent (Human) at 691.7s:
+Yes. Yes.
+
+Customer at 695.3s:
+5310.
+
+Agent (Human) at 697.5s:
+And expiry?
+
+Customer at 699.2s:
+Zero three slash two nine
+
+Agent (Human) at 701.1s:
+Mhmm. And [CVV] numbers on the back.
+
+Customer at 703.8s:
+one six nine.
+
+Agent (Human) at 705.1s:
+Thank you. Okay. We're putting [NUMBER] onto that card. Did you want me to save that card to your file for you?
+
+Customer at 713.0s:
+No. That's alright.
+
+Agent (Human) at 714.0s:
+No. Okay. Excellent. That's come through for you now.
+
+Customer at 722.1s:
+Yeah. Perfect.
+
+Agent (Human) at 723.1s:
+Okay.
+
+Customer at 723.2s:
+Bye. You're saying with with the so I go in on Thursday. I'm pretty sure I'll book it in for Thursday after this call. I'll let them know, and they say I haven't made my I I know it will because I've been locked out. It says avoid any lockouts on your head head. Handset. What do what do I do from there?
+
+Agent (Human) at 742.9s:
+So once you do the the service, you receive a or I'm expecting you may receive a letter from Queensland Transport saying that there was a violation on the May 21 and your performance period is restart.
+
+Customer at 753.0s:
+Yep.
+
+Agent (Human) at 758.9s:
+On the second page of that email, you'll see that there's a an area there fit you wish to dispute the transaction.
+
+Customer at 765.4s:
+Okay. Yep. Sweet. That's alright.
+
+Agent (Human) at 766.1s:
+A violation. Yep. Okay. If you can do that as soon as you can, just because it does take
+
+Customer at 768.8s:
+Awesome.
+
+Agent (Human) at 773.0s:
+twenty eight days for that dispute to go through, So we wanna make sure that that's at least finalized before the end of your program.
+
+Customer at 782.3s:
+Yeah. Yeah. A problem. Alright. Thank you so much. I did take a photo of the black excerpt exploding black wall.
+
+Agent (Human) at 788.7s:
+Awesome.
+
+Customer at 789.6s:
+Leaking. Yeah. So, you know, like, I've got that on file.
+
+Agent (Human) at 790.6s:
+Yeah. You've got some evidence to attach to your dispute. Yeah.
+
+Customer at 794.6s:
+Yeah. Yeah.
+
+Agent (Human) at 795.7s:
+That sounds like a great idea. Yeah.
+
+Customer at 795.9s:
+That's why.
+
+Agent (Human) at 798.0s:
+Fantastic.
+
+Customer at 798.2s:
+So I thought that because I was like, yeah. I was like, what? Like, I got in the car and then I blew it, and I was like, are you kidding? Because I could just smell it all through the car. I'm like, ugh. I know.
+
+Agent (Human) at 807.9s:
+Absolutely.
+
+Customer at 809.7s:
+Yeah, I know before I sprayed myself with perfume in the car, and then it hasn't yeah.
+
+Agent (Human) at 812.6s:
+Uh-huh.
+
+Customer at 814.4s:
+It hasn't gone through for you.
+
+Agent (Human) at 815.4s:
+Yeah. Exactly. Yeah. You we must have done well to be able to get enough out of the vehicle to be able to do that retest later.
+
+Customer at 825.0s:
+Well, I've there's a lot of and yeah, lot of colorful language was said to
+
+Agent (Human) at 833.0s:
+Yes.
+
+Customer at 833.1s:
+Yeah.
+
+Agent (Human) at 834.0s:
+Yep.
+
+Customer at 834.4s:
+Especially, I was sitting at the back of my work for three hours. Like, yeah, it was a bit
+
+Agent (Human) at 837.9s:
+Yeah. Exactly. Yeah. But now you've done you've you've done well to be able to do that. Now with the handset, if it if they are unable to use it when they go to do this service, then they'll need to do a handset exchange. They'll then give us a call and say, hey. This handset's broken. And then we'll look to do a replacement if it does continue to to go blank as well. So
+
+Customer at 864.9s:
+Yeah.
+
+Agent (Human) at 865.3s:
+yeah, we'll just keep
+
+Customer at 865.8s:
+Yeah. That's a lot.
+
+Agent (Human) at 866.9s:
+yeah.
+
+Customer at 867.2s:
+Like I said, it might it might just be it's at like, not completely connected all the way in or it's just come loose a little bit. But yeah.
+
+Agent (Human) at 874.9s:
+Yeah. Exactly. Yeah.
+
+Customer at 875.1s:
+Happens like one. Yeah. I'll just need to take that and plug it back in in the works.
+
+Agent (Human) at 878.9s:
+[SENSITIVE_CONTENT] Yeah. Not a problem. Okay. And, yeah, follow-up with with Centrelink and, yeah, let us know
+
+Customer at 881.3s:
+Cool. Thank you so much for your time.
+
+Agent (Human) at 886.0s:
+once that's been ordered. Yeah. Okay.
+
+Customer at 886.6s:
+Yeah. For sure. Don't worry. Thank you.
+
+Agent (Human) at 890.3s:
+Thank you so much. Have a good day. Bye bye.
+
+Customer at 891.8s:
+Bye. You take Bye.

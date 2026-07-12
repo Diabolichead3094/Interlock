@@ -1,0 +1,68 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+I just got locked out.
+
+Agent (Mia) at 9.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.9s:
+Thank you. How long has your device been locked out for?
+
+Customer at 22.0s:
+Thirty minutes.
+
+Agent (Mia) at 24.3s:
+Thanks for letting me know. If your device has been out for thirty minutes, the timer should be nearly finished. Are you able to see a countdown or message on the device screen right now?
+
+Customer at 34.3s:
+It says ten minutes to go.
+
+Agent (Mia) at 37.6s:
+You'll need to wait for the ten minute countdown to finish you can try again. There's no way to override this timer. Is there anything else I can help with while you wait?
+
+Customer at 46.5s:
+I'm just curious. I've had no nothing to drink. At all, so I don't know why it's blowing so high. Like, I don't understand.
+
+Agent (Mia) at 57.7s:
+Understood. There are several factors besides alcohol that can cause a high rating. So as mouthwash, certain foods, or even some medications. Would you like some tips on reducing false positives? Do you wanna speak with a specialist about this?
+
+Customer at 72.3s:
+Just really just wanna log it because, like, honestly, I had nothing to do. I'm still at work. I can't leave work. Because of this. And my machine has been playing up. It's been giving me an an abort zero two five message. Nearly every day.
+
+Agent (Mia) at 90.5s:
+Thanks for explaining. I can't log issues directly, but I can connect you with a specialist who can review your device's behavior and note your concerns. Would you like me to transfer you to customer support now?
+
+Customer at 99.0s:
+Okay. Yes, please.
+
+Agent (Mia) at 106.5s:
+Our customer support team is available now. Are you ready to be connected?
+
+Customer at 111.1s:
+Yes, please.
+
+Agent (Mia) at 113.9s:
+I'll get you over to our customer support team now. One moment. Looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER], would you prefer a different number?
+
+Customer at 181.0s:
+No. That's fine.
+
+Agent (Mia) at 183.9s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 189.0s:
+What what happens if I blow in it again and it it locks me out again? What happens then?
+
+Agent (Mia) at 198.7s:
+If you get locked out again, you'll need to wait for the next countdown to finish before trying again. For repeated lockouts, it's best to speak with customer support. As ongoing issues may need a technician's review. Anything else I can help with?
+
+Customer at 210.5s:
+Checking. No. That's it. Thank you.
+
+Agent (Mia) at 214.6s:
+Thanks for calling Affordable Interlock Systems. Have a wonder day.

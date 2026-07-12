@@ -1,0 +1,536 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 3.6s:
+David Harris. Get me a human now.
+
+Agent (Mia) at 8.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 15.2s:
+Just to make sure I'm on the right track. Did you say [CUSTOMER_NAME]?
+
+Customer at 19.8s:
+No.
+
+Agent (Mia) at 22.2s:
+Understood. How can I assist you with your interlock system today?
+
+Customer at 26.2s:
+Just get me a fucking human, please.
+
+Agent (Mia) at 29.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 32.8s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 37.3s:
+Thank you. Are you ready to be connected to a customer support specialist now?
+
+Customer at 40.1s:
+Yep. Yep. Go ahead, please. Alright. Let's do it.
+
+Agent (Mia) at 44.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 87.0s:
+Lochlan. [AGENT_NAME] speaking. How can I help?
+
+Customer at 89.7s:
+Oh, hi, Hailey. Just on the phone to someone from your company about half an hour ago. They asked in Ring TMR. I ran them, so now I'm calling back. Don't know who it was I was speaking to. Sorry.
+
+Agent (Human) at 104.1s:
+Oh, it's Tracy. Is there way that I can help?
+
+Customer at 106.4s:
+Oh, it's late. Cool. Yeah. So she they she just asked me to get a date from TMR when I can get this thing out. What's his he came back and said after midnight on the twenty fourth, so basically the twenty fifth.
+
+Agent (Human) at 121.2s:
+Uh-huh. Okay.
+
+Customer at 121.8s:
+Mhmm. So he he asked me to ask you guys about a grace period for the interlock. So I think I've it's coming up saying the sixteenth, but well, it gives me an extra week if I don't get it done tomorrow, so I've the twenty third.
+
+Agent (Human) at 135.0s:
+Yes. Yeah. You still have to go have it done or else you're gonna lock out because what date did you say? The twenty fourth?
+
+Customer at 144.5s:
+So I've I've got the '20 the '20 so, yeah, I pretty much, it's instead of I'm trying to save myself happen to go for a drive on the twenty third to go get this thing go pay him $200 to service it to go get the the what is it? What do they call it? The data get the data out of it on the twenty fifth?
+
+Agent (Human) at 162.9s:
+Oh, the final upload data.
+
+Customer at 163.4s:
+What is
+
+Agent (Human) at 165.8s:
+Final data upload again. Yeah.
+
+Customer at 165.9s:
+yeah. So I forget that that's so that's it. So that's two days after the day it's due to get serviced. So can I get a so
+
+Agent (Human) at 172.6s:
+You yeah. I know. You're gonna it's
+
+Customer at 174.7s:
+yeah?
+
+Agent (Human) at 174.9s:
+it's [AGENT_NAME] gonna work out in your favor because you're gonna have to get if your last day on the program is the twenty fourth, that's not you're not gonna get that email until the morning of the twenty fifth. So that will be when they want you to go in for your final upload.
+
+Customer at 194.4s:
+So am I able to get the service period moved to that same day so I can go in just once? And then
+
+Agent (Human) at 200.1s:
+We can't change the date that's on the handset. That gets logged in
+
+Customer at 200.7s:
+keep it
+
+Agent (Human) at 203.4s:
+at your monitor. So your monitor has been taken through till tomorrow.
+
+Customer at 205.1s:
+No.
+
+Agent (Human) at 208.6s:
+So the twenty third at the latest. How far do you have to drive?
+
+Customer at 212.9s:
+Well, I'm fighting with the guy locally. I look. It's it's it's unrelated to the interlock. Sort of sort of related, but not really. It was more I had an issue with my car and I had to go and take it to him for the interlock. And for him to just diagnose what I already knew, was the problem he charged me a lot of money and would give me back the keys unless I'd hired him.
+
+Agent (Human) at 244.8s:
+Oh,
+
+Customer at 244.8s:
+And I cracked
+
+Agent (Human) at 245.6s:
+someone else is checking in for you.
+
+Customer at 248.3s:
+sorry?
+
+Agent (Human) at 249.1s:
+Get someone else to take it in for you so it's not you going in.
+
+Customer at 253.2s:
+Well, that's not that's the I may go in, so I so I had to go and get the thing sorted. But, yeah, I guess I can go back there and them to do it. I'll get somebody else to go drive the car. But the car's worth the car's worth about $60.70 grand. And I don't really want anyone else driving it that's not insured on it. Yeah. I don't know. I just I just don't want nothing to do with the guy locally. But, yeah, that is our way around it, I guess. It and it's only around the corner.
+
+Agent (Human) at 279.2s:
+Just parked down the road.
+
+Customer at 279.6s:
+And I've been
+
+Agent (Human) at 281.0s:
+Park down the road and get someone else to drive it just a 100 meters up the road to get the service
+
+Customer at 281.2s:
+I've been been been
+
+Agent (Human) at 285.5s:
+done.
+
+Customer at 286.8s:
+No. I just I just know if I see this guy again. I'm just gonna go with him again, and we're gonna get into another fight. But
+
+Agent (Human) at 291.5s:
+No. I think don't do that.
+
+Customer at 293.7s:
+he's he's he's a cockhead. Sorry. That's I've been I've been I've been out in the Bowen and Rockhampton instead of even just you and this guy this guy's about 300 meters from my house.
+
+Agent (Human) at 304.3s:
+Oh, where where do you I've got Bowen here. Where do you normally where do where are you?
+
+Customer at 309.4s:
+Early Beach. Oh, Cannon Bay.
+
+Agent (Human) at 312.5s:
+Oh, yeah.
+
+Customer at 313.6s:
+So, like, Bowen's, like, what, fifty fifty odd minutes. So, like, 50 maybe up to fifty fifty odd minute. Yeah. About, like, fifty minutes there.
+
+Agent (Human) at 320.0s:
+Yeah.
+
+Customer at 321.1s:
+And then I but I work between Faraday and Gladstone as far north as Zingen. So I usually, I've been able to get the thing serviced with you know? I've been able to get it serviced in Bowen. I'm driving through. Work to Townsville or whatever, and I've been getting it done at Rockhampton when I've been down there. But, yeah, I'm just trying to figure out how to get it out and what what what when when it sounds like I have to go see this guy three three times in three days, but by the look of it.
+
+Agent (Human) at 350.7s:
+Hello. You oh, yeah. You can go the sixteenth you do. And then
+
+Customer at 355.6s:
+Sorry?
+
+Agent (Human) at 356.6s:
+the sixteenth is when you're due for your service.
+
+Customer at 359.7s:
+So I I I don't want so tomorrow, I'm not gonna do it.
+
+Agent (Human) at 360.1s:
+So okay.
+
+Customer at 363.2s:
+It's [AGENT_NAME] but it's gonna it's gonna give me to the twenty third.
+
+Agent (Human) at 365.9s:
+Okay. That's fine.
+
+Customer at 368.2s:
+And so that means I've got to the twenty third to get someone sorted to
+
+Agent (Human) at 371.7s:
+Yeah.
+
+Customer at 372.0s:
+just do the service fee.
+
+Agent (Human) at 373.0s:
+Don't leave it last minute, though, because if you lock out, it's probably not a good thing at the end of your program.
+
+Customer at 381.4s:
+But so but then so yeah. Okay. So there's no way to get these two dates to marry up at all?
+
+Agent (Human) at 387.1s:
+I wish I could, but we can't move the date of locked in.
+
+Customer at 391.2s:
+So so, basically, so I'm gonna have to go to the early beach guy on the twenty third and the twenty fifth.
+
+Agent (Human) at 401.7s:
+If you've got your letter by then, yes. But we need a copy of that letter. Before you go in.
+
+Customer at 407.4s:
+A copy of what letter?
+
+Agent (Human) at 409.1s:
+The email that you get from transport or the letter that you get emailed, we need a copy of that because we need proof that you're eligible. For your final upload.
+
+Customer at 419.8s:
+So I'll just go so what? So on the twenty fifth, so next week, next Thursday, I'll ring up
+
+Agent (Human) at 424.1s:
+Mhmm.
+
+Customer at 426.4s:
+TMR, ask them to email a little bit relevant. Stuff through to me.
+
+Agent (Human) at 429.5s:
+It should be in your email. You should it should just be automatically sent to you. But if it's not, definitely call them. Yeah.
+
+Customer at 433.8s:
+Yeah. And then I and then I'll email you the relevant staff as well on the twenty fifth.
+
+Agent (Human) at 440.5s:
+Use place before you go in for your service so we can set it up.
+
+Customer at 444.5s:
+Well, I'll get I'll get the amount of service done on the twenty third because I can't get it done on the twenty fifth.
+
+Agent (Human) at 449.8s:
+Yep. You have to get two done.
+
+Customer at 450.2s:
+So I'll I'll get the service. So I have to go into the twenty third, then I have to go back in. I'm gonna make sure I can get this thing sorted on the twenty fifth.
+
+Agent (Human) at 458.1s:
+Uh-huh.
+
+Customer at 458.5s:
+And I'll I'll I'll I'll email you through the relevant documentation that says that I get this final upload done that day, get it done then.
+
+Agent (Human) at 462.9s:
+Okay. Mhmm.
+
+Customer at 467.0s:
+I don't have to pay him for that, do I?
+
+Agent (Human) at 469.8s:
+There is a charge for a final upload. Yes. But I'll have to a look at your account.
+
+Customer at 472.6s:
+Course there is. So I start to pay that's the other question. So on the twenty third of paying $200,
+
+Agent (Human) at 479.1s:
+Yeah.
+
+Customer at 479.1s:
+So then I have Now that's paying again on the twenty fifth. What am I paying what am I paying them for the for upload then?
+
+Agent (Human) at 484.3s:
+Let me just let me just have a look at that for you. Hang on two seconds. Third at the latest to have it serviced on. Loxon [CUSTOMER_NAME] then he has to go back two days later, and he was up, so it's done. How much do we charge him? Or do we need Twenty third and then the twenty fifth, two days later. $60. We came to a customer upload two days later. So it's basically paying $198.50 for two days. On the So it's given to you on this. Yeah. They're in Auckland.
+
+Customer at 625.1s:
+Yeah.
+
+Agent (Human) at 625.8s:
+Yep. So you pay the regular $1.98 50 when you go in. For your service on the twenty third. Is that when you said
+
+Customer at 632.3s:
+Click red.
+
+Agent (Human) at 633.5s:
+gonna go in? And then you'll pay seventy dollars
+
+Customer at 634.8s:
+Yep.
+
+Agent (Human) at 636.9s:
+just for your final upload rather than the 01/20.
+
+Customer at 641.5s:
+Okay. And then then what and then so then they told me, so it's gonna take twenty four to forty eight hours for them to figure out the data to when it gets back to
+
+Agent (Human) at 653.1s:
+Yeah.
+
+Customer at 654.3s:
+them to go decide if I can get this bloody thing out or not. So
+
+Agent (Human) at 654.6s:
+Yeah. Correct. Yep.
+
+Customer at 659.4s:
+that means maybe on the twenty sixth, that means I might have to go to the twenty third, twenty fifth, and twenty sixth.
+
+Agent (Human) at 665.0s:
+Well, you won't get it back straight away. It's forty eight hours. So if you go in on the twenty fifth,
+
+Customer at 665.2s:
+Or if not
+
+Agent (Human) at 669.4s:
+for your upload, you're not gonna get
+
+Customer at 670.7s:
+Well, he he he said it could be '24. Don't if I if I keep on bugging him all day. Maybe I'll get it back. I don't know. It might add my
+
+Agent (Human) at 677.7s:
+Oh, you won't. You won't get it back for forty eight hours.
+
+Customer at 679.4s:
+might have to do it with 29¢.
+
+Agent (Human) at 681.6s:
+Yeah.
+
+Customer at 683.2s:
+48 then, will it be? Alright. So
+
+Agent (Human) at 684.6s:
+Yeah.
+
+Customer at 687.7s:
+so I have a 48. So I'll this. So twenty third on Tuesday, get paying the 200 odd for the service. Then another seventy one
+
+Agent (Human) at 694.6s:
+You pay us, and then you go in and have it done.
+
+Customer at 697.9s:
+Pay you guys $200 on twenty third pay.
+
+Agent (Human) at 699.7s:
+Yeah. Yeah.
+
+Customer at 701.2s:
+$70 on the twenty fifth.
+
+Agent (Human) at 704.5s:
+Correct.
+
+Customer at 706.1s:
+And then on the twenty ninth, to thirtieth, I hope maybe, then I can get it out.
+
+Agent (Human) at 711.8s:
+Uh-huh.
+
+Customer at 713.7s:
+And then I can do
+
+Agent (Human) at 713.9s:
+Hopefully. That's fine.
+
+Customer at 715.4s:
+so so then the money from the twenty third I can use three weeks of that towards the removal fee. Okay?
+
+Agent (Human) at 723.3s:
+Yes. Some of that can go towards your removal fee. You probably wouldn't have too much to to pay.
+
+Customer at 729.0s:
+So that's what they're I they just said before the real fee is a 180.
+
+Agent (Human) at 732.9s:
+Yeah.
+
+Customer at 733.0s:
+So I've only used one week of a $198, should just be able pay it for my renewal fee.
+
+Agent (Human) at 739.5s:
+Almost. Yeah. We'd have to work it out at the time. Depends when they
+
+Customer at 742.5s:
+Hey,
+
+Agent (Human) at 742.7s:
+can fit you in as well, obviously.
+
+Customer at 745.5s:
+Okay. And then
+
+Agent (Human) at 746.5s:
+Yeah.
+
+Customer at 748.0s:
+I've got another question. It sounds like I've made a massive mistake this entire year. But they reckon that I was able to use my boat this entire time.
+
+Agent (Human) at 758.2s:
+Your porch.
+
+Customer at 758.2s:
+Without the interlock. Yeah.
+
+Agent (Human) at 760.7s:
+Oh, I have no idea.
+
+Customer at 762.4s:
+So I haven't used it at all. And I just I I just asked him if if he if I was allowed to use it. And he said I was allowed to just so I haven't used my boat for a year because I didn't think I could,
+
+Agent (Human) at 769.0s:
+I guess.
+
+Customer at 772.7s:
+I was allowed to the entire time.
+
+Agent (Human) at 774.5s:
+Oh, what a how do you know?
+
+Customer at 774.8s:
+I've asked I've asked this question, like, seven times, and I've got seven different answers. Like, nobody knows if I can use a boat or not.
+
+Agent (Human) at 783.2s:
+I don't know. We don't do licensing.
+
+Customer at 786.2s:
+Yeah. And they don't know either.
+
+Agent (Human) at 788.9s:
+Oh, they should. That's the transport. They're the ones who give out the licenses.
+
+Customer at 793.1s:
+I know. I keep on asking them, and then and then like, you know, I went I'm I'm scared of getting done by the water police and not having to use locking me by or something.
+
+Agent (Human) at 801.1s:
+Just wait. You've only got a week left. Right?
+
+Customer at 803.9s:
+That's it. But, yeah, that you know, I can't get a clear answer from them at all about boats. It's weird.
+
+Agent (Human) at 808.6s:
+Yeah. No. That's
+
+Customer at 808.8s:
+Like,
+
+Agent (Human) at 810.2s:
+we've we've thought about that question before. I haven't known the answer. So you find out, let us know.
+
+Customer at 816.3s:
+Well, I'd I I know that my neighbor that's the whole reason that I was worried. In the first place because my neighbor they they told him he had to get one installed on his jet ski.
+
+Agent (Human) at 828.5s:
+What? Really?
+
+Customer at 829.1s:
+And yeah, I told him that and and then he said, well, how about you know, he's been
+
+Agent (Human) at 831.6s:
+Oh, okay. Wait.
+
+Customer at 834.7s:
+he said, how the fuck is that gonna work on a jet skate if he has to get ruined? You know, like, that won't work.
+
+Agent (Human) at 838.6s:
+No. That's not yeah. I don't know. Let us know.
+
+Customer at 841.9s:
+And then so then I and then that's why I started asking about the boat. No. The boat fine. I was like, why would you put it on a jet ski? And then I don't know. I have not been able to
+
+Agent (Human) at 850.5s:
+I don't know if you can use your both. I've I've I've I've heard someone say that they couldn't, but I I have no idea. Makes sense that you can't, but it's a shame that you were told that if you can.
+
+Customer at 863.5s:
+do I start then when I was on the phone? Am I allowed to use my boat or not? He said, yeah. You are.
+
+Agent (Human) at 871.2s:
+Yeah.
+
+Customer at 871.7s:
+That but then I've had, like, three other guys when I I keep asking the question. Three other guys said, no. I can't. Without the interlock in it.
+
+Agent (Human) at 880.2s:
+Yes.
+
+Customer at 880.6s:
+And the lady at the registration office at Airlie Beach said I can. Like the the PMR office.
+
+Agent (Human) at 886.9s:
+It get that in writing before you write your your Oh, take your boat out with leather head with the transport
+
+Customer at 892.3s:
+Is that is that what I said?
+
+Agent (Human) at 894.5s:
+lead ahead.
+
+Customer at 896.8s:
+Is that what I should've done? Yeah. Just got it in writing from them and then just
+
+Agent (Human) at 898.9s:
+I reckon.
+
+Customer at 900.0s:
+and then done it here.
+
+Agent (Human) at 901.2s:
+Mhmm.
+
+Customer at 902.3s:
+Too late now.
+
+Agent (Human) at 902.4s:
+I don't know. Yeah. Exactly. Just wait it out.
+
+Customer at 906.3s:
+Yeah. Oh, well, sweet. And then so, yeah, once this is all out, then I can go so I'm I need I'm trying to buy more working cars because I've I've been running around just one car. So once this is all out, I have to wait till this is all outside before I buy other cars or do anything. I can't move anything without having I can't is there any way am I able to buy a car and move it
+
+Agent (Human) at 928.7s:
+No.
+
+Customer at 929.7s:
+in the next week without having an interlock in it?
+
+Agent (Human) at 932.0s:
+No. As soon as you got that removal letter, can go in and change your license over and not have the eye on it. You can drive whatever you want.
+
+Customer at 939.8s:
+Yeah. Okay. Alright. I just have to wait then. Well, I'll pull everything up from what you're telling me.
+
+Agent (Human) at 942.4s:
+Yeah. Okay. No worries. Thanks for calling.
+
+Customer at 946.3s:
+Alright. No worries.
+
+Agent (Human) at 947.4s:
+Okay. See you. Bye.
+
+Customer at 947.6s:
+Thanks. Alright. Bye.

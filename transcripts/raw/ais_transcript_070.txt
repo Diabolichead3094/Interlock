@@ -1,0 +1,26 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+I just need to make my a payment for my invoice.
+
+Agent (Mia) at 10.6s:
+I can help with that. Do you have the payment value or amount ready?
+
+Customer at 15.3s:
+It's $2.64 that I pay. I'm just trying to find my key card.
+
+Agent (Mia) at 19.4s:
+Just a sec while I send you the pay Understood. Are you referring to the Interlock devices service card? Or do you mean a different type of key card?
+
+Customer at 34.0s:
+The I'm ringing up to pay for service. On my interlock system.
+
+Agent (Mia) at 39.3s:
+Thanks for clarifying. I've sent you a payment link by SMS. Once you've paid, you'll get a confirmation message. Is there anything else I can help you with today?
+
+Customer at 48.6s:
+No.
+
+Agent (Mia) at 50.6s:
+Thanks for calling Affordable Interlock Systems. Have a

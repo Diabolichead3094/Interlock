@@ -1,0 +1,209 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.7s:
+I need to get I'm going to work recalibrated.
+
+Agent (Mia) at 12.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.9s:
+It's [AGENT_NAME] and Cheryl Summers.
+
+Agent (Mia) at 20.9s:
+Thank you. To arrange a calibration, you'll need to visit your nearest service center. Would you like me to send you a link to find your closest location?
+
+Customer at 30.1s:
+Ian, please.
+
+Agent (Mia) at 32.8s:
+All good. Just to clarify, did you want to check your next calibration date, or are you looking to book a calibration at a service center?
+
+Customer at 39.9s:
+Oh, no. It's a crisp. It's expired.
+
+Agent (Mia) at 44.4s:
+If your concession card has expired and you need to update your details, you'll need to email your new concession card information to [EMAIL] Would you like me to send this email address to your phone via text?
+
+Customer at 57.5s:
+Yes, please.
+
+Agent (Mia) at 59.8s:
+Just a sec while I send that through. I've sent the email address to your phone. Please email a copy of your new concession card to that address. Is there anything else I can help you with today?
+
+Customer at 72.6s:
+No. That's about it. I just need to know where I can get this recalibrated with having to go all the way to the Gold Coast or something.
+
+Agent (Mia) at 83.6s:
+I can send you a link to find your nearest authorized service center. Would you like that sent to your phone now?
+
+Customer at 89.9s:
+Yes, please.
+
+Agent (Mia) at 92.4s:
+Just a moment while I send you the link to find your nearest service center.
+
+Customer at 92.5s:
+And the cost.
+
+Agent (Mia) at 95.8s:
+I've sent a link to your phone.
+
+Customer at 95.9s:
+And the cost, please.
+
+Agent (Mia) at 97.5s:
+You can I can't provide pricing directly, but I can help you with payment if you know the amount? Do you have the payment value ready?
+
+Customer at 107.2s:
+No.
+
+Agent (Mia) at 110.5s:
+No problem. If you need to check your payment amount or have any other questions, you can call us on [REDACTED]. 6. Anything else I can help you with today?
+
+Customer at 124.3s:
+No. But I just called that number, and they've put me through to you.
+
+Agent (Mia) at 128.8s:
+Just a sec while I send you the quote form link. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 143.4s:
+Yeah. That might be helpful, please.
+
+Agent (Mia) at 146.8s:
+Our our quotes team is available now. Are you ready to be connected to a specialist?
+
+Customer at 151.8s:
+Yes. I am.
+
+Agent (Mia) at 154.4s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 177.5s:
+Affordable? Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 204.3s:
+Hello?
+
+Agent (Human) at 205.4s:
+Hi.
+
+Customer at 207.6s:
+And I have an interlock in my car,
+
+Agent (Human) at 211.6s:
+Yes.
+
+Customer at 212.1s:
+and it was due to be calibrated on the second of this month. Twenty six.
+
+Agent (Human) at 218.5s:
+Okay.
+
+Customer at 220.7s:
+So, yeah, so I can't drive the car, but I've been in hospital and stuff.
+
+Agent (Human) at 220.8s:
+Alright.
+
+Customer at 224.2s:
+I haven't been very well.
+
+Agent (Human) at 226.5s:
+Okay. Do you have your registration there by any chance?
+
+Customer at 230.9s:
+Yeah. Yep. Hang on. Just Cheaper drain. It's eight three nine
+
+Agent (Human) at 239.1s:
+Yes.
+
+Customer at 239.2s:
+w n p.
+
+Agent (Human) at 243.4s:
+Okay. And it's an affordable interlock?
+
+Customer at 248.9s:
+Well, it says it's AIS yeah, Affordable Interlock Systems.
+
+Agent (Human) at 257.4s:
+Okay. So I've put in your registration number. 839WForWilliamNForNelly,
+
+Customer at 261.8s:
+Mhmm.
+
+Agent (Human) at 265.2s:
+PForPeter, and it's not coming up in my system.
+
+Customer at 269.1s:
+Oh, you want the reference number?
+
+Agent (Human) at 272.5s:
+That's really not gonna help me. So what was your your surname?
+
+Customer at 280.2s:
+Summer's like a summer's day, s u w m e r s.
+
+Agent (Human) at 284.7s:
+Okay. Let me bring it up. This something up this way. Okay. So you've got a you've got a v three, haven't you?
+
+Customer at 299.3s:
+A yeast yes. I do.
+
+Agent (Human) at 302.6s:
+Kellyanne?
+
+Customer at 303.8s:
+Yes.
+
+Agent (Human) at 304.4s:
+Okay. I was looking for something different, Kellyanne. When are you able to get that in the mail to us? So that we can get that calibrated?
+
+Customer at 318.5s:
+Yes. I can. But I also actually got a slight problem in that the cord has really, really deteriorated, and wires, but
+
+Agent (Human) at 328.8s:
+Mhmm.
+
+Customer at 329.5s:
+yeah, they're sort of old. They need to be done as well, but I can't do anything until I get it recalibrated. I can't drive it anywhere.
+
+Agent (Human) at 337.5s:
+Yeah. Yep. That's exactly right. So if you're able to get that in the post to us, we'll be able to get that calibrated for you.
+
+Customer at 343.3s:
+Yep. Alright. Well, hang on. I'll just where where am I sending it to? Are you gonna send me text message details of where I've gotta send it to?
+
+Agent (Human) at 352.6s:
+Yeah. I will send you I will send you text message.
+
+Customer at 356.6s:
+Yeah.
+
+Agent (Human) at 356.6s:
+Of where to send it to. Okay?
+
+Customer at 358.9s:
+Yeah. Great.
+
+Agent (Human) at 360.5s:
+Perfect. Alright then, Kelly.
+
+Customer at 360.8s:
+Yep.
+
+Agent (Human) at 362.6s:
+I will get that sent to you. Okay?
+
+Customer at 365.2s:
+Thank you.
+
+Agent (Human) at 365.9s:
+You're more than welcome. Thanks, Kellyanne.
+
+Customer at 369.1s:
+Bye. Bye.
+
+Agent (Human) at 369.4s:
+Bye.

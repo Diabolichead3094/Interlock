@@ -1,0 +1,191 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.2s:
+Hi, Mia. I want to get interlock program. System installed.
+
+Agent (Mia) at 12.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.1s:
+My name is Gita Apadia.
+
+Agent (Mia) at 20.8s:
+Thank you. Have you already received a quote from us?
+
+Customer at 24.6s:
+No.
+
+Agent (Mia) at 26.9s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 39.8s:
+Yes.
+
+Agent (Mia) at 41.5s:
+Our quotes team is available now. Are you ready to be connected to a specialist?
+
+Customer at 46.1s:
+Yes.
+
+Agent (Mia) at 47.9s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 68.9s:
+Affordable in Good afternoon. You're speaking with Shannon. How can I help?
+
+Customer at 88.1s:
+Hi, Shannon. How are you?
+
+Agent (Human) at 90.0s:
+Good. Thank you. How are you?
+
+Customer at 92.7s:
+I'm good. Thanks. I want to get some information regarding interlock system installation.
+
+Agent (Human) at 99.3s:
+Mhmm. Yeah. What's I mean, Have you had a quote with us before?
+
+Customer at 104.5s:
+No.
+
+Agent (Human) at 105.4s:
+No. So the best way to get that is if I send you a quick text message, it has a link to our quotes. Then our quotes team will be able to send you something that outlines exactly what it's gonna cost from installation to removal.
+
+Customer at 119.9s:
+Oh, so you can tell me over on the phone, just the estimate?
+
+Agent (Human) at 122.6s:
+I I can give you an estimate. It's very dependent on what sort of vehicle that you would like to get installed.
+
+Customer at 130.1s:
+It is 2,010 Holden with a key.
+
+Agent (Human) at 134.2s:
+It's a two what sort of vehicle, though, is it? Holden?
+
+Customer at 137.6s:
+Holden. Cruise.
+
+Agent (Human) at 139.3s:
+Holden Cruise 2,010, did you say?
+
+Customer at 142.7s:
+Yeah.
+
+Agent (Human) at 144.1s:
+K. Is it key start or push it's a key, you said, didn't you?
+
+Customer at 147.6s:
+Cheese tart, please.
+
+Agent (Human) at 148.9s:
+Yeah. Are you Queensland or New South Wales?
+
+Customer at 152.0s:
+New sauces, please.
+
+Agent (Human) at 153.7s:
+Okay. Any concession cards?
+
+Customer at 156.3s:
+No.
+
+Agent (Human) at 157.2s:
+No. Okay. So you're looking at around 1,233.
+
+Customer at 165.0s:
+1,000?
+
+Agent (Human) at 166.3s:
+233.
+
+Customer at 169.0s:
+This is [AGENT_NAME] what?
+
+Agent (Human) at 170.6s:
+For the installation.
+
+Customer at 173.0s:
+1,233.
+
+Agent (Human) at 175.2s:
+Yes. That's correct.
+
+Customer at 177.1s:
+For installation.
+
+Agent (Human) at 178.7s:
+Yes.
+
+Customer at 180.5s:
+And the monthly fees?
+
+Agent (Human) at 182.2s:
+It's $198.50.
+
+Customer at 185.6s:
+$198.50 monthly.
+
+Agent (Human) at 189.2s:
+Yes. That's correct.
+
+Customer at 191.5s:
+And the removal fees
+
+Agent (Human) at 193.7s:
+Removal starts at 180.
+
+Customer at 197.2s:
+Removal is 100 and. Are you sure the installation is this expensive?
+
+Agent (Human) at 202.1s:
+So a 2,010 Holden Cruise. Is that what you said?
+
+Customer at 206.8s:
+Yep.
+
+Agent (Human) at 207.5s:
+Keystone is $1,233.50.
+
+Customer at 212.3s:
+Because it says 350 for the on the light vehicles.
+
+Agent (Human) at 218.3s:
+Mhmm. And is a few other things to consider. That's why I said we would get a quotes team member to send you a detailed quote. It outlines exactly what's involved in those costs in that $1,233.50. So you have the installation. You have specialist parts. You have your leasing fee. All of that sort of stuff is included in that first installation price.
+
+Customer at 243.4s:
+So the leasing free fees, so when you said monthly, 198, what is that then?
+
+Agent (Human) at 250.2s:
+Mhmm. So that is your ongoing monthly fee. So that's when you have to take your handset to the service center. Get the data downloaded. So that is your monthly so every month, that is your servicing and your rental of the device.
+
+Customer at 266.7s:
+But you have already taken the lease fees in $1,233. Right?
+
+Agent (Human) at 271.1s:
+Yeah. That's for the first thirty days.
+
+Customer at 275.0s:
+Only for the first thirty days.
+
+Agent (Human) at 276.8s:
+Yes. That's correct. You do have to pay those ongoing for the rest of the time that you're in the interlock program.
+
+Customer at 284.9s:
+So this is one month you have already taken money from me. Right? Lease fees?
+
+Agent (Human) at 289.6s:
+Yes. Correct.
+
+Customer at 291.7s:
+Okay. Thank you so much. I I'm okay with this. Then.
+
+Agent (Human) at 296.0s:
+Okay. No trouble at all.
+
+Customer at 298.1s:
+Thank you.
+
+Agent (Human) at 299.0s:
+Thanks. Bye.

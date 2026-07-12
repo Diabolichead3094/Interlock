@@ -1,0 +1,44 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.0s:
+Inquiry about an interlock system. So the
+
+Agent (Mia) at 13.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.6s:
+No tolerant.
+
+Agent (Mia) at 20.2s:
+Just to make sure I'm on the right track, did you say tolerant? Could you clarify what you mean or how it relates to your interlock inquiry?
+
+Customer at 29.1s:
+Inquiry about a interlock service. That
+
+Agent (Mia) at 36.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 41.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 44.1s:
+Thank you. Could you clarify if your inquiry is about booking a monitor or calibration service, checking your service due date, or device removal. This will help me guide you to the right information.
+
+Customer at 56.8s:
+Calibration service.
+
+Agent (Mia) at 59.4s:
+Understood. Have you already made your payment and received a confirmation SMS for your calibration service?
+
+Customer at 66.2s:
+No.
+
+Agent (Mia) at 68.3s:
+Would you like to make your calibration service payment now?
+
+Customer at 73.1s:
+I need to inquire about something. Else.
+
+Agent (Mia) at 80.2s:
+No worries. What what what would you like to ask about? LiveDot.

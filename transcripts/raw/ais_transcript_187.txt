@@ -1,0 +1,119 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 1.1s:
+Hello?
+
+Agent (Mia) at 3.7s:
+How may I assist you today?
+
+Customer at 7.8s:
+I need to speak to somebody about my payment.
+
+Agent (Mia) at 12.2s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 12.9s:
+Thank you. Yes. Appreciate
+
+Agent (Mia) at 17.9s:
+Appreciate that. Do you have the payment value or amount ready? Just checking in. You have the payment value or amount ready?
+
+Customer at 37.5s:
+Yes.
+
+Agent (Mia) at 38.0s:
+Do you have the payment value or amount ready?
+
+Customer at 40.9s:
+Yes.
+
+Agent (Mia) at 42.4s:
+Just a sec while I send that through.
+
+Customer at 44.1s:
+Sent through. You'll receive a text with the payment link shortly.
+
+Agent (Mia) at 45.5s:
+You'll receive a text with the payment link shortly. Perfect. Is there anything else I can help you with today?
+
+Customer at 50.4s:
+Perfect. Is there anything else I can help you with today? Yeah. I need to speak to somebody about the code because I can't pay till 3AM in the morning.
+
+Agent (Mia) at 61.9s:
+Understood. I'll get you over to our customer support team now.
+
+Customer at 62.3s:
+That's good. Okay. You are into our customer support team now.
+
+Agent (Mia) at 65.1s:
+Are you I'll get you over to our customer support team now.
+
+Customer at 69.0s:
+Okay. You are into our Are you ready? Okay. You customer support
+
+Agent (Mia) at 73.3s:
+One moment while I connect you to our customer support team.
+
+Agent (Human) at 88.1s:
+Good afternoon. Affordable and 12. Good afternoon. Affordable Interlock.
+
+Customer at 112.1s:
+Hello. I was just I was just wondering wait. I was just wondering, why it'll obviously lock me out to the night. Oh, I think it's gonna lock me out tomorrow at twelve at midnight tomorrow. So I was just wondering if it's do I call up I mean, I just because last time, it it locked me out a day early. So and I start work at 3AM. So I just don't wanna wake up, then the the inner lock locked me out. So was just wondering that if I do pay that and you and it's after hours, is there somebody I can call to get the code to unlock my card and get it to the interlock place?
+
+Agent (Human) at 147.6s:
+So you're gonna lock out at midnight tonight? And then you you wanna get a code for tomorrow. Go and get the service done. Is that what you're saying?
+
+Customer at 156.1s:
+Yeah. Well, no. I did I just remembered that. I'm pretty sure it's gonna lock me out tomorrow at twelve.
+
+Agent (Human) at 161.9s:
+Okay. Can I have your name, please?
+
+Customer at 162.5s:
+At nine. Dylan Tims.
+
+Agent (Human) at 167.2s:
+Okay. So, yeah, Dylan, it's gonna unlock you out. At midnight tomorrow. So you've got until the second. It's gonna lock you out at midnight tomorrow. You've got until midnight tomorrow to get your service done. So if you can pay tonight, you can get the code tomorrow to go and
+
+Customer at 172.8s:
+What was that? Sorry.
+
+Agent (Human) at 181.1s:
+the service done without locking out. So it gives you seven days. On your handset, it will give you a new date. What's that date?
+
+Customer at 183.6s:
+Oh, man.
+
+Agent (Human) at 187.8s:
+Is it the sixth?
+
+Customer at 188.8s:
+It it the 16.
+
+Agent (Human) at 190.9s:
+Yeah. At
+
+Customer at 191.0s:
+12:00. Yeah. I got the dates wrong.
+
+Agent (Human) at 191.6s:
+Yes. Yeah. So you're gonna put them at the tomorrow night. So if you make a payment tonight and then you'll get
+
+Customer at 193.5s:
+Yeah. I thought it was
+
+Agent (Human) at 196.8s:
+you'll get the message in the morning, and you can go get your service done tomorrow without locking up.
+
+Customer at 201.9s:
+Okay. Awesome. Thank you so much.
+
+Agent (Human) at 203.4s:
+You're welcome. Thanks a lot. Bye bye. Bye.
+
+Customer at 205.6s:
+Okay. Have a good night. Bye.
+
+Agent (Human) at 206.5s:
+You too. Bye.

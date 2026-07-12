@@ -1,0 +1,248 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.3s:
+Do I get put through to a whoever, please?
+
+Agent (Mia) at 10.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 11.4s:
+If that's Yep. Peterson.
+
+Agent (Mia) at 19.2s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 23.8s:
+No. I've just been told oh, can I speak to
+
+Agent (Mia) at 29.4s:
+Understood.
+
+Customer at 30.4s:
+please? I've I've got a bill here that's overdue, but I haven't been told I had it yet.
+
+Agent (Mia) at 32.2s:
+Hold
+
+Customer at 35.6s:
+And I haven't been booked in for the service. So I just wanna find out what's going on, please.
+
+Agent (Mia) at 40.7s:
+Understood. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 44.4s:
+Thank you. Yes. Oh.
+
+Agent (Mia) at 48.4s:
+All good. You ready to be connected to our customer support team now?
+
+Customer at 52.4s:
+Yes.
+
+Agent (Mia) at 54.7s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 58.6s:
+Thank you.
+
+Agent (Mia) at 60.5s:
+Connecting you now. One moment, please.
+
+Agent (Human) at 93.4s:
+Hi, Peter. It's Tracy. How can I help?
+
+Customer at 96.1s:
+Good day. Not too bad. Actually, look. Just got a message that says
+
+Agent (Human) at 102.4s:
+Mhmm.
+
+Customer at 103.6s:
+my interlock payment removal payment is overdue. That's the first message I've got about it. I haven't got a date. I didn't have that payment, but now it's overdue to be paid by 3PM.
+
+Agent (Human) at 114.7s:
+Okay. Let me have a look for you. Peter, what was the registration on your vehicle? Please?
+
+Customer at 120.3s:
+Two one four j c four.
+
+Agent (Human) at 122.8s:
+Thank you.
+
+Customer at 127.5s:
+Oh, actually, I rang yesterday to find out if there was a because I haven't heard back from the mechanical mob that are supposed to book me in. And she said she'd find out. And then I've got a part a thing about 08:20 this morning. It says my in your lot removal is overdue. But
+
+Agent (Human) at 147.4s:
+Right. Okay.
+
+Customer at 147.7s:
+yeah, that's the first I've heard.
+
+Agent (Human) at 150.0s:
+Okay. Just having a look into this for you.
+
+Customer at 153.2s:
+Yep.
+
+Agent (Human) at 159.9s:
+Okay. Okay. So I see we've got a booking for you tomorrow, the seventeenth at Clontarf.
+
+Customer at 175.3s:
+Okay. I haven't heard that either. To what time would that be?
+
+Agent (Human) at 179.8s:
+Just checking the email. Email was sent to you yesterday, 08:00 tomorrow morning.
+
+Customer at 186.0s:
+Probably. That could probably to my daughter. 08:00.
+
+Agent (Human) at 190.7s:
+We've got yeah. It looks like it's [EMAIL]
+
+Customer at 194.5s:
+Yeah. Right. Yep.
+
+Agent (Human) at 196.6s:
+Yeah. Do you want me to send this as a text to you so you've got it on your phone?
+
+Customer at 201.8s:
+Yes, please.
+
+Agent (Human) at 202.9s:
+Yeah.
+
+Customer at 203.0s:
+Now I'm gonna pay this by three and then get it removed tomorrow. Is that correct?
+
+Agent (Human) at 207.2s:
+Yes. That's right. Yes. Did you want me to
+
+Customer at 209.3s:
+Okay.
+
+Agent (Human) at 210.2s:
+take care of the payment now for you? Or did you
+
+Customer at 214.6s:
+Is there enough there, or or do I have to do that? Do I have enough
+
+Agent (Human) at 219.4s:
+So enough money on the account? No. There's $1.73 43.
+
+Customer at 223.3s:
+Yes. Okay. That's what I okay. That's what we gotta fix up.
+
+Agent (Human) at 231.3s:
+Yes. That's right.
+
+Customer at 232.7s:
+Yep. Okay.
+
+Agent (Human) at 237.7s:
+I'll just send that as a text
+
+Customer at 239.0s:
+Yep. I just got the interlock appointment
+
+Agent (Human) at 239.1s:
+for you now. So you've you've
+
+Customer at 241.3s:
+come through.
+
+Agent (Human) at 241.7s:
+yeah, all of that detail. Now let me see if I've got a card on file for you. Okay. I I do have a card on file. I have a Mastercard [CARD_ON_FILE] or 7162 or a Visa [CARD_ON_FILE].
+
+Customer at 276.8s:
+The Visa 5895 is the card I'm holding right now.
+
+Agent (Human) at 280.0s:
+That's the one. Awesome. Do you want me to put that card that payment through now for you?
+
+Customer at 284.1s:
+Yes, please.
+
+Agent (Human) at 287.3s:
+K. [NUMBER] has gone through to that card now, so that's all paid for you. Okay. So that's all organized. You've got the details for the interlock removal. Please make sure that you get your license updated. Today.
+
+Customer at 305.2s:
+I got told that yesterday too to get get that thing taken off.
+
+Agent (Human) at 307.5s:
+Awesome. Mhmm.
+
+Customer at 309.6s:
+The interlock taken off or something.
+
+Agent (Human) at 311.2s:
+Yes. Yeah. The last thing we want is you
+
+Customer at 312.2s:
+So I get to get this part of the
+
+Agent (Human) at 313.8s:
+driving away from the removal appointment being pulled over and your license still has an eye condition on it.
+
+Customer at 321.5s:
+Okay.
+
+Agent (Human) at 321.7s:
+Otherwise because you'll get in trouble.
+
+Customer at 324.1s:
+Oh, okay.
+
+Agent (Human) at 325.0s:
+We don't want that. Yeah.
+
+Customer at 326.6s:
+No. No. No. Just I've had enough of it.
+
+Agent (Human) at 330.3s:
+Yeah. Okay. So, yeah, give give transport a call and see if they can update your your
+
+Customer at 335.2s:
+Yep.
+
+Agent (Human) at 336.4s:
+license over the phone or whether you need to go in.
+
+Customer at 340.7s:
+I don't have I'll I'll go down. I'll go down, and I will
+
+Agent (Human) at 343.5s:
+Okay. Either one.
+
+Customer at 344.8s:
+alright.
+
+Agent (Human) at 345.3s:
+Yeah. Okay.
+
+Customer at 346.0s:
+Alright. Thank you.
+
+Agent (Human) at 347.1s:
+That's all done, Peter. You have a great day.
+
+Customer at 349.6s:
+08:00 tomorrow and then all I off, and that should be it.
+
+Agent (Human) at 353.9s:
+Mhmm. That should be it. Yes.
+
+Customer at 355.1s:
+Okay. Alright. Thank you very much.
+
+Agent (Human) at 358.0s:
+You're welcome. Congratulations. Have a good day.
+
+Customer at 360.9s:
+Enjoy the rest of your day. Bye.
+
+Agent (Human) at 362.2s:
+Thank you. You too. Bye.
+
+Customer at 363.8s:
+Bye.

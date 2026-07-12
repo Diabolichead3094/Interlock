@@ -1,0 +1,167 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+Always wanting to check from an email that I got last Friday
+
+Agent (Mia) at 11.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.1s:
+It's [AGENT_NAME] Helen Lynette Hobbs.
+
+Agent (Mia) at 19.8s:
+Thank you. Could you tell me more about what you need to check from the email you received last Friday?
+
+Customer at 24.4s:
+So the email says that
+
+Agent (Mia) at 25.2s:
+Is it about your interlock device, a quote, or something else?
+
+Customer at 29.1s:
+well, I'll read you the the email. Before we can proceed, we require confirmation of your date to have an interlock installed. Which can only be provided by yourself. Please reply to this email with one of the following, a copy of the letter you received from TMR Plan Drive Survive Performance Based Program, advice that states when your disqualification ended. Then it was to log in to your TMR account TMR services online, The information we need can be found in my licenses accreditation. Under sanction type, you will
+
+Agent (Mia) at 71.3s:
+And the
+
+Customer at 71.9s:
+find interlock period. And the third thing is oh, no. There's more. Or click on the link and take a screenshot of your home page that tells you your eligibility date. If you have purchased the interlock license, you can send a copy of the receipt. Of license. If have any further questions that court call affordable interlocks? I've actually got my interlock license that is the laminated card. So, obviously, if I've got the right
+
+Agent (Mia) at 103.4s:
+Understood.
+
+Customer at 104.4s:
+license, then I should be able to get the interlock.
+
+Agent (Mia) at 109.6s:
+Understood. To proceed, you'll need to provide official confirmation of your eligibility date, such as a letter from TMR or a screenshot from your TMR account. The laminated license card alone isn't enough for approval. Would you like the office email email address to send your documents?
+
+Customer at 126.5s:
+Yes, please.
+
+Agent (Mia) at 129.4s:
+Just a sec while I send that through for you.
+
+Customer at 130.0s:
+Yes,
+
+Agent (Mia) at 132.5s:
+I've sent you a text with the office email address. You can reply to your original email or use that address to send your eligibility documents. Unless there's anything else I can help you with today
+
+Customer at 144.5s:
+Yeah. But it's a phone number or an email address.
+
+Agent (Mia) at 148.9s:
+The office email address is [EMAIL] You can send your eligibility documents there. Would you like me to read out the phone number as well?
+
+Customer at 159.6s:
+Just sent me the phone number. You haven't sent me the address. The email address.
+
+Agent (Mia) at 165.5s:
+The email address is [EMAIL] You should have also received a text with this address. Please check your messages. Would you like me to read it out again?
+
+Customer at 176.2s:
+No. Can I speak to a person, please?
+
+Agent (Mia) at 179.5s:
+All good. I can connect you to our customer support team now. Are you ready to be transferred?
+
+Customer at 183.4s:
+Yes. Thanks.
+
+Agent (Mia) at 187.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 191.3s:
+Thank you.
+
+Agent (Mia) at 193.4s:
+You're welcome. Please hold while I connect you to our customer support team.
+
+Agent (Human) at 239.7s:
+Afternoon. Affordable Interlocks.
+
+Customer at 242.7s:
+Yes. Um, I'm just calling to my an inquiry. I've got an email from you saying that I need to do the plan drive copy of the plan drive to buy it filled out. And sent to you. For before you can confirm my eligibility date. I sent that paperwork to you with the eligibility date on it.
+
+Agent (Human) at 263.7s:
+Okay. Can I just confirm who I'm speaking to, please?
+
+Customer at 266.7s:
+Alright. Helen, hold.
+
+Agent (Human) at 268.4s:
+That's okay. Let me just have a look. Okay. When did you send that through, Helen?
+
+Customer at 277.9s:
+Beginning of last week.
+
+Agent (Human) at 278.9s:
+Like, last week. Okay. Let me just have a look and see. Let me find it.
+
+Customer at 287.1s:
+Because I've got my license. So I've got the laminated license right here in my hand.
+
+Agent (Human) at 292.4s:
+Mhmm.
+
+Customer at 293.0s:
+So I don't know why it needs to be sending other stuff.
+
+Agent (Human) at 296.4s:
+Just look just looking at what I've got here now. There's no attachment. There's nothing attached to your enrollment form. So you've completed your enrollment form. And you've put your eligibility date. But there was nothing uploaded, like, no no copy of your license. To say that you've got your license. There's nothing attached to that to your form.
+
+Customer at 320.7s:
+Oh, well, I'm gonna I'm gonna miss the drawing print then.
+
+Agent (Human) at 324.4s:
+Yeah. So we need to
+
+Customer at 325.1s:
+Sorry. What's
+
+Agent (Human) at 326.6s:
+sorry, Karen.
+
+Customer at 329.4s:
+so what do I need to do? Just tag a take a part a copy of my life
+
+Agent (Human) at 332.9s:
+Yes, please. Yeah.
+
+Customer at 334.4s:
+license button back and then send it to you.
+
+Agent (Human) at 336.4s:
+Yes, please. So maybe yeah. We need we actually need to cite something to to show that you've got your license. Or that or or the dates on that website, like the email says, like, either send us
+
+Customer at 343.3s:
+Yeah.
+
+Agent (Human) at 347.2s:
+something from online or yeah. Okay.
+
+Customer at 347.3s:
+Yep. Alright. Sorry. So I guess I'll have your email from the emails you sent me on imagining.
+
+Agent (Human) at 357.6s:
+Just reply to the email that you called me about.
+
+Customer at 361.3s:
+Oh, okay. Alright then.
+
+Agent (Human) at 362.3s:
+So you just you just told me that you got an email from Just reply to that.
+
+Customer at 366.1s:
+Yep. Alright.
+
+Agent (Human) at 366.8s:
+Okay? Okay. Thank you.
+
+Customer at 370.7s:
+Alright. That's fine.
+
+Agent (Human) at 371.1s:
+Bye.

@@ -1,0 +1,251 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.8s:
+Getting an interlock install.
+
+Agent (Mia) at 10.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.8s:
+Helen, let me ask hold.
+
+Agent (Mia) at 19.7s:
+No worries. Just let me know when you're ready to continue.
+
+Customer at 23.4s:
+Yeah. Can I just go straight to the real human thank you? Because I've got a bit of a dilemma.
+
+Agent (Mia) at 32.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 37.6s:
+I'll just give it to you. How long am I not home?
+
+Agent (Mia) at 41.5s:
+Thank you. Just to clarify, are you asking how long your quote or installation will be held? Or are you referring to something else?
+
+Customer at 50.4s:
+Something else.
+
+Agent (Mia) at 53.8s:
+Thank you. Have you already received a quote from us for your interlock installation?
+
+Customer at 58.5s:
+Yes.
+
+Agent (Mia) at 60.5s:
+Thank you. Would you like to speak with someone from our quote team now?
+
+Customer at 64.4s:
+Yes. Thank you.
+
+Agent (Mia) at 66.7s:
+Our quotes team can help with your dilemma. Are you ready to be connected now?
+
+Customer at 71.9s:
+Yes.
+
+Agent (Mia) at 76.0s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 80.9s:
+Yes.
+
+Agent (Mia) at 83.7s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 130.9s:
+For Golden Tarts. [AGENT_NAME] speaking.
+
+Customer at 133.5s:
+Yes. I think I might have just spoken to you. I'm having trouble with my scanner. Is there any chance that I can take a photo or the paperwork and send it to AIS?
+
+Agent (Human) at 148.1s:
+Is it the enrollment form, or is it a what what
+
+Customer at 150.9s:
+No. I've done the I've done the enrollment form. It's the evidence that I'm, like, allowed to drive, and I've taken a a copy of the first page of when I went into the local courthouse and all the information's there.
+
+Agent (Human) at 164.2s:
+Yeah.
+
+Customer at 164.5s:
+And then I've also put a copy of my inter interlock driver's license with it. So I've got two copies.
+
+Agent (Human) at 172.5s:
+Oh, okay. So you got the license there with the eye condition on it already?
+
+Customer at 176.9s:
+Yes.
+
+Agent (Human) at 177.4s:
+Yep. Okay. Yeah. If you take a photo and send it through on the email, that's probably a lot easier. If you do that.
+
+Customer at 184.7s:
+How do you make?
+
+Agent (Human) at 186.2s:
+So you're gonna take a photo and send it through on email through your email address? Is that what you mean?
+
+Customer at 193.5s:
+I wouldn't have a clue how to do it.
+
+Agent (Human) at 197.9s:
+So when you rang and said you wanted to send a photo, you mean send it through to a mobile number? Is that what you mean? Or
+
+Customer at 206.0s:
+Yeah. Yeah. My bowl number. Because my scanner is not working, so I've I've taken a copy of it. And I've tried to start that my scanner without putting my fist through the screen. So I just sort of I took a photocopy of it or I can just I can just not even take a photocopy, just put them together, take a photo. And there's a mobile number for the business that I can send it through because at least I know how to do that.
+
+Agent (Human) at 234.7s:
+Okay. So are you using are you using a computer or your mobile phone?
+
+Customer at 241.5s:
+Well, I was trying to
+
+Agent (Human) at 241.6s:
+So this
+
+Customer at 243.0s:
+I've got
+
+Agent (Human) at 244.1s:
+if you have your emails on your mobile phone,
+
+Customer at 244.6s:
+I wanted to no. I don't.
+
+Agent (Human) at 248.5s:
+is it you don't? Do you have your emails on your do you have a laptop?
+
+Customer at 250.3s:
+No.
+
+Agent (Human) at 253.6s:
+Computer, or anything like that?
+
+Customer at 254.1s:
+Yes. I've got a laptop.
+
+Agent (Human) at 255.7s:
+You got a laptop? Okay. Cool. So what you can do is
+
+Customer at 256.0s:
+Yep.
+
+Agent (Human) at 260.8s:
+does your do you know how to save photos? To your laptop? Through your phone?
+
+Customer at 270.2s:
+No. I'm a dinosaur. The only other thing I can do is post it to you. Like, I don't
+
+Agent (Human) at 277.8s:
+No. No. You'd take forever. And Australia Post will probably lose it anyway. So you can
+
+Customer at 286.5s:
+So I can take the right I can take a photo of both of them and if there's a like, a mobile number I can send it to, I know how to do that. But that's the best
+
+Agent (Human) at 294.8s:
+Yep.
+
+Customer at 296.2s:
+that's it because all the time well, the time I get my printer fixed,
+
+Agent (Human) at 296.3s:
+Okay. Yep.
+
+Customer at 300.1s:
+and scanner fixed, that's gonna be another week.
+
+Agent (Human) at 302.5s:
+Yep. Okay.
+
+Customer at 302.8s:
+That's another week of not driving.
+
+Agent (Human) at 304.8s:
+Yeah. Do you wanna take this mobile number down then?
+
+Customer at 308.4s:
+Yep. Alright then.
+
+Agent (Human) at 309.5s:
+Okay. It's o four six eight
+
+Customer at 313.1s:
+Zero four six eight
+
+Agent (Human) at 315.4s:
+zero six two
+
+Customer at 317.6s:
+zero six two. Yep.
+
+Agent (Human) at 319.3s:
+and five seven one.
+
+Customer at 322.6s:
+571. Alright.
+
+Agent (Human) at 325.2s:
+Yeah. So you just make sure you get the whole page in the photo.
+
+Customer at 326.5s:
+So for yep.
+
+Agent (Human) at 330.3s:
+We can read it and then send it to that mobile number and we'll get it when it comes through.
+
+Customer at 336.1s:
+Alright. Sorry. I'll just put AIS. That'll be the easiest way if I put in my contact
+
+Agent (Human) at 340.2s:
+Just just save that
+
+Customer at 340.4s:
+then I can talk it.
+
+Agent (Human) at 341.9s:
+Yeah. Yeah. That's right.
+
+Customer at 343.6s:
+And I just put a message with her or whatever.
+
+Agent (Human) at 346.0s:
+Yeah. Yeah. Who it's from, that type of thing.
+
+Customer at 347.3s:
+I I think I can handle that too.
+
+Agent (Human) at 351.0s:
+Okay.
+
+Customer at 351.3s:
+Oh, I'll just I'll just crap at this. So
+
+Agent (Human) at 353.4s:
+No problem.
+
+Customer at 355.0s:
+I like people people seem to be able to spend hours doing a lesson learning all this stuff, and I'm just, like, Oh, that's okay. Well, you can hear what you can hear one of the stuff in the background. Calling that I gotta go.
+
+Agent (Human) at 368.0s:
+Yay. Yeah. That's it.
+
+Customer at 371.9s:
+Yeah. So, anyway alright. If I can do that, that'd be much appreciated.
+
+Agent (Human) at 375.4s:
+Okay. No problem. Thank you.
+
+Customer at 377.4s:
+Alright. Thank you very much.
+
+Agent (Human) at 379.0s:
+No problem. Bye.
+
+Customer at 380.2s:
+Bye.
+
+Agent (Human) at 380.8s:
+Bye.

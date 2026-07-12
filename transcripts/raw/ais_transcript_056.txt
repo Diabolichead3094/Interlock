@@ -1,0 +1,557 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.4s:
+Lockout.
+
+Agent (Mia) at 11.0s:
+I can help with that. May I have your full name for our records? First?
+
+Customer at 15.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.8s:
+Thank you. How long has your device been locked out for?
+
+Customer at 24.6s:
+The week, I think. It's got a lockout zero three. Permanent.
+
+Agent (Mia) at 30.3s:
+Understood. If your device shows a permanent lockout after a week, this usually means a service or calibration was missed. Would you like to speak with a specialist to resolve this now?
+
+Customer at 40.1s:
+Yes.
+
+Agent (Mia) at 41.9s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected? Just checking in. Are you ready to be connected to our customer support team now?
+
+Customer at 61.9s:
+Yes. Yes.
+
+Agent (Mia) at 65.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 97.3s:
+Affordable in flux. Good afternoon, [CUSTOMER_NAME]. You're speaking with Shannon. How are you?
+
+Customer at 117.6s:
+Yeah. Good. Thank you.
+
+Agent (Human) at 118.8s:
+That's good. How can I help, [CUSTOMER_NAME]?
+
+Customer at 120.1s:
+I had yeah. Last week, I had a lockout before I went away for work, and it I was supposed to pay on Sunday,
+
+Agent (Human) at 130.7s:
+Mhmm.
+
+Customer at 131.3s:
+So I called on Sunday, but you're closed. So
+
+Agent (Human) at 134.5s:
+Yeah. Yeah.
+
+Customer at 135.2s:
+So and I've just got back into, uh, Agnes Water. So it's obviously gone into permanent, which I've never had before.
+
+Agent (Human) at 141.9s:
+Mhmm.
+
+Customer at 143.3s:
+So I don't know what that means.
+
+Agent (Human) at 145.0s:
+Okay. So there's a permanent lockout on your handset because you do have seven days to get that immediate recall fixed by giving us a call. Is it got a number beside it at all, [CUSTOMER_NAME]?
+
+Customer at 154.4s:
+Yeah. Zero three
+
+Agent (Human) at 158.1s:
+Okay. Okay. So that was a failed breath test.
+
+Customer at 163.3s:
+Yeah. I I know.
+
+Agent (Human) at 164.1s:
+Yep. Okay. So
+
+Customer at 166.0s:
+So, like, can I just ask with that So if I have drinks in the afternoon on a Saturday and I get in my car on Sunday, which, you know, I have
+
+Agent (Human) at 175.2s:
+Mhmm.
+
+Customer at 177.2s:
+had any drinks, obviously, in the morning? Just how is that picking that up? Because I'm more than twelve hours without alcohol or even more. I don't understand why I can go out on a Saturday afternoon with my friends and then get in the car at 10:00 in the morning on a Sunday, and then it's still saying, picking up something.
+
+Agent (Human) at 199.1s:
+Yeah.
+
+Customer at 199.7s:
+Is there any way
+
+Agent (Human) at 201.5s:
+So it's very dependent on your body and how your body metabolizes it? Alcohol.
+
+Customer at 207.8s:
+Right.
+
+Agent (Human) at 208.5s:
+This is a part of yeah. It it is how the interlock works.
+
+Customer at 214.2s:
+Frustrating.
+
+Agent (Human) at 216.3s:
+Yeah. Yeah. So
+
+Customer at 217.4s:
+You know? But because it's still gonna you know, I'm gonna go out every now and again, and it's just
+
+Agent (Human) at 221.8s:
+absolutely.
+
+Customer at 222.9s:
+it's [AGENT_NAME], oh my god. I I we haven't had a drink since you know, maybe 06:00 that night, but then, you know, it's 10:00 the next morning is
+
+Agent (Human) at 232.4s:
+There's still something there.
+
+Customer at 232.7s:
+it's [AGENT_NAME] off. I'm like, yeah. And I know I've obviously had
+
+Agent (Human) at 234.4s:
+Yeah.
+
+Customer at 235.8s:
+to I've had to go away for work and just got back. So I've just totally missed the the the the Sunday. But what what do you do when it
+
+Agent (Human) at 243.2s:
+Yeah.
+
+Customer at 244.7s:
+Sunday? Because you don't know you're not open on a Sunday. You've gotta do it before.
+
+Agent (Human) at 247.3s:
+Yes. Yeah. Absolutely. Because that's why your headset does
+
+Customer at 249.6s:
+It's [AGENT_NAME] not seven days.
+
+Agent (Human) at 252.0s:
+yeah, your handset does give you seven days. To make that call.
+
+Customer at 255.8s:
+Yep.
+
+Agent (Human) at 256.5s:
+So even if yeah. So if it is going to fall on a Saturday or a Sunday, if you were to give us a call, through the week, we could provide you with that code via text message so that you could
+
+Customer at 265.4s:
+Yeah. Yeah. Yeah.
+
+Agent (Human) at 269.8s:
+put it in so you wouldn't go into that Pembina look out.
+
+Customer at 271.6s:
+Oh, so I need to be I don't need to be punching in in in the car. I can do it away.
+
+Agent (Human) at 276.7s:
+So if you give us a call again, if, say, you're away for work,
+
+Customer at 277.7s:
+From Yeah.
+
+Agent (Human) at 280.8s:
+and you say, look.
+
+Customer at 281.6s:
+Yeah.
+
+Agent (Human) at 281.9s:
+I wanna pay I've got you know, an immediate recall o three. I wanna pay for it. I won't be back
+
+Customer at 284.8s:
+Right. Alright. Yeah. Well, that's my fault.
+
+Agent (Human) at 289.1s:
+at the car until Sunday. We can give you the code for Sunday.
+
+Customer at 292.0s:
+Yep.
+
+Agent (Human) at 293.1s:
+On Friday.
+
+Customer at 293.9s:
+Right. Okay. So that's that's my bad then. I didn't didn't realize. I've only ever called during the week. I've never had it on the weekends. So that's alright. It is what it is. I'm doing anything, I'll obviously have
+
+Agent (Human) at 304.0s:
+Yeah. We can
+
+Customer at 306.0s:
+to do my four months again.
+
+Agent (Human) at 308.8s:
+look. Even with an immediate recall o three, that would still potentially cause that anyway.
+
+Customer at 316.9s:
+Yeah. Yep. Yep. I'm just not gonna drive the car for four months.
+
+Agent (Human) at 318.2s:
+Okay?
+
+Customer at 322.1s:
+So sensitive. I think when I first got it, it was perfume or something, and then it's
+
+Agent (Human) at 326.9s:
+Yeah.
+
+Customer at 328.4s:
+it's [AGENT_NAME]. And then I I just didn't read any of that. You just think you're you're alright. So and then I left the car running, and I went into the shop and then it went off.
+
+Agent (Human) at 337.9s:
+Yes. That that's a misread test, that one. Yeah. Yeah.
+
+Customer at 341.2s:
+Yeah. Yeah.
+
+Agent (Human) at 342.8s:
+Look. Again, we can we can reset this. Let me bring up your
+
+Customer at 343.4s:
+Alright. So you yep.
+
+Agent (Human) at 346.6s:
+account, and we'll take payment for that seventy. And then I can either walk you through how to put the code into your
+
+Customer at 350.7s:
+Yep.
+
+Agent (Human) at 354.5s:
+handset, or I can send you them via text message.
+
+Customer at 360.2s:
+Let me just walk it through while I'm in the car now. I've
+
+Agent (Human) at 362.7s:
+Yeah.
+
+Customer at 362.8s:
+gotta go out again.
+
+Agent (Human) at 366.4s:
+Okay. And I do have a card on file [CARD_ON_FILE], [CUSTOMER_NAME].
+
+Customer at 375.4s:
+Should be okay, that one. I think that's my personal. I think. It's it's what what does it start with? A four?
+
+Agent (Human) at 384.2s:
+We don't get to the start of them. We only get the last four digits.
+
+Customer at 386.4s:
+Oh, okay. Alright. Yeah. Okay. Hopefully, it's not the Amex, but, yep, give it a go.
+
+Agent (Human) at 392.5s:
+Okay. That one failed. There is another card on
+
+Customer at 398.3s:
+Alright. Yep.
+
+Agent (Human) at 398.7s:
+file. [CARD_ON_FILE].
+
+Customer at 403.5s:
+Six. Yeah. That's that that should be the one.
+
+Agent (Human) at 405.9s:
+Okay.
+
+Customer at 406.5s:
+Yep.
+
+Agent (Human) at 409.7s:
+Perfect. That one has gone through, [CUSTOMER_NAME]. Wonderful.
+
+Customer at 413.0s:
+Alright.
+
+Agent (Human) at 413.1s:
+Alright. Let's not have the vehicle on at all. We want it completely turned off.
+
+Customer at 418.2s:
+Yep.
+
+Agent (Human) at 419.4s:
+And then we're going to hold the top left hand button for me until you see the words service dates.
+
+Customer at 428.9s:
+The right or the left? Sorry.
+
+Agent (Human) at 430.1s:
+The top left, please.
+
+Customer at 432.5s:
+Top left. Sorry. Yep. Yep.
+
+Agent (Human) at 436.4s:
+Okay. You got service date? Yep.
+
+Customer at 436.8s:
+Next. Yep.
+
+Agent (Human) at 440.2s:
+And then once you get to reset,
+
+Customer at 443.7s:
+Service lockout release.
+
+Agent (Human) at 444.9s:
+no. The next one, please.
+
+Customer at 446.9s:
+The next one. Yep.
+
+Agent (Human) at 448.2s:
+Okay. And let's
+
+Customer at 449.2s:
+Select.
+
+Agent (Human) at 450.1s:
+yep. So today's code is double eight So your left and right buttons move your numbers. And then when you've got the one that you want, you select with the bottom button.
+
+Customer at 465.0s:
+Okay.
+
+Agent (Human) at 467.0s:
+Three.
+
+Customer at 467.3s:
+Double eight.
+
+Agent (Human) at 468.2s:
+Three nine
+
+Customer at 478.9s:
+Eight eight three nine.
+
+Agent (Human) at 480.2s:
+Yes. Now we're gonna select and then with our top right button.
+
+Customer at 485.2s:
+Yep.
+
+Agent (Human) at 485.9s:
+And then that'll bring up a subcode. And that sub code is double zero, so you can just select and
+
+Customer at 489.0s:
+Yep.
+
+Agent (Human) at 492.1s:
+select until you're at third number.
+
+Customer at 494.0s:
+Yep.
+
+Agent (Human) at 495.0s:
+Nine four
+
+Customer at 501.1s:
+Fine. Oh, accept.
+
+Agent (Human) at 507.4s:
+Yep.
+
+Customer at 508.9s:
+Now it's saying service due.
+
+Agent (Human) at 511.8s:
+So you've got a service due on the twenty third.
+
+Customer at 512.7s:
+I just I just had a service.
+
+Agent (Human) at 516.9s:
+You would have had when did you have your service? On the
+
+Customer at 519.8s:
+I That was May? April? May?
+
+Agent (Human) at 527.3s:
+Yeah. So you did have a service on the twenty ninth of the fifth. The reason why we've set it up for your handset to say this is because you're actually at the end of your anticipated end of your program, [CUSTOMER_NAME].
+
+Customer at 541.0s:
+Yeah.
+
+Agent (Human) at 541.7s:
+Yeah. So we
+
+Customer at 542.2s:
+But I'm I'm not gonna be I'm not gonna end. So can that not be wiped off? Because I
+
+Agent (Human) at 543.7s:
+yeah.
+
+Customer at 546.9s:
+I can't afford another $500 just because, you know, I'm not gonna I know because I know that I've I've tested for this. So I'm not you know, that's a bit unfair to have to go back in a month. Is there any way that can be recalibrated? Because I know I'm not gonna
+
+Agent (Human) at 562.3s:
+Give me just no. No. You have to go back
+
+Customer at 566.9s:
+so that, like, that's
+
+Agent (Human) at 567.9s:
+you have to go back in. You have got money on your account. Okay? But you are gonna have to go back in to get that handset date changed. We can't change them from here. It's gotta be done in a Titan.
+
+Customer at 581.0s:
+So you've you've sort of anticipated that I'm gonna have been finished. And that's why you set the date. But I I've gone over. I've done something wrong, and now I'm gonna have to wait out my four months again. So how's that fair?
+
+Agent (Human) at 598.4s:
+You said the Department of Transport is actually gonna email you? Very, very shortly, and they're gonna tell you to go in and do it. That's why we set your handset up
+
+Customer at 603.1s:
+Yeah.
+
+Agent (Human) at 606.5s:
+to that date. Because it's the Department of Transport's program. It's not ours.
+
+Customer at 609.3s:
+So just yeah. Because usually, it's every three months. It's every three months. So and I I got a letter
+
+Agent (Human) at 613.3s:
+Mhmm. Yeah.
+
+Customer at 618.1s:
+saying that I had to wait it out. So I I I just think that's completely unfair. So I can I call the department of transfer?
+
+Agent (Human) at 622.6s:
+Wait. Did you did you send it? Did you send that letter to us, Lian? Because we don't we don't we don't get to see any
+
+Customer at 628.7s:
+Oh, no. I've never sent that.
+
+Agent (Human) at 631.6s:
+those letters, unfortunately. So we have to go on when
+
+Customer at 633.9s:
+I've never been asked to send the letters, but I've only
+
+Agent (Human) at 635.9s:
+we we can only go on when you tell us.
+
+Customer at 638.1s:
+had one
+
+Agent (Human) at 640.7s:
+It will
+
+Customer at 641.1s:
+oh, so
+
+Agent (Human) at 641.4s:
+or when you send send them to us. So we're only going from when you were installed
+
+Customer at 647.7s:
+but, you know that I've I've been locked out, and I'm on my four month period.
+
+Agent (Human) at 650.9s:
+We don't know what the we don't know what the Department of Transport's gonna do, [CUSTOMER_NAME]. We're just simply the providers of the interlock.
+
+Customer at 657.9s:
+I'm not crazy.
+
+Agent (Human) at 659.8s:
+It's [AGENT_NAME] Department of Transport's program, unfortunately.
+
+Customer at 662.5s:
+Yeah. Yeah. I I understand that. But
+
+Agent (Human) at 665.7s:
+Yeah. So
+
+Customer at 667.0s:
+so I'll contact them and see if I can get it shifted.
+
+Agent (Human) at 668.7s:
+yeah. Yeah.
+
+Customer at 670.8s:
+I think, just because that's it's just it's very expensive. $5.05, yeah, $500.
+
+Agent (Human) at 672.7s:
+That's what I'm saying. So the
+
+Customer at 677.2s:
+Just can't afford that at this time.
+
+Agent (Human) at 678.6s:
+You don't have to do $500.
+
+Customer at 682.1s:
+Every time I've gone in, I've had to spend it's over it's 5 or 580.
+
+Agent (Human) at 685.0s:
+You yeah. But you don't have to. You have to.
+
+Customer at 688.8s:
+But that's what they tell you guys tell me to pay that.
+
+Agent (Human) at 690.2s:
+It's $535.50. It's $535.50. And that's for three months. But in Queensland, you have
+
+Customer at 695.6s:
+Right.
+
+Agent (Human) at 697.6s:
+the option to go every one month, two months, or three months. The three month option is what you chose at the start of the program, Leigh Ann.
+
+Customer at 704.9s:
+Yeah. Yeah. I remember. Yep.
+
+Agent (Human) at 706.6s:
+Yeah. So you can go you can go
+
+Customer at 707.4s:
+Okay. So
+
+Agent (Human) at 708.7s:
+in in a month's time, and that's a $198.50. Or you can go in in sixty days time,
+
+Customer at 713.6s:
+So that's what it'll
+
+Agent (Human) at 715.3s:
+and it's $357.
+
+Customer at 719.0s:
+Okay. So that's what I can do. I can go and book it in and then just pay the cheaper one rather than the 501. Right.
+
+Agent (Human) at 723.3s:
+Yeah. Yeah. Absolutely. Absolutely.
+
+Customer at 726.0s:
+It wasn't a way. Sorry. It wasn't not I've always just done the three months, but
+
+Agent (Human) at 727.7s:
+No. That's okay. Yeah. No. That's okay.
+
+Customer at 730.6s:
+obviously, now that I'm at the end of the program, it's you know, it's changed a little bit. Alright. Well, thank you very much I'll contact the department of transport and go from there.
+
+Agent (Human) at 739.3s:
+Mhmm. Yep.
+
+Customer at 741.9s:
+Thank you very much for your help. Appreciate it.
+
+Agent (Human) at 742.8s:
+You're welcome. Thank you, [CUSTOMER_NAME]. Bye for now.
+
+Customer at 744.8s:
+Alrighty. See you. Bye. Oh, now, guys.
+
+Agent (Human) at 746.0s:
+Bye.

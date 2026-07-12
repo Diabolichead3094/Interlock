@@ -1,0 +1,38 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+I need to know when my interlock time up is up.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records? First?
+
+Customer at 15.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.9s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 25.4s:
+I don't think so.
+
+Agent (Mia) at 27.9s:
+Are you in Queensland or another state? This helps me guide you to the right place to check your
+
+Customer at 30.3s:
+You said Luvs.
+
+Agent (Mia) at 32.4s:
+program and date.
+
+Customer at 34.0s:
+No. New South Wales.
+
+Agent (Mia) at 36.9s:
+Thanks for clarifying. For New South Wales, you will need to contact your state transport department to confirm your program and date and request your completion letter. Would you like the office email address sent to your phone for when you have your letter?
+
+Customer at 51.1s:
+Why do I need the letter if I can ask them?
+
+Agent (Mia) at 55.0s:
+The completion letter is required by a affordable interlock before any removal can be authorized. It's a government rule. AIS can't remove your

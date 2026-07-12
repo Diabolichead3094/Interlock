@@ -1,0 +1,65 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+I need to speak to a customer service rep.
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.8s:
+Thank you. Our office is currently open. Are you ready to be connected to our customer support team now?
+
+Customer at 23.7s:
+Yes.
+
+Agent (Mia) at 25.8s:
+I'll get you over to our customer support team now.
+
+Customer at 28.1s:
+K.
+
+Agent (Mia) at 28.3s:
+One moment. Connecting you now. One moment, please.
+
+Agent (Human) at 64.5s:
+Good afternoon. Affordable and Inchlocks. How can I help?
+
+Customer at 67.8s:
+Hey. I'm trying to get my interlock reinstalled to my new car. They've taken it out of the old car. I just haven't got it installed yet.
+
+Agent (Human) at 79.6s:
+Alright. Have you can I just ask who I'm speaking to firstly?
+
+Customer at 83.5s:
+Yeah. It's [CUSTOMER_NAME] O'Bree.
+
+Agent (Human) at 86.8s:
+K. So we have got you when did they remove it?
+
+Customer at 94.7s:
+Friday.
+
+Agent (Human) at 96.9s:
+K. And when can you get the vehicle there for the reinstall?
+
+Customer at 103.9s:
+Whenever they can install it.
+
+Agent (Human) at 105.8s:
+Alright. Alrighty. We'll reach out to them now, and then we'll get back with some pricing. Sorry. We'll get back with the booking. Sorry. We'll get back with the booking
+
+Customer at 110.8s:
+I've already paid for, though. Yeah. Cool.
+
+Agent (Human) at 113.9s:
+Alrighty. Thank you.
+
+Customer at 114.3s:
+Okay. Thanks. Yeah. Thanks. Thanks.
+
+Agent (Human) at 115.8s:
+Thank you. Bye bye.

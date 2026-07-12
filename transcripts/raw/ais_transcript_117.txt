@@ -1,0 +1,179 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+I need to speak to a human being.
+
+Agent (Mia) at 10.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.8s:
+Just to make sure I'm on the right track, did you say parent story? Could you please clarify what you need help with regarding your interlock device or program?
+
+Customer at 28.6s:
+Information.
+
+Agent (Mia) at 30.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 34.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 38.5s:
+Thank you. Would you like to speak to a specialist now? I can connect you to our customer support team.
+
+Customer at 42.0s:
+Yeah.
+
+Agent (Mia) at 44.0s:
+Are you ready to be transferred?
+
+Customer at 46.2s:
+Yes.
+
+Agent (Mia) at 48.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 77.9s:
+Four Good morning. You're speaking with Sean. How can I help?
+
+Customer at 95.6s:
+Darren, is it?
+
+Agent (Human) at 96.4s:
+It's [AGENT_NAME].
+
+Customer at 98.1s:
+Oh, Shannon. Hello, Shannon.
+
+Agent (Human) at 99.9s:
+Hi. How are you?
+
+Customer at 100.4s:
+It's [AGENT_NAME] I'm terrific, Shannon.
+
+Agent (Human) at 103.7s:
+Good. What can I do to help you?
+
+Customer at 105.3s:
+Yeah. Okay. Just wanna check up on when [CUSTOMER_NAME] that's my wife. [CUSTOMER_NAME]'s stories next service is due for our RAV four, please.
+
+Agent (Human) at 116.5s:
+Yeah. So I just got [CUSTOMER_NAME]'s account up now, and that would be on the twenty fourth, Russell.
+
+Customer at 124.8s:
+Problems are mighty. Just as well I looked at the date today, isn't it?
+
+Agent (Human) at 128.2s:
+Yes. So it's next year next Wednesday.
+
+Customer at 129.7s:
+So the twenty four so next Wednesday when it's due, and we get seven days, don't we?
+
+Agent (Human) at 137.9s:
+Yes. That's correct.
+
+Customer at 139.9s:
+So what's that mean? Oh.
+
+Agent (Human) at 142.9s:
+So you've got until the first yeah. You've got until the July 1 before the vehicle will go into a lockout.
+
+Customer at 143.9s:
+That may be Oh, okay. Will it go or lockout on the first itself?
+
+Agent (Human) at 156.1s:
+It'd be midnight. On the first. So you'll have until close of business on Wednesday, the first.
+
+Customer at 163.3s:
+Okay. So we've gone until really, until next Tuesday that might play it safe. Right?
+
+Agent (Human) at 169.8s:
+Yeah. Correct. Oh, the following the following Tuesday.
+
+Customer at 171.7s:
+This Wednesday Yeah. Yeah. Okay. Oh, boy. Just as well, That that means that would there be a message on the car on the display yet? When does when do we get that?
+
+Agent (Human) at 185.6s:
+That'll be tomorrow.
+
+Customer at 188.0s:
+Oh, it's not till tomorrow. Crunch.
+
+Agent (Human) at 189.8s:
+Yes. Yes. So that's when your seven days is seven days before your service is due, and that's tomorrow. So you'll have that message come up tomorrow.
+
+Customer at 200.1s:
+Tomorrow, what, the twenty fourth? Oh, no. Tomorrow is at seven
+
+Agent (Human) at 203.7s:
+September. Yes. So the service is due on the twenty fourth.
+
+Customer at 206.6s:
+Uh-huh. I get to seven. Okay. So tomorrow, we're gonna get you know, oh, we've got more time than I
+
+Agent (Human) at 211.8s:
+Yes.
+
+Customer at 215.5s:
+thought. No. I'm jumping ahead of myself here.
+
+Agent (Human) at 216.3s:
+Yep. You are. You
+
+Customer at 219.7s:
+I've jumped a week ahead. I'm I'm trying to yeah. Alright. Well, listen. Thank you very much for your help.
+
+Agent (Human) at 226.3s:
+You're more than welcome, Russell. Was there anything else today?
+
+Customer at 230.7s:
+Send me some hot crust buns, will you? I feel like feel like that with a cup of
+
+Agent (Human) at 234.6s:
+Oh, a nice scone jam and cream would be nice, I think.
+
+Customer at 239.4s:
+oh, yeah. Strawberry about strawberry? Strawberry strawberries on the green?
+
+Agent (Human) at 246.8s:
+Oh, yes. Most definitely. There's no other way, is there?
+
+Customer at 251.9s:
+Listen, by the way, and post me down some sunny weather from from Queensland. Well, it well,
+
+Agent (Human) at 257.8s:
+Oh, I'll definitely try. No no good us posting it from here. It rains
+
+Customer at 261.8s:
+I guess what? It's
+
+Agent (Human) at 264.0s:
+nearly every second day.
+
+Customer at 265.9s:
+it's I know. I was just speaking another girl about five minutes ago up there, and I said, oh, on a farm. Right? And, you know, it's a kilometer from where I'm sitting to the front gate. And I'm looking at the window here, You know, it's my it's kilometers before you see any other houses. Right?
+
+Agent (Human) at 284.9s:
+Yes.
+
+Customer at 285.5s:
+And guess what I can see, I can see a jolly end of a rainbow coming through the cloud. How about that?
+
+Agent (Human) at 291.7s:
+Oh, very nice.
+
+Customer at 293.7s:
+That's a good sign. Anyway, thanks.
+
+Agent (Human) at 293.8s:
+Very nice. It is. It is. Alright then, Russell.
+
+Customer at 297.4s:
+Yeah. Thanks for your help. Cheers. Bye bye.
+
+Agent (Human) at 299.2s:
+You're welcome. Bye.

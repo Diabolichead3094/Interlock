@@ -1,0 +1,104 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.2s:
+Interlock.
+
+Agent (Mia) at 11.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.5s:
+Thank you. Are you looking to remove your interlock device or is there something else I can help with regarding your interlock?
+
+Customer at 26.0s:
+I need help with something else.
+
+Agent (Mia) at 29.1s:
+No worries. What do you need help with regarding your interlock?
+
+Customer at 33.2s:
+Payment.
+
+Agent (Mia) at 34.9s:
+Are you looking to make a payment for a monitor? Or calibration service, or is it for something else?
+
+Customer at 40.0s:
+Something else.
+
+Agent (Mia) at 42.2s:
+No problem. Could you tell me a bit more about what you need help with regarding your interlock?
+
+Customer at 49.4s:
+Delayed payment.
+
+Agent (Mia) at 51.9s:
+Are you asking about making a late payment for your interlock program? Do you need help because you've missed a payment deadline?
+
+Customer at 60.8s:
+I need to talk to an operator.
+
+Agent (Mia) at 63.6s:
+Our office is currently open. Would you like me to connect you to our customer support team now? Are you ready to be transferred?
+
+Customer at 68.9s:
+Yes, please. Yes.
+
+Agent (Mia) at 72.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 91.5s:
+Affordable Hi, [CUSTOMER_NAME]. Haley here. How can I help?
+
+Customer at 108.7s:
+Hi, Helly. How are you? You one I spoke to earlier today?
+
+Agent (Human) at 111.7s:
+Oh, I think so.
+
+Customer at 114.7s:
+I I rang about 09:30 this morning asking to because I had a service that I need needed my interlock serviced.
+
+Agent (Human) at 122.6s:
+Yes.
+
+Customer at 124.6s:
+And that I was going to book a service as long as soon as I'd spoken to you guys about payment.
+
+Agent (Human) at 131.4s:
+Okay.
+
+Customer at 132.7s:
+And I booked at for an appointment at 12:30, and I'm just getting it serviced with the technician at the moment. But he says there's no payment gone through. If I check my
+
+Agent (Human) at 142.4s:
+Oh, you're right. It hasn't been set up, but I'm gonna do that right now for you. Not sure how that's happened.
+
+Customer at 147.5s:
+My account my account says says that it's been taken out. So
+
+Agent (Human) at 151.3s:
+Yeah. Let me do that now. Not sure what happened there. Charles Simon, we're sorry.
+
+Customer at 159.7s:
+They said they're sorry.
+
+Agent (Human) at 166.7s:
+Tell them to hurry up. It's ready to go.
+
+Customer at 170.0s:
+Okay.
+
+Agent (Human) at 170.1s:
+It's [AGENT_NAME] good now. Thanks. Sorry about that.
+
+Customer at 173.0s:
+No. No. Thank you very thank you very much.
+
+Agent (Human) at 174.5s:
+Okay. See you. Bye.
+
+Customer at 176.3s:
+K. Bye bye. Bye.

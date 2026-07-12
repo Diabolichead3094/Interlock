@@ -1,0 +1,50 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Hi, Mia. I just had questions about when my interlock period is over.
+
+Agent (Mia) at 12.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.7s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 27.8s:
+No.
+
+Agent (Mia) at 29.7s:
+Are you in Queensland or another state?
+
+Customer at 32.3s:
+Queensland.
+
+Agent (Mia) at 36.6s:
+Would you like me to send you a text with a link to the Queensland hub where you can check your interlock program end date online?
+
+Customer at 45.5s:
+Yes.
+
+Agent (Mia) at 47.7s:
+Thanks for confirming. I'll send you a text with the hub link. So you can check your interlock program and date online. One moment, please. Sent you a text with the hub link to check your end date.
+
+Customer at 55.4s:
+Thank you.
+
+Agent (Mia) at 58.8s:
+And another with our office email for your records.
+
+Customer at 59.3s:
+Thank you.
+
+Agent (Mia) at 61.7s:
+Would you like to speak with customer support as well?
+
+Customer at 61.9s:
+Okay. Thanks. No. Thank you.
+
+Agent (Mia) at 65.0s:
+Thanks for calling Affordable Interlock Systems. Have a

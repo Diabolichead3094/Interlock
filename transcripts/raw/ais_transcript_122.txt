@@ -1,0 +1,71 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+Hi, Mia. I just have a question.
+
+Agent (Mia) at 11.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.7s:
+Thank you. What's your question?
+
+Customer at 27.0s:
+I ruined my when I was driving this morning. And I had sprayed perfume previously, and I was already driving. And it went like, it boxed me out because of the alcohol in the perfume. So I was just wondering if that gonna affect anything or add some to my to interlock system.
+
+Agent (Mia) at 50.1s:
+Just to make sure I'm on the right track, are you asking if spraying perfume, which contains alcohol, and then being locked out by the interlocked device this morning will affect your program or cause a violation.
+
+Customer at 63.3s:
+Yes.
+
+Agent (Mia) at 65.6s:
+Understood. If your interlock device locked you out after spraying perfume, you'll need to wait for the lockout timer to finish before trying again. This is a standard safety feature. Would you like to formally document this event or speak with a specialist about your situation?
+
+Customer at 82.9s:
+Speak with a specialist. Please.
+
+Agent (Mia) at 86.4s:
+Our office is currently open. Are you ready to be connected to a customer support specialist now?
+
+Customer at 92.2s:
+Yes.
+
+Agent (Mia) at 94.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 118.1s:
+Affordable Hi, Mia. Hi. Hi. [AGENT_NAME] speaking. How can I help?
+
+Customer at 140.5s:
+Hi, Hailey. Um, I'm just wondering. I went to my influx system this morning after spraying curfew. In the car, and I was already driving. And I'm on, like, the probation part of my program. Is that going to affect anything?
+
+Agent (Human) at 154.0s:
+Yeah. Probably will, but what you best to do, wait till you have your next service because I can't see anything yet. Until all of that's uploaded to the transport.
+
+Customer at 164.3s:
+Yep.
+
+Agent (Human) at 166.3s:
+And I'll send you through the email address. So as soon as you've gone in and hit that service done, just email them and let them know what's happened. Did you say you sprayed perfume while you were driving?
+
+Customer at 175.6s:
+Yeah.
+
+Agent (Human) at 178.6s:
+Okay. Yeah. Then I'll pop a note on your account as well. It takes twenty eight days for them
+
+Customer at 179.3s:
+Yeah.
+
+Agent (Human) at 182.9s:
+get back to you. That's why I'm saying go in for your service and email them straight away. So that it's before the end of your program that you hear back.
+
+Customer at 188.5s:
+Okay. Okay. Cool. Thank you very much.
+
+Agent (Human) at 192.2s:
+Okay. Okay. No worries. I will email you there.

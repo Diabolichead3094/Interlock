@@ -1,0 +1,173 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Talk to operator.
+
+Agent (Mia) at 8.3s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 13.3s:
+Jeffrey Taylor's in.
+
+Agent (Mia) at 16.8s:
+Thank you. Are you ready to be connected to a customer support specialist now?
+
+Customer at 21.0s:
+Yes.
+
+Agent (Mia) at 22.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 72.2s:
+Good afternoon. Affordable Interlocks. You're speaking with Tanya.
+
+Customer at 75.8s:
+Hi, Tony. How going, mate?
+
+Agent (Human) at 77.6s:
+I'm good. Thank you. How are you?
+
+Customer at 80.2s:
+Better days. I'm stuck here at Chili's Automotive by putting this alkalizer in there. And there's major dramas with the computer or something.
+
+Agent (Human) at 90.3s:
+Okay. So
+
+Customer at 91.6s:
+Technical. Okay. Yeah. Where else can I get this service? Is there another place where I can take it to get it serviced? Because I'm not happy with Yeah.
+
+Agent (Human) at 100.2s:
+No. That's the only one in Mackay. That's the only service since we can go to Mackay. She's currently
+
+Customer at 103.2s:
+K.
+
+Agent (Human) at 106.0s:
+currently on the phone to one of our
+
+Customer at 108.7s:
+Yeah. I've been waiting here for ages, man. I just got kicked out the shop.
+
+Agent (Human) at 113.0s:
+Yep. Okay. So, yeah, that's because they they'll let you know when it's finished. But if I have a
+
+Customer at 114.3s:
+So
+
+Agent (Human) at 117.6s:
+issues with the computer, then I've got someone on the phone now that's trying to help them. We've only just got a call now to get let us know that that's happened. So as soon as
+
+Customer at 126.1s:
+Well, that's another.
+
+Agent (Human) at 126.5s:
+it's [AGENT_NAME],
+
+Customer at 127.1s:
+Acceptable, is it?
+
+Agent (Human) at 129.3s:
+well, it's a computer issue. We
+
+Customer at 129.5s:
+Not really good service, is it?
+
+Agent (Human) at 131.4s:
+we can't control how computers work, Sometimes this happens.
+
+Customer at 134.5s:
+Not my problem.
+
+Agent (Human) at 136.0s:
+Well,
+
+Customer at 136.1s:
+I just want me back.
+
+Agent (Human) at 136.9s:
+it's [AGENT_NAME] our we're trying to fix it. What else would you like us
+
+Customer at 138.6s:
+Well, it is no problem. It's all the same.
+
+Agent (Human) at 141.5s:
+well, we can't control how a computer works sometimes. Sometimes things happen. And we have to try and make find a workaround, and that's what we're trying to do now, Jeffrey.
+
+Customer at 149.2s:
+Not very good business. Sorry. And let's let's get back to my first no. I'll just get back to my first question. I'm finished. Yeah?
+
+Agent (Human) at 151.3s:
+Okay. Thank you for that.
+
+Customer at 156.5s:
+Where else can I go? Can I travel to Bowen?
+
+Agent (Human) at 159.0s:
+You can travel to Bob, but
+
+Customer at 159.5s:
+Or somewhere else?
+
+Agent (Human) at 161.1s:
+are you wanting to take the vehicle now?
+
+Customer at 161.6s:
+Yep. I can't. I can't drive a vehicle now.
+
+Agent (Human) at 166.2s:
+Correct. So you're talking about in the future? Somewhat somewhere in the future you can go to? Yeah?
+
+Customer at 166.4s:
+I'm talking about yeah. Yeah.
+
+Agent (Human) at 170.5s:
+Yeah. So in about a month's time, you'll have a service due. You'll be able to contact
+
+Customer at 170.8s:
+Yeah. Yeah. Yeah. Yep.
+
+Agent (Human) at 174.2s:
+our office. You could jump onto our website and find out something local. But, I mean, like, it's 02:00 now. Sometimes it's mechanics don't have them installed until close to the end of the day, so this is actually pretty good that they're trying to get done.
+
+Customer at 188.1s:
+It's [AGENT_NAME] here since 09:00. He's on time that long.
+
+Agent (Human) at 190.9s:
+Okay. So you've installed them before?
+
+Customer at 191.3s:
+And I gotta do yeah. Yeah. I'm expert, mate. I know all about it.
+
+Agent (Human) at 195.6s:
+Okay. Great. Perfect. Okay. So it says that
+
+Customer at 198.0s:
+So just oh, let me get a I I I hang up. I'm talking. I'm talking. Talking. I'm I'm do the school run at three.
+
+Agent (Human) at 203.0s:
+okay.
+
+Customer at 204.7s:
+O'clock. What do I do about that one?
+
+Agent (Human) at 206.2s:
+Sorry? It's only 02:00 now. If you she's just on the phone now. They're just trying to fix it. If you could just be a bit patient. As soon as it's fixed, you can take your vehicle. But we've only just got the phone call now to ask for some support to help them fix it. So
+
+Customer at 217.1s:
+No.
+
+Agent (Human) at 221.3s:
+if you can just allow them that time to do that,
+
+Customer at 221.6s:
+Well, what I've been doing with that? What I've been doing all day?
+
+Agent (Human) at 227.4s:
+Well, it takes
+
+Customer at 227.7s:
+Anyway, I don't wanna go somewhere else. Okay? Alright. So we'll work on that later on. I'm not happy with that.
+
+Agent (Human) at 230.1s:
+yeah. Okay. Thanks, Jeffrey. Okay. Bye.

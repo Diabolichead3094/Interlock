@@ -1,0 +1,62 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.9s:
+Hey, Mia. My interlock says that it's locked up.
+
+Agent (Mia) at 13.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 24.6s:
+Thank you. How long does your device say the lockout will last?
+
+Customer at 29.6s:
+It says permanent lockout 64.
+
+Agent (Mia) at 34.5s:
+Understood. A permanent lockout 64 usually means your device needs servicing, there's a missed calibration. Would you like step by step help to check your next service date on the device?
+
+Customer at 47.1s:
+Yes, please.
+
+Agent (Mia) at 49.8s:
+Step one, make sure your car is switched off. Let me know when that's done.
+
+Customer at 55.4s:
+Yep.
+
+Agent (Mia) at 57.3s:
+Step two, hold down the top left button on your interlock device to enter the menu. Let me know when you see the menu appear.
+
+Customer at 65.2s:
+Yep.
+
+Agent (Mia) at 67.5s:
+Step three, use the big bottom button to scroll through the menu and select service date. Let me know what date appears on the screen.
+
+Customer at 79.2s:
+Eight of the six. Twenty twenty six.
+
+Agent (Mia) at 83.5s:
+Thanks for checking. Your service date is the 06/08/2026. There's a seven day grace period after this date. If you go past the seventh day, you're car will lock out and a fee applies. Would you like help with your next steps such as making a payment or speaking to support?
+
+Customer at 99.8s:
+Yes, please.
+
+Agent (Mia) at 102.0s:
+Do you have the payment value or amount ready?
+
+Customer at 107.0s:
+Yes.
+
+Agent (Mia) at 109.7s:
+Just a sec while I send that through. I've sent you a payment link by SMS. Once payment is made, visit your service center for calibration to clear the lockout. Anything else I can help with today?
+
+Customer at 124.4s:
+No. Will be it. Thank you.
+
+Agent (Mia) at 127.6s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.

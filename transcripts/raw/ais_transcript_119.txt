@@ -1,0 +1,221 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Could I speak to a real person, please?
+
+Agent (Mia) at 9.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.2s:
+Thank you. Are you ready to be connected to a specialist now?
+
+Customer at 20.2s:
+Yes.
+
+Agent (Mia) at 22.3s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 25.1s:
+Thank you.
+
+Agent (Mia) at 27.1s:
+You're welcome. Connecting you now.
+
+Agent (Human) at 55.4s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 58.5s:
+Hi, Sarah. My name is [CUSTOMER_NAME]. I have a message on my handset that a service is due. I haven't received an email to pay for that, so I can book it in. But the other thing I was querying so by my records, it should be the twelve months. That is like, it should be the twelve months. So I'm just wondering is this now like, will this service be to get the interlock removed?
+
+Agent (Human) at 84.0s:
+[CUSTOMER_NAME]. What I need to do, first of all, is look at your account. So can I have your last name and your registration, please?
+
+Customer at 87.7s:
+Mhmm. My last name is [CUSTOMER_NAME], w a r d, and my is nine seven eight y I t.
+
+Agent (Human) at 98.3s:
+Alright. So you've got the Mitsubishi Pajero and
+
+Customer at 101.6s:
+Yes.
+
+Agent (Human) at 103.0s:
+you're installed the June 18 last year. So it'll be on or around the June 18. This year. That would be your end of program.
+
+Customer at 109.7s:
+Mhmm.
+
+Agent (Human) at 111.5s:
+So that would be signaled by an email being sent to you from the transport office overnight And it would say data upload request. So, basically, that when they would request that you go and have a final service. And that enables them to look at your last
+
+Customer at 130.0s:
+Mhmm.
+
+Agent (Human) at 134.0s:
+four months, which is your performance period,
+
+Customer at 137.0s:
+Mhmm.
+
+Agent (Human) at 137.5s:
+If that data is clear, generally, it's only a couple of days, and then they'll issue the completion letter. So that's how all of that works.
+
+Customer at 146.6s:
+Oh, okay. So okay. So I have to go and get the service done Thursday so that data can be uploaded, and then I get the email from them?
+
+Agent (Human) at 155.5s:
+So the email needs to be sent to you first because that signals that you're
+
+Customer at 156.0s:
+Is that how it works?
+
+Agent (Human) at 160.2s:
+eligible. So without that letter, don't go in because
+
+Customer at 161.7s:
+Okay.
+
+Agent (Human) at 164.9s:
+they may require you to go back if you go too soon. Just keep an eye on your inbox, the junk and spam,
+
+Customer at 171.8s:
+Mhmm.
+
+Agent (Human) at 172.5s:
+The letter says data upload request.
+
+Customer at 173.2s:
+Okay.
+
+Agent (Human) at 175.5s:
+And then all you need to do, [CUSTOMER_NAME], is to forward that through to us.
+
+Customer at 175.9s:
+Mhmm. Yep.
+
+Agent (Human) at 181.1s:
+So that we can set up the transaction for you.
+
+Customer at 185.4s:
+Okay.
+
+Agent (Human) at 186.2s:
+Because you've been paying three months at a time, you do have money to cover that service.
+
+Customer at 189.9s:
+Mhmm.
+
+Agent (Human) at 192.9s:
+So you don't need to make a payment.
+
+Customer at 193.0s:
+Yes.
+
+Agent (Human) at 196.8s:
+The handset, you know, regardless of where you're at in the program, is always gonna do what you know, what it normally does, which is to prompt you when a service is due. So
+
+Customer at 209.6s:
+So it's it has prompted me to go and have it serviced on the eighteenth. So do I still have to go in on the eighteenth to get it serviced?
+
+Agent (Human) at 216.7s:
+No. Because you've always got seven days either side of that date.
+
+Customer at 218.2s:
+No. Okay.
+
+Agent (Human) at 222.4s:
+So if you had to, you know, you've got
+
+Customer at 222.8s:
+Okay.
+
+Agent (Human) at 225.7s:
+until Thursday, the twenty fifth, which is the following Thursday, close of business.
+
+Customer at 231.9s:
+Okay.
+
+Agent (Human) at 232.3s:
+To complete that monitor service. Alright?
+
+Customer at 234.7s:
+Okay. Alright.
+
+Agent (Human) at 237.0s:
+So I'm going to send you a text message when we finish speaking. It will have the inquiry's email address. And that way, as soon as you receive your letter,
+
+Customer at 243.9s:
+Mhmm.
+
+Agent (Human) at 246.6s:
+you forward it through to us, we'll set it up. You'll get the payment text message on your phone. And then that means you can go into the service center and have that final reading done. Okay?
+
+Customer at 255.0s:
+I Yep. Okay. Fantastic.
+
+Agent (Human) at 259.7s:
+So does that make sense? Did you have any questions?
+
+Customer at 261.6s:
+It it does. Yes.
+
+Agent (Human) at 264.3s:
+Awesome. Alright. And then it's just a matter of waiting for the outcome once you've had that service completed.
+
+Customer at 271.0s:
+Oh, okay. Fantastic. But once the service is completed, do I then
+
+Agent (Human) at 272.3s:
+Okay.
+
+Customer at 274.9s:
+I'd have to go back and get the interlock? Because they're not gonna let the interlock come out of my car until they've got that last four months of data.
+
+Agent (Human) at 280.1s:
+No. That's right. And nothing can happen until, number one, we see the completion letter that's been issued, and then we send the work order to the service center.
+
+Customer at 289.6s:
+Mhmm. I k.
+
+Agent (Human) at 293.5s:
+But as soon as you get the completion letter, what you can do is straight away have that eye condition removed from your license. Which then allows you to drive other vehicles that don't have interlocks.
+
+Customer at 302.2s:
+Mhmm.
+
+Agent (Human) at 306.0s:
+Okay?
+
+Customer at 306.2s:
+Okay. Fantastic.
+
+Agent (Human) at 308.1s:
+Okay. So I'll
+
+Customer at 308.7s:
+Alright. Thank you.
+
+Agent (Human) at 310.7s:
+sorry. I'll text you this email address. Alright?
+
+Customer at 314.3s:
+Thank you so much, Sarah. Much appreciated.
+
+Agent (Human) at 316.5s:
+Alright, [CUSTOMER_NAME]. Have a good week.
+
+Customer at 318.1s:
+Thanks.
+
+Agent (Human) at 318.7s:
+Thank you.
+
+Customer at 318.8s:
+You too. Bye bye.
+
+Agent (Human) at 319.6s:
+Bye.

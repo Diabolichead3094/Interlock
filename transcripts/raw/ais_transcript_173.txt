@@ -1,0 +1,164 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+Have a interlock recall.
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.8s:
+Thank you. Just to confirm, have you already received your official completion notice for your interlock program?
+
+Customer at 23.8s:
+No.
+
+Agent (Mia) at 25.6s:
+Are you in Queensland or another state?
+
+Customer at 28.6s:
+Another state.
+
+Agent (Mia) at 30.9s:
+Thanks for clarifying. You'll need to contact your state's transport department to confirm your removal date and request your official completion letter. Once you have that letter, email it to [EMAIL] Would you like me to send our office email address to your phone for reference?
+
+Customer at 48.0s:
+No.
+
+Agent (Mia) at 50.1s:
+Just a sec while I send that through. I've sent a text with our office email address. Once you have your completion letter, please forward it there. Would you like to speak with our customer support team now?
+
+Customer at 61.1s:
+Yes, please.
+
+Agent (Mia) at 63.3s:
+All good. I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 106.5s:
+Good afternoon. Affordable Workshop. You're speaking with Tanya.
+
+Customer at 109.8s:
+Good day, Tanya. [AGENT_NAME] speaking. How are you?
+
+Agent (Human) at 111.6s:
+I'm good. Thanks, Terry. How can I help you?
+
+Customer at 114.2s:
+Uh, I just have an immediate recall message on my interlock.
+
+Agent (Human) at 117.8s:
+Okay. What's the number?
+
+Customer at 120.1s:
+Seven.
+
+Agent (Human) at 122.7s:
+Okay. So that's related to providing high breath alcohol sample someone that's driven your record of yourself locked out recently?
+
+Customer at 133.0s:
+No. It didn't even tell me didn't even give me a reading that we had an alcohol limit. I've I've the other day, I got in my car and turned it straight on after a restart available, and then it just buzzed at me. It was weird.
+
+Agent (Human) at 147.5s:
+Okay. Let me just can I just confirm who I'm speaking to, please?
+
+Customer at 153.0s:
+What's that? Sorry?
+
+Agent (Human) at 154.0s:
+Can I just confirm who I'm speaking to, please?
+
+Customer at 157.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 158.9s:
+Okay. So was that immediate recall seven or seventeen?
+
+Customer at 163.9s:
+Seven.
+
+Agent (Human) at 164.4s:
+Oh, okay. Seven. So that's related to the that when you turn the ignition. So it said, ready to start, and then when you turn it, does it the when it's fixed. Is that right?
+
+Customer at 176.3s:
+Sorry. Say that again.
+
+Agent (Human) at 177.7s:
+So that is related to the you said you turned the ignition before providing the breath sample, but it had said ready for test I'm sorry. I mean, we're not available. Is that when that rate came through after you turn that
+
+Customer at 190.4s:
+Yeah. When I turned the key, it said restart I turned the key, and then the message went off.
+
+Agent (Human) at 193.6s:
+Okay. No problem. It's just the timing thing. Are you in the vehicle now? I can it give you the code to clear it off your handset.
+
+Customer at 200.2s:
+Yes.
+
+Agent (Human) at 200.6s:
+Okay. Okay.
+
+Customer at 201.1s:
+Yes. I am in the code. I only got the vehicle.
+
+Agent (Human) at 201.7s:
+Just have to go to reset? You know how to get
+
+Customer at 205.6s:
+Yep. Hold
+
+Agent (Human) at 206.7s:
+Yep.
+
+Customer at 207.7s:
+Next.
+
+Agent (Human) at 208.3s:
+Yep.
+
+Customer at 208.9s:
+Week. Yep.
+
+Agent (Human) at 211.7s:
+Okay. When you hit 3, press select, and then the code today is nine two.
+
+Customer at 220.1s:
+Non two
+
+Agent (Human) at 222.3s:
+One three
+
+Customer at 225.1s:
+one nine two one three.
+
+Agent (Human) at 228.3s:
+Yes. And sorry. Select and accept.
+
+Customer at 232.5s:
+Yep. Yep. Subcode.
+
+Agent (Human) at 235.1s:
+Subcode is zero zero four nine.
+
+Customer at 244.2s:
+0049. Select. Accept. Yep. That's worked.
+
+Agent (Human) at 249.7s:
+That's all clear. So that's all fine. So I'll just pop in at the desk. For a second here. It's not a it's not a violation to say, but I'll just pop it on there just so that if anybody has questions. Why I've given the code today, then I I can see why. Okay? Thank you, [CUSTOMER_NAME].
+
+Customer at 261.2s:
+Okay.
+
+Agent (Human) at 264.0s:
+Okay.
+
+Customer at 264.1s:
+Alright. No worries. Thank you, Tanya. Bye.
+
+Agent (Human) at 264.6s:
+Have a good day. You're welcome. Bye.
+
+Customer at 267.0s:
+Bye.

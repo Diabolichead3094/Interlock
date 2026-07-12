@@ -1,0 +1,200 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+I just wanna see if my insulin
+
+Agent (Mia) at 10.5s:
+Just to make sure I'm on the right track, did you say you wanna check if I'm available in
+
+Customer at 11.0s:
+appointment
+
+Agent (Mia) at 14.3s:
+the morning?
+
+Customer at 16.2s:
+Well, I just wanna see if my Angela appointment is still available.
+
+Agent (Mia) at 26.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 31.2s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME]. [CUSTOMER_NAME].
+
+Agent (Mia) at 35.3s:
+Thank you. Have you already received a quote from us for your Angela appointment? Appointment?
+
+Customer at 40.4s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 42.9s:
+Thanks for confirming. Would you like to speak with someone from our quotes team now?
+
+Customer at 47.8s:
+Yes, please.
+
+Agent (Mia) at 50.0s:
+Great. Are you ready to be connected to our quotes team now?
+
+Customer at 53.3s:
+Yes.
+
+Agent (Mia) at 55.1s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 78.4s:
+Four Good afternoon, [CUSTOMER_NAME]. You're speaking with Shannon. How are you?
+
+Customer at 96.3s:
+Yeah. Good. Thank you. How are you?
+
+Agent (Human) at 97.5s:
+Good. Good. How can I help you, [CUSTOMER_NAME]?
+
+Customer at 101.2s:
+I just got a phone call. I just finished that online form. I just wanna see if my appointment's all still good to go on Thursday if I if I completed everything and I'm good to go.
+
+Agent (Human) at 111.4s:
+Let me have a little look right. It's getting close, isn't it? Your appointment?
+
+Customer at 121.2s:
+Yeah. Yeah. I forgot about yeah. I've got all about it. Yeah. I think it's on Thursday. So I got a I got a message today saying that I need to finish that online thing by today, but I just finished it. But I just wanna make sure it's all up today in the system. Yeah?
+
+Agent (Human) at 134.4s:
+Yeah. So we've got your online training. That's come through, but your service agreement, [CUSTOMER_NAME], is still outstanding. Do you have that?
+
+Customer at 141.0s:
+Okay. So what's that? Is it? Yeah.
+
+Agent (Human) at 143.2s:
+So with your service agreement that it just pretty much stating that you're aware that it the interlock is ours. You know, should you yeah. So
+
+Customer at 151.6s:
+Yeah. Yeah. Yeah. [CUSTOMER_NAME].
+
+Agent (Human) at 153.5s:
+it's [AGENT_NAME] a little contract. Let me have a look if you've been sent one. So was the email it was emailed to you on the eleventh, but I can resend that
+
+Customer at 158.8s:
+Fourteen. Fourteen. Yes.
+
+Agent (Human) at 162.8s:
+to you if you like.
+
+Customer at 164.0s:
+Alright. Just try it back. Yeah. Can you just resend it, please?
+
+Agent (Human) at 168.7s:
+Yeah. Absolutely.
+
+Customer at 170.9s:
+Oh, here it is. I see the same as the new contract. Yeah. New contract. Re review and sign all that. And here we go. Sorry. I found it.
+
+Agent (Human) at 178.6s:
+That's okay. If you wanna
+
+Customer at 179.7s:
+Open one here. Okay. But this is an area. Let's raise. Yeah. Four eight two eight seven nine. No. Vehicle, EMO. 02/1978. Golf.
+
+Agent (Human) at 217.0s:
+Volkswagen Golf,
+
+Customer at 218.9s:
+Yeah. I don't like Volkswagen. Yeah.
+
+Agent (Human) at 221.8s:
+Yeah. If you can.
+
+Customer at 223.6s:
+Yeah. Both.
+
+Agent (Human) at 225.6s:
+B o l k s wagon?
+
+Customer at 226.0s:
+What are you [CUSTOMER_NAME]. No. [CUSTOMER_NAME]. It's just nice.
+
+Agent (Human) at 229.1s:
+Yeah.
+
+Customer at 230.7s:
+Yes. So I service agreement. [CUSTOMER_NAME]. [CUSTOMER_NAME]. Thing. Recipient initial. Alright. Terms and conditions. Scrolling down. Trying to find the bottom. Just a bit of it. There's some conditions or whatever. I'm just trying to get to the bottom of Hold on.
+
+Agent (Human) at 256.1s:
+Not your rice. So the conditions are it's pretty much you you understand that it's our interlock. If you have a
+
+Customer at 257.7s:
+Alright.
+
+Agent (Human) at 262.1s:
+not make your payments, you know, after a while, you will go to sort of debt collection. That sort of it's just a normal
+
+Customer at 266.5s:
+Yeah. Yeah.
+
+Agent (Human) at 269.6s:
+everyday general one.
+
+Customer at 271.8s:
+Yeah. So I just do the one recipient's name, recipient's signature. [CUSTOMER_NAME]. Okay. Finishing. Alright. So I just
+
+Agent (Human) at 276.8s:
+[CUSTOMER_NAME].
+
+Customer at 280.1s:
+complete the missing fields. What have I missed? Oh, yeah. Hold on. My bad. The the
+
+Agent (Human) at 282.3s:
+What have you missed?
+
+Customer at 284.6s:
+the season and what's the end date? Do you know?
+
+Agent (Human) at 287.2s:
+Yeah. So we've got that as being approximately the eighteenth of the sixth
+
+Customer at 291.2s:
+Yeah.
+
+Agent (Human) at 293.3s:
+twenty twenty seven.
+
+Customer at 293.6s:
+Yeah. Okay. Alright. 2027. Okay. [CUSTOMER_NAME]. That's all good. Good. I'll I'll bring it all the way back in again. I gotta finish and send. Okay. [CUSTOMER_NAME]. The contract link expires. Signature requested. On it. Got the green sheet, but we've emailed you
+
+Agent (Human) at 312.2s:
+Can I I've got it as well? Right?
+
+Customer at 314.1s:
+Did you get
+
+Agent (Human) at 315.6s:
+[CUSTOMER_NAME]. So that'll
+
+Customer at 315.8s:
+Okay. So I'm gonna do the other one?
+
+Agent (Human) at 317.1s:
+you're all good to go. Just walk up there on Thursday.
+
+Customer at 319.0s:
+Alright. No. I got it. Thank you. Yeah. No. I got it. Thanks for your help.
+
+Agent (Human) at 323.6s:
+You're more than welcome, Rach. You did it all yourself. I was just standing here.
+
+Customer at 326.6s:
+Yeah. No. Beautiful. Alright. No worries. Thank you.
+
+Agent (Human) at 329.7s:
+You're welcome. Good job, Bryce. Thanks.
+
+Customer at 331.4s:
+[CUSTOMER_NAME].
+
+Agent (Human) at 332.0s:
+Bye.
+
+Customer at 332.2s:
+Goodbye.

@@ -1,0 +1,20 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.3s:
+A medium recall.
+
+Agent (Mia) at 11.0s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 17.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.4s:
+Thank you. Would you like me to connect you to our customer support team now?
+
+Customer at 26.3s:
+Yes.
+
+Agent (Mia) at 29.0s:
+I'll get you over to our customer support team now. One moment. Connecting you now. One moment, please. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER]? Would you prefer a different number?

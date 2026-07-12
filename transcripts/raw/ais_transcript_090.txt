@@ -1,0 +1,146 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Oh, hi, Mia. I'm just checking to make sure that you've received my delivery.
+
+Agent (Mia) at 11.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.5s:
+Jessica. Louise Tebbett, t e, double b, u, double t.
+
+Agent (Mia) at 21.7s:
+Thank you. Just to clarify, are you asking about the removal of your interlock device, or did you mean a different type of delivery?
+
+Customer at 30.5s:
+No. I have sent a device, and it should be with you at Queensland Southport.
+
+Agent (Mia) at 38.8s:
+Thanks for clarifying. Just to make sure I'm on the right track, are you asking if your interlock device return has been received at the Southport Service Center?
+
+Customer at 49.0s:
+Yes.
+
+Agent (Mia) at 50.8s:
+Thanks for confirming. Affordable Interlock does not directly receive returned devices at service centers. To check if your device has been received at Southport, please contact the service center directly on [REDACTED]. There anything else I can help you with?
+
+Customer at 65.5s:
+That's the that's the number I'm calling.
+
+Agent (Mia) at 70.9s:
+Understood. Affordable interlock does not directly confirm receipt of return devices at service centers. For updates on your device delivery, please contact the Southport Service Center directly. Is there anything else I can help you with?
+
+Customer at 81.8s:
+That's the numb yes. That's the number I'm calling.
+
+Agent (Mia) at 86.3s:
+All good. Affordable Interlock does not directly confirm device deliveries at service centers.
+
+Customer at 90.7s:
+Oh my gosh.
+
+Agent (Mia) at 91.6s:
+For confirmation, please contact the Southport Center staff in person or by email. Would you like the office email address sent to your phone?
+
+Customer at 100.4s:
+I'd like to speak to somebody, not an operator. Thank you.
+
+Agent (Mia) at 105.2s:
+Our office is currently open. Would you like me to connect you to our customer support team now?
+
+Customer at 109.6s:
+Yes, please.
+
+Agent (Mia) at 110.0s:
+Are you ready to be transferred?
+
+Customer at 111.7s:
+Yes, please. Thank you.
+
+Agent (Mia) at 112.7s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 115.6s:
+Thank you.
+
+Agent (Mia) at 117.1s:
+Trans connecting you now. One moment, please.
+
+Agent (Human) at 142.4s:
+A month? Affordable Interlocks. How can I help?
+
+Customer at 157.5s:
+Oh, hello. My name is Jess. How are you today?
+
+Agent (Human) at 160.1s:
+Good. How are you?
+
+Customer at 161.5s:
+I'm well. Thank you. I sent a interlock device yesterday to your head office at Southport. I was just wanting to check to see if it was received.
+
+Agent (Human) at 176.5s:
+Alrighty. I'll just be one moment for you. Thank you.
+
+Customer at 178.8s:
+Thank you.
+
+Agent (Human) at 226.9s:
+K. Did we receive a handset of b three? Do you know when it's gonna be sent out again? Oh, so she hasn't paid? She just she didn't tell me that. Fucking fucking bird at once. Fucking before. Yes. Oh, Yep. I'll call Lynn. Hey. Do you know the Jessica lady for the v three? Do you know if she's paid for the calibration, or did she just ship it to the office? Kim's received it. Yeah. He's got it. Yeah. Yeah. Yeah. Absolutely. Okay. Awesome. So I'll just okay. Awesome. Thank you. Bye. Yeah. So all of the Thank you for your patience. We're just waiting to hear we're just waiting I've just contacted my manager.
+
+Customer at 332.3s:
+Oh, thank you.
+
+Agent (Human) at 336.4s:
+So she's just gonna check with our dispatch team, and then we'll get back to you. But she'll call you, um, shortly.
+
+Customer at 336.7s:
+Okay. No. That's fine. Um, just letting you know, I did receive a notification from Australia Post to say it was delivered. But last year, it was delivered to a different location within your depot, like, your area.
+
+Agent (Human) at 360.7s:
+Oh, okay.
+
+Customer at 360.8s:
+So I'm just making sure that didn't happen again. That was all.
+
+Agent (Human) at 362.5s:
+Yeah. That's okay. Yeah. I'm I'm just a customer service agent, But when my manager gives you a call, can discuss that with her.
+
+Customer at 370.2s:
+Oh, sure. Okay.
+
+Agent (Human) at 370.4s:
+It's [AGENT_NAME] a bit I read that we don't
+
+Customer at 372.2s:
+No. That's okay, sweetie.
+
+Agent (Human) at 373.5s:
+yeah. No. Sorry. Our team ups our
+
+Customer at 374.6s:
+Yeah.
+
+Agent (Human) at 376.3s:
+like, the phone goes, we don't really deal with the v threes too much.
+
+Customer at 379.2s:
+No. That's okay. If you can, that's fine.
+
+Agent (Human) at 379.9s:
+But my manager will give you a callback.
+
+Customer at 382.3s:
+Okay. I really appreciate that. Thank you so much.
+
+Agent (Human) at 384.1s:
+No worries. No worries. Bye bye.
+
+Customer at 385.6s:
+Have a lovely day. Bye.
+
+Agent (Human) at 386.6s:
+Yeah. You too. Bye bye.
+
+Customer at 388.0s:
+Thank you. Bye.

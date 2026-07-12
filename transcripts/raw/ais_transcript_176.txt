@@ -1,0 +1,59 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.5s:
+I need to book in for more a service.
+
+Agent (Mia) at 10.4s:
+Can help with that. May I have your full name for our records first?
+
+Customer at 14.2s:
+Alana, a l l a n a h, Time, h e I m. Marie.
+
+Agent (Mia) at 20.6s:
+Thank just to clarify, are you booking a service for yourself or is this for someone named Marie?
+
+Customer at 28.1s:
+No. For Elena Marie. For me.
+
+Agent (Mia) at 31.0s:
+Thank Thank you. Is your service request for a standard vehicle mechanical service, or is it for an interlock monitor or calibration service?
+
+Customer at 42.4s:
+It's [AGENT_NAME] saying a missed service.
+
+Agent (Mia) at 46.9s:
+Understood. Is your request for an interlock monitor or calibration service or do you need help with a standard vehicle mechanical service?
+
+Customer at 54.1s:
+Two I think it's just a calibration service. I just need to book it.
+
+Agent (Mia) at 59.1s:
+Thanks for clarifying. Have you already completed your payment and confirmation SMS for your calibration service?
+
+Customer at 69.0s:
+I'm having a walk.
+
+Agent (Mia) at 75.6s:
+No worries. When you're ready to your calibration, do you have the payment value or amount ready?
+
+Customer at 81.6s:
+The last one that I got was the last one from AIS was the January 5. It just says I've I've a I've it says I've missed a test on the seventeenth. Tell me. Come here. First of all, first of all, it was the tenth. Stormy, yeah. Stormy. Come. Come here. Come on. We go on. Quick. Storm, come. Don't make come on. Come on. You there? Sorry.
+
+Agent (Mia) at 118.1s:
+All good. To help with your calibration service, do you have the payment value or amount ready?
+
+Customer at 123.3s:
+Yes. I do. So yeah. Come come yeah. I do. Come here. You funny boy. Come here.
+
+Agent (Mia) at 135.7s:
+Your payment link has been sent by SMS. Once you've paid and received your confirmation, you can contact your local service center to book your calibration. Anything else I can help with today?
+
+Customer at 143.9s:
+I no. Thank you very much for your time, love.
+
+Agent (Mia) at 149.1s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 151.5s:
+Thank you. Bye bye.

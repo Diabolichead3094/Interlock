@@ -1,0 +1,170 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+I just have a question for somebody.
+
+Agent (Mia) at 10.2s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.3s:
+Thank you. What would you like to ask or discuss with our team?
+
+Customer at 25.1s:
+Yeah. It's about how late I can book in my data request.
+
+Agent (Mia) at 32.1s:
+Understood. Just to clarify, have you received a CIDU notice from the transport department asking you to complete a data upload?
+
+Customer at 39.4s:
+Yes.
+
+Agent (Mia) at 41.6s:
+Just a sec while I get that info for you. You'll need to forward your CIDU notice to our office email before a data upload can be booked. I've sent you a text with the email address. Once that's done, our team will set up your request. Anything else I can help with?
+
+Customer at 58.1s:
+Yeah. We've already done that. I wanna know how late of a date I can go.
+
+Agent (Mia) at 63.6s:
+Thanks for letting me know you've already sent the notice. I'll get you over to our customer support team now so they can confirm the latest possible date for your data upload. Are you ready to be connected?
+
+Customer at 74.4s:
+Yes.
+
+Agent (Mia) at 76.3s:
+Thanks for confirming. I'll get you over to our customer support team now so they can advise on the latest possible date for your data upload. Are you ready to be connected?
+
+Customer at 85.7s:
+Yes.
+
+Agent (Mia) at 87.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 129.8s:
+[CUSTOMER_NAME]. It's Tracy. How are you?
+
+Customer at 131.9s:
+Good. How are you?
+
+Agent (Human) at 133.0s:
+Good. Thank you. How can I help?
+
+Customer at 135.6s:
+I'm just trying to work out with work when a good date for me to go get my data stuff all looked at.
+
+Agent (Human) at 144.0s:
+Mhmm.
+
+Customer at 145.3s:
+So my handset says missed service date of the twentieth. Does that mean that's the last date that I'm able to get looked at, or do I have seven days after that?
+
+Agent (Human) at 157.2s:
+Let me just have a look. Yes. If it's saying is it saying lockout date? The twentieth?
+
+Customer at 168.9s:
+It doesn't say lockout. It just says missed. Missed service. Let me just turn it off so I can Does sleep turn off again? Yeah.
+
+Agent (Human) at 191.2s:
+If you go into service dates yeah.
+
+Customer at 199.9s:
+Service dates. Yeah. So the service date is the thirteenth of the sixth.
+
+Agent (Human) at 202.5s:
+I select Yeah. So the seven days would be the twentieth after the third thirteenth.
+
+Customer at 210.7s:
+So it needs it needs to be by the twentieth?
+
+Agent (Human) at 213.4s:
+Yeah.
+
+Customer at 213.9s:
+Okay.
+
+Agent (Human) at 215.7s:
+Is that able to be done?
+
+Customer at 219.0s:
+If it's not, am I able to get it extended?
+
+Agent (Human) at 222.9s:
+No. We can't extend it.
+
+Customer at 226.0s:
+Okay. Well, yeah, I'll make it work. That's alright. I was just yeah.
+
+Agent (Human) at 229.4s:
+Okay. So twentieth is Saturday.
+
+Customer at 232.6s:
+Yeah. So it has to be this week sometimes.
+
+Agent (Human) at 234.6s:
+Yeah. Anybody could take it for the upload.
+
+Customer at 238.3s:
+Yeah. It's yeah. It's just a preferred track from where I live. It's over two hours away.
+
+Agent (Human) at 244.1s:
+Alright. Okay. Whereabouts are you?
+
+Customer at 247.8s:
+In Moranbah. It's a few hours inland of Makay.
+
+Agent (Human) at 251.3s:
+I know more about So, yeah, Dysart would be the closest one.
+
+Customer at 260.9s:
+Yeah. My plan was just to leave it in because it takes two days for them to look at the data and then bloody for it to get taken out. So I'm just gonna leave it there.
+
+Agent (Human) at 270.6s:
+Okay. Yeah.
+
+Customer at 270.9s:
+Just gonna have them drive it forward and back, forward and back.
+
+Agent (Human) at 274.0s:
+Okay. You've had no violations at all in the last four months?
+
+Customer at 279.2s:
+Not I believe so. What's the violation?
+
+Agent (Human) at 281.9s:
+Like, if you if you've blown any alcohol readings at all?
+
+Customer at 285.7s:
+Oh, no. I haven't had a drink.
+
+Agent (Human) at 286.8s:
+No? Awesome. Awesome. Okay. Yeah. So if you could get it to I thought, earlier or any of our service center as early as you can.
+
+Customer at 299.8s:
+Yeah. Well, yeah, I plan on taking it to my car sometime this week, and then I'll just leave it there.
+
+Agent (Human) at 304.2s:
+To Mackay. Yeah. If you're going to drop in particularly on
+
+Customer at 305.7s:
+Yeah.
+
+Agent (Human) at 309.2s:
+a Friday, give them a call because a lot of places close early.
+
+Customer at 311.0s:
+Yeah. I know they do close early on that Friday.
+
+Agent (Human) at 313.1s:
+Yeah. Yeah.
+
+Customer at 316.0s:
+Right. I'll I'll sort it out. That's all good.
+
+Agent (Human) at 318.1s:
+Awesome. Okay. Thank you so much. Have a good day. Bye, Erin.
+
+Customer at 319.3s:
+Alrighty. Thank you. You too. Yeah.

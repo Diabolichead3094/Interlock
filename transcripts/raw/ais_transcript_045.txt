@@ -1,0 +1,38 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.8s:
+Handset advice.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.2s:
+Thank you. What advice do you need help with regarding your interlock device or program?
+
+Customer at 25.6s:
+If there's a bypass code for a mechanic to service the vehicle.
+
+Agent (Mia) at 31.6s:
+That's not something I can help with here, but a specialist can. Want me to connect you?
+
+Customer at 36.4s:
+Yes, please.
+
+Agent (Mia) at 38.7s:
+Our office is currently open. Are you ready to be connected to a specialist now?
+
+Customer at 43.2s:
+Yes.
+
+Agent (Mia) at 45.4s:
+I'll get you over to our customer support team now. One moment. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. What's the best number for our team to reach you on?
+
+Customer at 109.9s:
+0414 customer is in alcohol. Three five four six zero five. Is there a bypass code or anything? There is?
+
+Agent (Mia) at 122.9s:
+That's not something I can help with here, but a specialist can. There anything else I can help you with today?

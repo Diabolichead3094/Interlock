@@ -1,0 +1,53 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.4s:
+I just need some information about my contract.
+
+Agent (Mia) at 11.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.3s:
+Jack Thomas Beaton, b e a t o n.
+
+Agent (Mia) at 20.8s:
+Thank you. What specific information about your contract would you like to know?
+
+Customer at 25.7s:
+When my end date is?
+
+Agent (Mia) at 29.2s:
+I can help with that. If you're in Queensland, you can check your program and date online through the AIS hub. Would you like me to send you the link via SMS?
+
+Customer at 39.0s:
+No. This one clarify some things because I think the contract might have been stuffed up.
+
+Agent (Mia) at 46.6s:
+Understood. For contract issues or if you believe there's an error, a specialist will need to review your details. Are you ready to be connected to our customer support team now?
+
+Customer at 56.5s:
+Yep.
+
+Agent (Mia) at 58.6s:
+I'll get you over to our customer support team now. One moment. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER]? Or would you prefer a different number?
+
+Customer at 124.6s:
+Yeah.
+
+Agent (Mia) at 127.7s:
+Perfect. I've noted your details, and our team will be in touch
+
+Customer at 127.7s:
+This that number.
+
+Agent (Mia) at 130.7s:
+with you soon. Is there anything else I can help you with today?
+
+Customer at 134.4s:
+That's all. Thanks.
+
+Agent (Mia) at 137.1s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 142.3s:
+You

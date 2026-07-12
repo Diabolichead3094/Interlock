@@ -1,0 +1,26 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 1.0s:
+I'll try myself.
+
+Agent (Mia) at 3.2s:
+How may I assist you today?
+
+Customer at 5.8s:
+Bypass code.
+
+Agent (Mia) at 6.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 10.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 11.5s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 19.9s:
+Yes. Have you got a spare piece now for the brand new one? I don't. That's not the last one. A sweetie washer and sterilizer. Yeah. That's fair enough. What if I just stay with this?
+
+Agent (Mia) at 34.7s:
+Thank you.

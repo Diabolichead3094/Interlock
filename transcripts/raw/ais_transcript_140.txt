@@ -1,0 +1,38 @@
+Agent (Mia) at 0.1s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Hi. I'm looking to book to have a interlock. Device attached to my car.
+
+Agent (Mia) at 13.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 24.0s:
+Thank you. Before we move forward, have you already received a quote from Affordable Interlock for your installation?
+
+Customer at 30.6s:
+No. I have not.
+
+Agent (Mia) at 33.5s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 49.3s:
+Will that will they be able to give me a quote? And book a date?
+
+Agent (Mia) at 55.3s:
+Once your quote is confirmed, our team will be in touch to arrange the installation. You don't need to book that separately right now. Would you like to speak with someone from our quote team today?
+
+Customer at 65.9s:
+Just to fill out the phone? Scrap and shit. Yeah. No. That's fine.
+
+Agent (Mia) at 70.9s:
+All good. Is there anything else I can help you with today?
+
+Customer at 74.4s:
+That's all. Thank you.
+
+Agent (Mia) at 77.2s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful

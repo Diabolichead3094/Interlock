@@ -1,0 +1,533 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Just inquiring on booking a to have an interlock fitted
+
+Agent (Mia) at 12.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.6s:
+Thank you. Have you already received a quote from us?
+
+Customer at 25.2s:
+Yes. And I never got a phone call back from this today.
+
+Agent (Mia) at 27.3s:
+Understood. Would you like Understood. Would you like to speak with someone from
+
+Customer at 31.2s:
+You just supposed to call back this morning and need to call back. Sorry?
+
+Agent (Mia) at 35.6s:
+I understand you're waiting for a callback. Would you like me to connect you to our quotes team now, or would you prefer to leave your details a callback?
+
+Customer at 45.3s:
+Put me through, please.
+
+Agent (Mia) at 47.6s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 52.4s:
+Yes.
+
+Agent (Mia) at 54.6s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 101.0s:
+Phoneable Interlocks. [AGENT_NAME] speaking.
+
+Customer at 103.8s:
+Arlene, I've I've rang out about a quote, but I've I've also put in for assistance
+
+Agent (Human) at 111.5s:
+Okay.
+
+Customer at 113.0s:
+And I'm waiting I've got a they're I've sent in all my details for assistance. And I'm getting I'm doing the they're being assessed on Wednesday, the seventh seventeenth.
+
+Agent (Human) at 124.0s:
+Right.
+
+Customer at 126.2s:
+What I what I wanna know because I couldn't get it it's my first time dealing with assistance.
+
+Agent (Human) at 133.2s:
+Alright.
+
+Customer at 134.9s:
+Well, that's crazy.
+
+Agent (Human) at 135.5s:
+Yep.
+
+Customer at 137.6s:
+Well, if on Wednesday, I've I've sent them my certificate for the interlock advice with all the numbers on it. I've sent them my pensioner card and some ID in that.
+
+Agent (Human) at 152.1s:
+Is this for
+
+Customer at 152.6s:
+Yep.
+
+Agent (Human) at 155.0s:
+transport department you sent it to to Salvation Army?
+
+Customer at 157.7s:
+That's it.
+
+Agent (Human) at 158.9s:
+That the one? Yep.
+
+Customer at 160.3s:
+Yeah.
+
+Agent (Human) at 161.0s:
+So
+
+Customer at 161.3s:
+And what I'm interviewed with them on the seventeenth,
+
+Agent (Human) at 165.0s:
+right.
+
+Customer at 165.5s:
+but I'm I'm due to get my license back on the the twentieth and beyond.
+
+Agent (Human) at 170.5s:
+Right.
+
+Customer at 171.8s:
+And I'm starting to get a bit not sure what's going on. So I'm just after a sort of advice. Like, do I have to wait for them to do my assessment and then like, book a book a date because the the twentieth is on a Saturday, and today's already Monday. And
+
+Agent (Human) at 191.5s:
+So if you wanna pay if you want them to pay for your interlock installation, then, yeah, it's worth the wait. If you don't, then it costs you full
+
+Customer at 199.3s:
+You know what?
+
+Agent (Human) at 202.4s:
+you know, the full concession price then.
+
+Customer at 205.0s:
+Got $800 yet.
+
+Agent (Human) at 206.5s:
+Yeah. Yeah. It's it's worth waiting for your confirmation. So is it the seventeenth you're going in for that?
+
+Customer at 211.3s:
+Yeah.
+
+Agent (Human) at 214.8s:
+Interview?
+
+Customer at 216.9s:
+No. There's it's just a phone interview.
+
+Agent (Human) at 218.8s:
+Oh, yeah. Yeah. Yeah. So the seventeenth hour interview.
+
+Customer at 220.3s:
+I've sent all the paperwork.
+
+Agent (Human) at 222.9s:
+And then how long after that did they say the paperwork will you'll get
+
+Customer at 223.2s:
+So
+
+Agent (Human) at 226.7s:
+confirmation?
+
+Customer at 228.9s:
+I'm not sure.
+
+Agent (Human) at 230.6s:
+Okay.
+
+Customer at 231.0s:
+I I have to wait till I talk to them on Wednesday because they're not actually open today.
+
+Agent (Human) at 235.5s:
+Oh,
+
+Customer at 235.5s:
+Only they won't take they open, but they only take phone calls Tuesday, Wednesday, Thursday.
+
+Agent (Human) at 240.1s:
+yeah. Yeah. Yeah. So, I mean, it it's up to you. But if we book it, you'll be paying the the $800 instead of like, probably nearly half of that. Was
+
+Customer at 253.0s:
+Yeah. Yeah. What what I'm
+
+Agent (Human) at 253.2s:
+financial assistance.
+
+Customer at 255.1s:
+yeah, what I'm what I'm inquiring about is after they say if they confirm that do you know what the procedure is from there? Like, how long does it take
+
+Agent (Human) at 263.3s:
+Yeah. Yeah. So as soon as you get that email from them or the letter from them to say, this is how much you can have. This is what you're covered for. And then you send it through to us so we can quote you on it. Alright? And then once we get that done, then yeah, it's just a matter of getting a booking for you, getting the install, You know, like, you've been through it before, so you know how it'll work. But we just yeah. It's just about how much you wanna pay.
+
+Customer at 292.8s:
+Yes.
+
+Agent (Human) at 296.1s:
+If you wanna wait for that financial assistance.
+
+Customer at 297.1s:
+I know. I I wanna like, but I I'm just sort of curious on my say, on Wednesday, say, yeah. Go ahead.
+
+Agent (Human) at 303.6s:
+Yeah.
+
+Customer at 304.7s:
+I just have to wait for them to send me, like I said, a an email or paperwork or whatever.
+
+Agent (Human) at 309.1s:
+Yeah. That's right. Yep.
+
+Customer at 311.1s:
+And and then how long like, as soon as I get that,
+
+Agent (Human) at 315.1s:
+Mhmm.
+
+Customer at 315.4s:
+what do I have to send you any paperwork or anything like that?
+
+Agent (Human) at 319.1s:
+Yeah. So you've filled in a quote We've sent you a quote already for the full price. We'll requote it for you. Once you send that letter to us, we'll requote it for you. This is how much it's going to be. Like, it won't be as much as the $800. And then if you accept it and wanna go ahead with it, then we go out to the service center and set you in. So are you still in Coffs Harbour? Is that the the nearest service center to you?
+
+Customer at 346.2s:
+On that call, that's a new New South Wales service center.
+
+Agent (Human) at 349.1s:
+Yeah.
+
+Customer at 349.1s:
+I've got an order. In I'm in Mooloolga, which is about 40 kilometers north of Kops Harbour.
+
+Agent (Human) at 354.4s:
+Alright. Yep.
+
+Customer at 355.4s:
+And I've got a I've got a the auto electrician is that fits them is only just basically around the corner from me.
+
+Agent (Human) at 362.1s:
+Right. Okay.
+
+Customer at 364.8s:
+That's so, like,
+
+Agent (Human) at 365.1s:
+So
+
+Customer at 366.4s:
+how long like, once we once we get confirmation from them and I
+
+Agent (Human) at 366.7s:
+yeah,
+
+Customer at 371.1s:
+ring you guys and get a quote, what do I have to do from there? Do I I'd have to send you email about with my interlock paperwork and all that sort of stuff.
+
+Agent (Human) at 383.0s:
+Yes. Yeah. Yeah.
+
+Customer at 383.6s:
+And and ID or whatever.
+
+Agent (Human) at 386.2s:
+Yep. That's right. Yeah. It'll be the enrollment form.
+
+Customer at 386.6s:
+Or
+
+Agent (Human) at 389.6s:
+Again that you'll be filling in all online, of course. We we do everything online. The fastest way to get it down. Then we book with the service center to see what they they
+
+Customer at 396.3s:
+Yes.
+
+Agent (Human) at 398.7s:
+can get you in. You would have a letter already from transport saying what day you get your license back.
+
+Customer at 406.1s:
+Yeah. Yeah. On the twentieth.
+
+Agent (Human) at 407.7s:
+It's [AGENT_NAME] the twentieth. Okay. So anywhere from the twentieth onwards, we can look at getting you in.
+
+Customer at 414.4s:
+Yeah. Because
+
+Agent (Human) at 414.5s:
+Once once you get your confirmation. It's all about waiting for salvation.
+
+Customer at 417.5s:
+right. So I can't I can't I can't get the interlock fitted before then. Even if everything went, like, real smooth. Which I don't think it will.
+
+Agent (Human) at 426.1s:
+Yeah. No. Well, like I said, we can get you in. But it depends on what you wanna pay. If you don't wanna yeah. If you want Salvation Army, wait for them. Right? So
+
+Customer at 432.6s:
+Yeah. No. Yeah. What I what what I'm delighted is because
+
+Agent (Human) at 437.0s:
+yeah.
+
+Customer at 441.1s:
+I I wanted to do it on my own. You know, I mean, I don't like you know, I mean, I've I've made a mistake, but I had to get my car registered, and it cost me $1,150 to get it just to get a pink slip.
+
+Agent (Human) at 452.1s:
+Ron.
+
+Customer at 452.2s:
+And then I had to pay and because it went twenty one days over the the green slip, I was only gonna pay six months. But I had to pay the whole twelve months. And now that's it's left me with I've I've I've it's left me, like, skimmed.
+
+Agent (Human) at 467.5s:
+Yeah. Yep.
+
+Customer at 468.5s:
+[SENSITIVE_CONTENT] If I borrowed the money, I'd have to get a Centrelink loan, and then I have to pay that back. It's like a $130 a fortnight. Which I sort of can't which is a lot, you know, out of a pension check. I I wanna I'm a dis disabled pensioner.
+
+Agent (Human) at 481.3s:
+So did you get
+
+Customer at 482.4s:
+I would tell her
+
+Agent (Human) at 483.1s:
+done for DUI again, or were you Was it because of the pink slip? Why why have you ended up back in the program?
+
+Customer at 491.9s:
+Oh, because I've got I've I've been done for DUI. Yeah. Oh, PCM.
+
+Agent (Human) at 494.6s:
+Oh, I right. Right.
+
+Customer at 496.5s:
+But I I had to rent my car on a red out of rego, like, in April,
+
+Agent (Human) at 496.7s:
+Yep.
+
+Customer at 501.3s:
+That's all happening all at the same time. And I was like I said, I was gonna go on my own.
+
+Agent (Human) at 504.9s:
+Yep.
+
+Customer at 504.9s:
+And try and pay it on my own, but it was gonna just put me in dire straits. So I've left it late, I
+
+Agent (Human) at 506.7s:
+Yep.
+
+Customer at 509.9s:
+and it's probably my fault, I'd say. For
+
+Agent (Human) at 512.4s:
+And how long have you did you lose your license for?
+
+Customer at 515.5s:
+six months. Yeah.
+
+Agent (Human) at 516.4s:
+Six months. Okay. And, of course, you wanna get it in a soon as possible so you can get a job and that type of thing. But yeah.
+
+Customer at 522.6s:
+Alright.
+
+Agent (Human) at 523.4s:
+Well, looks like we'll
+
+Customer at 524.0s:
+It's [AGENT_NAME] disabled on
+
+Agent (Human) at 525.3s:
+you let us, yeah, you let us know as soon as
+
+Customer at 526.9s:
+I'm got that. Right. You.
+
+Agent (Human) at 528.8s:
+you you get that Salvation Army certificate because it's gonna save you a lot of money.
+
+Customer at 531.9s:
+Yeah. Yeah. And I've basically been on home detention just I'm disabled. I can't and I've got I live in town, but between me and the main street of town is a massive big hill.
+
+Agent (Human) at 544.2s:
+Yeah.
+
+Customer at 544.5s:
+And so, like I said, I was gonna go all over So it looks like I left away, which is okay. I'm gonna have to do that. I'll go in six months. And it doesn't look like it's gonna happen this week, does it?
+
+Agent (Human) at 552.4s:
+Yeah.
+
+Customer at 555.7s:
+If I
+
+Agent (Human) at 556.4s:
+Well, not getting you in without that without that letter. No. It'll be up to Voodoo.
+
+Customer at 557.0s:
+is it
+
+Agent (Human) at 561.3s:
+We've gotta send a kit and everything like that. So
+
+Customer at 566.4s:
+Yep.
+
+Agent (Human) at 566.8s:
+yeah. What's today? You you're not seeing them for a couple of days. Wednesday, it depends when they send their letter out. As soon as you get the letter, you can get the ball rolling. But
+
+Customer at 576.0s:
+Yeah. I'll I'll I'll I'll have a talk to him and just see if I can sort of do it with a bit of urgency to and I had I don't like doing that, but I'll explain my situation and
+
+Agent (Human) at 585.5s:
+Yep.
+
+Customer at 585.8s:
+and I wanna get out of this house.
+
+Agent (Human) at 588.8s:
+Yeah. Yeah.
+
+Customer at 590.5s:
+I've been thinking that one for a reason. It's giving me a lot of time to think about it, and re reconnect with myself and re fill up the equipment in my life, if you know what I mean.
+
+Agent (Human) at 597.7s:
+Yeah. Yeah. Now you wanna get back out there. So, yeah, see what they say. See if, like, there's any way they can rush it.
+
+Customer at 606.7s:
+Yeah.
+
+Agent (Human) at 607.5s:
+Yep. When you talk to them on the on the seventeenth.
+
+Customer at 608.0s:
+So we'll say what? Yeah. So once it once I get that confirmation
+
+Agent (Human) at 612.1s:
+Yeah.
+
+Customer at 613.7s:
+letter, I'll reconnect with you guys.
+
+Agent (Human) at 618.0s:
+That's right.
+
+Customer at 618.5s:
+And we'll go from there.
+
+Agent (Human) at 620.5s:
+That's it.
+
+Customer at 621.0s:
+And and then it'd be just a matter when you get the kit there and when you get the when they're available to book it in, it, I suppose?
+
+Agent (Human) at 626.8s:
+That's that's correct. Yeah. That's correct.
+
+Customer at 629.5s:
+Alright. And so more patience required.
+
+Agent (Human) at 631.0s:
+I Yep. That's it. That's it, [CUSTOMER_NAME].
+
+Customer at 634.7s:
+Yeah.
+
+Agent (Human) at 635.4s:
+Okay.
+
+Customer at 635.5s:
+Yeah. No. I've been really homebound. I was, like, stuck at home a fair bit. So
+
+Agent (Human) at 641.2s:
+Yeah. No. Horrible.
+
+Customer at 643.0s:
+so no. No worries. That's what you pay the price. What what the problem thing was I was I had a handheld breathalyzer machine. Like, a private one. And I blew into it,
+
+Agent (Human) at 655.5s:
+Yep.
+
+Customer at 656.7s:
+I blew into it, and it said point o three. I waited about forty, forty five minutes, and I blew into
+
+Agent (Human) at 661.4s:
+Mhmm.
+
+Customer at 662.5s:
+blew into it again and said point o three. And then I drove. When I got pulled over, I was spot on point o o eight. You know, like, Another you know what?
+
+Agent (Human) at 673.4s:
+Wow. What the heck?
+
+Customer at 675.5s:
+I was point o seven nine, I would have been in the low range. You know what mean?
+
+Agent (Human) at 679.6s:
+Wow. Yeah. Oh, from point o three to
+
+Customer at 679.9s:
+It's [AGENT_NAME]'s just
+
+Agent (Human) at 683.9s:
+point o eight. That's a big
+
+Customer at 685.7s:
+that's yeah. Yeah. I know. I the machine is definitely way out.
+
+Agent (Human) at 685.9s:
+big
+
+Customer at 689.6s:
+Obviously. So I'm gonna throw that in the bin. I'm gonna buy another one.
+
+Agent (Human) at 691.7s:
+Yeah. Yeah. Well, Yeah.
+
+Customer at 695.5s:
+Maybe a bit better one. Bit of yeah. Bit of little bit of
+
+Agent (Human) at 696.7s:
+Yeah. Percent.
+
+Customer at 699.2s:
+just anyway, have one with you because you got a bit of work to do. But I kinda
+
+Agent (Human) at 705.5s:
+Okay, [CUSTOMER_NAME].
+
+Customer at 705.7s:
+oh,
+
+Agent (Human) at 706.4s:
+Well, as soon as you get that letter, you you let us know. Okay? Send it through.
+
+Customer at 706.9s:
+oh, wow. Alright. That's it. Alright. Thanks so very much for your help.
+
+Agent (Human) at 711.5s:
+Okay. Thanks, [CUSTOMER_NAME].
+
+Customer at 712.7s:
+Alright.
+
+Agent (Human) at 713.5s:
+Bye.
+
+Customer at 713.6s:
+Thank you. Bye.
+
+Agent (Human) at 714.5s:
+Bye.

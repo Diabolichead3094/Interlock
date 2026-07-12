@@ -1,0 +1,254 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 2.5s:
+Good morning.
+
+Agent (Mia) at 3.6s:
+How may I assist you today?
+
+Customer at 7.7s:
+Fitting and interlock.
+
+Agent (Mia) at 8.3s:
+Good morning. I can help with your interlock inquiry.
+
+Customer at 9.9s:
+System.
+
+Agent (Mia) at 11.5s:
+May I have your full name for our records first?
+
+Customer at 16.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 19.9s:
+Thank you. Are you looking to book a new interlock
+
+Customer at 20.0s:
+And primary nighttime is not possible.
+
+Agent (Mia) at 22.3s:
+installation, or is this about a service monitor or calibration for an existing device?
+
+Customer at 25.9s:
+No. So this is a bad service. But in saying that, I I I'm just inquiring about cost.
+
+Agent (Mia) at 33.2s:
+Understood. For service or calibration costs, on an existing device, I can connect you to our customer support team to discuss pricing.
+
+Customer at 38.8s:
+No. It's not an existing device.
+
+Agent (Mia) at 40.3s:
+Are you ready to be connect
+
+Customer at 40.6s:
+I have to get one I have to get one fitted. So I need to know the cost of that. And then, obviously,
+
+Agent (Mia) at 45.8s:
+Thanks for clarifying. Have you
+
+Customer at 49.2s:
+then the ongoing cost.
+
+Agent (Mia) at 53.0s:
+Understood. Have you already received a quote from us for an interlock installation?
+
+Customer at 57.6s:
+No.
+
+Agent (Mia) at 59.9s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 74.3s:
+Yes.
+
+Agent (Mia) at 76.2s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 79.9s:
+Thank you.
+
+Agent (Mia) at 81.6s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 127.8s:
+Hi. It's Tracy. How can I help?
+
+Customer at 130.3s:
+Hi, Tracy. I just wanted to get a quote on the interlock.
+
+Agent (Human) at 136.3s:
+Mhmm.
+
+Customer at 136.4s:
+System.
+
+Agent (Human) at 137.5s:
+Yeah. Sure.
+
+Customer at 139.9s:
+And, yeah, basically, how much it cost initially and also the ongoing cost.
+
+Agent (Human) at 147.2s:
+Absolutely. I can see that you called from a mobile number, so I'm just sending a quote link out to your phone now. Um, so if you were to complete that
+
+Customer at 155.1s:
+Well, they they send it to my phone because I can't I can't don't have any data or I I can't access it. So that's useless. So if you can give me a verbal quote,
+
+Agent (Human) at 170.4s:
+Yeah. I can give you a verbal quote. What type of car were you installing in?
+
+Customer at 175.1s:
+It's a Nissan El Grande.
+
+Agent (Human) at 178.2s:
+Mhmm. What year and model?
+
+Customer at 181.2s:
+2002.
+
+Agent (Human) at 183.0s:
+Mhmm. And what state are you calling from?
+
+Customer at 186.3s:
+Queensland.
+
+Agent (Human) at 187.3s:
+Franklin. Is it a key or a push button start?
+
+Customer at 193.4s:
+A what?
+
+Agent (Human) at 194.8s:
+Is it a key key start?
+
+Customer at 196.9s:
+Oh, yeah. It's a key start. Yep.
+
+Agent (Human) at 198.8s:
+Key start? And do you have a concession at all? CenturyLink concession? Yeah.
+
+Customer at 204.3s:
+[SENSITIVE_CONTENT] I do. But I have to apply for the hardship. But my con
+
+Agent (Human) at 210.7s:
+Right. Okay.
+
+Customer at 211.8s:
+my concession card is [REDACTED] Victor. That's my
+
+Agent (Human) at 221.3s:
+Mhmm.
+
+Customer at 221.6s:
+concession.
+
+Agent (Human) at 222.7s:
+Okay. So under concession, the price would $745.50.
+
+Customer at 229.0s:
+What's that to get rid of?
+
+Agent (Human) at 230.7s:
+To have install in the first thirty days.
+
+Customer at 236.4s:
+Yeah. And then the ongoing service cost?
+
+Agent (Human) at 239.6s:
+Ongoing service cost. So in Queensland, you can apply can do either a ninety day servicing or a sixty day servicing. With the concession, you're looking at ninety days being $3.96, concession being two.
+
+Customer at 255.4s:
+Oh, really? Wow. You know yeah. Okay. Alright. Okay.
+
+Agent (Human) at 261.6s:
+If you are applying for financial,
+
+Customer at 261.9s:
+Well, I've got those prices from sorry?
+
+Agent (Human) at 265.2s:
+if you are applying for financial assistance, I would suggest that you do so, um, before we get the quote, we will need to requote under financial assistance for you.
+
+Customer at 276.8s:
+Okay.
+
+Agent (Human) at 277.7s:
+Yeah.
+
+Customer at 278.3s:
+Okay. Yeah.
+
+Agent (Human) at 278.5s:
+If you need a copy of that to apply for financial services, yeah, If you go to our website, you'll be able to go through it and request that quote to be sent through.
+
+Customer at 289.7s:
+Alright. Well, I've got your website here on my paper that the
+
+Agent (Human) at 292.6s:
+Yeah.
+
+Customer at 294.3s:
+department of transport gave me. So so $7.96 and then what?
+
+Agent (Human) at 295.9s:
+Okay.
+
+Customer at 298.9s:
+Was it? $3.03 something?
+
+Agent (Human) at 301.3s:
+96 for the ninety day servicing.
+
+Customer at 305.5s:
+For the ninety days. And and and and so
+
+Agent (Human) at 305.8s:
+And in
+
+Customer at 309.4s:
+on the servicing, what what do I get for that servicing for $3.96?
+
+Agent (Human) at 313.3s:
+So in ninety days, we're the servicing and leasing hire of that of the device.
+
+Customer at 319.1s:
+Oh, okay. So it's just a higher charge. It's not you don't do anything to the vehicle?
+
+Agent (Human) at 327.3s:
+Wing. Have to install the equipment in your vehicle?
+
+Customer at 331.9s:
+Yeah. Yeah. Yeah. Yeah. And that's the $7.96.
+
+Agent (Human) at 335.0s:
+The seven forty five fifty.
+
+Customer at 335.3s:
+But for the $3.96, for the for the for the ninety days, what do you do?
+
+Agent (Human) at 342.1s:
+Mhmm. We go through and we do a monitor. We upload the data through to Queensland Transport. Yeah.
+
+Customer at 349.8s:
+That's okay. Well, what about
+
+Agent (Human) at 350.3s:
+So that
+
+Customer at 353.2s:
+And how long does this monitor have to be kept on?
+
+Agent (Human) at 357.1s:
+Check with Queensland, but a a is generally twelve months. But that would be a question for Queensland Transport.
+
+Customer at 361.9s:
+Yeah. Okay. Okay. Thank you so much. I appreciate your help, Tracy.
+
+Agent (Human) at 367.1s:
+No problem. Have a great day. Thank you. Bye.
+
+Customer at 368.5s:
+Thank you. Bye bye.

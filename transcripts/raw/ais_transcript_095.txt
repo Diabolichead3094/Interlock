@@ -1,0 +1,74 @@
+Agent (Mia) at 0.0s:
+You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.2s:
+Get a quote.
+
+Agent (Mia) at 8.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.2s:
+No. Thank you. Have you already received a quote from us?
+
+Customer at 19.7s:
+No.
+
+Agent (Mia) at 21.4s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 33.9s:
+Yes.
+
+Agent (Mia) at 36.1s:
+Are you ready to be connected to our quote team now?
+
+Customer at 39.0s:
+Yes.
+
+Agent (Mia) at 40.9s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 63.9s:
+Affordable. How can I help? Winterloks. How can I help?
+
+Customer at 80.0s:
+Hi. I just wanted to get a quote, please.
+
+Agent (Human) at 82.5s:
+Okay. Well, I'll just send you a link. We just do everything online. So you just
+
+Customer at 86.3s:
+It's [AGENT_NAME] chance to get it done over the phone? Just a rough cut?
+
+Agent (Human) at 90.9s:
+I'm not in the quotes team, but I can give you an estimate from
+
+Customer at 94.5s:
+Okay. Yeah.
+
+Agent (Human) at 95.0s:
+what it can So it can be anywhere from are you in Queensland or New South Wales?
+
+Customer at 102.1s:
+Queensland, and it'll be on concession as well.
+
+Agent (Human) at 104.1s:
+Okay. So So it'd be anywhere from $7.45 50 to 1,837 That is for higher end vehicles, though, but that's a rough estimate. Estimate. Unfortunately, I'm not in the quotes team. However, I can send you a link
+
+Customer at 117.1s:
+Okay.
+
+Agent (Human) at 119.5s:
+You can pop in all your
+
+Customer at 120.0s:
+That's no worries. I've got all that. Thank you.
+
+Agent (Human) at 122.0s:
+no worries. Bye bye.
+
+Customer at 123.1s:
+Thanks, Eric.

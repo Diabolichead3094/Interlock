@@ -1,0 +1,116 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.3s:
+There's a thing that come up on my in my car.
+
+Agent (Mia) at 16.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.8s:
+Made made a recall. [CUSTOMER_NAME] Dangay.
+
+Agent (Mia) at 21.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 25.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 29.3s:
+Thank you. For any recall inquiry, I'll need to connect you to a specialist. Are you ready to be transferred now?
+
+Customer at 36.0s:
+Yes.
+
+Agent (Mia) at 37.8s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 42.2s:
+D d zed, double o, c That is it? Mhmm.
+
+Agent (Mia) at 93.3s:
+It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on (614) 024-1841, or would you prefer a different number?
+
+Customer at 108.7s:
+Site number.
+
+Agent (Mia) at 112.2s:
+Just to to clarify, did you mean the number on the side of your interlock device or something else?
+
+Customer at 118.6s:
+Yes.
+
+Agent (Mia) at 121.8s:
+Thanks for clarifying. Is the number on the side of your interlock device related to a removal, a lockout, or another issue? This will help me guide you correctly.
+
+Customer at 130.0s:
+I don't know. I don't know who understand it.
+
+Agent (Mia) at 134.1s:
+No worries. Is your interlock device showing a message about removal, a lockout, or a service due? This will help me guide you to the right steps.
+
+Customer at 139.9s:
+No. It's the two this is something we call
+
+Agent (Mia) at 143.6s:
+All good. Just to clarify. Are you seeing a message on your device, or are you asking about your next service or removal? Let me know so I can guide you step by step.
+
+Customer at 152.3s:
+I know. I'm just talking my on my own phone. I mean, me me it's not showing it now. All it's saying is retest.
+
+Agent (Mia) at 162.4s:
+Understood. If your device is saying retest, it usually means you need to provide another breath sample.
+
+Customer at 165.7s:
+Ready for test.
+
+Agent (Mia) at 168.2s:
+Please try blowing into the device again when prompted. Let me know if you see any other messages or if you need more help. Just checking in. Are you still there, and would you like to continue?
+
+Customer at 186.5s:
+Immediate me immediate immediate recall. O seven
+
+Agent (Mia) at 192.5s:
+Thanks for letting me know. For any recall inquiry, a needs to assist you directly. Our team is currently unavailable, if you leave your best contact number, someone will be in touch with you soon. What's the best number to reach you on?
+
+Customer at 205.9s:
+[REDACTED].
+
+Agent (Mia) at 212.8s:
+Just to confirm, that number is [NUMBER]. Is that right?
+
+Customer at 218.9s:
+No. [REDACTED].
+
+Agent (Mia) at 226.6s:
+Just to confirm, is your best contact number [NUMBER]? If not, please say the correct number digit by digit.
+
+Customer at 236.7s:
+No. It's [REDACTED].
+
+Agent (Mia) at 250.6s:
+Just to confirm, that number is [PHONE_NUMBER]. That right?
+
+Customer at 260.5s:
+Fuck. I know, man.
+
+Agent (Mia) at 264.6s:
+All good. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 271.8s:
+Alright. Let's see. Bye.
+
+Agent (Mia) at 276.7s:
+All good.
+
+Customer at 277.3s:
+No.
+
+Agent (Mia) at 277.4s:
+Is there anything else I can help you with today regarding your interlock device or program?
+
+Customer at 282.3s:
+No. No. No.
+
+Agent (Mia) at 285.5s:
+Thanks for calling Affordable Interlot

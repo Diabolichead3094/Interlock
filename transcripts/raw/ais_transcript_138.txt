@@ -1,0 +1,14 @@
+Agent (Mia) at 0.2s:
+Hello. You are speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+I have an immediate recall 30 on my interlock in piece. And I need a code
+
+Agent (Mia) at 13.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 17.7s:
+It's [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 22.0s:
+Thank you. For a thirty minute recall or lockout, you'll need to wait for the device timer to finish. No overriding

@@ -1,0 +1,83 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+Speak with real person.
+
+Agent (Mia) at 8.6s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 12.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.9s:
+Thank you. Just to confirm, you'd like to speak with a real person? Are you ready to be connected now?
+
+Customer at 22.5s:
+Yes.
+
+Agent (Mia) at 24.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 61.3s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 64.8s:
+Oh, hi. I'm at the master team for the service. I was wondering if I could get the code sent to to my interlock.
+
+Agent (Human) at 75.9s:
+What's your name?
+
+Customer at 77.8s:
+[CUSTOMER_NAME] Shale, s h a l e.
+
+Agent (Human) at 82.9s:
+And what's your registration, [CUSTOMER_NAME]?
+
+Customer at 86.3s:
+Eight eight nine m l six.
+
+Agent (Human) at 89.7s:
+Alright. And what's the code that you're asking about?
+
+Customer at 93.7s:
+The code for them to download the data. What's the code for? Oh, the text message for the com
+
+Agent (Human) at 102.1s:
+So you you haven't got a payment text message?
+
+Customer at 103.0s:
+yeah. I don't think so. The last text message was a sub card. What I when I blew when I ate the protein bowl. I had to pay
+
+Agent (Human) at 115.0s:
+Alright. So
+
+Customer at 116.7s:
+extra.
+
+Agent (Human) at 118.7s:
+okay. So they're just basically getting you to call and get a payment text message. Is that right, [CUSTOMER_NAME]?
+
+Customer at 127.4s:
+Yeah.
+
+Agent (Human) at 129.0s:
+Alright. As soon as we finish speaking, you'll receive a payment text message. On your phone, and you can show that to the service center. Alright?
+
+Customer at 134.1s:
+Yeah. Yeah. Okay. Yeah. Yeah.
+
+Agent (Human) at 138.6s:
+Excellent.
+
+Customer at 139.0s:
+Yeah.
+
+Agent (Human) at 139.6s:
+Have a great day.
+
+Customer at 139.8s:
+Yeah.
+
+Agent (Human) at 141.0s:
+Bye.

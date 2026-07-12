@@ -1,0 +1,131 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 10.5s:
+Hi, Mia.
+
+Agent (Mia) at 15.0s:
+Hi there. Can help with your interlock inquiry. May I have your full name for our records first?
+
+Customer at 22.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 25.9s:
+Thank you. How can I help you with your interlock today? Are you inquiring about removal, a quote, a service, or something else?
+
+Customer at 32.5s:
+Removal. Fucking hell.
+
+Agent (Mia) at 35.1s:
+Just
+
+Customer at 35.4s:
+Did you hear that? The alarm has gone off because I had it running. Yeah. Does that matter? Yeah. You know what's up. Hold right button to cancel restart. Yeah. I don't I don't.
+
+Agent (Mia) at 48.1s:
+Thanks for letting me know. Just to clarify,
+
+Customer at 49.9s:
+Oh,
+
+Agent (Mia) at 50.9s:
+are you asking about removing your interlock device, or is your main concern the alarm and restarting
+
+Customer at 56.6s:
+Just removing it.
+
+Agent (Mia) at 59.7s:
+Understood. Have you already received your official completion notice from your state authority? Confirming you can remove the interlock?
+
+Customer at 64.4s:
+Yes. Yes.
+
+Agent (Mia) at 69.3s:
+Thanks for confirming. Since you have your official completion notice, I'll get you over to our customer support support team now. Are you ready to be connected?
+
+Customer at 78.2s:
+Yes.
+
+Agent (Mia) at 80.4s:
+Thanks. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 85.5s:
+Yes.
+
+Agent (Mia) at 87.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 126.4s:
+Good afternoon. Affordable Interlocks. How can I help?
+
+Customer at 129.6s:
+Yes. Hi. It's Jodi here. I just rang earlier. Um, I had to email through a document about my in slot being removed from transport and work. So I just wanted to make sure I emailed the right one.
+
+Agent (Human) at 140.4s:
+Alright. Okay. Can I start with your first and last name and the vehicle details? I wasn't the one you were speaking with.
+
+Customer at 148.7s:
+Oh, sorry. [CUSTOMER_NAME] Hyner. And it's five seven nine e d two.
+
+Agent (Human) at 155.8s:
+Alrighty.
+
+Customer at 156.0s:
+Yeah. I guess they're.
+
+Agent (Human) at 157.9s:
+Yeah. I'll just be one quick moment here. Thank you.
+
+Customer at 160.9s:
+Thank you.
+
+Agent (Human) at 163.7s:
+Hey, Hailey. Jodi just has to pay the $1.35? Awesome. Yep. My colleague has confirmed a booking for today with the Springwood Service Center. However, prior to attending you do need to make payment. So the removal payment all up is just $1.35 59. Would I be able to take that payment now?
+
+Customer at 186.8s:
+Yep. Yeah. Sure.
+
+Agent (Human) at 189.6s:
+Lovely. I'll just have to log in to my thing really quickly.
+
+Customer at 209.8s:
+Gonna give you some more money, Josh? You're you're welcome.
+
+Agent (Human) at 220.9s:
+Sorry. I just had to look locate your invoice.
+
+Customer at 222.9s:
+No. That's okay.
+
+Agent (Human) at 225.2s:
+Alright. Do have a card on file [CARD_ON_FILE], a Visa? Is that your card?
+
+Customer at 230.5s:
+Yeah. That's it. Yep.
+
+Agent (Human) at 230.6s:
+That you want? Awesome. I'll just take that payment now. So just let Josh know it's all good to go ahead and remove it, and then that transaction will be ready for him.
+
+Customer at 240.9s:
+Yeah. And does does he need uh, do you want him to talk to him, or does he
+
+Agent (Human) at 246.0s:
+Yeah. If he's ask for a work order, one of my yeah. Hailey's just sent it now. So just you can let him know that Hailey's just sent it over.
+
+Customer at 254.3s:
+Alright. No worries. I'll tell him. Alright.
+
+Agent (Human) at 256.3s:
+Thank you so much, Joe.
+
+Customer at 256.7s:
+He's gone somewhere. Alright. No worries. Thank you.
+
+Agent (Human) at 259.0s:
+Have a good day, [CUSTOMER_NAME], and congratulations.
+
+Customer at 260.3s:
+You too, Hailey. See you later. Bye bye.
+
+Agent (Human) at 262.3s:
+Thank you. Bye.

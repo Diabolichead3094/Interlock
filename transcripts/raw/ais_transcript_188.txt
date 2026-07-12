@@ -1,0 +1,143 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.3s:
+So I could talk to someone about the final phase of the program.
+
+Agent (Mia) at 15.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 20.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 24.9s:
+Thank you. Have you already received your official completion notice for the program?
+
+Customer at 32.0s:
+No.
+
+Agent (Mia) at 34.2s:
+Are you in Queensland or another state? This helps me guide you to the right next step.
+
+Customer at 36.7s:
+Queensland. What do want?
+
+Agent (Mia) at 43.0s:
+Just to clarify, are you in Queensland or another mainland state like New South Wales or Victoria?
+
+Customer at 48.6s:
+Queensland.
+
+Agent (Mia) at 51.0s:
+Thanks for clarifying. I can send you a link by SMS to check your program end date and removal eligibility online through the Queensland hub Would you like me to send that now?
+
+Customer at 62.1s:
+Yes. That'd be good.
+
+Agent (Mia) at 65.6s:
+Just a sec while I send that link. I've sent you a text with the hub link to check your program end date. And another with our office email address. Would you like to speak with customer support as well? Or is there anything else I can help with?
+
+Customer at 78.1s:
+Yes.
+
+Agent (Mia) at 80.6s:
+All good. Are you ready to be connected to our customer support team now?
+
+Customer at 84.6s:
+Yes.
+
+Agent (Mia) at 85.3s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 89.6s:
+Thanks.
+
+Agent (Human) at 127.0s:
+Affordable Intalox. This is Tracy.
+
+Customer at 129.7s:
+Hey, Tracy. It's Daniel over here. Hey. I just wanted to inquire in my performance phases performance month's coming or it's here.
+
+Agent (Human) at 140.6s:
+Mhmm.
+
+Customer at 142.2s:
+Do I have to book my Yuden on the last day for for me to do an update or something?
+
+Agent (Human) at 147.6s:
+I can Sure. Okay. [CUSTOMER_NAME], can you just confirm your registration? Number, please?
+
+Customer at 157.7s:
+Just give me two secs.
+
+Agent (Human) at 159.2s:
+Or can you tell me what type of car it is?
+
+Customer at 162.0s:
+Yeah. It's two one nine x r j
+
+Agent (Human) at 165.1s:
+Okay. Thank you. Okay. So I can see here that your anticipated end of program date is the July 31. So, yes, definitely in the last four months of the performance period there. Now what will happen on that last day is you'll receive an email from Queensland Transport. They will send you a particular letter to say that you're
+
+Customer at 184.0s:
+Yeah.
+
+Agent (Human) at 186.8s:
+eligible for a final upload. That you need to send that email through to us. So that we can load it onto your account
+
+Customer at 194.8s:
+Yeah.
+
+Agent (Human) at 197.8s:
+especially for that. And then you will need to take it in for the upload. Now it's very important that you wait until you've got that letter before you attend the service center. If you
+
+Customer at 208.7s:
+Okay. Okay.
+
+Agent (Human) at 212.1s:
+were to attend even the day before, Queensland Transport will ask you to go back in and obtain the the last day of upload. So make sure you send the letter through to us first. And then go into the service center.
+
+Customer at 229.7s:
+Yeah. Okay. Was that the did you say the July 31?
+
+Agent (Human) at 235.1s:
+Yes. July 31. Which is twelve months from when you had it installed.
+
+Customer at 237.4s:
+Okay. Yeah. K. Got it. Alright.
+
+Agent (Human) at 241.7s:
+Yep.
+
+Customer at 244.5s:
+Okay.
+
+Agent (Human) at 245.1s:
+Okay. So I can see that currently when you're paid to. So, yeah, that all is lining up nicely for you. So just make sure that you have continue to have no violations at all in the
+
+Customer at 254.9s:
+Alright. That's yep.
+
+Agent (Human) at 259.0s:
+four months is the requirement. Yeah.
+
+Customer at 261.4s:
+Yep.
+
+Agent (Human) at 262.9s:
+Yeah. Okay.
+
+Customer at 264.8s:
+That that that's yep. That's what I needed. I makes sense now.
+
+Agent (Human) at 267.5s:
+Awesome. Not a problem at all. Okay.
+
+Customer at 270.0s:
+Alright. Thank you very much for that.
+
+Agent (Human) at 271.3s:
+Thank you. Have a good day. Bye.
+
+Customer at 273.4s:
+You too. See you. Bye.

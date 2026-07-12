@@ -1,0 +1,56 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.8s:
+I need to speak to somebody about a permanent lockout.
+
+Agent (Mia) at 15.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.7s:
+I can help. Lydia May Miller.
+
+Agent (Mia) at 22.6s:
+Thank you. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 28.0s:
+Yes.
+
+Agent (Mia) at 28.5s:
+I'll get you over to our customer support team now. One moment. Checking in. Are you still there? Me know if you'd like to continue or if there's anything else I can help. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER], or would you prefer a different number?
+
+Customer at 74.3s:
+No. That number.
+
+Agent (Mia) at 77.6s:
+Just to confirm, that number is 9. Is that right?
+
+Customer at 81.7s:
+Yep.
+
+Agent (Mia) at 85.4s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 92.2s:
+Do you know when they'll be in touch, like, today?
+
+Agent (Mia) at 99.0s:
+I can't confirm an exact time.
+
+Customer at 99.8s:
+Work.
+
+Agent (Mia) at 101.0s:
+But our team will be in touch as soon as possible. Is there anything else I can help you with?
+
+Customer at 106.4s:
+Will it be today or no?
+
+Agent (Mia) at 110.2s:
+I can't guarantee it will be today. But our team aims to follow-up as soon as possible. Is there anything else I can help you with?
+
+Customer at 117.5s:
+No. That's it.
+
+Agent (Mia) at 120.5s:
+Thanks for calling Affordable Interlock Systems. Have a a wonderful day.

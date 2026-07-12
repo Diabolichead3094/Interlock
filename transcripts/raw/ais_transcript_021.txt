@@ -1,0 +1,50 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Hi, Mia. I've got a car with an affordable interlock system in it. At the moment, it's getting hail damage fixed. And it keeps locking the people out.
+
+Agent (Mia) at 18.5s:
+I can help with that.
+
+Customer at 18.9s:
+I just need I just need
+
+Agent (Mia) at 19.8s:
+May I have your full name for our records first?
+
+Customer at 22.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 25.7s:
+Thank you. Can you tell me how long the lockout timer on the device
+
+Customer at 25.9s:
+And then rego numbers, I don't know. It's a Sorry?
+
+Agent (Mia) at 34.1s:
+All good. To help with the lockout, can you tell me how long the
+
+Customer at 34.2s:
+What was that?
+
+Agent (Mia) at 37.6s:
+lockout timer on the device is showing right now?
+
+Customer at 39.5s:
+Fifth fifteen minutes. Apparently, it's done it a few times.
+
+Agent (Mia) at 42.4s:
+Thanks for letting me know. If the lockout timer is show
+
+Customer at 46.3s:
+Sorry?
+
+Agent (Mia) at 46.4s:
+Since the lockout timer is fifteen minutes, the only option is to wait for the countdown to finish. There's no remote override for this type of lockout. Is there anything else you'd like help with regarding the
+
+Customer at 54.4s:
+Can you give them can you give them a ring and explain it to them, please?
+
+Agent (Mia) at 59.4s:
+I can get a specialist to contact the repairers and explain the lockout process. Should we reach you on [REDACTED]

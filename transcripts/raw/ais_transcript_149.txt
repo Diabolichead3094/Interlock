@@ -1,0 +1,125 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.2s:
+Yeah. I just wanted to talk to someone about the last final service of my interlock.
+
+Agent (Mia) at 10.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.6s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 24.2s:
+No. Just a message on the handset today.
+
+Agent (Mia) at 27.8s:
+Understood. Are you in Queensland or another state? This helps me guide you to the right next step for your removal process.
+
+Customer at 31.5s:
+Queensland. I'm in Queensland.
+
+Agent (Mia) at 37.7s:
+Thanks for confirming. Would you like me to send you a text with a link to the hub? So you can check your program and date and removal eligibility online?
+
+Customer at 46.7s:
+Yes, please.
+
+Agent (Mia) at 49.3s:
+Just a sec while I send that through. I've sent you a text with the hub link to check your program and date. And another with our office email address. Would you like to speak with customer support as well? Or is there anything else I can help with?
+
+Customer at 63.3s:
+Yes, please.
+
+Agent (Mia) at 66.3s:
+Our office is currently open. Would you like me to connect you to our customer support team now to discuss your final service and removal process? Are you ready to be connected?
+
+Customer at 74.4s:
+Yes, please.
+
+Agent (Mia) at 77.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 80.0s:
+I get it.
+
+Agent (Mia) at 82.9s:
+You're welcome. Please hold while I connect you to our customer support team.
+
+Agent (Human) at 130.0s:
+Assorted RimsLock. How can I help?
+
+Customer at 132.9s:
+Yes. Good afternoon. My name is [CUSTOMER_NAME]. How are you today?
+
+Agent (Human) at 135.5s:
+Good. How are you?
+
+Customer at 136.4s:
+I'm very well. Thank you. So I've got a interlock, and it's my final week. I just got a message on my hand when I got in the car saying that my service due date's the June 22. At nine AM I've actually booked it in for that same day at 8AM. Is that okay because it's an hour earlier?
+
+Agent (Human) at 155.2s:
+Yeah. That's not a problem. As long as you're making a payment for so can I just grab your first and last
+
+Customer at 157.5s:
+Alright. That's
+
+Agent (Human) at 160.9s:
+name and the vehicle details,
+
+Customer at 161.8s:
+yeah. Of course. It's [CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME]. The rego's DeltaLimaSierra071.
+
+Agent (Human) at 171.1s:
+So did you guys
+
+Customer at 171.5s:
+As far as I know, it's yep.
+
+Agent (Human) at 172.3s:
+extend it?
+
+Customer at 174.3s:
+Part it's for one month. Yes. Correct.
+
+Agent (Human) at 176.2s:
+Oh, okay. So do you know your ex your new end date?
+
+Customer at 180.9s:
+Yeah. Next Monday, the twenty second.
+
+Agent (Human) at 182.7s:
+Oh, okay. That's no worries. Well, on the twenty second, we'll I'll send an email to transport just to get everything confirmed to you. But you should have enough money to
+
+Customer at 190.2s:
+Yep.
+
+Agent (Human) at 193.7s:
+cover from that last pay
+
+Customer at 195.0s:
+Yeah. Yeah.
+
+Agent (Human) at 195.4s:
+Right? You should have enough money to cover the next reading. So what I'll do is I'll contact the transport department for you, and I'll just get confirmation of that date. And then I'll be able to set up the upload.
+
+Customer at 199.5s:
+Yes. Yep.
+
+Agent (Human) at 206.9s:
+And then on that date, you can head in and get that second reading done. Then hopefully, we get that completion notice, and we can book your removal in.
+
+Customer at 214.4s:
+Yeah. Awesome. Alright. Thank you very much. I really appreciate your time. Thank you.
+
+Agent (Human) at 217.2s:
+No worries at all. Have a great day. We'll speak to you very soon.
+
+Customer at 218.9s:
+Have have you too. Thank you. Bye for now.
+
+Agent (Human) at 222.0s:
+Bye bye.

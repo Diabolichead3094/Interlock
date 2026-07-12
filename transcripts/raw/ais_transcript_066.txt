@@ -1,0 +1,212 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Hello. Can I speak to operator?
+
+Agent (Mia) at 9.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.1s:
+Two twenty nine.
+
+Agent (Mia) at 17.1s:
+Thank you. I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 24.1s:
+Yes.
+
+Agent (Mia) at 26.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 57.9s:
+Hi, Brooke. [AGENT_NAME] speaking. How can I help?
+
+Customer at 61.0s:
+Hi. How are doing?
+
+Agent (Human) at 62.3s:
+Good.
+
+Customer at 64.4s:
+[SENSITIVE_CONTENT] Yes. I was having a bit of a look. I've had a really bad day today. And so I've been driving sort of everywhere today for a few hours. Family. I see things going on. Basically, I've had really, really bad anxiety. So and I was on my like, I was driving and some maintenance like, you know, it came up with the normal scheduled thirty minute test, and you know, it was fine usually. But I couldn't breathe. Like, I I was having, like, a panic attack. I just fell off the phone. To my mom's And, yeah, like, she's just. So and I'm in my performance period. And I I tried so I did it come up with a thirty minute test, I had been doing them three, four times. I've been driving for two hours. Right? And then, like, I was couldn't breathe. I was having panic attack. And, like, I was on a busy I was on a busy road. And I I blew in it. I blew in it. I blew in it. And because I couldn't breathe, it wouldn't let me like, it kept saying, you know, blowing up. I'm like, my god. And then it was just making me panic even more. So and then so I I I I had to pull over I had to wait at the light and then I tried to pull over so I could, like, catch my breath and blow properly. And then it went to, like it started like, you know, it's gone ring ring ring. So yeah. And then I turned the car off, and I just thought, like, I was just crying and know, like, yeah, I think, but, you know, like, I've got a lot of things going on. Like, I've I've just been out, like, a full of my son's Yeah. Like, I've I've had a really bad day. And, yeah, like, it's just Yeah. So then and and then I then I retested I think I've waited, like, I stopped crying. I think I waited maybe ten, fifteen minutes. And then all of a sudden, it turns around and says, no. It it reads as so first, it wouldn't let me go, which usually it does. And then and then it says no. Failed block out. I'm like, oh, What's going on? So yeah. Like, I wait five, like, five, seven, eight minutes, and then I I test it again, and I'm fine.
+
+Agent (Human) at 242.9s:
+Mhmm.
+
+Customer at 243.1s:
+So yeah, I don't know what I don't know what to do.
+
+Agent (Human) at 247.5s:
+Okay. So it locked you out and did a countdown?
+
+Customer at 254.1s:
+Sorry?
+
+Agent (Human) at 255.1s:
+So it logged you out and there was a countdown on the screen?
+
+Customer at 259.4s:
+Yeah. Yeah. Yeah. It it it lost me. Yes. So it's yes. So I've retested yes. So I've retested it. So it missed so it missed. It should've asked for open Like, I was having time to get I was on the, like, I was on the, like, was on the fly. And there's cars everywhere. And I just, like, dropped my kids off before, and I just found out, like, you know, my son's
+
+Agent (Human) at 279.4s:
+Hi, Brooke. Brooke.
+
+Customer at 280.4s:
+like,
+
+Agent (Human) at 281.3s:
+All I need to know, did it lock you out? And have a countdown on the handset?
+
+Customer at 286.9s:
+Yes.
+
+Agent (Human) at 287.7s:
+Yes? Okay. So then you blew into it after that, and it was fine to go.
+
+Customer at 294.9s:
+Yes.
+
+Agent (Human) at 295.7s:
+Okay. Perfect. Alright. So what you need to do is when you have your service done, on the nineteenth, you're due for your service. After that, you just need to email the transport and let them know why it locked out. A short explanation on why it locked out
+
+Customer at 314.1s:
+Yep.
+
+Agent (Human) at 316.3s:
+the fact that you blew into it after it locked you out and it started, they can see that it's not alcohol.
+
+Customer at 322.6s:
+Okay.
+
+Agent (Human) at 322.6s:
+But they can't see that you have your monitor service done. Okay?
+
+Customer at 329.0s:
+Okay. Well, I think I think I honestly, to be honest, like, I was on the phone. I I after it locked me out, I ran the phone then. I was on the phone. I was trying to make my partner. And so maybe it was maybe it was nine, ten minutes away. It wasn't the five minutes
+
+Agent (Human) at 347.5s:
+That's okay. As long as it wasn't hours and hours later. That's fine.
+
+Customer at 347.7s:
+You know? Yes. No. No. No. No. No. Definitely not. I have somebody calling. I wasn't drinking.
+
+Agent (Human) at 352.9s:
+No.
+
+Customer at 355.4s:
+You know?
+
+Agent (Human) at 356.0s:
+And I'm not saying it's fine. They may extend you for that unless you email them after you've gone for your monitor service.
+
+Customer at 364.0s:
+Okay. Alright. Can I I I did do a, like, little chat box thing? Your online thing.
+
+Agent (Human) at 371.6s:
+Mhmm.
+
+Customer at 371.8s:
+And it sort of yeah. Like, I and I took a screenshot of that. I'm learning, like, if that's, like, you know, if you sort of when it happens, like, after this this messaging. Like, when it happens.
+
+Agent (Human) at 386.8s:
+Hello?
+
+Customer at 389.3s:
+Yes. So you know how you have, like, a little message in a chat box? Thing in your on your
+
+Agent (Human) at 392.6s:
+Yeah.
+
+Customer at 394.1s:
+website? Yeah. So I
+
+Agent (Human) at 394.3s:
+Yep. And what what are you asking about it?
+
+Customer at 396.4s:
+I I had a I had a conversation with the automated thing, and
+
+Agent (Human) at 401.2s:
+Yeah.
+
+Customer at 401.3s:
+you know, I I was Yes. I don't know. I took a screenshot of it. So I don't know if I should email that in or
+
+Agent (Human) at 408.8s:
+No. You don't need to email anything. I'll just put in what you've told me. And
+
+Customer at 413.0s:
+Okay.
+
+Agent (Human) at 414.2s:
+yeah, you just email the transport once you've gone for your monitored service.
+
+Customer at 418.4s:
+Okay. Yeah. Because I'm so worried Like, I I don't drink and, yeah, like, and it's just yeah. I was trying to I'm like yeah. I've got a book. Going out and get
+
+Agent (Human) at 430.5s:
+Uh-huh.
+
+Customer at 431.5s:
+Hopefully yeah. Thanks.
+
+Agent (Human) at 435.6s:
+Okay.
+
+Customer at 439.8s:
+Okay. So so I just spoke with my service and and then let them know.
+
+Agent (Human) at 445.7s:
+Yeah. And then don't ring them Email the transport.
+
+Customer at 449.5s:
+Okay. Email the transfer.
+
+Agent (Human) at 452.0s:
+Mhmm.
+
+Customer at 454.0s:
+Alright. And I will I I can even, like, I can even get confirmation that I was on phone to my lawyer and stuff like that as well.
+
+Agent (Human) at 462.1s:
+You don't need anything. Just
+
+Customer at 462.4s:
+You know?
+
+Agent (Human) at 463.6s:
+exactly what I just said, Brooke.
+
+Customer at 466.4s:
+Okay. Because I can get
+
+Agent (Human) at 466.5s:
+Make it simple. You don't need to complicate it.
+
+Customer at 468.2s:
+yeah.
+
+Agent (Human) at 469.0s:
+You don't need to complicate it. Go for your service, email the transport, and tell them what happened.
+
+Customer at 469.9s:
+Okay. Yeah. Okay. Yeah. I just wanted to show pause. You know? Okay. Alright.
+
+Agent (Human) at 475.1s:
+Yes. Okay.
+
+Customer at 478.4s:
+Thank you so much.
+
+Agent (Human) at 479.6s:
+That's okay. Thanks for calling.
+
+Customer at 480.3s:
+Thank you. Okay. Thank you.
+
+Agent (Human) at 481.9s:
+Bye.
+
+Customer at 482.6s:
+Bye.

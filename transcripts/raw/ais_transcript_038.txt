@@ -1,0 +1,239 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 1.2s:
+Hello? Just
+
+Agent (Mia) at 3.4s:
+How may I assist you today?
+
+Customer at 5.5s:
+I need a code for my lockout.
+
+Agent (Mia) at 9.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.4s:
+Lydia May Miller.
+
+Agent (Mia) at 16.9s:
+Thank you. How long has your device been in Lookout for? Is it showing a countdown timer? And if so, what does it say?
+
+Customer at 20.4s:
+I'm not sure. No. It doesn't.
+
+Agent (Mia) at 26.5s:
+Understood. Is your device asking for a service or calibration or showing any error messages on the screen?
+
+Customer at 33.1s:
+No. It's saying permanent lockout 64.
+
+Agent (Mia) at 36.9s:
+Thanks for letting me know. A permanent lockout 64 means your device needs immediate service or calibration. Are you able to access the device menu, would you like step by step help to check your service date?
+
+Customer at 49.4s:
+No. I need a card.
+
+Agent (Mia) at 52.4s:
+Thanks for clarifying. For a permanent lockout, a specialist needs to assist you further. Would you like me to connect you to our customer support team now?
+
+Customer at 60.4s:
+Sounds good. Yes. No. It's fine.
+
+Agent (Mia) at 64.4s:
+No worries. Is there anything else I can help you with today?
+
+Customer at 68.5s:
+No. I see. To talk to a specialist. Okay.
+
+Agent (Mia) at 72.5s:
+All good. Our customer support team can help with permanent lockouts.
+
+Customer at 74.4s:
+Cement support.
+
+Agent (Mia) at 76.3s:
+Would you like me to connect you now, or would you prefer a callback later?
+
+Customer at 77.0s:
+Thank Yes. Nice. It's an AI.
+
+Agent (Mia) at 82.5s:
+I'll get you over to our customer support team now.
+
+Customer at 84.8s:
+Not a person.
+
+Agent (Mia) at 85.1s:
+One moment. Are you I understand. I can connect you to a real person in support now. Are you ready to be transferred?
+
+Customer at 94.0s:
+Yes.
+
+Agent (Mia) at 96.2s:
+I'll get you over to our customer support team now. One moment. Transferring you now. Please hold while I connect
+
+Customer at 107.0s:
+I Let's use card here.
+
+Agent (Human) at 143.9s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 147.0s:
+Hi. I called a little bit earlier, I got a code for my interlock because it's locked out, but it's not working.
+
+Agent (Human) at 154.8s:
+What's what's your name, please?
+
+Customer at 155.6s:
+So Lydia Miller
+
+Agent (Human) at 160.4s:
+And what's your vehicle registration there, Lydia?
+
+Customer at 164.0s:
+l y d s twenty six.
+
+Agent (Human) at 167.3s:
+Okay. Let's have a look. Alright. So I'm just having a look at where we're at here. So you you need a handset, don't you?
+
+Customer at 183.5s:
+Yeah. So I'm going to Bowen today.
+
+Agent (Human) at 187.3s:
+Alright. Just a moment while I confirm with
+
+Customer at 188.5s:
+Sorry?
+
+Agent (Human) at 191.0s:
+my colleague regarding what's happening here. The code that you were given, when were you given that?
+
+Customer at 198.1s:
+Like, twenty minutes ago, and then I tried to put it in
+
+Agent (Human) at 199.9s:
+Alright.
+
+Customer at 200.7s:
+it didn't work. So I don't know if it's expired or
+
+Agent (Human) at 204.5s:
+Alright.
+
+Customer at 204.6s:
+something.
+
+Agent (Human) at 205.7s:
+And so the code you were given, is it just four digits?
+
+Customer at 210.8s:
+Yes.
+
+Agent (Human) at 212.2s:
+Okay. And what was the number you were given?
+
+Customer at 216.9s:
+The number I was given was eight six seven six
+
+Agent (Human) at 224.6s:
+Oh,
+
+Customer at 225.4s:
+Oh,
+
+Agent (Human) at 225.9s:
+that's incorrect. So that's why it's not working.
+
+Customer at 227.4s:
+it's [AGENT_NAME] it. Oh, okay.
+
+Agent (Human) at 230.0s:
+Alright. So you've gone to service lockout release, have you?
+
+Customer at 234.6s:
+I was told to go until you see service dates and then tap right until you see reset.
+
+Agent (Human) at 244.5s:
+Alright. Yes. Yeah. So that's incorrect.
+
+Customer at 244.7s:
+Is that right?
+
+Agent (Human) at 248.9s:
+If you just go just go to where it says
+
+Customer at 249.0s:
+Okay.
+
+Agent (Human) at 252.6s:
+service lockout release.
+
+Customer at 256.4s:
+Hang on. Service logout release. Yep. Next.
+
+Agent (Human) at 262.9s:
+Select.
+
+Customer at 264.6s:
+Yep.
+
+Agent (Human) at 265.8s:
+Okay. And the code for today is three six five eight.
+
+Customer at 272.5s:
+Three Six. Five eight.
+
+Agent (Human) at 281.2s:
+That's it.
+
+Customer at 283.9s:
+And then select and then accept?
+
+Agent (Human) at 285.7s:
+Mhmm. Accept.
+
+Customer at 290.4s:
+Okay. That works. But where do you
+
+Agent (Human) at 292.0s:
+Alright. So, also, I'll need to take your payment for your service.
+
+Customer at 296.0s:
+Yep. I have, um, my invoice to do that. I'm about to do that right now. I was just waiting to do that. Is that okay?
+
+Agent (Human) at 303.6s:
+Yes. You can pay with the invoice.
+
+Customer at 305.9s:
+Yep.
+
+Agent (Human) at 306.1s:
+Yeah. We just need to receive that before you get
+
+Customer at 306.9s:
+I'd it
+
+Agent (Human) at 309.2s:
+your service done. That's all.
+
+Customer at 311.0s:
+yeah. Yeah. I've got a four hour drive, so you definitely will.
+
+Agent (Human) at 315.3s:
+Okay. So you're gonna do that now, and that payment will come through?
+
+Customer at 318.4s:
+Yep.
+
+Agent (Human) at 319.2s:
+Okay. I'll keep an eye out for it for you, Lydia.
+
+Customer at 319.4s:
+Yep. Right now. Okay. Thank you. Check if it works every time you stop. Thanks. Bye.
+
+Agent (Human) at 323.5s:
+Thank you. Bye.
+
+Customer at 327.0s:
+Have a good day. Cheers. It's good for this.

@@ -1,0 +1,122 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.9s:
+Interlock. Appointment.
+
+Agent (Mia) at 12.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.7s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 25.8s:
+Thank you. Just to clarify, are you looking to book a service or calibration appointment, arrange an installation, or discuss removal of your interlocked device.
+
+Customer at 35.2s:
+Just installation.
+
+Agent (Mia) at 38.0s:
+Have you already received a quote from us?
+
+Customer at 42.0s:
+No.
+
+Agent (Mia) at 44.2s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 57.0s:
+Yes.
+
+Agent (Mia) at 58.9s:
+I'll get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 63.0s:
+Yeah.
+
+Agent (Mia) at 65.0s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 103.6s:
+Hello. You're speaking to Tracy.
+
+Customer at 106.0s:
+Hello. How are you? Um, I'm just calling because I would like to know if you've got availability for an interlock installation. Next Monday or Tuesday.
+
+Agent (Human) at 116.3s:
+No. We wouldn't be able to get it installed that quickly. There's a few steps that need to be done before the installation.
+
+Customer at 123.6s:
+Okay. Like,
+
+Agent (Human) at 125.9s:
+So
+
+Customer at 126.0s:
+like what?
+
+Agent (Human) at 126.9s:
+we would need to get a quote. You would need to do an enrollment There would need to be a payment for the the installation. There's also a service agreement that would need to be completed as well as online training
+
+Customer at 141.6s:
+Okay. And
+
+Agent (Human) at 142.4s:
+So you're probably looking at around two weeks before you would be able to get an in a booking. Whereabouts are you located?
+
+Customer at 151.8s:
+Air.
+
+Agent (Human) at 152.8s:
+Air? Let me see where our closest service center would be to Air.
+
+Customer at 154.8s:
+Yes. Thank you.
+
+Agent (Human) at 165.8s:
+K. So closest one would be in Stuart. We use a company called Demicks. Yeah. They are. Yeah.
+
+Customer at 171.5s:
+Yes. Yeah. Okay.
+
+Agent (Human) at 176.1s:
+Okay.
+
+Customer at 178.4s:
+Okay. So this is not them because that's why I was calling them.
+
+Agent (Human) at 182.4s:
+No. You've got affordable into no.
+
+Customer at 182.8s:
+Like, the actual shop.
+
+Agent (Human) at 185.1s:
+So we handle all the bookings and the
+
+Customer at 185.6s:
+Oh,
+
+Agent (Human) at 189.5s:
+all the training and paperwork, and then we allow our service centers to be able to do what they do best, which is the installation and the ongoing monitoring requirements.
+
+Customer at 199.8s:
+Okay. So you think it's pointless if I give them a call now? And ask?
+
+Agent (Human) at 204.0s:
+Absolutely. They would just refer you to us.
+
+Customer at 207.8s:
+Oh, okay. Alright. Well, thanks for that anyway.
+
+Agent (Human) at 210.8s:
+Not a problem.
+
+Customer at 210.9s:
+Have a good day.
+
+Agent (Human) at 212.1s:
+No problem. You too. Thank you. Bye bye.
+
+Customer at 212.3s:
+See you.

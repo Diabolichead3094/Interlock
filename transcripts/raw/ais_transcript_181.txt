@@ -1,0 +1,23 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Transfer me to custom service team.
+
+Agent (Mia) at 11.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 22.0s:
+Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 26.3s:
+Yes, please.
+
+Agent (Mia) at 29.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 37.6s:
+Don't can't the then they will send you all the rooms that are

@@ -1,0 +1,131 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.9s:
+I need to speak to someone about a total recall on my on my phone, a recall.
+
+Agent (Mia) at 13.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.0s:
+No. Thank you. I'll connect you to a specialist about your recall inquiry. Are you ready to be transferred now? Just checking in. Are you ready for me to connect you to a specialist now?
+
+Customer at 43.0s:
+Ranch.
+
+Agent (Mia) at 45.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 82.4s:
+Hi, Chris. [AGENT_NAME] speaking. How are you?
+
+Customer at 85.8s:
+Yeah. I
+
+Agent (Human) at 87.0s:
+Good. What's the immediate recall you've got?
+
+Customer at 90.7s:
+it's [AGENT_NAME] interlocking.
+
+Agent (Human) at 93.1s:
+Mhmm. What does it say?
+
+Customer at 101.5s:
+The car off, but it's not showing it now. It's saying ready to test again.
+
+Agent (Human) at 104.6s:
+Oh, just come plug didn't plug it back in. It'll come up.
+
+Customer at 108.2s:
+I
+
+Agent (Human) at 109.0s:
+Just unplug the handset, plug it back in, and it will come up.
+
+Customer at 113.4s:
+Hang on. Just I just inside my car. Sorry. I'm just walking back to it now, love.
+
+Agent (Human) at 140.9s:
+That's okay.
+
+Customer at 151.9s:
+I rang before and I'm the lady has spoke to some Mike or something.
+
+Agent (Human) at 156.5s:
+Oh, yeah. The AI?
+
+Customer at 166.6s:
+So what do I do? Unplug it.
+
+Agent (Human) at 168.5s:
+Yes. Unplug the handset and then plug it back in.
+
+Customer at 170.7s:
+It's [AGENT_NAME]. Hold on. It's coming mid recall o seven.
+
+Agent (Human) at 185.0s:
+Okay. Yeah. Let's reset that. If you can hold down the top left hand button, please.
+
+Customer at 194.8s:
+Yep. It's got service dates or whatever.
+
+Agent (Human) at 196.3s:
+Yep. Keep tapping the right hand button. Until you see the
+
+Customer at 199.8s:
+Sorry. I'm sorry. I'm sorry. I'm
+
+Agent (Human) at 207.4s:
+Pardon?
+
+Customer at 208.6s:
+Yeah. At seven reset.
+
+Agent (Human) at 214.3s:
+That's the one. Select that. And then put in the code nine two one three.
+
+Customer at 228.7s:
+One When I got the nine, do I just anyway, jump to the next one or just press select?
+
+Agent (Human) at 234.4s:
+No. Yeah. Press the bottom button once. Yep.
+
+Customer at 237.8s:
+Nine and what did say to
+
+Agent (Human) at 239.5s:
+9213.
+
+Customer at 242.0s:
+to one, Yeah.
+
+Agent (Human) at 248.2s:
+Select and then accept in the top right hand corner.
+
+Customer at 251.8s:
+Yep. And it's gone back to zeroes.
+
+Agent (Human) at 253.4s:
+Yep. So that's a sub code that needs to be zero zero four nine. Select and then accept ticket.
+
+Customer at 277.3s:
+Yes. It's not the way I'm ready to ready for testing.
+
+Agent (Human) at 280.5s:
+There you go. All reset.
+
+Customer at 282.5s:
+Thank you.
+
+Agent (Human) at 283.1s:
+Okay. No worries. See you.
+
+Customer at 284.8s:
+Good boy. Boy.
+
+Agent (Human) at 285.5s:
+Bye.

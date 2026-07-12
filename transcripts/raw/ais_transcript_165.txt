@@ -1,0 +1,269 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.9s:
+My interlock has gone into immediate recall.
+
+Agent (Mia) at 12.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.2s:
+Thank you. Can you tell me what message is showing on your interlock device right now?
+
+Customer at 26.6s:
+Immediate recall.
+
+Agent (Mia) at 29.6s:
+Understood. Is your device displaying any other messages such as a service date or error code or just immediate recall?
+
+Customer at 36.4s:
+Just immediate recall.
+
+Agent (Mia) at 39.6s:
+Thanks for confirming. Let's check your service date on the device. Is your car switched off right now?
+
+Customer at 46.1s:
+Yes.
+
+Agent (Mia) at 48.1s:
+Great. Please hold down the top left button on your interlock device to enter the menu. Let me know when you see the menu appear.
+
+Customer at 55.9s:
+Hang on. I've just got a guy in my car.
+
+Agent (Mia) at 61.1s:
+All good. Let me know when you're ready to continue. Just checking in. You ready to continue with the steps on your interlock device? Let me know when you're set.
+
+Customer at 77.3s:
+Yep. I'm ready.
+
+Agent (Mia) at 85.1s:
+Press the top left button again to scroll through the menu options until you see service or next service. Let me know what date or message appears there.
+
+Customer at 103.8s:
+How do you do that? It's got previous and next.
+
+Agent (Mia) at 109.4s:
+Use the big bottom button to scroll through the menu options. Keep pressing it until you see service date or next service. Let me know what appears there.
+
+Customer at 123.9s:
+Service dates.
+
+Agent (Mia) at 126.7s:
+What date is showing next to service date or next service on your device?
+
+Customer at 127.2s:
+The next month the next month's due on the twelfth or the seventh.
+
+Agent (Mia) at 132.2s:
+Thanks for checking. There is a seven day grace period after your service date. If you go past the seventh day, your car will lock out, and a fee will apply. Do you need help with booking your service?
+
+Customer at 144.1s:
+No. It's not due until the twelfth or the seventh.
+
+Agent (Mia) at 148.4s:
+Thanks for clarifying. Since your service isn't due yet, but you're seeing immediate recall, this may need specialist support. Would you like me to connect you to our customer support team now?
+
+Customer at 159.0s:
+Yes, please.
+
+Agent (Mia) at 161.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 166.4s:
+Yes.
+
+Agent (Mia) at 168.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 212.5s:
+Affordable Interlocks. How can I help?
+
+Customer at 215.4s:
+Hey, [CUSTOMER_NAME]. My interlock is going into immediate recall. I had me battery died on Friday when I went to work. And I didn't get it
+
+Agent (Human) at 229.1s:
+K. Sorry. If I could just so I can get your account up, can I just start with your first and last name and the vehicle details?
+
+Customer at 237.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 239.6s:
+Yep. And then just the make and model or the registration number.
+
+Customer at 244.3s:
+N j p sixty seven.
+
+Agent (Human) at 247.0s:
+Awesome. So you changed your battery. Has an immediate recall message come up?
+
+Customer at 251.9s:
+Yeah. It came up pretty much straight away.
+
+Agent (Human) at 254.8s:
+Alright. What's the number next to that immediate recall message?
+
+Customer at 259.7s:
+Hang on. It'll get back to that. This says ready for
+
+Agent (Human) at 263.4s:
+If you if you unplug the device for a few moments and then plug it back in, it should pop up. So if you
+
+Customer at 269.7s:
+From the lane.
+
+Agent (Human) at 270.9s:
+yeah. But if you turn it around, don't just yank it out. There's a little release button that you can press, and then that will release it. So if you hold that that down and then unplug it, it'll unplug
+
+Customer at 281.6s:
+Yep.
+
+Agent (Human) at 281.7s:
+and then you plug it back in
+
+Customer at 282.8s:
+Done that. So I just want wait for a few seconds.
+
+Agent (Human) at 288.2s:
+Yeah. And then just plug it back in, and then it should come up.
+
+Customer at 299.6s:
+Immediate recall, fourteen. Nineteen dash o six dash
+
+Agent (Human) at 306.0s:
+That's okay. I don't need the date. So are you is the vehicle on or off at the moment?
+
+Customer at 312.0s:
+Off.
+
+Agent (Human) at 312.6s:
+Alrighty. So if you can hold down the top left button on the menu, it's gonna come up with service dates.
+
+Customer at 319.2s:
+Yep.
+
+Agent (Human) at 319.6s:
+Once you see service dates, we're gonna keep pressing the top right button until you see the word reset. When you see reset, hit select.
+
+Customer at 331.3s:
+Yep.
+
+Agent (Human) at 332.0s:
+And it's gonna come up with four zeros. So the first
+
+Customer at 337.1s:
+No. It just says service lockout release.
+
+Agent (Human) at 339.7s:
+no. Next one. So reset. You wanna see reset and then press select?
+
+Customer at 345.7s:
+Yeah. I've hit reset. Now select
+
+Agent (Human) at 348.4s:
+Yep. Now for
+
+Customer at 348.5s:
+Yep. Yep. Nothing Yep.
+
+Agent (Human) at 350.9s:
+Lovely. So the first number is gonna be nine. So just using top right button, you're gonna keep pressing that until you see the number nine.
+
+Customer at 360.6s:
+Yep.
+
+Agent (Human) at 361.4s:
+And the next number is gonna be two, so just press the middle button. That will skip it. Next number
+
+Customer at 369.3s:
+Hang on. Hang on. I'm gone.
+
+Agent (Human) at 374.3s:
+So if you wanna go back numbers, you press the left button until you keep going back in numbers.
+
+Customer at 382.1s:
+Okay. So nine two
+
+Agent (Human) at 383.8s:
+The next number is gonna be one
+
+Customer at 389.6s:
+So you hit select after you've got the nine? Or the left button.
+
+Agent (Human) at 393.4s:
+Yes. So so what what number are you up to now?
+
+Customer at 396.5s:
+I'm only up to the first number 9.
+
+Agent (Human) at 398.7s:
+Okay. So now press the middle button to skip to the next number, which will be two
+
+Customer at 405.6s:
+Yep.
+
+Agent (Human) at 406.4s:
+Next number will be one.
+
+Customer at 409.5s:
+Yep.
+
+Agent (Human) at 409.8s:
+Last number will be three. And then press select and then accept.
+
+Customer at 414.5s:
+Yep.
+
+Agent (Human) at 415.8s:
+So middle button first and then top right button, and that's gonna pull up a subcode.
+
+Customer at 421.7s:
+No. I just come back to the the four zeros. Oh, subcode. Sorry.
+
+Agent (Human) at 426.7s:
+Yep. So the first two numbers are gonna be zero. So just skip to the third number, which will be four.
+
+Customer at 437.5s:
+Yep.
+
+Agent (Human) at 437.7s:
+And then the last number will be nine.
+
+Customer at 446.9s:
+Accept.
+
+Agent (Human) at 451.2s:
+Yep.
+
+Customer at 451.5s:
+Ready for 10.
+
+Agent (Human) at 452.9s:
+Alrighty. Awesome.
+
+Customer at 455.4s:
+So that's all good. So that's just what that has it?
+
+Agent (Human) at 456.6s:
+Yep. That's yeah. That's just anytime a message like that comes up, just give us a call, then we'll be
+
+Customer at 459.4s:
+But
+
+Agent (Human) at 462.4s:
+able to reset it with you.
+
+Customer at 464.4s:
+Thank you very much.
+
+Agent (Human) at 465.3s:
+No worries at all. Hope you have a lovely day.
+
+Customer at 468.0s:
+You too. Bye bye.
+
+Agent (Human) at 468.4s:
+Thank you. Bye bye.

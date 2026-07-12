@@ -1,0 +1,158 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.7s:
+Operator.
+
+Agent (Mia) at 9.9s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 15.0s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 17.2s:
+Thank you. Just checking in. Would you still like to be connected to a specialist now?
+
+Customer at 34.2s:
+Yes, please.
+
+Agent (Mia) at 36.1s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 42.9s:
+Boy. Getting worse.
+
+Agent (Human) at 66.7s:
+Affordable Inbox. [AGENT_NAME] speaking.
+
+Customer at 69.4s:
+Hello. [AGENT_NAME] speaking. How are you on this beautiful Wednesday?
+
+Agent (Human) at 73.4s:
+Yes. It is actually, isn't it, Glenn?
+
+Customer at 75.9s:
+Yeah. Yes. It is.
+
+Agent (Human) at 78.0s:
+Awesome. How can we are calling on line? Did you forget our tech hotline?
+
+Customer at 84.3s:
+Didn't know there was a tech hotline.
+
+Agent (Human) at 86.6s:
+Yes.
+
+Customer at 90.4s:
+Right.
+
+Agent (Human) at 91.3s:
+So I can text it to you when we finish speaking. What did you need help with there?
+
+Customer at 97.8s:
+Roger Louie. Rego number three three four hotel tango hotel.
+
+Agent (Human) at 105.5s:
+Okay. Roger with the Land Cruiser. Okay. So he's coming early, has he?
+
+Customer at 116.5s:
+Oh, it's coming up on the device that it needs a service.
+
+Agent (Human) at 121.8s:
+But he's actually coming up due as in the end of his program. So he can't just have a service willy nilly. I gotta, like, for him to get his data upload letter, his final upload letter.
+
+Customer at 134.9s:
+Yeah. Right.
+
+Agent (Human) at 138.2s:
+Yeah. So he's not due until the June 23.
+
+Customer at 142.9s:
+Oh, yeah. The dispatch.
+
+Agent (Human) at 145.3s:
+And then, obviously, he has that extra seven days as long as he doesn't go past the thirtieth, he'll be fine. But he just can't get his service done until he gets the the go ahead from transport.
+
+Customer at 160.8s:
+Right.
+
+Agent (Human) at 161.7s:
+Yeah. So if you wanna just refer him to give us a call, and then that way we can explain to him how it all works.
+
+Customer at 166.5s:
+Yeah. He tried he tried to he he tried to ring earlier and got another lady, and he couldn't understand anything she was saying. So
+
+Agent (Human) at 176.6s:
+Oh, I can't see where that's happened, but maybe he was talking to the bot. Hey.
+
+Customer at 185.3s:
+Maybe Lincoln some sometimes b. Walkfast.
+
+Agent (Human) at 192.7s:
+No. It it looks like he was talking to to the bot.
+
+Customer at 194.0s:
+But I don't have a.
+
+Agent (Human) at 197.4s:
+So it
+
+Customer at 198.3s:
+Oh, the box.
+
+Agent (Human) at 199.8s:
+yes. So I am going to text him with the email address so that he at least understands
+
+Customer at 206.2s:
+Yep.
+
+Agent (Human) at 209.6s:
+gotta keep an eye out. On his emails. And, yeah, if you just wanna refer him to give us
+
+Customer at 212.5s:
+Right. No worries. I'll it to him shortly.
+
+Agent (Human) at 216.5s:
+yeah. Okay.
+
+Customer at 218.6s:
+Yeah. No drama.
+
+Agent (Human) at 219.3s:
+And then and then also, Glenn, I'll send you the tech hotline. It's a number you can use. You're just not allowed to give it to anyone else. Alright?
+
+Customer at 228.5s:
+Copy that.
+
+Agent (Human) at 229.9s:
+Excellent. And that way, you come straight to us. No worries, Glenn.
+
+Customer at 230.9s:
+Love your work. Love your work. Who's gonna win tonight?
+
+Agent (Human) at 234.3s:
+Have eeny meeny miny moe. New Zealand?
+
+Customer at 240.5s:
+Oh, agent. You don't follow football?
+
+Agent (Human) at 243.8s:
+I'm joking. Of course. It's everywhere. Queensland. Go Queensland.
+
+Customer at 249.1s:
+100%. Got it. I'm wearing my my own jersey sound good.
+
+Agent (Human) at 255.7s:
+I'll have to find something maroon. Alright?
+
+Customer at 260.8s:
+That bitch. That's the guy. Rado. Thank you.
+
+Agent (Human) at 263.3s:
+Alright. Thanks, Glenn.
+
+Customer at 265.3s:
+See you. Bye.
+
+Agent (Human) at 265.4s:
+Bye.

@@ -1,0 +1,191 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.5s:
+Operator, please.
+
+Agent (Mia) at 8.8s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 14.3s:
+Last name is Bah. First name, Hafidu.
+
+Agent (Mia) at 19.1s:
+Thank you. Just to confirm, like to speak with a specialist now. Is that correct? Are you ready to be connected?
+
+Customer at 26.0s:
+Yes. Correct.
+
+Agent (Mia) at 29.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 62.4s:
+Affordable Interlocks. How can I help?
+
+Customer at 65.3s:
+Hello. My name is Ashley. Just calling regarding I had an incident on Saturday. Alright? So Saturday morning, I woke up. I was drove to Kohl's. Get some breakfast, and I'm going to the interlocker. Obviously, I just woke up. It was alright, but when I got out of calls, and I provided a a breath sample, it locked me up for half an hour. But in a certain cup of half an hour, after half an hour, I provided another one, it passed again. So within the forty five minute, there's two of them, but one of them said, I don't know if it has to be sometime I realized it's been going off a month.
+
+Agent (Human) at 94.4s:
+Okay. The two Excuse me, sir. Sorry. If you could I just need to get your account up first so I can be able to pop some details in. Can I have your
+
+Customer at 100.0s:
+Sure.
+
+Agent (Human) at 103.0s:
+full name and just your vehicle details?
+
+Customer at 106.6s:
+And the ZIP code is [NUMBER].
+
+Agent (Human) at 111.0s:
+Alrighty. So you had a thirty minute you had a thirty minute lockout, and so it was after you returned from Kohl's.
+
+Customer at 120.2s:
+In the morning, I started it. I started it, I I provided it for my house. It was good. And then I went to to Kohl's, walked back out, and then I probably knocked me out 500 straight have to be because of bad breath. Sometimes, it's what I realized is bad breath. I I don't brush my teeth or something. I I didn't even drink water. But after half an hour, I'll provide another one. Obviously, I never had alcohol, and I went home. So I thought to send the car back for half an hour.
+
+Agent (Human) at 142.8s:
+Okay.
+
+Customer at 143.0s:
+I don't know what what you did that. There's no spray. There's no mud wash.
+
+Agent (Human) at 144.7s:
+Did you pop any
+
+Customer at 146.5s:
+Nothing.
+
+Agent (Human) at 146.9s:
+put any hand sanitizer on?
+
+Customer at 149.4s:
+No. Nothing. I did not touch nothing. I have to be from a bad breath or something. But I just want to close the break because it's a little off of bread and some stuff. Looked back out. Probably another one. That was it. Lost me half an hour straight away, not even five minute. But after that, for half an hour, again, it was good.
+
+Agent (Human) at 165.7s:
+Do you
+
+Customer at 165.9s:
+So I just need
+
+Agent (Human) at 166.4s:
+did you smoke a cigarette or vape or anything like that?
+
+Customer at 170.7s:
+No.
+
+Agent (Human) at 171.7s:
+No cologne, mouthwash, no hand sanitizer.
+
+Customer at 176.2s:
+No. I didn't brush my teeth, so I didn't I remember I put in put nothing in my mouth. So that's why I know I did not eat nothing.
+
+Agent (Human) at 182.2s:
+Do you fast?
+
+Customer at 184.5s:
+Sorry?
+
+Agent (Human) at 185.2s:
+Do you fast?
+
+Customer at 187.5s:
+Go fast.
+
+Agent (Human) at 188.7s:
+Yeah.
+
+Customer at 190.8s:
+No. No. Not at the moment. I wasn't fasting now. It had to it had to come for my birth or something.
+
+Agent (Human) at 196.0s:
+Sometimes it can be
+
+Customer at 196.3s:
+Some something to
+
+Agent (Human) at 197.9s:
+like, if you hadn't eaten in quite a while, it could have been from your stomach acid. Possibly, if you have if you have stomach acid, it could have been from that possibly, but a thirty minute, that's quite high. So I'm just unsure what could have caused such a high rating.
+
+Customer at 216.2s:
+But after the thirty minutes, I was good. So, obviously, before the five minutes before the thirty minute, I was good.
+
+Agent (Human) at 218.5s:
+Yeah.
+
+Customer at 221.5s:
+You locked my thirty minutes, so I'm taking forty minutes. You're good, no good, and good again. So that's within forty minutes. Three of them, I come down with the middle one. So I don't know what triggered that.
+
+Agent (Human) at 231.9s:
+I'll pop some notes, and it might have been come from your stomach acid.
+
+Customer at 232.0s:
+No. What?
+
+Agent (Human) at 239.1s:
+And you didn't eat or drink anything?
+
+Customer at 241.8s:
+Sorry?
+
+Agent (Human) at 242.7s:
+You didn't eat or drink anything before?
+
+Customer at 244.7s:
+No. No. Just woke up. I'm early in the morning. Just I just woke up in the weekend. I just went from Kohl's. I'm from from home to calls. What's good? We got to calls, finished. Something to kind. It left me a five for now. I have I waited the five for now again.
+
+Agent (Human) at 258.0s:
+I I have a note in your account that you're a plumber and you have chemicals in your car. Was anything maybe open?
+
+Customer at 265.5s:
+No. Because now now what I've done, I've got I've I've been putting it in in a little s key. That's what I've got.
+
+Agent (Human) at 270.4s:
+Okay.
+
+Customer at 270.5s:
+Unless because I had I had it in the s key, and now unless when I got to Kohl's, I left it in the car. Windows locked. Maybe that's why I really could have triggered it. I didn't put it back in the air when I went to calls. So I don't know if that was it.
+
+Agent (Human) at 281.6s:
+What did what did you keep out? Sorry.
+
+Customer at 284.5s:
+So I when I leave my house, I took out the Esky. But when I got to call, I just left it connected.
+
+Agent (Human) at 290.8s:
+Okay.
+
+Customer at 290.8s:
+So maybe the because I've got glues and primers in the back of the van because the van So maybe that could have triggered it.
+
+Agent (Human) at 298.0s:
+Yeah. Maybe. Oh, I don't know. In I'll say it's from that, that it's the in the back of your van. So when you dispute it to transport, if they do decide to extend you, just I would let them know it's due to the chemicals that you for work. And if you can take a photo of what you're using, in, like, the ingredient list, and then when you're disputing the lockout,
+
+Customer at 320.3s:
+No.
+
+Agent (Human) at 323.5s:
+you can show that you passed the thirty minute retest. Just make sure when you're
+
+Customer at 327.0s:
+Yep.
+
+Agent (Human) at 327.3s:
+blowing into the device, you're always facing that camera so they can see it's you. And then what we'll, yeah, what we'll do is when you just
+
+Customer at 331.9s:
+Okay.
+
+Agent (Human) at 334.7s:
+it, you can say that it was from the chemicals that are in your car. But just make sure you take some photos of the ingredients in the in the chemicals.
+
+Customer at 343.3s:
+Alright. No worries. Thank you.
+
+Agent (Human) at 344.8s:
+No worries at all. But I'll add those notes in, but just keep that in mind for when you have to dispute it.
+
+Customer at 350.0s:
+Okay. Thank you very much.
+
+Agent (Human) at 351.1s:
+Alright. No worries. Have a nice day. Bye bye.

@@ -1,0 +1,74 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+Honey up. Can I just speak to someone about my in slot getting removed?
+
+Agent (Mia) at 11.2s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 16.0s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.9s:
+Thank you. Have you already received your official completion notice for your interlock program?
+
+Customer at 27.5s:
+Yes.
+
+Agent (Mia) at 29.9s:
+Appreciate that. Books, are you sure is that are you ready to be connected a customer support specialist now to discuss your interlock removal?
+
+Customer at 38.6s:
+Yes.
+
+Agent (Mia) at 40.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 45.8s:
+Yes.
+
+Agent (Mia) at 48.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 87.1s:
+Hello. [AGENT_NAME] speaking. How can I help?
+
+Customer at 89.6s:
+Yeah. Hi, Hannah. It's Jodi here. I've just worked up at my mechanic's I didn't realize there was another step in getting my interlock removed. I've got the the email and got the ignition taken off my life I emailed you the one that, and then I think he said you've he's gotta get another email from you after that.
+
+Agent (Human) at 113.0s:
+Yeah. So what who am I speaking So what's your registration
+
+Customer at 116.0s:
+I'm sorry. Yeah. It's my name is [CUSTOMER_NAME]. Sorry. It's five seven nine e d two.
+
+Agent (Human) at 117.7s:
+That's okay. Eight eight two. Let's have a look. Oh, you got your removal letter? Is that the one you've got?
+
+Customer at 132.7s:
+Yeah. Yeah.
+
+Agent (Human) at 133.7s:
+Okay. Yeah. We need to book you in for your removal. So doesn't it's not like a monitor. It takes a little bit longer than that.
+
+Customer at 141.3s:
+[CUSTOMER_NAME].
+
+Agent (Human) at 141.4s:
+Do you wanna email that through to us, Jodi, and we can get you booked in? Unless they can do it today. Did they say they can?
+
+Customer at 145.3s:
+Yes. Yeah. They can. [CUSTOMER_NAME]. So I'll email that to the affordable interlock Is that the email to say that it can be removed yet? Is that the the one I got from Transport and Work? Yeah.
+
+Agent (Human) at 159.1s:
+Yes. Yes. [CUSTOMER_NAME]. Have you got an inquiries email?
+
+Customer at 160.7s:
+Alright. No worries. Well, I'll yeah. Yeah. I'll do that now then.
+
+Agent (Human) at 166.0s:
+Okay. No worries. Thank you very much. Okay. See you. Bye.
+
+Customer at 167.0s:
+Alright. Thanks a lot. Okay. Bye bye. Bye.

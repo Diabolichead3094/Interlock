@@ -1,0 +1,161 @@
+Customer at 0.1s:
+That work for auto?
+
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+Yeah. I'm just need to book a interlock to be removed out of my daughter's car.
+
+Agent (Mia) at 11.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.5s:
+Thank you. My full name or her full name?
+
+Agent (Mia) at 19.2s:
+Just your full name, please.
+
+Customer at 20.8s:
+My full name. Yeah. Okay. So it's my name is Lee John Bennett.
+
+Agent (Mia) at 27.1s:
+Thank you. Have you or your daughter already received the official completion notice for the interlock program?
+
+Customer at 33.7s:
+Yes.
+
+Agent (Mia) at 35.7s:
+Great. Are you ready to be connected to a customer support specialist now to arrange the removal?
+
+Customer at 41.1s:
+Yes.
+
+Agent (Mia) at 43.0s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 45.8s:
+Thank you. Bye.
+
+Agent (Mia) at 49.4s:
+Appreciate that. I'll get you over to our customer support team now. One moment.
+
+Customer at 58.3s:
+So do you work Thursday? No.
+
+Agent (Human) at 69.9s:
+Affordable. Good afternoon or good morning. Sorry. You're speaking with Shannon. How can I help?
+
+Customer at 93.9s:
+Shannon, is it?
+
+Agent (Human) at 94.6s:
+Yes. Yes.
+
+Customer at 95.6s:
+Yes, Shannon. It's me [AGENT_NAME] speaking here. I just need to book my daughter's car in to have the interlock removed.
+
+Agent (Human) at 101.9s:
+Okay. And what was your daughter's name?
+
+Customer at 104.8s:
+It's [AGENT_NAME] Christine Bennett.
+
+Agent (Human) at 108.3s:
+Okay. And that is for a Holden Commodore. Is that right?
+
+Customer at 114.5s:
+Correct. Yes.
+
+Agent (Human) at 115.2s:
+Perfect. Now do we have anything to say that she can get this one removed? From the Department of Transport?
+
+Customer at 123.5s:
+Yeah. Yeah. Where's the letter you received? Yeah. Because it's just in the mail, is it? Yes. She got a letter confirmation from Queensland Transport
+
+Agent (Human) at 134.7s:
+Okay.
+
+Customer at 135.0s:
+and her
+
+Agent (Human) at 136.0s:
+Yes?
+
+Customer at 136.2s:
+license has been updated on the digital license ID
+
+Agent (Human) at 140.1s:
+Perfect.
+
+Customer at 140.3s:
+as well.
+
+Agent (Human) at 141.3s:
+Yeah.
+
+Customer at 141.4s:
+To have no restrictions on it.
+
+Agent (Human) at 144.8s:
+Excellent. Would you like to send that through to us here at Affordable Interlocks? And then we'll give the service center a call, make a booking for her removal. Is there any particular day that Emily is free to take the vehicle over?
+
+Customer at 159.3s:
+Yeah. I spoke to is it Adam?
+
+Agent (Human) at 161.2s:
+Yes.
+
+Customer at 162.4s:
+Yeah. I spoke to Adam before because I didn't know I had to ring up through here. So he said Thursday is fine.
+
+Agent (Human) at 169.1s:
+Thursday. Perfect. Excellent. Alright. If you would like to send that through, we will make that booking for Thursday with Adam.
+
+Customer at 177.9s:
+Alright. No worries at all. Do do you know how to
+
+Agent (Human) at 179.2s:
+Perfect.
+
+Customer at 180.8s:
+or Emily's gonna send it through now.
+
+Agent (Human) at 184.2s:
+Wonderful. Thank you so much, Congratulate Emily for us.
+
+Customer at 189.0s:
+I will do.
+
+Agent (Human) at 189.8s:
+Excellent. And let Emily know that we don't wanna talk to her ever again. Okay?
+
+Customer at 193.8s:
+Ever again.
+
+Agent (Human) at 194.5s:
+Never.
+
+Customer at 194.8s:
+Exactly. I'm right behind you there. Let me check.
+
+Agent (Human) at 198.5s:
+Wonderful. Perfect. Awesome. And, again, thank you so much. I'll get that booking all organized for you for Thursday.
+
+Customer at 205.9s:
+Appreciate your help.
+
+Agent (Human) at 206.6s:
+You're more than welcome. Thank you.
+
+Customer at 208.3s:
+Thanks so much.
+
+Agent (Human) at 209.1s:
+You're welcome.
+
+Customer at 209.6s:
+Bye.
+
+Agent (Human) at 209.9s:
+Bye.

@@ -1,0 +1,158 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.7s:
+Hi. I'm calling about my analog service.
+
+Agent (Mia) at 10.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.4s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 17.3s:
+Thank you. Could you please clarify if you're calling about booking a monitor or calibration service, checking your next service date, or asking about device removal?
+
+Customer at 28.3s:
+Calibration service.
+
+Agent (Mia) at 31.0s:
+Understood. Have you already completed your payment and received a confirmation SMS for your calibration service?
+
+Customer at 38.3s:
+No.
+
+Agent (Mia) at 42.2s:
+Do you have the payment value or amount ready?
+
+Customer at 47.3s:
+No. It's trying to box, is it?
+
+Agent (Mia) at 51.1s:
+Just a sec while I send that through. I've sent you a payment link by SMS. Once you've paid and received your confirmation, you can contact your service center to book your calibration. Anything else I can help you with today?
+
+Customer at 64.0s:
+No.
+
+Agent (Mia) at 65.5s:
+I've sent you a payment link by SMS. Once you've paid and received your confirmation, you can contact your service center to book your calibration. Is there anything else I can help you with today?
+
+Customer at 77.2s:
+Yes. Hamlet chicken. Tossed.
+
+Agent (Mia) at 84.0s:
+I can't provide the payment amount directly. For pricing or quotes, our quotes team can help. Would you like to be connected to a specialist now?
+
+Customer at 92.2s:
+Yes, please.
+
+Agent (Mia) at 94.6s:
+Get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 100.0s:
+Yes.
+
+Agent (Mia) at 102.1s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 109.7s:
+Yeah. Sounds like a real cheap guy. Yeah. And you're like him? It's
+
+Agent (Human) at 121.7s:
+Affordable.
+
+Customer at 139.2s:
+Hi. No. I thought I was
+
+Agent (Human) at 140.5s:
+Hello? You're speaking with Shannon. How can I help?
+
+Customer at 143.9s:
+hi, Shans. Sorry here. How are
+
+Agent (Human) at 145.9s:
+Good. Good. What's up?
+
+Customer at 147.4s:
+That's good. Hi. I'm I'm trying to come in to get my in lock serviced. But I need to make a payment.
+
+Agent (Human) at 154.5s:
+Yeah. Let's have a little look. Yeah. The last one you made was the last month. On the twenty first of the fifth.
+
+Customer at 166.1s:
+Yep. And you just send I'll text it a link
+
+Agent (Human) at 166.9s:
+Yeah. Oh,
+
+Customer at 170.9s:
+to send.
+
+Agent (Human) at 171.8s:
+Yeah. And did you make that payment?
+
+Customer at 176.2s:
+No. I don't know how much it is. Is it $1.98? Is that what it is?
+
+Agent (Human) at 177.1s:
+No. Yeah. $1.98 50. But now that you've called through, I can take that over the phone if you want. Ty.
+
+Customer at 185.8s:
+Yeah. That'll do that.
+
+Agent (Human) at 186.6s:
+Yeah. Yeah. Absolutely. And, Ty, I do have a card on file [CARD_ON_FILE].
+
+Customer at 206.5s:
+No. I have a new credit card. New I have a new debit card.
+
+Agent (Human) at 210.1s:
+Okay. Perfect. Alright. Ready for those details whenever you are.
+
+Customer at 216.9s:
+Four five six four
+
+Agent (Human) at 219.8s:
+Yes.
+
+Customer at 221.5s:
+three thousand
+
+Agent (Human) at 223.5s:
+Yes.
+
+Customer at 225.0s:
+one one two two
+
+Agent (Human) at 227.8s:
+Yep.
+
+Customer at 229.4s:
+three six four five.
+
+Agent (Human) at 232.1s:
+And the expiry on that one, please, Charlie?
+
+Customer at 236.2s:
+O four thirty.
+
+Agent (Human) at 238.5s:
+And the [CVV], please.
+
+Customer at 241.1s:
+687.
+
+Agent (Human) at 247.8s:
+That's all done. I'll get that on your account, and then that you'll get your text message. To go in and get your service done.
+
+Customer at 254.7s:
+Thank you.
+
+Agent (Human) at 255.5s:
+Thanks, Ty. Thank you.
+
+Customer at 257.2s:
+That was the one. Cheers. Yeah.
+
+Agent (Human) at 258.1s:
+Bye.

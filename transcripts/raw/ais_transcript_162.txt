@@ -1,0 +1,170 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.9s:
+Payment.
+
+Agent (Mia) at 10.8s:
+I can help with that. May I have your full name for our records first? I can help with that.
+
+Customer at 16.6s:
+All in one.
+
+Agent (Mia) at 17.6s:
+May I have your full name for our records first?
+
+Customer at 21.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 24.5s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 29.3s:
+No.
+
+Agent (Mia) at 31.0s:
+Understood. I'll need to connect you with a specialist to confirm your payment details. You ready to be transferred now?
+
+Customer at 37.7s:
+Yes.
+
+Agent (Mia) at 39.7s:
+Great. What is the payment amount you'd like to pay today?
+
+Customer at 44.0s:
+Ten o nine.
+
+Agent (Mia) at 48.4s:
+Understood. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 53.7s:
+Yes.
+
+Agent (Mia) at 55.8s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 93.6s:
+Affordable Interlocks. How can I help?
+
+Customer at 93.9s:
+Hey. How you going? My name is Ivan. Ivan's on. Ivan's Hello? You hear me?
+
+Agent (Human) at 100.4s:
+Oh, hello?
+
+Customer at 102.4s:
+How are going? My name's Ivan. I
+
+Agent (Human) at 103.3s:
+Hi. How can I help?
+
+Customer at 105.8s:
+am just wondering um, I've not received a link to a payment yet. So on my interlock, it just my next service is on the seventeenth. Of June. And I haven't received a a link for a payment.
+
+Agent (Human) at 126.9s:
+K. I'll just have to can you just confirm your vehicle details?
+
+Customer at 129.0s:
+Eight three eight w x s.
+
+Agent (Human) at 133.7s:
+Okay. So we don't set up your reoccurring past due one year program. So have you been extended?
+
+Customer at 138.7s:
+Yes.
+
+Agent (Human) at 142.1s:
+Okay. So we can set up a new invoice for you, but we don't set them up past your twelve months just because normally you would be getting out at this time, so it wouldn't be sending another invoice.
+
+Customer at 150.4s:
+Yep.
+
+Agent (Human) at 153.9s:
+Can I just confirm Did you do you know when your anticipated end date is?
+
+Customer at 159.6s:
+August 13.
+
+Agent (Human) at 163.9s:
+Okay. No worries. August. So did you wanna do a two month payment?
+
+Customer at 166.9s:
+Oh, will that be a two month?
+
+Agent (Human) at 171.2s:
+Yeah. I'll just have to pop you on a brief hold. You do have some money in your account. I'll just be one quick moment for you.
+
+Customer at 175.3s:
+Thank you.
+
+Agent (Human) at 177.4s:
+Thank you. $3.57. $3.57. Minus six minus one ninety Alright. So to get you to your end date, so so this isn't your last service. When you go in for your final reading, when they send you the upload letter, that will be your last service. But to get you up until but to get you up until that day, you because you made a
+
+Customer at 236.7s:
+Okay. Yeah.
+
+Agent (Human) at 240.8s:
+payment on the fourteenth of the start of April if you paid for three months. So that's left you with a $190 in your account. So for a two month payment, it's $3.57. You get a $40 discount. That'll
+
+Customer at 250.2s:
+Yes.
+
+Agent (Human) at 253.9s:
+option. But because you have that $1.90 in your account, you just owe $1.67 today, and then that's gonna give you those two months of rental.
+
+Customer at 262.4s:
+Okay. Sounds good.
+
+Agent (Human) at 263.7s:
+Did you want me to take that payment now, I can just add a note to your account?
+
+Customer at 269.0s:
+By taking that payment, you mean I'll pay via the phone or you're just taking it out?
+
+Agent (Human) at 273.2s:
+I can take it over the phone now.
+
+Customer at 273.3s:
+From the circle?
+
+Agent (Human) at 275.8s:
+And then that way, it's all set up for you, or you can give us a callback or I can send you an invoice, whatever you prefer.
+
+Customer at 282.0s:
+Oh, he sent me an invoice. Just because I don't get paid until
+
+Agent (Human) at 283.4s:
+Yeah. Yeah.
+
+Customer at 285.2s:
+Thursday, so I'll probably just sort something out.
+
+Agent (Human) at 286.3s:
+That's No worries at all. I'll send you an invoice. And then once that's paid, we'll set it up. And then when you do get that upload letter from Transport, if you just wanna give us a call and then we'll go through the end of period process just because transport always require your last four months of data, and it's not a normal service. It's they send you a letter before you go in.
+
+Customer at 298.7s:
+Yep.
+
+Agent (Human) at 306.2s:
+And we just have to apply that to your account. So when you do get that letter, then just give us a call.
+
+Customer at 306.9s:
+Yes. Yep.
+
+Agent (Human) at 312.7s:
+Awesome.
+
+Customer at 312.9s:
+Sounds good.
+
+Agent (Human) at 313.8s:
+Alright. Well, have a good day. I'll send you that invoice now.
+
+Customer at 316.5s:
+Thank you very much.
+
+Agent (Human) at 317.4s:
+Thank you. Bye bye.
+
+Customer at 318.8s:
+Bye.

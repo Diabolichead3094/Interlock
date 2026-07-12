@@ -1,0 +1,191 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant.
+
+Customer at 0.4s:
+What's that? Yeah.
+
+Agent (Mia) at 3.2s:
+How may I assist you today?
+
+Customer at 6.8s:
+Can I speak to an operator, please?
+
+Agent (Mia) at 9.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.2s:
+Thank you. Are you ready to be connected to a specialist now?
+
+Customer at 20.7s:
+Yes.
+
+Agent (Mia) at 22.9s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 26.0s:
+Thank you.
+
+Agent (Mia) at 27.8s:
+All good. Connecting you now.
+
+Agent (Human) at 54.1s:
+Northwell. This is Tracy.
+
+Customer at 56.4s:
+Yeah. Hi, Tracy. My name is [CUSTOMER_NAME]. How are you doing today?
+
+Agent (Human) at 58.6s:
+Good, [CUSTOMER_NAME]. How are you?
+
+Customer at 60.5s:
+Yeah. Not too bad. Little little bit stressed. I've gotta go and get my interlock serviced every two months. I've just spoken to the guys
+
+Agent (Human) at 67.6s:
+Mhmm.
+
+Customer at 69.8s:
+[SENSITIVE_CONTENT] at Saint Peter's. And the earliest they can do is the eighteenth. And to be completely honest with you, I was actually I've just I was released from prison a few days ago, so I haven't had an opportunity
+
+Agent (Human) at 79.9s:
+Okay.
+
+Customer at 81.7s:
+to to do anything up until now. They can they can service it on the eighteenth but, apparently, it needs to be done by the seventeenth.
+
+Agent (Human) at 83.4s:
+Yep. Okay. Let's have a look.
+
+Customer at 89.4s:
+I just wanted to see if there's anything we can do about that.
+
+Agent (Human) at 92.0s:
+Yeah. Let's have a look. Okay. [CUSTOMER_NAME], what was your registration for your vehicle,
+
+Customer at 94.2s:
+Thank you.
+
+Agent (Human) at 96.1s:
+please?
+
+Customer at 97.4s:
+I'll just grab it. So what what's the registration on the stuff? I think you guys should've bought it. BVA75Zed.
+
+Agent (Human) at 105.2s:
+Thank you. Okay. Now just looking through here. Yes. It will actually lock out on the evening of the seventeenth. Okay. Whereabouts are you located?
+
+Customer at 113.4s:
+Right. I'm at my that's the home address at thirty eight Princess Street, Canterbury.
+
+Agent (Human) at 120.5s:
+Canterbury. Yep.
+
+Customer at 122.0s:
+Yeah.
+
+Agent (Human) at 123.5s:
+Canabry. Okay. Yeah. So the one at Saint Peter's is closest. There is another one at Artarman.
+
+Customer at 133.7s:
+Yeah. Okay.
+
+Agent (Human) at 136.6s:
+I know that's on the other side of the harbor, but if you wanna give them a call
+
+Customer at 139.6s:
+Yep.
+
+Agent (Human) at 141.7s:
+and see if they could get you in
+
+Customer at 142.1s:
+Okay.
+
+Agent (Human) at 144.5s:
+today or tomorrow. I can send you a text
+
+Customer at 144.7s:
+Alright. Okay.
+
+Agent (Human) at 147.8s:
+with their details on there for you if you'd like.
+
+Customer at 151.4s:
+Yeah. Sure. That'd be great.
+
+Agent (Human) at 152.6s:
+Yep. The next one from there is carrying bar. So
+
+Customer at 157.4s:
+Okay. We'll try them first and see how we go.
+
+Agent (Human) at 158.1s:
+yeah, That's yeah.
+
+Customer at 159.9s:
+And there's no way to extend it for twenty four hours.
+
+Agent (Human) at 162.5s:
+No. Unfortunately, not. No.
+
+Customer at 164.5s:
+Okay.
+
+Agent (Human) at 164.8s:
+Okay. Anyone anyone is able
+
+Customer at 165.9s:
+Alright.
+
+Agent (Human) at 168.1s:
+take it to get it serviced. So in the future, if something happens like this, you can
+
+Customer at 170.0s:
+Yeah. Yep. Yep.
+
+Agent (Human) at 172.9s:
+always jump in and get someone else to take it for you. I'm just finding
+
+Customer at 176.2s:
+Yeah. It's just that I had to be responsible for for the finances in order to do it. But
+
+Agent (Human) at 179.4s:
+yeah. Yeah.
+
+Customer at 181.6s:
+okay. Yeah. If you could put me the details for that, and I'll give them a call right now.
+
+Agent (Human) at 181.9s:
+That's alright. Yep. Not a problem. I'll send you do you want me to send you a carrying bar as well or just
+
+Customer at 190.7s:
+Yeah. Might as well just in case.
+
+Agent (Human) at 192.7s:
+yep. Not a problem.
+
+Customer at 195.0s:
+Alrighty.
+
+Agent (Human) at 198.4s:
+Excellent. Come through here. I'll send you through your time, and I'll just send Karen Barr as well for you.
+
+Customer at 213.5s:
+Thank you so much.
+
+Agent (Human) at 214.6s:
+Not a problem at all. Okay. You let us know.
+
+Customer at 216.1s:
+Alright.
+
+Agent (Human) at 216.7s:
+Thank you.
+
+Customer at 217.2s:
+Alright. Thank you. Bye.
+
+Agent (Human) at 217.5s:
+Okay. Bye.

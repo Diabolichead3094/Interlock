@@ -1,0 +1,140 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+Pay for my monthly service.
+
+Agent (Mia) at 9.9s:
+I can help with that. Do you have the payment value or amount ready?
+
+Customer at 15.0s:
+$1.32.
+
+Agent (Mia) at 17.8s:
+Just a sec while I send that through. A payment link has been sent to your mobile. You can complete your payment for $132 using that link. There anything else I can help you with today?
+
+Customer at 29.2s:
+Speak to a customer, uh, speak to a customer representative, please.
+
+Agent (Mia) at 33.7s:
+Are you ready to be connected to our customer support team now?
+
+Customer at 37.4s:
+Yes.
+
+Agent (Mia) at 39.4s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 42.5s:
+Thank thank you.
+
+Agent (Mia) at 44.8s:
+All good. Connecting you now.
+
+Customer at 49.0s:
+Well,
+
+Agent (Human) at 78.7s:
+Hi, Tony. [AGENT_NAME] speaking. How are you?
+
+Customer at 81.5s:
+Not too bad. Thanks, Hailey.
+
+Agent (Human) at 83.0s:
+You wanted to make a payment. Is that right?
+
+Customer at 85.8s:
+Yes, my dear. I know that I said I'd go to the three monthly, but
+
+Agent (Human) at 87.0s:
+Yep.
+
+Customer at 90.0s:
+unfortunately, I've been in hospital for the last two weeks, and used all my money because I haven't been working, obviously.
+
+Agent (Human) at 98.0s:
+Yes.
+
+Customer at 98.4s:
+So can I just go for the month again, please, Hailey?
+
+Agent (Human) at 100.8s:
+Yeah. Of course, you can. Let me just delete this Oh, it was set up for a month, the fifteenth of the sixth. Perfect.
+
+Customer at 110.0s:
+I was.
+
+Agent (Human) at 111.1s:
+It's [AGENT_NAME]. We can do it.
+
+Customer at 111.5s:
+No. Cool. Because it it it it sent me a thing saying three months.
+
+Agent (Human) at 116.3s:
+Oh, let me look into that. So is it your name that's on the card, Tony?
+
+Customer at 123.7s:
+Yeah. Yeah. Yeah. I'm tiny tiny j flavor.
+
+Agent (Human) at 124.5s:
+Yes. Yes. Yep. And have you got your card number there? And I'll pop it through for you now.
+
+Customer at 132.1s:
+[REDACTED]
+
+Agent (Human) at 133.8s:
+Uh-huh.
+
+Customer at 135.3s:
+[REDACTED]
+
+Agent (Human) at 136.7s:
+Uh-huh.
+
+Customer at 137.6s:
+[REDACTED]
+
+Agent (Human) at 139.0s:
+Uh-huh.
+
+Customer at 139.7s:
+[REDACTED].
+
+Agent (Human) at 141.8s:
+Expiry.
+
+Customer at 143.8s:
+Expiry is three thirty.
+
+Agent (Human) at 148.8s:
+And say, they they placed.
+
+Customer at 151.1s:
+Five zero three. Five zero three.
+
+Agent (Human) at 158.8s:
+That has now been paid. Perfect. I'll pop that in for you now. Okay?
+
+Customer at 163.2s:
+Yeah. That was about $1.32, was it, my dear?
+
+Agent (Human) at 165.3s:
+1132. That's correct.
+
+Customer at 168.5s:
+Perfect. Thank you so much for that.
+
+Agent (Human) at 170.2s:
+That's alright.
+
+Customer at 170.4s:
+I'll ring up and I'll book a thing I went tomorrow now.
+
+Agent (Human) at 173.4s:
+Sounds good. Thanks for calling.
+
+Customer at 175.2s:
+Cheers. Thanks, Hailey. Bye bye.
+
+Agent (Human) at 175.9s:
+Okay. Bye.

@@ -1,0 +1,227 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+I'm just returning the phone call.
+
+Agent (Mia) at 9.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Are you looking to speak with a specialist now, or was there something specific you needed help with? Just checking in. Would you like to speak with a specialist now, or is this something specific you need help with?
+
+Customer at 41.5s:
+Yeah. I already talked to someone now, please.
+
+Agent (Mia) at 44.8s:
+Understood. Our office is currently open. Would you like me to connect you to a specialist now?
+
+Customer at 51.2s:
+Yeah. That'd be great.
+
+Agent (Mia) at 53.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 59.5s:
+Yeah. You just ask for that.
+
+Agent (Mia) at 63.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 97.2s:
+Hi, [CUSTOMER_NAME]. You're speaking with Shannon. How are you?
+
+Customer at 100.9s:
+No, bud. How you going?
+
+Agent (Human) at 102.1s:
+Yeah. Not too bad. Yeah. Thank you for sending through your new vehicle details. That's awesome. Kiani, are you able to get in contact with the department transport and find out how much longer you've got in the program for us? And let us know.
+
+Customer at 115.4s:
+Yeah. I'm about to I'm about to tell you how long. I'm just logging in to my TMOs this evening.
+
+Agent (Human) at 120.6s:
+Perfect. You probably take a screenshot and send that through to us as well if you possibly could.
+
+Customer at 127.5s:
+Yeah. I'll just send I'll just tell you I'm just going quickly, and then I'll send it to you.
+
+Agent (Human) at 131.7s:
+Yeah. Yeah. Wonderful.
+
+Customer at 139.3s:
+Have you had a busy day today?
+
+Agent (Human) at 140.8s:
+Absolutely. Yeah. What about you?
+
+Customer at 146.4s:
+Not too bad. Just been working.
+
+Agent (Human) at 149.8s:
+That's good. Keep keep you out of trouble. Right? Maybe. Maybe not.
+
+Customer at 157.2s:
+Stop me stop me from drinking that.
+
+Agent (Human) at 159.1s:
+No. I didn't say that.
+
+Customer at 168.2s:
+What would be my my details? Yeah. K. I'm gonna Google now this on the Sorry. It's just loading.
+
+Agent (Human) at 218.2s:
+No. No. You're all good. You're all good.
+
+Customer at 254.9s:
+No problem. No. No. No.
+
+Agent (Human) at 268.0s:
+Excuse me.
+
+Customer at 271.0s:
+Where would it be? What would it be under when I log in to TMR?
+
+Agent (Human) at 274.4s:
+So it'll be under your licenses and accreditations.
+
+Customer at 279.9s:
+Oh, yep.
+
+Agent (Human) at 280.9s:
+Yeah.
+
+Customer at 283.7s:
+So interlock period 06/20/2026.
+
+Agent (Human) at 289.6s:
+Okay.
+
+Customer at 289.7s:
+Till the nineteenth of June twenty thirty one.
+
+Agent (Human) at 293.9s:
+Okay. Alright. So it sounds like you've got a new program, so you'll have to do that for twelve months starting on the twentieth of the sixth. So are you able to take a screenshot of that for me? [CUSTOMER_NAME], and send it on through? So your removal reinstall booking we wouldn't be able to do until around the twenty first.
+
+Customer at 319.0s:
+The twenty first.
+
+Agent (Human) at 320.2s:
+Yeah. So it would have to be Monday, the twenty second, if they're available Yeah. Next Monday.
+
+Customer at 326.9s:
+Yeah. I called it I called them just to pull they're not available till mid next week.
+
+Agent (Human) at 331.7s:
+Okay. Yeah. Well, I'll give him a call as well. But, yeah, because you don't get your because of your licensing, is the twentieth. Yeah, we
+
+Customer at 340.7s:
+Did you get that photo then? Do I just send it to the number you'd bring me on?
+
+Agent (Human) at 345.3s:
+Let's have I did get it. Perfect. Thank you so much. Yeah. So I'll add that to your file. Okay?
+
+Customer at 353.8s:
+Yeah. So what that's for another five years, is it?
+
+Agent (Human) at 354.2s:
+Yes. So no. It's for another twelve month period? So it's the same as when you so if you don't have
+
+Customer at 362.1s:
+Yes.
+
+Agent (Human) at 365.1s:
+the interlock installed,
+
+Customer at 366.0s:
+Why is it why is it say the 06/20/2026 to the 06/19/2031, though?
+
+Agent (Human) at 372.1s:
+That's what I was just about to tell you. So if you do not get an interlock installed, you cannot drive until 2031.
+
+Customer at 381.9s:
+Oh, okay.
+
+Agent (Human) at 383.0s:
+Yeah. So
+
+Customer at 383.5s:
+That makes sense. I've I've I've been thinking of because I've looked at it last, and I'm, like, seeing fuck man. Whatever it's it's up to fucking 2031. I'm like, what the heck?
+
+Agent (Human) at 392.6s:
+Yeah. So a lot of people do, so don't panic. Alright? It the in interlock program is in Queensland is for twelve months. Oh, sorry. A minimum of twelve months. So if you
+
+Customer at 400.7s:
+Yeah.
+
+Agent (Human) at 402.8s:
+dot all your i's, cross your t's, do everything right, you know, look in walk in a straight line for the twelve months, you'll have it in and out. If you, you know, miss services, if you blow over, if you do
+
+Customer at 412.2s:
+Yeah.
+
+Agent (Human) at 415.4s:
+things like that, there is a potential there that that will extend you. So get it in
+
+Customer at 420.0s:
+Yeah. Because they they tend to extend you in the log
+
+Agent (Human) at 420.9s:
+get it in next week,
+
+Customer at 423.1s:
+four months if you have, like during the last four months and you have any violations, they'll extend it
+
+Agent (Human) at 424.7s:
+Yeah. That's right.
+
+Customer at 428.3s:
+for another four months.
+
+Agent (Human) at 429.6s:
+Yeah. That's correct. So get it in next week.
+
+Customer at 431.5s:
+Yeah.
+
+Agent (Human) at 433.2s:
+Alright? If we can potentially get you in next week, do everything to twelve months, and then you can get rid of it. Okay?
+
+Customer at 439.3s:
+Yes. Go ahead.
+
+Agent (Human) at 439.4s:
+And then and then we don't wanna talk to you after that. Ever get
+
+Customer at 442.9s:
+Yeah. I don't I'm passing I'm over
+
+Agent (Human) at 444.8s:
+Alright? So get that done.
+
+Customer at 446.2s:
+Thank you.
+
+Agent (Human) at 447.4s:
+Let's get oh, make a booking for you for after the twentieth. I'll save that to your file. And we'll go from there. Okay?
+
+Customer at 455.9s:
+And will you just contact me a date when the when I'll be able take it in?
+
+Agent (Human) at 460.9s:
+Yep. 100%. Will do.
+
+Customer at 463.1s:
+Alright. So we're good. Thank you.
+
+Agent (Human) at 464.0s:
+Excellent. Thanks, [CUSTOMER_NAME]. Thanks for sending that through.
+
+Customer at 468.0s:
+All good. See you.
+
+Agent (Human) at 469.0s:
+See you. Bye.

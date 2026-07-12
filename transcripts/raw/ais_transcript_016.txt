@@ -1,0 +1,116 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+Make a payment.
+
+Agent (Mia) at 9.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.4s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.2s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 22.9s:
+Yes.
+
+Agent (Mia) at 24.9s:
+Just a sec while I send that through. You'll receive a text with the payment link shortly. Is there anything else I can help you with today? Just checking in. Is there anything else I can help you with today?
+
+Customer at 51.7s:
+Nine.
+
+Agent (Mia) at 53.7s:
+You'll receive a text with the payment link shortly. Is there anything else I can help you with today?
+
+Customer at 59.5s:
+Yes. What is the two months worth? Worth? Amount?
+
+Agent (Mia) at 65.9s:
+I can't provide pricing directly over the phone. For payment amounts or quotes, our customer support team can assist. Would you like to be connected to a specialist now?
+
+Customer at 73.2s:
+Yes. Yes, please.
+
+Agent (Mia) at 76.2s:
+You'll find the exact amount for your payment on the link sent via text. Is there anything else I can help you with today? I can't provide the three month payment amount directly. For exact figures, a specialist can assist. Are you ready to be connected to customer support now?
+
+Customer at 94.8s:
+Yes.
+
+Agent (Mia) at 96.8s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 102.4s:
+Yes. Woah. That's it.
+
+Agent (Mia) at 104.6s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 125.5s:
+Hello? Good afternoon, [CUSTOMER_NAME]. This is Shannon. How can I help?
+
+Customer at 150.1s:
+How you doing? Um, I just wanted to make a payment and check you got the right card on file as well.
+
+Agent (Human) at 156.5s:
+Yeah. No worries at all, [CUSTOMER_NAME]. Just confirming your vehicle that the interlock installed in.
+
+Customer at 162.4s:
+Yeah. I'm missing a bar with the number five b three four n zed four. New Zealand.
+
+Agent (Human) at 169.0s:
+Perfect. Okay. So, [CUSTOMER_NAME], did you wanna make a payment for two months?
+
+Customer at 175.4s:
+Yes, please.
+
+Agent (Human) at 177.1s:
+No trouble. Just bringing up my payment. Won't be two seconds, Josh.
+
+Customer at 184.3s:
+You're up.
+
+Agent (Human) at 190.9s:
+Are you okay?
+
+Customer at 192.7s:
+Yeah. Just Kyle was coming a bit quicker than I thought.
+
+Agent (Human) at 196.4s:
+Oh, that was what the squirrel was, was it?
+
+Customer at 200.3s:
+Yeah. My manly at squeal.
+
+Agent (Human) at 202.6s:
+I mean, it was beautiful, I must say. [CUSTOMER_NAME], you do have a card on file [CARD_ON_FILE].
+
+Customer at 210.9s:
+Yep. That's the one.
+
+Agent (Human) at 211.9s:
+That's the one? Wonderful.
+
+Customer at 213.8s:
+Yep.
+
+Agent (Human) at 215.8s:
+That's all gone through for you, Josh. I'll get that set up so you can go and get that monitor completed.
+
+Customer at 221.1s:
+Thank you.
+
+Agent (Human) at 222.2s:
+You're more than welcome. Be careful. Drive safe.
+
+Customer at 225.7s:
+Yeah. Will do.
+
+Agent (Human) at 227.3s:
+Bye, Josh. Bye.
+
+Customer at 228.9s:
+Yeah.

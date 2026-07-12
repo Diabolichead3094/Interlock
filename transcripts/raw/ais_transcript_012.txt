@@ -1,0 +1,71 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.2s:
+Want to speak to someone about a quote.
+
+Agent (Mia) at 10.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.7s:
+Thank you. Have you already received a quote from us before, or would this be your first time requesting one?
+
+Customer at 25.8s:
+I've just received a quote.
+
+Agent (Mia) at 29.0s:
+Understood. Are you ready to be connected to a specialist from our quotes team now?
+
+Customer at 33.9s:
+I am.
+
+Agent (Mia) at 35.7s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 41.1s:
+Plan.
+
+Agent (Mia) at 43.0s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 78.6s:
+Affordable Interlocks. How can I help?
+
+Customer at 81.6s:
+Hi. Uh, my name is Josh. I'm just calling up in regards a quote that I've recently received, um, in regards to an interlock system for one of our company trucks. Essentially, I just wanted to have a quick chat about how everything works in terms of the installation and the monthly fee. It's basically for an employee who's been breath tested on-site and has sort of blown over the limit. So it's essentially like a a twelve month plan that we're looking to put him on with his truck and an interlock system.
+
+Agent (Human) at 116.2s:
+Sorry. Can I ask if this is court mandated or or is this voluntary?
+
+Customer at 122.3s:
+No. This is a voluntary one. Of just an internal performance measure.
+
+Agent (Human) at 128.1s:
+Oh, okay. Just because the quote that you've entered, so it's under the one that we've sent you. It's for a it's for, like, a court mandated program. Because if you're put like, if in New South Wales, if you're put in interlock program, you'd normally go like, they go through us. So in this case, I might need to get it requoted because at the moment, we've quoted you as, like, a in, like, the mandated program. So I'll have to do you mind if I just contact my manager, and then we'll get back to you just because it the price will change just because you'll get your purchasing the vehicle. Purchasing the interlock.
+
+Customer at 174.9s:
+Yeah. Yeah. That that's completely fine. I thought I did it right and clicked the voluntary
+
+Agent (Human) at 178.6s:
+No. It actually looks like you did click voluntary. We've just quoted you as mandatory. Sorry. I'll send this to my manager, and then we'll get back to you very
+
+Customer at 184.6s:
+No.
+
+Agent (Human) at 187.9s:
+shortly. I do apologize for that, Josh.
+
+Customer at 190.4s:
+Perfect. Thank you very much for that.
+
+Agent (Human) at 191.6s:
+No. No worries at all. Have a good day.
+
+Customer at 194.1s:
+You too. Bye bye.
+
+Agent (Human) at 194.4s:
+Thank you. Bye bye.

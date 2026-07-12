@@ -1,0 +1,335 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+Hello. That's Mia.
+
+Agent (Mia) at 10.2s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 11.5s:
+Hello? Yeah. The cumin. My price is
+
+Agent (Mia) at 20.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 21.8s:
+yeah. Kung the queen, the nine July nineteen sixty eight.
+
+Agent (Mia) at 31.2s:
+Thank you. How can I assist you with your interlock system today?
+
+Customer at 34.5s:
+I just received the, you know, interlock program with the for the maybe the final reading with the data. Can I pay?
+
+Agent (Mia) at 46.6s:
+Understood. Do you have the payment value or amount ready?
+
+Customer at 51.5s:
+Yeah. I think the did you look at that? Is it $132? That's correct?
+
+Agent (Mia) at 58.9s:
+Just a sec while I get that sorted for you. A payment link will be sent to your mobile shortly. Once you receive it, you can complete your payment online. Is there anything else I can help you with today?
+
+Customer at 72.8s:
+Yeah. Normally, I pay you know, I talk to one year college. And they will ask me to bring to the service because I need to have a final data reading. To release, you know, my suspension. From the interlock program.
+
+Agent (Mia) at 92.2s:
+Understood. Have you already received your official completion notice for the interlocutor? Program?
+
+Customer at 98.9s:
+No. That's why I'm calling now. Because I think go to the main road and they said I got to ring the interlock program.
+
+Agent (Mia) at 107.9s:
+Are you in Queensland? If so, I can send you a link by
+
+Customer at 109.7s:
+Yes.
+
+Agent (Mia) at 111.0s:
+SMS to check your program and date online. Would you like me to send that now?
+
+Customer at 119.0s:
+Yeah. Yeah. Can you send you send me the link or email? Yes. Yeah. Yeah. But, I mean, what what the link is is all about? This is the order information. About what I need to do or what?
+
+Agent (Mia) at 135.5s:
+One moment, please, while I send that link.
+
+Customer at 138.0s:
+Yes.
+
+Agent (Mia) at 139.6s:
+You'll get a text with a link to check your program and date online. I'm also sending our office email address for when you receive your completion notice. Would you like to speak with customer support as well?
+
+Customer at 151.4s:
+Yeah. Yeah. The other one, I always talk with, you know, customer support because, know, because I'm I'm I'm I'm don't have a lot of, you know, the Internet, you know, and all the, you know, technologies program. I did talk to your boy, you know, your support, you know, people.
+
+Agent (Mia) at 170.8s:
+All good. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 174.6s:
+Thank you. Yes. Thank you.
+
+Agent (Mia) at 177.5s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 181.3s:
+Okay. Thank you.
+
+Agent (Mia) at 184.7s:
+Connecting you now. One moment, please.
+
+Customer at 187.0s:
+Thank you, ma'am.
+
+Agent (Human) at 219.1s:
+Hi. [AGENT_NAME] speaking. How can I help?
+
+Customer at 221.7s:
+Hello? Yes. So who I'm speaking to, please?
+
+Agent (Human) at 224.8s:
+Hailey.
+
+Customer at 225.7s:
+Hi, Lee. Hi, Lee. Yeah. I'm talking to, you know, one of your, you know, your central like, the send the link. Is it somebody send me to your you know, I can talk to you Kelly. Yeah. I just took my, you know, interlock program. Is will be due will be due on Friday. And I I talked to Interlock, and they asked me, you know,
+
+Agent (Human) at 245.3s:
+Okay.
+
+Customer at 248.3s:
+to contact the main roads.
+
+Agent (Human) at 250.5s:
+Uh-huh.
+
+Customer at 251.5s:
+And you want me to give my radio, and can you look at that? What's I do or what I supply for the last listing?
+
+Agent (Human) at 258.3s:
+It's [AGENT_NAME].
+
+Customer at 259.6s:
+Yeah.
+
+Agent (Human) at 260.1s:
+Yeah. So you need you can go in for your last monitor or your final upload.
+
+Customer at 265.3s:
+Yes.
+
+Agent (Human) at 266.1s:
+You're you're eligible to go in and have that done. But you do need to pay for it. So I have sent you an invoice
+
+Customer at 272.8s:
+I already got the invoice. Is it $132? Is that correct?
+
+Agent (Human) at 272.8s:
+It's a hundred and thirty two Correct.
+
+Customer at 277.4s:
+Right.
+
+Agent (Human) at 277.8s:
+Yeah. Yep. So you just gotta pay that and then go have a monitor service done.
+
+Customer at 278.6s:
+And
+
+Agent (Human) at 282.8s:
+And then you should have your removal letter in a few days.
+
+Customer at 286.4s:
+So all go all all clear now? All good now?
+
+Agent (Human) at 289.9s:
+I don't know. You'll have to go have your service done.
+
+Customer at 292.7s:
+Yes.
+
+Agent (Human) at 292.8s:
+And then they will send you a removal letter.
+
+Customer at 296.0s:
+Who will send me the the the the what sort of letter again?
+
+Agent (Human) at 298.4s:
+The transport. The transport. We'll send I'll send you an email to say that you can have the device removed.
+
+Customer at 304.8s:
+And how long it take to do that? Is it today or the
+
+Agent (Human) at 307.5s:
+You need to go you need to go have the service done, and then it should be within two days.
+
+Customer at 312.9s:
+So I need to have a service done, and then you the the service will send the data to the main road?
+
+Agent (Human) at 315.6s:
+Yes.
+
+Customer at 318.0s:
+That's what you say?
+
+Agent (Human) at 318.0s:
+Yes. Yep.
+
+Customer at 319.2s:
+The information. And and are they are they not sent to interlock program or no?
+
+Agent (Human) at 319.5s:
+Yes. Yep.
+
+Customer at 324.6s:
+Or they
+
+Agent (Human) at 324.8s:
+No. They send it to the transport, and then the transport will email you
+
+Customer at 326.9s:
+yet.
+
+Agent (Human) at 329.3s:
+your removal letter. So when you get your removal letter, can you let us know, please?
+
+Customer at 336.8s:
+Yes.
+
+Agent (Human) at 338.3s:
+But you need to go have a service done. Can you go today?
+
+Customer at 341.2s:
+Yeah. Yeah. Of course. Because and that's far from where I live. Because and
+
+Agent (Human) at 342.6s:
+Yeah.
+
+Customer at 345.1s:
+they take only about five minutes.
+
+Agent (Human) at 345.2s:
+Perfect.
+
+Customer at 347.2s:
+Do so.
+
+Agent (Human) at 347.6s:
+Awesome. Okay.
+
+Customer at 348.4s:
+Yeah. And and so, though, can who I'm is it Pell Pell?
+
+Agent (Human) at 349.6s:
+Amazing.
+
+Customer at 352.8s:
+Pale?
+
+Agent (Human) at 354.2s:
+Pardon?
+
+Customer at 355.0s:
+So sorry. Can I ask the service about the, you know, the information? How my data reading, or they don't know or they don't answer?
+
+Agent (Human) at 364.5s:
+I want no. They won't know. You've just gotta wait for the transport to look at it.
+
+Customer at 369.0s:
+Alright.
+
+Agent (Human) at 369.2s:
+And send your removal letter.
+
+Customer at 371.4s:
+So I I can go now? Yeah. And you will send me the text message or email? I pay
+
+Agent (Human) at 376.5s:
+Yep. But you need to pay Yeah. Once you pay, we'll send you the text message so you can go have that done.
+
+Customer at 380.8s:
+Yeah. I mean, they they take out my account. I already have the account in there. You double check, please?
+
+Agent (Human) at 388.0s:
+You already have what? Sorry.
+
+Customer at 390.3s:
+My account there?
+
+Agent (Human) at 393.4s:
+Yeah. You you need to pay the invoice. Do you want me to take the payment now?
+
+Customer at 396.2s:
+That's what I'm saying to you. You got my account and you get your man my money. I got the money in there.
+
+Agent (Human) at 402.0s:
+Oh, you want Oh, okay. No worries. Have you got your card card number there? Because it's not coming up.
+
+Customer at 412.4s:
+Yeah. That's good. We need you talk to me all the I now you're gonna have card number. I anyway, I give you again. [REDACTED].
+
+Agent (Human) at 419.5s:
+Uh-huh. Sorry?
+
+Customer at 422.4s:
+One the card number, or the card number? You said the card number or the card the card, Rachel?
+
+Agent (Human) at 429.5s:
+No. The card numb card number.
+
+Customer at 431.9s:
+You mean my my my bank card number?
+
+Agent (Human) at 433.8s:
+Credit card number. Yeah. That's the one.
+
+Customer at 437.1s:
+But I mean, so you haven't got there. Because I mean, I I paid for you about 10 time already. You haven't got there. Are you missing?
+
+Agent (Human) at 444.8s:
+Let me just have a look. Unless it's been saved file, but I can't see it. Let me just have a look going another way. Hang on. Okay. Card [CARD_ON_FILE]. Is that the one?
+
+Customer at 462.5s:
+Yeah. I think so. I I double checked for you. Because I I take my wallet now. Yeah. 1459. Same same one.
+
+Agent (Human) at 469.0s:
+Okay. You're okay for me to do a 132 now?
+
+Customer at 472.5s:
+Yes. Yes. Of course. That's why I'm calling you. What's your name again, please?
+
+Agent (Human) at 476.7s:
+Hailey.
+
+Customer at 477.4s:
+Paley. Yeah. I mean, mean, this is really confusing. You know? I mean, I don't know. I don't Good
+
+Agent (Human) at 484.5s:
+Okay. That's gone through, so you need to go that service done. Okay?
+
+Customer at 488.2s:
+Yeah. So I I will show them the the the the the email you you would take you send me. Right? I already buy. Is that correct?
+
+Agent (Human) at 495.6s:
+You've already paid, and you'll get a text message in a second. Yes.
+
+Customer at 499.3s:
+Yeah. Yeah. But, I mean, because sometimes they ask me, oh, send me the email. You know, I don't show email. I give the text message. You know, the people will ask the question. That's why I'm asking you. You send me the email or text or whatever. I already are they happy to, you know, have a look take the data service?
+
+Agent (Human) at 515.7s:
+Yeah. You'll get a text message. That's why you've gotta show them.
+
+Customer at 519.2s:
+Okay then. Thank you.
+
+Agent (Human) at 521.2s:
+Okay.
+
+Customer at 521.3s:
+Bye.
+
+Agent (Human) at 522.0s:
+No worries. Bye.
+
+Customer at 522.7s:
+Goodbye.

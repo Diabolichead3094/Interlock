@@ -1,0 +1,53 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 4.0s:
+The good. A virtual assistant.
+
+Agent (Mia) at 6.9s:
+All good.
+
+Customer at 9.1s:
+Sorry?
+
+Agent (Mia) at 11.6s:
+No worries. I'm here to help with anything related to affordable interlock systems. I can assist with interlock device support, payments, locations, more. What can I help you with today?
+
+Customer at 22.9s:
+How does it work?
+
+Agent (Mia) at 25.4s:
+I can help with that. Are you asking how the interlock device works? Or do you wanna know about the affordable interlock program in general?
+
+Customer at 29.6s:
+Yes. I wanna know how how how does it work? Is it blow only or is it Hummer Hummer and Blow?
+
+Agent (Mia) at 40.9s:
+I can help with that. The affordable interlock device requires both blowing and humming. You'll need to blow steadily into the mouthpiece while also humming at the same time. This ensures the device can detect a proper breath sample. Would you like step by step instructions on how to do this?
+
+Customer at 55.7s:
+Yes.
+
+Agent (Mia) at 57.8s:
+Understood. To use the device, you'll need to blow steadily into the mouthpiece while humming at the same time. Are you ready for step by step instructions on how to do this?
+
+Customer at 66.4s:
+Yes.
+
+Agent (Mia) at 68.8s:
+First, make sure the device is powered on and ready. Let me know when you're ready for the next step.
+
+Customer at 75.9s:
+Ready.
+
+Agent (Mia) at 78.0s:
+Great. Place your lips firmly around the mouthpiece. Let me know when you're set for the next step.
+
+Customer at 83.1s:
+Done.
+
+Agent (Mia) at 85.4s:
+Now take a deep breath then blow steadily into the mouthpiece while humming at the same time. Let me know when you've tried this and are ready for the next step.
+
+Customer at 96.1s:
+Okay. Thanks.

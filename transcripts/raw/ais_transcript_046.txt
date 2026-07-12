@@ -1,0 +1,122 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+Can Make monthly payment on my end lock.
+
+Agent (Mia) at 10.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+Sandra n Hanawat?
+
+Agent (Mia) at 18.2s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 23.1s:
+Yes. One hundred and thirty two.
+
+Agent (Mia) at 26.2s:
+Just a sec while I send that through. You'll receive a with the payment link shortly. Once paid, you'll get a confirmation SMS. Is there anything else I can help you with today?
+
+Customer at 40.0s:
+Yes. Put me through to a person.
+
+Agent (Mia) at 43.4s:
+All good. I'll get you over to our customer support team now. Are you ready to be connected?
+
+Customer at 48.8s:
+Yes.
+
+Agent (Mia) at 50.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 87.1s:
+Good morning, Sandra. It's Shannon. How are you this morning?
+
+Customer at 91.0s:
+Hello, Shannon? It's now turned to play the 132.
+
+Agent (Human) at 95.5s:
+Okay.
+
+Customer at 95.7s:
+I'm paying a bit I'm paying it a bit early because I'm going to wage Cairns for a week.
+
+Agent (Human) at 100.6s:
+Oh, can I come with you?
+
+Customer at 101.1s:
+Come Monday.
+
+Agent (Human) at 104.0s:
+It'd be nice and warm up there, surely.
+
+Customer at 107.0s:
+On us, parents, it's superb. 26 during the day.
+
+Agent (Human) at 110.2s:
+Oh, nice. Alright. Let's get this sorted for you so you can enjoy your holiday.
+
+Customer at 117.8s:
+Yeah. I thought about doing it on Friday, and then I went and asked stuff it. I'll do it today.
+
+Agent (Human) at 122.4s:
+Mhmm. Okay, Sandra. Ready for your card details whenever you are.
+
+Customer at 129.2s:
+Yep. [REDACTED]
+
+Agent (Human) at 132.4s:
+Yes.
+
+Customer at 133.1s:
+then then six thousand
+
+Agent (Human) at 136.1s:
+Yes.
+
+Customer at 137.9s:
+[REDACTED]
+
+Agent (Human) at 140.5s:
+Yep.
+
+Customer at 142.0s:
+[REDACTED]
+
+Agent (Human) at 144.8s:
+Okay. And the expiry, Sandra?
+
+Customer at 147.9s:
+March thirty.
+
+Agent (Human) at 150.3s:
+And the [CVV].
+
+Customer at 152.7s:
+Nine twenty.
+
+Agent (Human) at 153.9s:
+09/20. Wonderful. Wonderful. All done. I'll get that onto your account so you can get in there and get it done.
+
+Customer at 164.4s:
+Yeah. I'm at Josh's now.
+
+Agent (Human) at 166.2s:
+Alright. Perfect. It'll give me about five seconds. Okay?
+
+Customer at 169.9s:
+Okay.
+
+Agent (Human) at 170.7s:
+Perfect.
+
+Customer at 170.8s:
+No worries. Okay. I'm getting Okay. Thanks.
+
+Agent (Human) at 172.9s:
+Thanks, Sandra. Bye.
+
+Customer at 173.7s:
+Bye. Bye for now.

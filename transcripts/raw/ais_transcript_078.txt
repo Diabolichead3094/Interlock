@@ -1,0 +1,131 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+Talk to a human.
+
+Agent (Mia) at 8.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.3s:
+Thank you. Are you ready to be connected to a specialist now?
+
+Customer at 20.3s:
+Yes.
+
+Agent (Mia) at 22.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 57.0s:
+Good afternoon. You're speaking with Shannon.
+
+Customer at 59.9s:
+Yeah. Hi. My name is [CUSTOMER_NAME]. Yesterday, I had an interlock removed from a vehicle because I was selling it. I wanna see about booking in to get it reinstalled, please.
+
+Agent (Human) at 68.2s:
+Okay. Do you have your new vehicle?
+
+Customer at 68.9s:
+Do it there. You think I? Yeah. I do.
+
+Agent (Human) at 72.2s:
+Okay. What I can do is send you through a quote link form, [CUSTOMER_NAME]. We'll get that process started Once the quote team sends it back to you, you just hit the enroll now button, and we'll be able to get that in installed for you.
+
+Customer at 84.5s:
+Okay. I think I've got her quite previously. Is that the same thing? Because I've already
+
+Agent (Human) at 89.0s:
+Let's have a
+
+Customer at 89.3s:
+or is it a different process? I've yeah. I've already got
+
+Agent (Human) at 91.2s:
+Let's have a look.
+
+Customer at 92.8s:
+yeah, I already paid for the uninstall, obviously.
+
+Agent (Human) at 95.4s:
+Mhmm.
+
+Customer at 96.5s:
+Well, I I paid more, but they said it would just come off the the final price anyway.
+
+Agent (Human) at 101.3s:
+Yeah. Okay. So we did have a removal ran reinstall quote.
+
+Customer at 106.2s:
+Yep.
+
+Agent (Human) at 106.2s:
+So that would be going from a are we going into another Mercedes? Is that right?
+
+Customer at 111.9s:
+Yeah. $20.12. Yeah. $20.12 c 63.
+
+Agent (Human) at 114.5s:
+Okay. Perfect. No. That seems about right. Let you should have that quote with you, [CUSTOMER_NAME]. You still got that quote?
+
+Customer at 121.9s:
+I did I did have an email, yeah, previously.
+
+Agent (Human) at 124.9s:
+Yeah. So that was emailed back on the tenth. Now on there, there is a
+
+Customer at 128.6s:
+Yeah.
+
+Agent (Human) at 131.2s:
+there's a permission to install because you're not
+
+Customer at 134.1s:
+Yeah.
+
+Agent (Human) at 134.5s:
+a registered owner, so we'd need that completed. And we would also need the additional vehicle or the new vehicle for interlock that is on that that quote.
+
+Customer at 145.2s:
+Okay. Do I have to get it registered first? Is that what you're saying or no?
+
+Agent (Human) at 148.5s:
+Yes. You will have to get it registered before we can install the interlock. Yes.
+
+Customer at 152.3s:
+Oh, okay. Alright. Well,
+
+Agent (Human) at 153.3s:
+Yeah. 100%.
+
+Customer at 155.2s:
+yeah. So I'm gonna do that, but I pulled up the the place. I just wanted to see if I can book it in for Wednesday. They said they're happy to do that, but I just wanna make sure I've got the booking because I have to coordinate with work and everything like that. And in the meantime, I'll still get it registered.
+
+Agent (Human) at 167.7s:
+Mhmm. When are you gonna get so you're talking, like, not tomorrow, tomorrow, are you? Or
+
+Customer at 172.7s:
+No. Sorry. Next next Wednesday.
+
+Agent (Human) at 173.8s:
+you can't say okay. Yeah. I was like, oh my goodness.
+
+Customer at 174.5s:
+The week. Yeah. Just wanna make sure I get the booking in, that's all, with the rapid order.
+
+Agent (Human) at 177.9s:
+Yeah. Yeah. So if you can fill out that new vehicle for interlock, that's on your quote that's being sent to you, so then we can book that in for you.
+
+Customer at 185.4s:
+Yeah. Alright. It's easy.
+
+Agent (Human) at 190.3s:
+Perfect. Thank you, [CUSTOMER_NAME].
+
+Customer at 192.3s:
+Thanks. Bye.
+
+Agent (Human) at 193.0s:
+Thanks. Bye.

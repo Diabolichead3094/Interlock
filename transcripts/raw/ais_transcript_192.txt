@@ -1,0 +1,230 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 9.0s:
+Speak to an operator, please.
+
+Agent (Mia) at 12.0s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 17.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 21.2s:
+Thank you. Just confirming you'd like to speak with a specialist now. You ready to be connected?
+
+Customer at 26.4s:
+Yes, please.
+
+Agent (Mia) at 28.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 60.9s:
+Good afternoon. Good afternoon. Affordable Interlock.
+
+Customer at 74.9s:
+I'm fine. How are you?
+
+Agent (Human) at 76.6s:
+I'm good. Thank you. How are you?
+
+Customer at 79.0s:
+Good. Thanks. I was really excited with the start of the phone call. I'm not used to that kind of stuff.
+
+Agent (Human) at 94.3s:
+What kind of stuff was it? Sorry.
+
+Customer at 94.7s:
+I need to make an like AI. Virtual assistant.
+
+Agent (Human) at 104.3s:
+Okay. How can I help you then?
+
+Customer at 108.5s:
+I need to make an appointment on the if possible. For my car to be recalibrated. It's the last day.
+
+Agent (Human) at 117.6s:
+Okay. Have you called the service center directly? Because we don't take those bookings. You've called affordable interlocks. But you called the service center to book yourself in.
+
+Customer at 129.3s:
+Okay. So I need to call the service center, book myself in, and then pay affordable interlock
+
+Agent (Human) at 134.5s:
+Correct.
+
+Customer at 134.7s:
+Is that right? The first thing you're doing is
+
+Agent (Human) at 135.2s:
+Yeah. Yeah. Is this the first one you've ever done?
+
+Customer at 137.0s:
+that Can I pay for it now?
+
+Agent (Human) at 141.9s:
+Sure. Can I have your name, please?
+
+Customer at 145.3s:
+[CUSTOMER_NAME] Rossi.
+
+Agent (Human) at 148.4s:
+I just need to log back in again. So how how do you normally book up your services? [CUSTOMER_NAME], it looks like you've had the service before. You've had been blocked for a little bit. Yeah?
+
+Customer at 161.1s:
+Hey.
+
+Agent (Human) at 162.1s:
+Do you normally call the service center?
+
+Customer at 162.8s:
+Hey. Yeah. No. Salvation Army have been paying for it, and I've asked for another one. But I don't know if I'm gonna get confirmation this week. So
+
+Agent (Human) at 177.1s:
+Okay.
+
+Customer at 177.6s:
+and it I've got till Thursday, and I've got surgery on Wednesday. So I really need to get it done on Thursday, if possible.
+
+Agent (Human) at 185.2s:
+Okay. But in the past, who's booked your services? Because we we don't take those Do you usually call directly to the service center?
+
+Customer at 193.7s:
+Oh, you send me a message. That it's paid for, and then I book it on my own.
+
+Agent (Human) at 199.2s:
+Okay. So I've got a card off file that [CARD_ON_FILE] now because you don't have financial assistance. It would be a $132 that you need to pay today. Would you like me to process the payment on that card [CARD_ON_FILE]?
+
+Customer at 211.3s:
+Yep. No. I've got a new card. Sorry. That card
+
+Agent (Human) at 217.9s:
+That's okay. When you're ready, if you'd to go ahead with that card number, please.
+
+Customer at 223.6s:
+[REDACTED]
+
+Agent (Human) at 226.0s:
+Yes.
+
+Customer at 228.9s:
+[REDACTED]
+
+Agent (Human) at 231.6s:
+Yes.
+
+Customer at 233.9s:
+[REDACTED]
+
+Agent (Human) at 236.0s:
+Yes.
+
+Customer at 238.0s:
+[REDACTED].
+
+Agent (Human) at 242.1s:
+And the expiry date?
+
+Customer at 245.8s:
+Zero six thirty
+
+Agent (Human) at 247.7s:
+And the three digit number on the back.
+
+Customer at 250.8s:
+six, double three.
+
+Agent (Human) at 253.0s:
+Okay. So that's the card ending on sorry. Ending on 4724 for a payment of $132. Is that correct?
+
+Customer at 261.9s:
+That's correct.
+
+Agent (Human) at 262.3s:
+Okay. I'll just post your statement now. Okay. So that payment's been set up. I will update your account now. Now we'll be setting up the payment to come off the same card? Oh, sorry. Will this not future invoices to be sent to you, not coming off of any card at all. But will just be set up as a card. Do you have a condition card? Are you a condition card holder?
+
+Customer at 288.0s:
+I've got a health care card.
+
+Agent (Human) at 289.7s:
+Okay. Do you have that with you? I just don't have that on file.
+
+Customer at 295.5s:
+Yeah. Do you need the concession number?
+
+Agent (Human) at 299.6s:
+Yes, please.
+
+Customer at 302.1s:
+Two zero three
+
+Agent (Human) at 303.3s:
+Two zero three
+
+Customer at 305.9s:
+two nine eight
+
+Agent (Human) at 306.7s:
+two nine eight
+
+Customer at 309.5s:
+two, double six, t
+
+Agent (Human) at 311.1s:
+two, double six, p, did you say?
+
+Customer at 314.6s:
+Yeah.
+
+Agent (Human) at 314.7s:
+And the expiry date, please?
+
+Customer at 319.3s:
+Oh, sorry. I know.
+
+Agent (Human) at 320.0s:
+That's okay.
+
+Customer at 322.0s:
+I just knew that off by heart, so I just sent it to you that Full of March 27.
+
+Agent (Human) at 342.2s:
+Four of the third twenty twenty seven. Okay. Perfect. I'll update it on your account now, and we'll we'll get the tick message in a couple of minutes just confirming you've made that payment. Okay?
+
+Customer at 352.6s:
+Yep. So I just are you able to do me a favor and send me the a text message of the Fairy Meadows one?
+
+Agent (Human) at 361.2s:
+The what? Sorry?
+
+Customer at 364.7s:
+The I go to Fairy Meadows. To get the interlock service.
+
+Agent (Human) at 369.7s:
+And what are you asking me for?
+
+Customer at 373.3s:
+The number.
+
+Agent (Human) at 373.9s:
+Okay. I'll have to find that for you, and I'll send that to you in a text message.
+
+Customer at 380.0s:
+Oh, thank you very much. Because they're really hard to find.
+
+Agent (Human) at 381.2s:
+Yep. Okay.
+
+Customer at 384.3s:
+It's [AGENT_NAME] second time going there, but it's a lot quicker from where I live.
+
+Agent (Human) at 387.6s:
+Okay. No problem. I'll send that to you in a text message. Okay?
+
+Customer at 392.6s:
+Alright. Thank you very much.
+
+Agent (Human) at 393.3s:
+You're welcome. Thanks, [CUSTOMER_NAME]. Bye bye.
+
+Customer at 396.8s:
+Bye.

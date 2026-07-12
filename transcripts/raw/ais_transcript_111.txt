@@ -1,0 +1,242 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.8s:
+Making payment.
+
+Agent (Mia) at 10.0s:
+Do you have the payment value or amount ready?
+
+Customer at 13.5s:
+No.
+
+Agent (Mia) at 15.5s:
+Since you're not sure of the payment amount, I'll need to connect you with a specialist who can help. Would you like to be transferred now?
+
+Customer at 22.7s:
+Yes, please.
+
+Agent (Mia) at 25.1s:
+Are you ready be connected to a specialist now?
+
+Customer at 27.6s:
+Yes.
+
+Agent (Mia) at 29.4s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 34.7s:
+Yes.
+
+Agent (Mia) at 36.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 73.7s:
+Affordable Interlocks. This is [AGENT_NAME].
+
+Customer at 76.4s:
+Hey, Tracy. Um, I had my inner lock booked in for tomorrow just for a service.
+
+Agent (Human) at 82.9s:
+Mhmm.
+
+Customer at 83.5s:
+I just I just called them to see if I'm able to change the date, the place I'm getting it done to Friday, and they said that was fine. They said just to come in and get it done, but they said I need to pay the invoice prior to coming in with you guys.
+
+Agent (Human) at 97.9s:
+Sure.
+
+Customer at 98.4s:
+And the in and the invoice is for for ninety days I'm wondering if I can change it and do just a monthly one, if possible.
+
+Agent (Human) at 105.4s:
+Yeah. Not a problem. Now did you want to change it from ninety to thirty days from here on in for the rest of your program or just for the moment?
+
+Customer at 117.4s:
+The rest of my program, if possible.
+
+Agent (Human) at 118.7s:
+Yep. Okay. Not a problem. I'll just go through. Can I get you to confirm your registration for your vehicle, please?
+
+Customer at 127.3s:
+Nine seven eight m k three.
+
+Agent (Human) at 129.5s:
+Thank you. Charlie, just going through and updating these invoices for you. K. So for ninety days, you're looking at sorry. For thirty days, you're looking at one ninety eight fifty.
+
+Customer at 189.3s:
+Yep. That's fine. And I'll and I'll just get that email sent through, and I'll be able to make payment through my email. So
+
+Agent (Human) at 198.7s:
+Yeah. Absolutely. I'm just setting them up
+
+Customer at 200.6s:
+Perfect.
+
+Agent (Human) at 201.1s:
+for you now.
+
+Customer at 202.4s:
+Awesome. And and is it alright if I'm able to go in on Friday instead tomorrow? Would that infect me by any chance?
+
+Agent (Human) at 209.4s:
+Yes. It will. So your service was actually due on the June 10. So you have until tomorrow to get the service done. Otherwise, it will lock out.
+
+Customer at 221.0s:
+Oh, shit. So how can I is there a way to avoid that or not at all? Because I've won't.
+
+Agent (Human) at 227.8s:
+Anyone could take it in for a service? It doesn't have to be you.
+
+Customer at 232.4s:
+Yeah. Alright. I'll see I'll I'll see if I'm able to leave work today early.
+
+Agent (Human) at 239.0s:
+Mhmm.
+
+Customer at 239.0s:
+Go in and get it done if possible.
+
+Agent (Human) at 240.6s:
+Yeah. Make sure you give your service center a call.
+
+Customer at 241.9s:
+Yeah.
+
+Agent (Human) at 243.6s:
+And make sure they can get you in before you leave work early and then find out you can't
+
+Customer at 248.4s:
+Start.
+
+Agent (Human) at 249.0s:
+get in.
+
+Customer at 250.5s:
+Can I can I can I go to any service center, or does it
+
+Agent (Human) at 250.7s:
+Yeah.
+
+Customer at 253.4s:
+to be one where I got it installed at?
+
+Agent (Human) at 255.5s:
+Any of any available Whereabouts are you working at the moment?
+
+Customer at 260.1s:
+I'm currently in Southport, but I got it done in Burley.
+
+Agent (Human) at 263.3s:
+Yeah. Okay. So with Southport, we have one at Labrador. Or which is more more like Big Row Waters.
+
+Customer at 272.1s:
+Daniel.
+
+Agent (Human) at 272.9s:
+The next one would be either Mermaid or Burley.
+
+Customer at 277.7s:
+And are they are they all master teams?
+
+Agent (Human) at 280.2s:
+No. No. Do you want me to send you the details for them?
+
+Customer at 281.9s:
+Alright. That's alright. If you could, that would be awesome. Thank you.
+
+Agent (Human) at 287.9s:
+Yeah. Not a problem. Yeah, if you can just book in with them after you've made that payment, that would be amazing.
+
+Customer at 298.6s:
+Yep. Get that done.
+
+Agent (Human) at 302.3s:
+Okay. Now I've sent you the invoice for thirty days. Did you want me to take that payment now?
+
+Customer at 312.1s:
+Yeah. Yeah. If she can.
+
+Agent (Human) at 313.8s:
+Yeah.
+
+Customer at 313.8s:
+Would be awesome.
+
+Agent (Human) at 314.8s:
+Yep. Not a problem. Have you got your card there with you?
+
+Customer at 320.3s:
+Got two seconds. Alright. My card details are [REDACTED]
+
+Agent (Human) at 341.0s:
+Mhmm.
+
+Customer at 342.9s:
+[REDACTED]
+
+Agent (Human) at 344.9s:
+Mhmm.
+
+Customer at 346.4s:
+[REDACTED]
+
+Agent (Human) at 348.7s:
+Yes.
+
+Customer at 350.2s:
+[REDACTED].
+
+Agent (Human) at 352.6s:
+Thank you. Expiry.
+
+Customer at 355.4s:
+Zero one two eight
+
+Agent (Human) at 357.1s:
+Mhmm. And [CVV] number on the card on the back?
+
+Customer at 361.0s:
+eight one four.
+
+Agent (Human) at 362.5s:
+K. Is your name on the card is it Tyler Space Prince? Any middle initial or anything else?
+
+Customer at 368.3s:
+No. That's all.
+
+Agent (Human) at 369.7s:
+Okay. Okay. So putting $1.98 50 through on that card now for you. Excellent. That's gone through for you. Now if you wanna give us a callback and let us know where you've booked in, and then we'll be able to set up that monitor for you as well. K.
+
+Customer at 396.0s:
+The monitor.
+
+Agent (Human) at 397.7s:
+Yeah. The service that you're going in for now.
+
+Customer at 399.6s:
+Oh, yeah. Yeah. Yeah. Awesome. Yeah. Alright. Awesome. Thank thank you so much for that.
+
+Agent (Human) at 400.9s:
+Yep. Not a problem at all? Okay.
+
+Customer at 405.2s:
+K. Thanks. Bye.
+
+Agent (Human) at 406.2s:
+Fantastic. Give us a call and let us know where you're going. And I'll send you the details as well.
+
+Customer at 409.1s:
+Yep. Will do.
+
+Agent (Human) at 410.4s:
+Yep.
+
+Customer at 410.8s:
+Awesome. Thank you.
+
+Agent (Human) at 411.0s:
+Thank you. Okay. Bye.
+
+Customer at 411.7s:
+You. Bye.

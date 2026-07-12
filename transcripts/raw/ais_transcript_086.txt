@@ -1,0 +1,32 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+Can I please speak with a person?
+
+Agent (Mia) at 9.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.0s:
+Thank you. Just confirming you'd like to speak with a specialist. Are you ready to be connected now?
+
+Customer at 22.1s:
+Yes. Yes. Thanks.
+
+Agent (Mia) at 24.7s:
+I'll get you over to our customer support team now. One moment. Sorry. It looks like our team wasn't able to answer just now. Should we reach you on (614) 132-7110? Or would you prefer a different number?
+
+Customer at 89.9s:
+Yes. That number. Thanks.
+
+Agent (Mia) at 92.8s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 97.5s:
+Thank you. No. Thanks.
+
+Agent (Mia) at 100.3s:
+Thanks. Thanks for calling

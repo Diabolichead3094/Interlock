@@ -1,0 +1,146 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Can I please speak with a real person?
+
+Agent (Mia) at 8.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 16.7s:
+Thank you. Our office is open right now. Would you like me to connect you to a Are you ready to be transferred?
+
+Customer at 22.8s:
+Yes. Yes, please.
+
+Agent (Mia) at 25.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 58.2s:
+Affordable Intox. This is Tracy.
+
+Customer at 60.7s:
+Hi, Tracy. It's [CUSTOMER_NAME] Pregnan here. How are you going?
+
+Agent (Human) at 63.2s:
+Good. How are you?
+
+Customer at 64.8s:
+Good. Thank you. I just got an email from you guys that you've booked me in an Emerald with McKetta Makita, I think it's pronounced. Sorry. Makita. Yeah.
+
+Agent (Human) at 72.7s:
+Nikita? Yeah? Yep.
+
+Customer at 75.5s:
+For the June 29.
+
+Agent (Human) at 77.7s:
+Yes.
+
+Customer at 79.3s:
+Yep. So I've just rung them. Just I'm on shift for that date.
+
+Agent (Human) at 85.3s:
+Mhmm.
+
+Customer at 87.2s:
+And they said they would I will be able fit me in anywhere between the twenty second and twenty fourth.
+
+Agent (Human) at 94.6s:
+Right. So we need so we've actually sent through the kit for dispatch. If it gets
+
+Customer at 102.2s:
+Yeah.
+
+Agent (Human) at 103.5s:
+there early, we're more than happy for them to install it earlier.
+
+Customer at 109.1s:
+Yep.
+
+Agent (Human) at 110.5s:
+But I'll need to also just check your eligibility as well. Let me just check that now. Yeah. So you're eligible to get it done earlier. That's fine.
+
+Customer at 123.9s:
+Yep.
+
+Agent (Human) at 125.6s:
+Let me just have a look at dispatch when we can dispatch it as soon as like, as soon as that payment's made.
+
+Customer at 134.3s:
+Yep.
+
+Agent (Human) at 139.4s:
+Yeah. Awesome. So when you make that payment for the installation for $8.00 $8.50, we'll be able to dispatch that through for you.
+
+Customer at 152.2s:
+Okay. Brilliant. And will you guys just let me know when the new booking's made?
+
+Agent (Human) at 157.5s:
+Well, if they give you a call, and say, we've got the kit. We're willing to do it early. We'll adjust our
+
+Customer at 160.6s:
+Okay.
+
+Agent (Human) at 165.5s:
+our system to be able to match.
+
+Customer at 168.3s:
+Yeah. Right. Yeah. Because just I'm on swing day shift till twenty fifth to the first. It's July 1.
+
+Agent (Human) at 174.8s:
+Okay.
+
+Customer at 175.0s:
+That's all. Yeah.
+
+Agent (Human) at 177.8s:
+Right. Okay. Yeah. And you'll need to be there for collection of the vehicle.
+
+Customer at 181.5s:
+Yeah. Yes. Yeah.
+
+Agent (Human) at 182.4s:
+So does that mean up until the twenty fourth, are you not working, or are you working a different shift?
+
+Customer at 188.9s:
+Yeah. So I'll be on days off from the June 18 to the June 24.
+
+Agent (Human) at 194.0s:
+Right. Okay. Okay. Yep. Because you just need to be there for collection. So if
+
+Customer at 195.5s:
+Yep.
+
+Agent (Human) at 198.5s:
+you if it if it arrives arrives earlier,
+
+Customer at 198.8s:
+Yeah. Yeah.
+
+Agent (Human) at 201.9s:
+then we're more than happy for that to be installed earlier.
+
+Customer at 206.2s:
+Okay. Awesome.
+
+Agent (Human) at 207.6s:
+Yep. So did you wanna make that payment now?
+
+Customer at 212.0s:
+Yeah. I'll make it tonight while I'm at work. Yep.
+
+Agent (Human) at 214.0s:
+Can I Yep? Okay. Not a problem. So as soon as we can see that's paid, then we'll be able just to dispatch it for you.
+
+Customer at 221.6s:
+Okay. Thank you very much for that.
+
+Agent (Human) at 223.5s:
+Not a problem. Thanks, [CUSTOMER_NAME]. Okay. Bye.
+
+Customer at 225.0s:
+Thanks. Bye bye.

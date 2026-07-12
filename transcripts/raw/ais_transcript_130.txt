@@ -1,0 +1,38 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.5s:
+Can I please talk to a customer support team, please?
+
+Agent (Mia) at 9.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.2s:
+Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 21.3s:
+Yes, please.
+
+Agent (Mia) at 23.5s:
+I'll get you over to our customer support team now. One moment. It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [PHONE_NUMBER]? Or would you prefer a different number?
+
+Customer at 89.6s:
+No. That number will do. Can I get someone to call me back today, please? Otherwise, I won't be able to start my vehicle. Tomorrow because of the immediate recall number thirty. That's on it.
+
+Agent (Mia) at 103.9s:
+Thanks for letting me know. Because you mentioned an immediate I'll need to connect you with a specialist for urgent support. Our team will call you back as soon as possible. Is there anything else I can help you with right now?
+
+Customer at 115.9s:
+No. That's it. Thanks. I just need them to call me back as soon as they can today, please.
+
+Agent (Mia) at 122.8s:
+Perfect. I've noted your details, and our team will be in with you soon. Is there anything else I can help you with today?
+
+Customer at 129.3s:
+No. That's it.
+
+Agent (Mia) at 131.8s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.

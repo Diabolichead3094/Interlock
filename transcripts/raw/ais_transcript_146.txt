@@ -1,0 +1,20 @@
+Agent (Mia) at 0.1s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+I need an interlock installer in Townsville, North Queensland.
+
+Agent (Mia) at 12.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.4s:
+No.
+
+Agent (Mia) at 19.7s:
+Thank you. Have you already received a quote from us for an interlock in installation?
+
+Customer at 24.7s:
+No.
+
+Agent (Mia) at 27.0s:
+Just a sec while I send that through for you. I've sent you a text with a link to submit your details. Our team will follow-up with a quote. Usually

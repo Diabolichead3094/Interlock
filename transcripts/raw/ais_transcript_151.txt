@@ -1,0 +1,158 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.6s:
+[CUSTOMER_NAME]. Can I talk to someone, please? I need a find out how much the one month interlock thing is if I can talk to a customer. Over in a someone who helps me, please.
+
+Agent (Mia) at 17.2s:
+I can certainly help with that. May I have your full name for our records first?
+
+Customer at 21.9s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 26.1s:
+Thank you. Just to confirm, you looking for a quote for a new interlock installation, or do you already have a device fitted and want to know about ongoing monthly costs?
+
+Customer at 36.5s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME]. I already have one ongoing.
+
+Agent (Mia) at 40.8s:
+Understood. For ongoing program costs, I can connect you to our customer support team for details. Are you ready to be connected now?
+
+Customer at 48.2s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME]. That's who I thought I was calling.
+
+Agent (Mia) at 51.8s:
+No worries. I'll get you over to our customer support team now. One moment.
+
+Customer at 55.7s:
+Thank you.
+
+Agent (Mia) at 57.4s:
+You're welcome. Please hold while I connect you to our customer support team now.
+
+Agent (Human) at 93.0s:
+Good good afternoon. Affordable Interlocks. How can I help?
+
+Customer at 96.8s:
+[CUSTOMER_NAME]. How are you doing? Hey.
+
+Agent (Human) at 100.0s:
+Good. How are you today?
+
+Customer at 101.6s:
+So I'll just put off there with that AI thing. Anyway, at least at least I knew you were an AI because we have to say good morning, then we know it was after the
+
+Agent (Human) at 108.2s:
+I know.
+
+Customer at 108.8s:
+So know you're not AI.
+
+Agent (Human) at 110.5s:
+So oh, today's going so quick. Still feels like warning.
+
+Customer at 113.6s:
+I look. What I'm told, I've only got a couple 100 in my account. How much is it for me to go and get that? So I'm due for service.
+
+Agent (Human) at 120.5s:
+Let me
+
+Customer at 122.1s:
+Have I can get you on my number plate, don't you?
+
+Agent (Human) at 125.4s:
+yeah. What's your number plate?
+
+Customer at 127.8s:
+Hey. What? Just get up. It's just here. Another plate is eight three seven m v five.
+
+Agent (Human) at 139.9s:
+Awesome. Let me just get everything up. Alrighty. It's [CUSTOMER_NAME] I'm speaking to.
+
+Customer at 150.5s:
+Yes. [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Human) at 151.4s:
+Hopefully so you can just pay for one month at a time. So for one month, it's just $1.32. So I can see that your
+
+Customer at 157.0s:
+Oh, I can do that.
+
+Agent (Human) at 158.2s:
+yeah, if your invoice is due on the thirteenth. So you've got up until this Friday, closed of business, to head in and attend, um, Marucci door.
+
+Customer at 166.5s:
+[CUSTOMER_NAME]. No. No. I can I pay it now?
+
+Agent (Human) at 168.6s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME]. Absolutely. Let me just
+
+Customer at 170.0s:
+Because when I pay it now, that money won't be there on Friday.
+
+Agent (Human) at 172.9s:
+that's okay.
+
+Customer at 174.4s:
+I just gotta get my wallet since I've just
+
+Agent (Human) at 176.0s:
+[CUSTOMER_NAME]. You're good. Take your time. That's alright.
+
+Customer at 205.9s:
+Actually, you probably won't need it. It's the same time as last time.
+
+Agent (Human) at 208.6s:
+I have a card here, [CUSTOMER_NAME], [CARD_ON_FILE]. Is that the one you're wanting to use?
+
+Customer at 213.7s:
+Let me have a look. I think it is with it's what I used last time. Let me have a look. That's it. That's it.
+
+Agent (Human) at 223.8s:
+That's it? Awesome. Can't you want me to take that payment out now?
+
+Customer at 225.0s:
+Yep. Just yeah. Just that one month. Yep.
+
+Agent (Human) at 228.0s:
+Lovely. And you're heading into Maruchito this week?
+
+Customer at 232.8s:
+No. No. I've gotta get it done in Merva here.
+
+Agent (Human) at 235.2s:
+Oh, Maryborough. Sorry. Maruchito Door, Maryborough. I see it's M, and I think the same thing.
+
+Customer at 237.9s:
+[CUSTOMER_NAME]. [CUSTOMER_NAME]. Thought that morning, so now you know they are.
+
+Agent (Human) at 243.3s:
+Oh, lovely. Well, I'll set every
+
+Customer at 244.6s:
+Again,
+
+Agent (Human) at 246.4s:
+I'll set everything up for you now, and then you'll get that text message to show when you get there.
+
+Customer at 251.2s:
+[CUSTOMER_NAME]. Alright. Thanks. How how many days have I got to get it done?
+
+Agent (Human) at 252.4s:
+Awesome. Thank you so much, [CUSTOMER_NAME]. You've got up until this Friday.
+
+Customer at 257.8s:
+Got it. Okay. I'll call them up there and book it.
+
+Agent (Human) at 259.9s:
+Awesome. Hope you have a great rest of your day.
+
+Customer at 262.6s:
+Same to you. Bye.
+
+Agent (Human) at 263.3s:
+Thank you. Bye.
+
+Customer at 264.8s:
+Bye.

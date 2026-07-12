@@ -1,0 +1,347 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I
+
+Customer at 1.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I Start violation
+
+Agent (Mia) at 12.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.8s:
+I can help with that. May I have your full name for our reference set? Paul Kenneth Mitchell. Thank you.
+
+Agent (Mia) at 17.8s:
+Thank you. How long has your device been locked out for?
+
+Customer at 19.7s:
+How long has your device been locked out for? Ten hours.
+
+Agent (Mia) at 26.7s:
+Since your device has been locked out for ten hours, you'll need to speak with a
+
+Customer at 27.6s:
+Since your device has been locked out for ten hours, you need to schedule a second Alright. Now it's not locked out. It's not locked out.
+
+Agent (Mia) at 38.5s:
+Just to make sure I'm on the right track, are you saying
+
+Customer at 39.4s:
+Just to make sure I'm on the right track, are you saying Hello?
+
+Agent (Mia) at 46.2s:
+All good. How can I assist you with your interlock device today?
+
+Customer at 46.9s:
+All good. How can I assist you with looking for up to life today? Immediate recall. Just to make sure I'm on the right track.
+
+Agent (Mia) at 52.2s:
+Just to make sure I'm on the right track. Did you
+
+Customer at 55.4s:
+Oh, hello. Am I speaking to a real person now?
+
+Agent (Mia) at 61.6s:
+You're speaking with Mia, a virtual assistant. If you'd like
+
+Customer at 62.4s:
+You're speaking with Nina, a virtual assistant. If you'd like
+
+Agent (Mia) at 69.6s:
+You're speaking with Mia, a virtual assistant for affordable in
+
+Customer at 70.5s:
+You're speaking with Mia, a virtual
+
+Agent (Mia) at 77.9s:
+You're speaking with Mia.
+
+Customer at 78.7s:
+You're speaking with me.
+
+Agent (Mia) at 79.6s:
+A virtual assistant for affordable
+
+Customer at 80.5s:
+A virtual assistant for a four year What?
+
+Agent (Mia) at 87.3s:
+Just to make sure I'm on the right track, did you say a
+
+Customer at 88.3s:
+Just to make sure I'm on the right track, did you say It keeps cutting out. Speak to person.
+
+Agent (Mia) at 97.6s:
+Understood. I'll get you over to our customer support team now.
+
+Customer at 99.5s:
+Get you over to our customer support team now.
+
+Agent (Mia) at 101.0s:
+Are you
+
+Customer at 101.8s:
+When you record Thank you.
+
+Agent (Mia) at 104.8s:
+I'll get you over to our customer support team now.
+
+Customer at 105.7s:
+I'll get you over to our customer support team now.
+
+Agent (Mia) at 110.4s:
+I'll get you over to our customer support team now.
+
+Customer at 111.2s:
+I'll get you over to our customer support team now.
+
+Agent (Mia) at 112.9s:
+One moment.
+
+Customer at 113.6s:
+Thank you.
+
+Agent (Mia) at 115.7s:
+Connecting you to our customer support team now.
+
+Customer at 116.5s:
+Connecting you to our customer support team now.
+
+Agent (Mia) at 118.2s:
+One moment, plea
+
+Customer at 119.0s:
+One moment, please.
+
+Agent (Human) at 143.3s:
+Good afternoon. Good afternoon. Affordable Interlocks.
+
+Customer at 164.4s:
+Good afternoon. Affordable Network. Hi. How are you? Name is Paul. I yesterday, I got a start violation error.
+
+Agent (Human) at 173.1s:
+Mhmm.
+
+Customer at 173.6s:
+And I don't know why. There's a couple of reasons maybe. But it's now saying immediate recall.
+
+Agent (Human) at 183.7s:
+Is it what number?
+
+Customer at 184.8s:
+Okay. Oh, I'd have to turn the car off and turn it back on. Not the cars yeah. I've
+
+Agent (Human) at 198.2s:
+Hello?
+
+Customer at 203.7s:
+Hello?
+
+Agent (Human) at 204.1s:
+Hi. I'm hi.
+
+Customer at 206.1s:
+Hi. Yeah. It just it just says ready for test.
+
+Agent (Human) at 208.7s:
+Okay. So it's probably a 06. So what we'll do is we'll enter a code into the handset
+
+Customer at 209.2s:
+Okay.
+
+Agent (Human) at 213.3s:
+Can you hold down the top left button on the handset until the screen says service dates, please?
+
+Customer at 218.1s:
+Sure. What's that doing? Yep. Service dates. Yes.
+
+Agent (Human) at 233.1s:
+Press next until you can see reset on your screen.
+
+Customer at 239.5s:
+Language. Service lockout release. Reset. Yes.
+
+Agent (Human) at 243.9s:
+Mhmm. Select that just by tapping the big button, and you'll get get four zeros on your screen.
+
+Customer at 249.2s:
+Yep.
+
+Agent (Human) at 249.9s:
+Okay. So the first number is 8 So you do left button to change that first number to 8.
+
+Customer at 254.6s:
+Okay. Right. And select.
+
+Agent (Human) at 259.2s:
+Okay. So just please the ticket number is also eight
+
+Customer at 263.0s:
+So I press select there for the first number?
+
+Agent (Human) at 264.9s:
+Yes, please.
+
+Customer at 266.3s:
+Yep. Yep. Eight one
+
+Agent (Human) at 267.6s:
+I mean, 8 again.
+
+Customer at 272.7s:
+Yep.
+
+Agent (Human) at 273.2s:
+3 is the next number?
+
+Customer at 274.9s:
+Great. Yep.
+
+Agent (Human) at 278.9s:
+And then number 9 is the last number?
+
+Customer at 286.3s:
+Yep.
+
+Agent (Human) at 286.6s:
+And you press select the menu, press accept, and it's going to ask you for a subcode.
+
+Customer at 289.1s:
+It's [AGENT_NAME]. Okay. Accept. Yep. Subcode.
+
+Agent (Human) at 291.8s:
+So zero zero
+
+Customer at 296.1s:
+So zero yep. Yep.
+
+Agent (Human) at 297.8s:
+and nine four.
+
+Customer at 303.2s:
+Nine. Four.
+
+Agent (Human) at 307.1s:
+And then select and accept again.
+
+Customer at 307.5s:
+Eight Accept. Okay. So rep says
+
+Agent (Human) at 310.0s:
+Just please
+
+Customer at 312.6s:
+just says ready for test now.
+
+Agent (Human) at 313.5s:
+So that's all that's all clear now.
+
+Customer at 315.7s:
+Alright. Can I just ask a question? So what happened yesterday
+
+Agent (Human) at 317.3s:
+Sure.
+
+Customer at 318.9s:
+I turned the ignition on, and left it on while I was buckling the girls in.
+
+Agent (Human) at 324.2s:
+Okay.
+
+Customer at 324.6s:
+So since we have to turn the ignition on after thirty seconds, it says turn off.
+
+Agent (Human) at 328.8s:
+Mhmm.
+
+Customer at 329.9s:
+Anyway, I didn't turn it off. I was mucking around for about a minute or so. And buckling the girls in the car. And then when I turned it off, it said start violation. And then it let it let me blow and start
+
+Agent (Human) at 340.4s:
+Yeah.
+
+Customer at 342.8s:
+the car in that, but and then from that, it just yeah. It was coming up with this violation thing.
+
+Agent (Human) at 347.8s:
+Yes. Don't send the key until you're ready to go on to the device because that's every you turn the key without providing the breath sample, you're gonna get the as the immediate recall zero seven.
+
+Customer at 358.0s:
+Okay. Not a problem.
+
+Agent (Human) at 358.7s:
+Okay?
+
+Customer at 359.2s:
+And one final question.
+
+Agent (Human) at 361.1s:
+Sure.
+
+Customer at 362.3s:
+I'm moving out of the area that I currently live in tomorrow.
+
+Agent (Human) at 366.3s:
+Okay.
+
+Customer at 366.6s:
+So, obviously, this will need to be serviced by how do I go about changing it to another
+
+Agent (Human) at 373.0s:
+Okay. So where are you moving to?
+
+Customer at 374.0s:
+I'm moving to Fosterton Curry. New South Wales.
+
+Agent (Human) at 378.6s:
+Okay. So do you have your new address or so that I can update your
+
+Customer at 381.9s:
+Yeah. Yeah. Yep.
+
+Agent (Human) at 383.1s:
+address in our system? What what will that be for?
+
+Customer at 385.9s:
+That'll be ninety six
+
+Agent (Human) at 387.6s:
+Yes?
+
+Customer at 389.3s:
+Sea Breeze Parade
+
+Agent (Human) at 391.2s:
+Yes.
+
+Customer at 393.0s:
+Greenpoint,
+
+Agent (Human) at 395.0s:
+Yes. Yep. Do have password?
+
+Customer at 397.1s:
+postcode 2428.
+
+Agent (Human) at 399.2s:
+2428. So we've got to see the
+
+Customer at 401.2s:
+Yep.
+
+Agent (Human) at 401.4s:
+center in that area. So what I'll do is I'll update your details in the system. I'll send you a text message and an email with the updated service center that's closest to that new area. Okay?
+
+Customer at 410.7s:
+That's awesome. Thank you so much.
+
+Agent (Human) at 412.0s:
+You're welcome. Thank you. Have a good day.
+
+Customer at 413.6s:
+Thank you. Have a lovely day. Bye.
+
+Agent (Human) at 415.0s:
+Bye.
+
+Customer at 415.7s:
+Bye.

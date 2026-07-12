@@ -1,0 +1,200 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.1s:
+I'm inquiring about my service.
+
+Agent (Mia) at 11.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+Soda and power.
+
+Agent (Mia) at 17.9s:
+Just to make sure I'm on the right track, did you say soldier power? Could you clarify what you mean in relation to your interlock service?
+
+Customer at 25.6s:
+Joel Taylor.
+
+Agent (Mia) at 28.5s:
+Thank you. You please clarify if you are asking about a service monitor or calibration for your interlock device, or is this about something else?
+
+Customer at 36.6s:
+It's [AGENT_NAME] a payment for a service.
+
+Agent (Mia) at 42.7s:
+I can help with that. Could you please provide your full name for our records first?
+
+Customer at 48.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 51.2s:
+Just to clarify. Is Soldier's Tower related to your interlock service, or are you asking about something else? If you need help with your interlock device, please let me know your full name so I can assist.
+
+Customer at 63.0s:
+Can I please talk to a human? Like,
+
+Agent (Mia) at 67.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 72.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 76.0s:
+Thank you. Would you like to speak with a specialist now about your service concerns? I can connect you right away if you're ready.
+
+Customer at 81.2s:
+Yes. Yes, please.
+
+Agent (Mia) at 84.2s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 87.3s:
+Thank you.
+
+Agent (Mia) at 90.0s:
+Connecting you now. One moment, please.
+
+Customer at 93.3s:
+Pickup.
+
+Agent (Mia) at 94.8s:
+All
+
+Agent (Human) at 128.0s:
+Affordable interlocks. [AGENT_NAME] speaking.
+
+Customer at 131.2s:
+Hi. I just had a question about payment for one of them for a service that was coming up.
+
+Agent (Human) at 138.8s:
+Alright. And what's your name?
+
+Customer at 141.4s:
+Joel James [CUSTOMER_NAME].
+
+Agent (Human) at 144.0s:
+Alright, Joel. And do you know your registration?
+
+Customer at 147.5s:
+I don't know if it's or sick. I can't remember. D zero two one b g.
+
+Agent (Human) at 157.2s:
+Alright. So you've got the Mazda six. Okay. So you've got a service due now. It's been due since the June 9. So you
+
+Customer at 164.3s:
+Yep.
+
+Agent (Human) at 166.8s:
+actually have until close of business tomorrow, the sixteenth, to complete it before a lockout happens.
+
+Customer at 170.4s:
+Yes. Can I is there any way I could like, I wanna get paid to Wednesday? Is there any way I can can you get, like, a final or something and then charge me more? I'll get through it.
+
+Agent (Human) at 185.7s:
+So what
+
+Customer at 186.0s:
+Next time, I'm gonna be
+
+Agent (Human) at 187.1s:
+so what would happen is you would lock out overnight on Tuesday night. Uh, you could call us on the morning of
+
+Customer at 192.6s:
+Yeah.
+
+Agent (Human) at 194.5s:
+Wednesday, the seventeenth. Uh, you'd pay for the lockout fee at $70.
+
+Customer at 197.0s:
+Yeah. Mhmm.
+
+Agent (Human) at 200.1s:
+And then you'd pay for your service So it'd be $2.68 50 would be the total.
+
+Customer at 204.3s:
+Yeah. Okay. Start today.
+
+Agent (Human) at 206.0s:
+And then we'd give you then we would give you a four hour code and it would allow you to get your service completed.
+
+Customer at 215.5s:
+Okay. I could try and book it in for Wednesday.
+
+Agent (Human) at 221.4s:
+Yes. So you
+
+Customer at 222.2s:
+Afternoon.
+
+Agent (Human) at 223.5s:
+yep.
+
+Customer at 225.0s:
+So I could use my cardamom.
+
+Agent (Human) at 225.1s:
+So yes, so what you would need to do and it's probably advisable to call them and book in, today, like, book in for Wednesday so you don't miss out.
+
+Customer at 234.6s:
+Yep. Mhmm. Yep.
+
+Agent (Human) at 237.8s:
+And then once we give you the code on Wednesday morning, just don't enter it until you're within the four hours of your appointment.
+
+Customer at 245.3s:
+Yep.
+
+Agent (Human) at 245.7s:
+Because once she enter it, it's it basically it's counting down four hours.
+
+Customer at 250.4s:
+Okay. So I'll probably wouldn't be out of tie it until Wednesday around 12:00. Is that all good?
+
+Agent (Human) at 255.8s:
+Alright.
+
+Customer at 257.2s:
+Is that okay?
+
+Agent (Human) at 257.3s:
+That's fine with us. Yeah. You just need to
+
+Customer at 259.0s:
+Yep. Alright.
+
+Agent (Human) at 260.7s:
+make sure that you've got that appointment for Wednesday.
+
+Customer at 264.5s:
+Yeah.
+
+Agent (Human) at 265.7s:
+And, yeah, you give us a call when you're ready to pay, and we can do everything over the phone.
+
+Customer at 270.7s:
+Okay. Cool. Thank you so much.
+
+Agent (Human) at 272.6s:
+No worries. At all, Joel. If in the meantime, you're able to big, steal, or or borrow from someone, the $1.98 50, that could
+
+Customer at 279.2s:
+Yes.
+
+Agent (Human) at 280.3s:
+save you the $70 and the lockout.
+
+Customer at 282.2s:
+Yes. That's all for me. Thank you.
+
+Agent (Human) at 284.8s:
+Alright. No worries at all. Have a good afternoon.
+
+Customer at 286.7s:
+Alright. Bye bye. Thank you.
+
+Agent (Human) at 288.4s:
+Bye.
+
+Customer at 289.5s:
+Bye.

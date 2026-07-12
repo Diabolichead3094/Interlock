@@ -1,0 +1,212 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+I need to speak to an operator.
+
+Agent (Mia) at 8.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.3s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 17.4s:
+Thank you. Are you ready to be connected to a customer support specialist now?
+
+Customer at 22.1s:
+Yes.
+
+Agent (Mia) at 24.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 60.5s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 63.3s:
+Hey. How are doing?
+
+Agent (Human) at 65.3s:
+Good. Thanks. Yourself?
+
+Customer at 68.2s:
+Yeah. I'm alright. Just I had a bit of a so I just let my partner well, he was gonna drive like, reverse the car for me. And he got in the car and he'd been drinking about yesterday. So and he's gone and blown blown over, but I'm in my last performance period. So it's locked him out for five minutes. But you can clearly see, obviously, it was not me who was attempting to drive.
+
+Agent (Human) at 108.5s:
+Alright. So it just means that when it comes up in your data, the transport office would send you a letter and that's when you'll be able to address that with them. So you just need to explain exactly what's happened so they can look at it for you.
+
+Customer at 123.0s:
+Okay. Well, can you write it down as a note so they can look at it? Anyway?
+
+Agent (Human) at 130.7s:
+I can leave a note on your account, but they won't look
+
+Customer at 133.3s:
+Yes. Bye.
+
+Agent (Human) at 134.0s:
+at it until you've had a service, and then you address it with following their dispute process.
+
+Customer at 140.1s:
+Okay. But they will book at your ninth as well?
+
+Agent (Human) at 142.9s:
+They can. Yes. They can refer to those once you've
+
+Customer at 145.9s:
+Okay. Great.
+
+Agent (Human) at 146.5s:
+sent your dispute notice in.
+
+Customer at 148.6s:
+Alright. Sweet. Yeah. Yeah. So yeah. It was just
+
+Agent (Human) at 151.0s:
+Alright. So sorry. Can I just
+
+Customer at 153.1s:
+yeah.
+
+Agent (Human) at 154.3s:
+grab your name and your vehicle details?
+
+Customer at 157.1s:
+Yeah. My name is Brooke Stonehill Baner.
+
+Agent (Human) at 159.7s:
+Mhmm.
+
+Customer at 161.1s:
+Yep. Nine six two eight eight four.
+
+Agent (Human) at 166.6s:
+Alright.
+
+Customer at 168.2s:
+Yeah. And the person that was well, attempting to back the car was Jonathan. Yep.
+
+Agent (Human) at 175.6s:
+Okay. So, um, going forward, probably best not to let anyone who has been having a drink.
+
+Customer at 181.4s:
+Well, we what not? What?
+
+Agent (Human) at 183.5s:
+Jump in the car.
+
+Customer at 185.0s:
+It was it was over fourteen hours. But, yeah, I understand that. Yeah.
+
+Agent (Human) at 189.3s:
+Yeah. Just because the performance period is so important and
+
+Customer at 192.8s:
+Yeah. But that's I won't get in trouble for that, will I? Because it wasn't me.
+
+Agent (Human) at 197.3s:
+Well, it's gonna come up in your data, but you'll be able to address it. You just need to follow their process, the transports process. And it will be in any documentation that they send you.
+
+Customer at 209.4s:
+But I I can't get in trouble for him, can I?
+
+Agent (Human) at 209.4s:
+Alright?
+
+Customer at 213.9s:
+That's not
+
+Agent (Human) at 214.9s:
+You're not gonna get in trouble What will happen is the data will register that there's a violation there. They'll send you a letter
+
+Customer at 222.7s:
+Yeah.
+
+Agent (Human) at 224.1s:
+You look at where it says dispute process. It'll have an email address. And you just send your explanation. And then you can even say you've called us, and we've made a note on your account.
+
+Customer at 235.7s:
+Yes.
+
+Agent (Human) at 238.3s:
+Was it only for five minutes, or was it for longer, Brooke?
+
+Customer at 238.4s:
+Okay. No. It's it's just the five minutes.
+
+Agent (Human) at 244.3s:
+Alright.
+
+Customer at 244.7s:
+Yeah.
+
+Agent (Human) at 245.0s:
+And so after five minutes, he was able to retest and he was successful?
+
+Customer at 250.4s:
+No. No. No. We I just took him out of the car when we switched the car
+
+Agent (Human) at 253.5s:
+Okay. Alright.
+
+Customer at 254.5s:
+I just thought that's
+
+Agent (Human) at 256.7s:
+Okay. Alright. Well, I'll just leave a note then. What day was it?
+
+Customer at 261.5s:
+Right now. Like, twenty minutes ago.
+
+Agent (Human) at 263.6s:
+Okay. Alright.
+
+Customer at 265.8s:
+Frozen in top.
+
+Agent (Human) at 266.0s:
+So so
+
+Customer at 267.3s:
+I told I'll back it up. I was just driving. But I told him to back it up. And, yeah, I think I have.
+
+Agent (Human) at 275.1s:
+Alright. Okay. Well, you can't change what's happened. However,
+
+Customer at 279.4s:
+Yeah.
+
+Agent (Human) at 279.5s:
+now you know how to address it when it comes up.
+
+Customer at 281.6s:
+Yeah. Okay.
+
+Agent (Human) at 282.6s:
+So for now, I've left a note on your account. Now, also,
+
+Customer at 285.3s:
+Okay.
+
+Agent (Human) at 286.0s:
+we were waiting to hear from you in regards to your concession expiry.
+
+Customer at 290.1s:
+Oh, yes. I've got that. Do you need it?
+
+Agent (Human) at 292.3s:
+So yes, please.
+
+Customer at 294.2s:
+Okay. Yep. So it is I'm sorry. Yeah. So I've got a new one, and it expires on the 06/10/2027.
+
+Agent (Human) at 307.8s:
+June 10. 2027. Excellent. Alright. I'll update that on your account for you.
+
+Customer at 317.1s:
+Okay. Thank you.
+
+Agent (Human) at 318.4s:
+Alright. Thanks very much. Bye, bro.
+
+Customer at 320.8s:
+Bye.

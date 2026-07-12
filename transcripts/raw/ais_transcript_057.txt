@@ -1,0 +1,47 @@
+Agent (Mia) at 0.0s:
+You today?
+
+Customer at 1.6s:
+Vacation.
+
+Agent (Mia) at 4.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 8.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 13.2s:
+Thank you. If you're going on holiday, you'll need to complete and monitor service before you leave. Would you like the steps for arranging this, or do you have a specific question about your travel dates?
+
+Customer at 22.9s:
+A specific question.
+
+Agent (Mia) at 26.0s:
+Go ahead with your question about your holiday or service schedule. I'm ready to help. Just checking in. Did you still wanna ask your specific about holiday travel or your service schedule? Let me know how I can help.
+
+Customer at 49.7s:
+No.
+
+Agent (Mia) at 51.9s:
+Understood. If you're traveling, you must complete and monitor service before you leave. Travel doesn't exempt you from service deadlines. Would you like the steps for arranging a monitored service, or do you have another question?
+
+Customer at 64.5s:
+Another question.
+
+Agent (Mia) at 67.0s:
+No worries. What's your next question?
+
+Customer at 72.4s:
+Can I get a service at another location?
+
+Agent (Mia) at 76.3s:
+Yes. You can complete your monitored service at any authorized service center nationwide. Would you like a link to find your nearest location?
+
+Customer at 84.4s:
+Okay.
+
+Agent (Mia) at 86.3s:
+Do you have the payment value or amount ready?
+
+Customer at 89.5s:
+Alright.

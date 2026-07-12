@@ -1,0 +1,68 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.9s:
+Mate, I was just wanting to know about an interlock system for my car.
+
+Agent (Mia) at 11.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.2s:
+Thank you. Are you looking for information about getting a new interlock installed? Or do you already have a device fitted and need help with service or calibration?
+
+Customer at 26.9s:
+New information.
+
+Agent (Mia) at 29.3s:
+Have you already received a quote from us for an interlock system?
+
+Customer at 32.7s:
+No.
+
+Agent (Mia) at 34.8s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 48.3s:
+Yes.
+
+Agent (Mia) at 50.0s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected? Are you ready to be connected to our quotes team now? Just let me know, and I'll transfer you through.
+
+Customer at 67.3s:
+Yes. Yes.
+
+Agent (Mia) at 71.4s:
+I'll get you over to our quotes team now. One moment.
+
+Customer at 74.6s:
+Thank you.
+
+Agent (Mia) at 76.4s:
+Connecting you now. One moment, please. It looks like our team is unavailable right now. If you leave your details, someone will be touch with you soon. Should we reach you on [PHONE_NUMBER]? Or would you prefer a different number?
+
+Customer at 138.2s:
+Natalie.
+
+Agent (Mia) at 141.9s:
+Just to confirm, should we reach you on [PHONE_NUMBER], or would you prefer a different number?
+
+Customer at 149.6s:
+Yes. Reach me on that number.
+
+Agent (Mia) at 154.5s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 161.3s:
+No.
+
+Agent (Mia) at 163.6s:
+Thanks for confirming. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 170.5s:
+No. All good.
+
+Agent (Mia) at 172.9s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.

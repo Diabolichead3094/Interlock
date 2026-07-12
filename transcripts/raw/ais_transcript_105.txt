@@ -1,0 +1,122 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Hi, Mia. Can I speak to a human, please?
+
+Agent (Mia) at 9.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.8s:
+Thank you. Our office is currently open. Would you like me to connect you to our customer support team now?
+
+Customer at 23.9s:
+Yes, please.
+
+Agent (Mia) at 26.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 65.1s:
+Hi, [CUSTOMER_NAME]. [AGENT_NAME] speaking. How are you?
+
+Customer at 68.3s:
+Hi, my dear. Good day to you. How are you?
+
+Agent (Human) at 70.3s:
+Good. Thank you.
+
+Customer at 72.2s:
+That's good. I would like you guys to update my middle of over on your end because I'm getting, like, another three months again to do because I got a feedback
+
+Agent (Human) at 83.3s:
+Okay.
+
+Customer at 86.1s:
+yesterday from TMR saying that my dispute was sucked It it went through. So they, yeah, they reinstated
+
+Agent (Human) at 92.7s:
+Okay.
+
+Customer at 96.2s:
+my my old four months probation.
+
+Agent (Human) at 99.4s:
+Okay. So when's your when's your end date?
+
+Customer at 99.8s:
+So it will give me It'll I don't know. Try to check the records. It it'll end next week.
+
+Agent (Human) at 110.0s:
+We don't we don't know. We can only tell when you had it installed. Which was the twentieth of the sixth. So do you think that's your end date?
+
+Customer at 121.5s:
+I I took it for service last week. Yeah. I took it for service last week.
+
+Agent (Human) at 129.2s:
+Oh, you paid up until the fourteenth of the seventh, but I don't know your end date.
+
+Customer at 129.3s:
+And then
+
+Agent (Human) at 133.1s:
+What does it say on your letter? When was your original end date?
+
+Customer at 138.0s:
+Sorry. Original what? Sorry.
+
+Agent (Human) at 139.5s:
+When was your original date that you were finishing the program?
+
+Customer at 143.4s:
+Oh, this is a problem. Okay. I'll just I'll just check here. Sorry. As at the date of this notice, your estimated internal program completion date is midnight twenty fifth June twenty twenty six.
+
+Agent (Human) at 159.4s:
+Okay. Perfect. So you just let us know when you get your final upload letter. So they'll email you on your last day of the well, the day after. Last day of the program. Is they'll ask you to go in for one final monitor service. We just need a copy of that letter. So I would look out for it on the twenty seventh.
+
+Customer at 177.0s:
+Yep. Okay. Okay. So they'll take out the interlock.
+
+Agent (Human) at 188.1s:
+No. You need to go in for a final service.
+
+Customer at 191.6s:
+Okay. When's the final service?
+
+Agent (Human) at 194.4s:
+When they send you the letter on your last day of the program.
+
+Customer at 198.2s:
+Oh, last day of the program. Okay. Okay. Okay.
+
+Agent (Human) at 199.3s:
+Yeah. So I would look out in your emails on the twenty seventh to see if you've got it or not.
+
+Customer at 206.3s:
+Okay. So do I have to pay any fee to have it have them take out the thing? Or
+
+Agent (Human) at 207.4s:
+Okay.
+
+Customer at 211.3s:
+is it free?
+
+Agent (Human) at 211.4s:
+Yeah. Definitely. No. No. It's not free. We're gonna pay them. We'd have to work out how much that is. It's usually $1.80. For removal, and you have to pay $1.20 for your final upload. So we'll work that out once you get that lease up on the twenty seventh.
+
+Customer at 227.8s:
+Okay. Okay. Alright. Yep.
+
+Agent (Human) at 229.1s:
+Okay.
+
+Customer at 229.4s:
+Understandable. Alright. Thank you so much for your help.
+
+Agent (Human) at 231.6s:
+No worries at all. Thank you. Bye.
+
+Customer at 233.6s:
+Alright. Bye bye.

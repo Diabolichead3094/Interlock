@@ -1,0 +1,113 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.8s:
+Permanent lockout.
+
+Agent (Mia) at 9.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.7s:
+Aravind Supaya. S u p p I a h.
+
+Agent (Mia) at 19.5s:
+Thank you. Can you tell me how long the lockout timer on your device is showing right now?
+
+Customer at 25.0s:
+Permanent.
+
+Agent (Mia) at 27.1s:
+Understood. For a permanent lockout, you'll need help from a specialist. Are you ready to be connected to our customer support team now?
+
+Customer at 31.0s:
+Yeah. Yes, please.
+
+Agent (Mia) at 36.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 69.7s:
+Affordable Interlocks. How can I help?
+
+Customer at 72.5s:
+Oh, hi. My name is Aravind. I was just hoping for some advice on how to work out a permanent lockout. Uh, I've been in hospital for four and a half weeks. And when I came back, it said you know, you've missed your routine regular services and downloads. But that was already while I was in the hospital. And I managed to drive it briefly for maybe ten, fifteen minutes, And then on that was Friday. And Saturday, permanent lock in came in. Uh, so I'm still on Medicaid so I'm not allowed to drive. But I'm trying to plan for the week ahead. Do I have to pay a service Because it says I missed my regular routine service. So do I need to pay that?
+
+Agent (Human) at 115.1s:
+Yes. So yeah, so before you attend, you need to so I can I have a note in your account that will waive the four that will waive the fee for you? However, you'll just need to make a one month payment. So just like you normally would or a two month payment. So and I can see that you normally
+
+Customer at 130.9s:
+I'm I'm usually on the two months
+
+Agent (Human) at 132.7s:
+yeah. So you just make a two month payment or you can make a one month whatever you prefer. And then once you've booked in with Fairy Meadows and you've made your payment,
+
+Customer at 133.2s:
+Yeah.
+
+Agent (Human) at 141.3s:
+you can give us a call, and then what we can do is we can provide you a four hour code to get from the vehicle's location to the service center, but we do just wanna ensure first that you have got a booking.
+
+Customer at 154.7s:
+Okay. Yep. That's fine. That that sounds completely reasonable. I'll aim for next week. How do I make the payment? Could you put me through to your payment line or anything just in case? Because clearly, I thought I wasn't
+
+Agent (Human) at 164.4s:
+Do you wanna make the payment now? I can send you an invoice. You should have an invoice that's already been sent to you, actually.
+
+Customer at 168.6s:
+yeah. Yeah. Sure.
+
+Agent (Human) at 172.2s:
+Let me just check that.
+
+Customer at 175.1s:
+And I've got my card right here with me as well, so if that helps.
+
+Agent (Human) at 177.6s:
+Oh, did you wanna make that payment now?
+
+Customer at 180.2s:
+Yeah. Yeah. If if if it makes it easier, saves us emailings.
+
+Agent (Human) at 180.9s:
+Okay. Yeah. Awesome. Sorry. It's just loading. Okay. I have a card on file. It's [CARD_ON_FILE]. Is that the one that you have at the moment?
+
+Customer at 225.2s:
+Let's just have a look. I've got two cards. Sorry. 0189. Yes.
+
+Agent (Human) at 232.4s:
+Lovely. Can I charge that card now?
+
+Customer at 235.0s:
+Yeah. Yeah. Yeah.
+
+Agent (Human) at 235.9s:
+Lovely. So
+
+Customer at 236.3s:
+Hopefully, the balance is enough. It should be enough. I topped it up recently.
+
+Agent (Human) at 239.1s:
+Awesome. Well, that's all gone through. So what we'll do is I'll add all the payment in, and then when you know that you can when someone's taking the vehicle in, just give us a call, and then we'll be able to provide that code to you to get to the service center.
+
+Customer at 253.3s:
+Okay. Fantastic. And I'll get a the usual SMS that says, uh, you've paid for your service, etcetera.
+
+Agent (Human) at 256.6s:
+Yeah.
+
+Customer at 259.4s:
+Please show this at your authorized dealer or whatever. Yeah.
+
+Agent (Human) at 260.7s:
+Yeah.
+
+Customer at 262.8s:
+Okay. Fantastic. Thank you. You've been very helpful. Thank you so much.
+
+Agent (Human) at 265.2s:
+No worries at all. No worries. Have a great afternoon. Thank you.
+
+Customer at 268.2s:
+You too. Bye.
+
+Agent (Human) at 268.9s:
+Bye bye.

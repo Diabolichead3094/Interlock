@@ -1,0 +1,80 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.7s:
+Oh, hi. It's Catherine McArthur calling. I've got to go So I I've got to get my insolor. Checked again. So that's coming up. In the next couple of days. So I need an invoice from you guys so I can show you. The the person that checks it that it's three months since eight.
+
+Agent (Mia) at 35.4s:
+Under Understood. Do you have the payment amount ready for your invoice?
+
+Customer at 46.4s:
+It's [AGENT_NAME] paid up front. I'm talking twelve
+
+Agent (Mia) at 52.7s:
+All good. Since you've already paid, I'll get you over to our customer support team now so they can provide your invoice. Are you ready to be connected?
+
+Customer at 61.6s:
+Yes.
+
+Agent (Mia) at 64.0s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 68.9s:
+Thank you.
+
+Agent (Mia) at 70.7s:
+You're welcome. Please hold while I connect you to our customer support team.
+
+Agent (Human) at 101.4s:
+Good afternoon. You're speaking with Shannon.
+
+Customer at 105.1s:
+Good afternoon. It's Catherine McCallford calling.
+
+Agent (Human) at 108.5s:
+Hi, Catherine.
+
+Customer at 108.8s:
+I've got an hi. I've got another inspection. To have done on my car.
+
+Agent (Human) at 116.4s:
+Mhmm.
+
+Customer at 116.7s:
+For the interlock.
+
+Agent (Human) at 118.5s:
+Yes.
+
+Customer at 119.1s:
+But I need yeah. I just need an invoice from you guys so I can show you
+
+Agent (Human) at 123.8s:
+Yes.
+
+Customer at 125.2s:
+that, yeah, that that's been paid. Because I paid for two months in advance.
+
+Agent (Human) at 128.6s:
+Thank Yeah. No trouble at all. I'll get that set up for you, Catherine, and you'll get your text message very shortly.
+
+Customer at 137.2s:
+Wonderful. Thank you so much. You're very happy.
+
+Agent (Human) at 138.9s:
+You I am. I am. It's late in the afternoon. The sun is shining. What more can you be happy about?
+
+Customer at 143.0s:
+That's right. Thank you. That's right. Well, thank you.
+
+Agent (Human) at 150.6s:
+Alright, Catherine. I will get that sent to you very, very shortly.
+
+Customer at 155.1s:
+Okay. Bye.
+
+Agent (Human) at 156.3s:
+Thanks, Catherine. Bye.
+
+Customer at 158.4s:
+K.

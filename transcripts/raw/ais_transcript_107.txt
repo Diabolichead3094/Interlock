@@ -1,0 +1,23 @@
+Agent (Mia) at 0.0s:
+Assistant. How may I assist you today?
+
+Customer at 3.5s:
+Hey. I just wanted to call to say that I've booked my car in. In Gladstone. I've never booked it in through Gladstone before. I just wanted to let you guys know that I've booked it in through Gladstone.
+
+Agent (Mia) at 17.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 21.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 25.2s:
+Thank you. I've noted that you've booked your car in at Gladstone for the first time. Is there anything else I can help you with today?
+
+Customer at 33.0s:
+No. It's all good. Yeah. I was booked in for next Monday, the twenty second.
+
+Agent (Mia) at 38.1s:
+Perfect. I've noted your details, and our team will be in touch with you soon. Thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 47.2s:
+You too. Bye.

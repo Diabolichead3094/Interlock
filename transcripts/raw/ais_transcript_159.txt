@@ -1,0 +1,38 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 8.0s:
+I just want information on the interlock. Device.
+
+Agent (Mia) at 12.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.0s:
+That. Have you Sure. Suki hyphen
+
+Agent (Mia) at 18.9s:
+Just to confirm. Are you asking about the interlock device removal process or do you need general information about how the device works?
+
+Customer at 29.7s:
+No. Installation.
+
+Agent (Mia) at 33.9s:
+Thank you. Have you already received a quote from us for an interlock installation?
+
+Customer at 38.9s:
+No.
+
+Agent (Mia) at 42.1s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 54.9s:
+Yes, please.
+
+Agent (Mia) at 57.3s:
+Are you ready to be connected to our quotes team now?
+
+Customer at 60.3s:
+Yes.
+
+Agent (Mia) at 62.2s:
+I'll get you over to our quotes team now. One moment.

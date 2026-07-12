@@ -1,0 +1,38 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+Uh-huh. I need to make an appointment for Thursday to get my car interlock serviced.
+
+Agent (Mia) at 15.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 20.9s:
+Yeah. It's all Sierra Rossi.
+
+Agent (Mia) at 26.8s:
+Thank you. Just to confirm, is this appointment for an interlock monitor or calibration service, or is it for general mechanical work on your vehicle?
+
+Customer at 39.2s:
+An interlock service.
+
+Agent (Mia) at 42.1s:
+Thanks for clarifying. Have you already completed your payment? And received a confirmation SMS for your interlock service?
+
+Customer at 48.9s:
+No.
+
+Agent (Mia) at 51.1s:
+Would you like to make a payment now for your interlock service?
+
+Customer at 54.3s:
+Yes.
+
+Agent (Mia) at 57.1s:
+Do you have the payment value or amount ready?
+
+Customer at 59.7s:
+Yes.
+
+Agent (Mia) at 61.9s:
+Just a sec while I send you the payment link. I've sent you a payment link by SMS. Once you've completed the payment and received your confirmation SMS, let me know, and I'll guide you on the next step.

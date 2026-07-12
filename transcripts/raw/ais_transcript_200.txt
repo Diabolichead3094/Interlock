@@ -1,0 +1,74 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 10.1s:
+Booking in interlock data. Request.
+
+Agent (Mia) at 14.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.0s:
+Thank you. Just to clarify, are you looking to complete a data upload for a CIDU notice are you inquiring about booking an installation or getting a quote?
+
+Customer at 36.3s:
+The interlock data request.
+
+Agent (Mia) at 39.8s:
+Just to confirm, are you referring to uploading data for a CIDU notice, or are you looking to book a monitor
+
+Customer at 44.8s:
+Yes.
+
+Agent (Mia) at 45.9s:
+calibration service for your Interlock device?
+
+Customer at 50.5s:
+The CRD
+
+Agent (Mia) at 54.0s:
+Thanks for clarifying. Just to confirm, have you already made your payment for the monitor service? And received a confirmation SMS?
+
+Customer at 59.9s:
+Yes.
+
+Agent (Mia) at 62.6s:
+Understood. Are you ready to be connected to a specialist now to complete your
+
+Customer at 62.9s:
+Yes.
+
+Agent (Mia) at 66.2s:
+CRD data request?
+
+Customer at 68.5s:
+Yes.
+
+Agent (Mia) at 70.3s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 76.5s:
+Yes.
+
+Agent (Mia) at 78.6s:
+I'll get you over to our customer support team now. One moment. Just checking in. Are you still there and ready to be connected to our customer support team? It looks like our team is unavailable right now. If you leave your details, someone will be in touch with you soon. Should we reach you on [REDACTED] [NUMBER], or would you prefer a different number?
+
+Customer at 119.7s:
+That one's fine.
+
+Agent (Mia) at 123.1s:
+Perfect. I've noted your details. And our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 130.2s:
+No.
+
+Agent (Mia) at 132.3s:
+Thanks for letting me know. I've noted your details, and our team will be in touch with you soon. Is there anything else I can help you with today?
+
+Customer at 140.2s:
+No.
+
+Agent (Mia) at 142.5s:
+Thanks for calling Affordable Interlock Systems. Have a a wonderful day.

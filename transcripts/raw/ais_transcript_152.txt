@@ -1,0 +1,233 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.7s:
+Speak to a customer service manager.
+
+Agent (Mia) at 9.9s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.5s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.0s:
+Thank you. Are you ready to be connected to our customer support team now?
+
+Customer at 25.9s:
+Yes.
+
+Agent (Mia) at 28.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 61.8s:
+Hi, [CUSTOMER_NAME]. You're speaking to Tracy.
+
+Customer at 64.5s:
+Oh, hi, Tracy. So I'm in the the affordable interlock services and systems, and everything's been approved. I was just reading one thing on the paperwork that it says that I was supposed to bring an SMS confirmation to the service center. Like, with my name payment for your interlock service in the month it was and has been received. But I have not got a confirmation text message saying those exact words.
+
+Agent (Human) at 91.6s:
+That's for your ongoing maintenance, your monthly or your your servicing?
+
+Customer at 97.1s:
+Okay. So we'll yeah. Sorry. Can you explain what that means then? So do I need to take anything there? Because it's all being paid. I've got an invoice.
+
+Agent (Human) at 104.3s:
+Yep. For your installation, no.
+
+Customer at 106.8s:
+Yeah. Sorry?
+
+Agent (Human) at 109.7s:
+For your installation, you don't need to take anything like that with you. You would just need to make sure that you have your
+
+Customer at 114.1s:
+Okay. Alright.
+
+Agent (Human) at 118.0s:
+your license when you go to pick up the car. So have you been to TMR to get your license?
+
+Customer at 121.3s:
+Okay. No. Tomorrow, I can go.
+
+Agent (Human) at 125.2s:
+Sorry? Yep. Not a problem. Okay. So just make sure that you've got your license
+
+Customer at 126.4s:
+Yep.
+
+Agent (Human) at 129.3s:
+before you drive away on the seventeenth.
+
+Customer at 132.2s:
+Yep. Perfect. Yeah. No worries. I get the driver's license tomorrow, and then I'm going to the shop on the eighteenth.
+
+Agent (Human) at 136.8s:
+Awesome. Okay. Seventeenth?
+
+Customer at 138.2s:
+Yep. Perfect. So that's fine. So I don't need to take anything then. Just my license. Excellent.
+
+Agent (Human) at 142.6s:
+No. We've got the seventeenth as your installation date.
+
+Customer at 143.8s:
+Good to know. No. It's the eighteenth.
+
+Agent (Human) at 153.9s:
+Have a look through here. We've got Wednesday, the seventeenth is your end installation.
+
+Customer at 179.6s:
+Oh, okay. Oh, sorry. Oh, okay. Oh, okay. Yeah. So hold on. Today is the sixteenth.
+
+Agent (Human) at 187.0s:
+Fifteenth.
+
+Customer at 187.1s:
+Isn't it? Fifteenth. Oh, okay.
+
+Agent (Human) at 189.2s:
+Yeah.
+
+Customer at 190.9s:
+Okay. So I'm going when so
+
+Agent (Human) at 193.6s:
+Day after tomorrow.
+
+Customer at 193.9s:
+'15 so Wednesday. Okay. Yeah. No.
+
+Agent (Human) at 196.2s:
+Okay. Okay. Cool.
+
+Customer at 196.9s:
+Sorry. That's what I meant to. I've got my dumb dates confused. Yeah. Wednesday.
+
+Agent (Human) at 199.4s:
+That's alright. That's okay. Just wanted
+
+Customer at 201.1s:
+Which is the first
+
+Agent (Human) at 201.3s:
+to make sure you're gonna turn up on the correct tape. That's all. Yeah.
+
+Customer at 203.6s:
+No. That's alright. I'm glad you checked that for a week.
+
+Agent (Human) at 206.0s:
+That's okay.
+
+Customer at 206.4s:
+It's [AGENT_NAME] it's hard when when you're not going to work every day, and you just lose track of the dates. That's all.
+
+Agent (Human) at 212.3s:
+Oh, yeah. Absolutely. Yeah.
+
+Customer at 213.9s:
+Yeah. Okay. Alright. Well, you've been really helpful.
+
+Agent (Human) at 214.9s:
+So that
+
+Customer at 217.0s:
+Yeah.
+
+Agent (Human) at 217.0s:
+that's okay. That SMS that you were just reading out, when you go and do your your service, so every you'll have to go back for your next service on the July 16.
+
+Customer at 231.6s:
+Yep.
+
+Agent (Human) at 231.6s:
+Which is your first one, you'll have to show them an SMS
+
+Customer at 233.6s:
+Mhmm.
+
+Agent (Human) at 235.3s:
+to show that you've actually approved for your servicing.
+
+Customer at 239.1s:
+Okay. So who sends the text message? Is it you guys?
+
+Agent (Human) at 243.8s:
+Yep. We send you the text message once you've paid. The next round of servicing.
+
+Customer at 248.1s:
+Yep. Okay. And you'll send me an invoice to
+
+Agent (Human) at 252.8s:
+Correct?
+
+Customer at 252.9s:
+that? I will go actually, I set up direct debit, I believe.
+
+Agent (Human) at 254.3s:
+You start an automatic recurring invoice schedule, which will commence on the July 13.
+
+Customer at 261.8s:
+Okay. Righty o. And when I want to book do you guys book the next appointment, or do I per book it? Because it says, I think, you should organize the appointment before you leave or something.
+
+Agent (Human) at 274.6s:
+Correct. Yeah.
+
+Customer at 274.9s:
+Is that correct?
+
+Agent (Human) at 276.0s:
+Yeah. Probably a good a
+
+Customer at 276.1s:
+Yep.
+
+Agent (Human) at 278.1s:
+good practice to get into is that when you leave the service center on Wednesday after the installation, book your next service, which will be thirty days time because it needs to go back for its first check thirty days after install. And then once you've done that one, you'll then book ninety days in advance.
+
+Customer at 297.3s:
+Okay. And that will so the date was did you say, the July 15 is the date to go
+
+Agent (Human) at 302.8s:
+Sixteen.
+
+Customer at 304.0s:
+sixteenth? Okay. I'll write that down so I don't get confused.
+
+Agent (Human) at 304.9s:
+Yeah.
+
+Customer at 307.2s:
+July 16. Maybe they don't know or something. I don't know.
+
+Agent (Human) at 310.7s:
+That's alright. It is also in the handset as well.
+
+Customer at 310.9s:
+So I'll try to oh, okay. Righty o. And then so I booked that in, and then when I book it in, I just turn up with that text message to
+
+Agent (Human) at 320.9s:
+Correct.
+
+Customer at 321.5s:
+show it's all approved. Okay. Got it. Alright.
+
+Agent (Human) at 322.8s:
+Yeah. Yeah.
+
+Customer at 324.4s:
+Quite simple. It's just, you know, something I've done before, so I don't really know anything about it.
+
+Agent (Human) at 327.2s:
+Hi. That's cool. That's totally understandable. Yeah.
+
+Customer at 329.5s:
+I I think yeah. Alright. Well, thanks. You've been very helpful. I think ring earlier to ask for a callback, but you can just cancel that. So
+
+Agent (Human) at 337.9s:
+Not a problem.
+
+Customer at 338.2s:
+that's it. Yep. Perfect. Alright. Thank you so much for your help. Have a lovely rest of the day. Bye.
+
+Agent (Human) at 339.2s:
+Will do. Thank you. You too. Thanks. Bye.

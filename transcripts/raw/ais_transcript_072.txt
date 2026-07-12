@@ -1,0 +1,149 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.4s:
+Need to speak to Ron Mulder.
+
+Agent (Mia) at 8.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 12.1s:
+Car light.
+
+Agent (Mia) at 14.6s:
+Just to make sure I'm on the right track, did you say car light? Could you tell me a bit more about what you need help
+
+Customer at 18.1s:
+Carl Lane.
+
+Agent (Mia) at 20.1s:
+with regarding your interlock device or vehicle?
+
+Customer at 22.9s:
+No. It's in relation to forms that Ron has sent me.
+
+Agent (Mia) at 29.4s:
+Thank you. Since your inquiry is about forms sent by Ron, you'll need to speak with a specialist. Are you ready to be connected now?
+
+Customer at 36.4s:
+Yep.
+
+Agent (Mia) at 36.7s:
+Thanks for confirming. I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 44.6s:
+Yep.
+
+Agent (Mia) at 45.6s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 81.3s:
+Hello. [AGENT_NAME] speaking. How can I help?
+
+Customer at 83.7s:
+Yeah. Hi. How are you?
+
+Agent (Human) at 84.9s:
+Good. Thank you.
+
+Customer at 86.0s:
+That's good. It's Caroline from Fountain Gate Auto Electrics. How are doing?
+
+Agent (Human) at 89.9s:
+Yeah. Good.
+
+Customer at 90.9s:
+That's good. Hey. Ron's just sent us a heap before. Can you excuse me for one second, please, love?
+
+Agent (Human) at 95.8s:
+Yeah. Is Fountain Gate a new one, Sarah?
+
+Customer at 100.7s:
+Thank you for calling Fountain Gate Auto Electrics. Please continue to hold. Our team know you're waiting.
+
+Agent (Human) at 103.4s:
+Fountain Gate.
+
+Customer at 107.7s:
+Did you know Fountain Gate Electrics are the automotive electrical experts? Whether you have a car, truck,
+
+Agent (Human) at 107.9s:
+I know. She runs the Stinter Run to my phone. Thanks for my.
+
+Customer at 114.4s:
+boat, caravan, trailer, or machinery, we can take care of all aspects of their auto electrical requirements. We are your one stop shop So why go anywhere else? Just take you off hold just so I can transfer this other call. Hang on one sec.
+
+Agent (Human) at 131.5s:
+Okay.
+
+Customer at 156.0s:
+Sorry about that, love. Our phone, if we try to transfer
+
+Agent (Human) at 157.4s:
+That's okay.
+
+Customer at 160.0s:
+them, we got another call on hold, you end up sparking to the pen. Person I'm trying to transfer. It's ridiculous.
+
+Agent (Human) at 165.7s:
+Oh my gosh. Okay.
+
+Customer at 166.9s:
+So just like you've got two phones right reasonably close together.
+
+Agent (Human) at 172.1s:
+Oh, how annoying. It's really weird, isn't it?
+
+Customer at 173.6s:
+Yeah. It is. It is. It is. So as I was starting to say,
+
+Agent (Human) at 178.6s:
+Yes.
+
+Customer at 179.1s:
+we're from Fountain Gate Auto Electrics in Victoria.
+
+Agent (Human) at 182.1s:
+Yes.
+
+Customer at 182.4s:
+Ron sent us a heap of net forms he wants us to fill out. I'm just so just need to double check that we need to fill everything out. That's all.
+
+Agent (Human) at 197.1s:
+Oh, I don't know what he would have sent you, but I can try and help.
+
+Customer at 199.8s:
+He sent me the center service center order checklist. Workshop or admin to complete. He sent me the requirements of installation and maintenance personnel, which each installer has to do. They sent me the technician certificate guide and exam for each installer. Then it's got the confidentiality date. Click here and fill out the form. Then he's got here within a link that and then each file installers need to have a police check.
+
+Agent (Human) at 234.8s:
+Yes. I believe so. Can I just put you on hold for two seconds?
+
+Customer at 240.6s:
+Yes.
+
+Agent (Human) at 241.3s:
+Yeah. And talk to this lady. She's lovely, but she's she's going through all the forms, and I'm like, what's that Ron sent it? She's like, do I have to fill all of these out? I'm like, I don't even know what she's talking about. Fountain As In Victoria. Fountain Gate. I'm seeing through all these forms to fill out, and she wants to have she has to fill them all out. So do have to get a place to create everyone? Yeah? Okay. And every single person that's installing has to do a place check? Okay. Are you there?
+
+Customer at 288.2s:
+Yeah, love.
+
+Agent (Human) at 289.1s:
+Yes. Apparently, they all do need to be filled out, and everyone that's gonna be installing them will need to do a place check.
+
+Customer at 295.5s:
+Okay. Alright. No dramas.
+
+Agent (Human) at 297.0s:
+Yeah. But can I just double check on that one? It may just be the main installer that needs a police check, so we'll let you know.
+
+Customer at 303.5s:
+Alright. No dramas. Beautiful. Thank you.
+
+Agent (Human) at 304.5s:
+Yeah. No worries. Thank you.
+
+Customer at 306.5s:
+Alrighty. Thanks. Bye.
+
+Agent (Human) at 307.1s:
+Bye.

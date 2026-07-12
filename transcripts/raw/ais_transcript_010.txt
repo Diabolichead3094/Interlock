@@ -1,0 +1,116 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+I have an affordable interlock, uh, showing immediate recall fourteen.
+
+Agent (Mia) at 13.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 22.3s:
+Thank you. Can you tell me if your device is currently locked out, or is it just showing the immediate recall 14 message?
+
+Customer at 29.2s:
+Just immediate recall.
+
+Agent (Mia) at 33.8s:
+All good. Let me know when you're ready to continue.
+
+Customer at 37.3s:
+I'm ready with the reset code.
+
+Agent (Mia) at 40.7s:
+Great. Please enter the reset code into your device now. Let me know once you've done that.
+
+Customer at 50.4s:
+I need you to give me the reset code.
+
+Agent (Mia) at 53.6s:
+I can't provide reset codes directly. If your device is showing immediate recall for 14, and you already have a reset code, please enter it now. If you need further help or want to speak with a specialist, let me know, and I can connect you.
+
+Customer at 67.3s:
+Can you connect me to a human?
+
+Agent (Mia) at 70.0s:
+I can do that. Are you ready to be connected to our customer support team now?
+
+Customer at 74.9s:
+Yes.
+
+Agent (Mia) at 76.6s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 120.8s:
+Affordable Interlock. [AGENT_NAME] speaking.
+
+Customer at 123.9s:
+Hey, Sarah. I've just got a handheld device showing immediate recall 14. I just need the code.
+
+Agent (Human) at 129.3s:
+Sure. I can help you with that. Um, can I grab your name?
+
+Customer at 134.0s:
+[CUSTOMER_NAME].
+
+Agent (Human) at 134.8s:
+Thanks, [CUSTOMER_NAME].
+
+Customer at 135.3s:
+[CUSTOMER_NAME]. Yes.
+
+Agent (Human) at 137.8s:
+Do you know your registration, [CUSTOMER_NAME]?
+
+Customer at 141.3s:
+Zero three two
+
+Agent (Human) at 142.6s:
+Mhmm.
+
+Customer at 143.4s:
+w a n.
+
+Agent (Human) at 145.4s:
+Alrighty. So you just hit some back had some battery issues. You've resolved those now.
+
+Customer at 150.5s:
+Yeah. Yeah. I've had no. Not yet. I've just I've had had a few, like, looks at the wiring because we got a dual battery system. So it's one of the batteries is playing up.
+
+Agent (Human) at 159.8s:
+Oh, okay. Alright. Okay. Well, I'm glad you know what you're doing. So let's reset that message for you. Do you know how to go to reset in the menu?
+
+Customer at 171.6s:
+Yeah.
+
+Agent (Human) at 174.4s:
+Awesome. Okay. So the code for today
+
+Customer at 174.5s:
+Yeah. I'm already in there now.
+
+Agent (Human) at 178.8s:
+is three six five eight And once you've got that, you select and then accept.
+
+Customer at 188.5s:
+Yep. Yep.
+
+Agent (Human) at 192.0s:
+And then the subcode is zero zero seven five.
+
+Customer at 203.1s:
+Beautiful. Thank you.
+
+Agent (Human) at 204.4s:
+No worries at all, [CUSTOMER_NAME]. Have a good afternoon.
+
+Customer at 206.4s:
+Awesome. Cheers. You too.
+
+Agent (Human) at 208.1s:
+Bye.
+
+Customer at 209.5s:
+Bye.

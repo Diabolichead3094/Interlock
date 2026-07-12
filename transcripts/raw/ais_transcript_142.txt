@@ -1,0 +1,143 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.8s:
+Yeah. Hi. I'm just wanting to know, um, the closest place that fits Interlock to where I live.
+
+Agent (Mia) at 14.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 18.3s:
+My name is Jessica. Tanti.
+
+Agent (Mia) at 23.4s:
+Thank you. I can send you a text with a link to our locations page where you can enter your postcode and find the nearest service center. Would you like me to send that now?
+
+Customer at 34.0s:
+Yes. And I would also like to just inquire about the price as well.
+
+Agent (Mia) at 38.7s:
+Before I send you the link, have you already received a quote from us?
+
+Customer at 42.2s:
+No.
+
+Agent (Mia) at 44.4s:
+Just a sec while I send that through. I've sent you two texts, one with a link to find your nearest service center and another with a link to request a quote. Our team will follow-up with pricing details usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 62.0s:
+Yes, please.
+
+Agent (Mia) at 64.3s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 69.3s:
+Yes.
+
+Agent (Mia) at 73.1s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 126.6s:
+Good afternoon. Affordable Answer Locks.
+
+Customer at 127.0s:
+Yeah. Hi. I was just ringing just to get a rough idea on how much they cost to put in
+
+Agent (Human) at 135.7s:
+Okay. So what's the make and model of your vehicle?
+
+Customer at 138.4s:
+I've got a Jeep Patriot. Twenty fourteen.
+
+Agent (Human) at 147.0s:
+Okay. And what's the ignition type for that vehicle?
+
+Customer at 149.7s:
+No. Just case that.
+
+Agent (Human) at 150.1s:
+Is it push button or key start? Case that. Okay. Sorry. I'm just logging in now to have a look.
+
+Customer at 159.3s:
+Thank you.
+
+Agent (Human) at 166.4s:
+Are you based which state are you come are you calling from? Sorry.
+
+Customer at 168.8s:
+Queensland.
+
+Agent (Human) at 171.0s:
+New South Wales Queensland. Okay. So key starts. Do you hold a concession card like a health
+
+Customer at 177.3s:
+I don't know.
+
+Agent (Human) at 177.5s:
+[SENSITIVE_CONTENT] care card or a pension card? Okay. So you're looking at a thousand and $88.50 approximately for the
+
+Customer at 183.9s:
+Thousand $88.50. And then
+
+Agent (Human) at 184.8s:
+installation. Yeah. And that includes the first month leasing fee, which is a $198.50.
+
+Customer at 193.0s:
+Okay. And then I have to get it serviced. Is it every month you need to get them calibrated? Or
+
+Agent (Human) at 199.6s:
+Okay. So you've gotta go back thirty days after installation for the first one, and then you have the option Queensland of going in every two or three months. Then and you're essentially paying for your rental up front. But I after thirty days, you decide you wanna go back in sixty days time, you pay I think it's $357, and then that will give you two months worth of rental on your handset, or you could choose to come back and
+
+Customer at 220.6s:
+Yep.
+
+Agent (Human) at 223.6s:
+ninety days time, and that will be $535 rental that you pay.
+
+Customer at 227.0s:
+Oh, okay. Yeah. Okay.
+
+Agent (Human) at 228.1s:
+And you'd come back in ninety days.
+
+Customer at 229.1s:
+So what was the longest one? Five hundred and
+
+Agent (Human) at 233.7s:
+$5.30, $5.50.
+
+Customer at 234.5s:
+five
+
+Agent (Human) at 235.5s:
+$535.50.
+
+Customer at 236.1s:
+And that was for three months?
+
+Agent (Human) at 240.0s:
+Yes. Yep. But everybody has to go in thirty days after installation, and it's just the
+
+Customer at 243.2s:
+Yes.
+
+Agent (Human) at 244.5s:
+that everything's going smoothly for the first thirty days.
+
+Customer at 245.8s:
+Okay.
+
+Agent (Human) at 247.5s:
+And then after that, you'll go into your ninety days servicing
+
+Customer at 249.8s:
+Yep. Okay. Cool. Thank you so much.
+
+Agent (Human) at 250.9s:
+Okay?
+
+Customer at 254.3s:
+Thank you. Bye.
+
+Agent (Human) at 254.4s:
+You're welcome. Bye bye.

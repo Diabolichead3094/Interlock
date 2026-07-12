@@ -1,0 +1,137 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.7s:
+Yes. I'm trying to find out what's involved with the TMR training. On the last four months of your interlocker.
+
+Agent (Mia) at 15.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.1s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.1s:
+Thank you. The TMR training in the last four months of your interlock program is a requirement set by Queensland Transport. Would you like details on how to access the training or what's involved in completing it?
+
+Customer at 34.9s:
+Yes, please.
+
+Agent (Mia) at 37.5s:
+In Queensland, TMR training is a mandatory online course you must complete in the last four months of your interlock program. Have you received your official completion notice from Transport and Main Roads yet?
+
+Customer at 48.5s:
+No.
+
+Agent (Mia) at 50.3s:
+Thanks for letting me know. Since you haven't received your completion notice yet, I can send you a link to the Queensland hub, where you can check your program and date and training requirements online. Would you like me to send that link to your mobile now?
+
+Customer at 63.1s:
+Yes, please.
+
+Agent (Mia) at 66.0s:
+Just a sec while I send that link.
+
+Customer at 68.1s:
+Thank you.
+
+Agent (Mia) at 68.8s:
+I've sent you a text with the hub link to check your program and date and training details. I'm also sending our office email address for your records.
+
+Customer at 73.3s:
+Perfect.
+
+Agent (Mia) at 76.2s:
+Would you like to speak with our customer support team about the training or anything else?
+
+Customer at 80.5s:
+I wouldn't mind. That would be nice.
+
+Agent (Mia) at 83.9s:
+All good. I can connect you to our customer support team now. Are you ready to be transferred?
+
+Customer at 87.4s:
+Thank you. Yes, please.
+
+Agent (Mia) at 91.1s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 93.8s:
+Thank you.
+
+Agent (Mia) at 95.9s:
+Connecting you now. One moment, please.
+
+Agent (Human) at 116.3s:
+For what? Hi, Pamela. [AGENT_NAME] speaking. How can I help?
+
+Customer at 138.6s:
+Yeah. Look. I I got an email from you guys to say that I've made because I've got four months to go on on this interactive thing. And there's been some training involved. What what exactly is involved?
+
+Agent (Human) at 151.0s:
+You sure it wasn't from the transport?
+
+Customer at 153.4s:
+No. No. It was from AIS.
+
+Agent (Human) at 157.0s:
+And what was it asking you for?
+
+Customer at 158.9s:
+Well, it's telling me that I'm going to get something from the transport department. About training stuff. And I just wondered if you'd be able to tell me what's involved.
+
+Agent (Human) at 168.5s:
+Oh, I believe you have to do a course through TMR while you're on the program.
+
+Customer at 172.6s:
+But is do you is it physical, or do you do it online?
+
+Agent (Human) at 178.5s:
+Oh, I don't know. I think it's online. But they yeah. Yeah. I don't I don't know about the course. That you do with the transport. Is it something that we're waiting for? Because we
+
+Customer at 186.7s:
+Mhmm.
+
+Agent (Human) at 188.6s:
+wouldn't end up sending anything to do with the tran
+
+Customer at 190.9s:
+No. No. I think it's come from TMR, but they they said on the email that I could ask you for information.
+
+Agent (Human) at 197.1s:
+Oh,
+
+Customer at 197.5s:
+So I'm just trying to find out what's involved.
+
+Agent (Human) at 200.0s:
+yeah. I I don't know what the course involves
+
+Customer at 200.2s:
+That was all.
+
+Agent (Human) at 202.8s:
+be honest. I know there's one you've got to do while you're on the program, but I don't know
+
+Customer at 206.3s:
+Do you know how long it's how you don't know how involved it is?
+
+Agent (Human) at 210.1s:
+No idea. I haven't done it. I don't know.
+
+Customer at 213.8s:
+Oh god. Okay. No worries.
+
+Agent (Human) at 214.5s:
+Yeah. I know you should probably look into it now because I know there is sometimes a waiting time to get to do it. So, yeah, I would just give a call and ask. So have you got their number for the interlock department?
+
+Customer at 225.8s:
+No. No. No. I haven't. Have you got it, please?
+
+Agent (Human) at 228.8s:
+Yeah. It's one three two three eight o.
+
+Customer at 231.2s:
+Mhmm. Brilliant. Thank you so much. I'll give it a call. Okay. Bye.
+
+Agent (Human) at 235.3s:
+No worries at all. Thank you. See you. Bye.

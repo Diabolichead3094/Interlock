@@ -1,0 +1,32 @@
+Agent (Mia) at 0.3s:
+Hello. You are speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Hi, Mia. Just wanting to check when my next service is due.
+
+Agent (Mia) at 12.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 16.9s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 20.2s:
+Thank you. To check your next service date, please make sure your car is switched off. Let me know when you're ready for the first step.
+
+Customer at 27.8s:
+Ready.
+
+Agent (Mia) at 30.2s:
+Great. Hold down the top left button on your interlock device to enter the menu. Let me know when you see the menu appear.
+
+Customer at 37.6s:
+Oh, thanks, Mia. I'm not actually in my car. I'll do it later. Thank you.
+
+Agent (Mia) at 44.7s:
+No worries. Just remember, once you check your service date, there's a seven day grace period. If you miss it, your car will lock out and a fee applies. Anything else I can help with today?
+
+Customer at 54.5s:
+That's it. Thank you.
+
+Agent (Mia) at 56.9s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.

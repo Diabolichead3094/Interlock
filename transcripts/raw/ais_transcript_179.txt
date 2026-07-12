@@ -1,0 +1,125 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+Oh, a e? I want to speak to a customer service officer.
+
+Agent (Mia) at 15.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 20.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 25.4s:
+Thank you. Our office is open now. Are you ready to be connected to our customer support team?
+
+Customer at 31.7s:
+Yes.
+
+Agent (Mia) at 35.9s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 58.1s:
+Affordable Good afternoon. Affordable Interlocks. How can I help?
+
+Customer at 75.4s:
+Yeah. Hi. I just recently got my interlock service and they told me that my camera had been porting at the roof for the last three months, which I didn't notice. Is that gonna be a problem? I've still got about five months to go.
+
+Agent (Human) at 100.8s:
+Could I just start with your first and last name and then just the vehicle details, please?
+
+Customer at 106.3s:
+Yep. It's [CUSTOMER_NAME] Darvin. And the vehicle's eight seven three I o n.
+
+Agent (Human) at 118.0s:
+Alrighty. So it shouldn't be a problem throughout the performance period. I mean, through the period that you've just served. However, leading into your performance period, it always I mean, the camera should always be facing you, but especially in the performance period, just because if someone else were
+
+Customer at 134.5s:
+Wingstop.
+
+Agent (Human) at 136.1s:
+your last four months of your program. So it should start next month.
+
+Customer at 139.8s:
+Oh, damn.
+
+Agent (Human) at 141.9s:
+Yeah. So that yeah. So
+
+Customer at 145.3s:
+Yeah. Never have anything but at the zero reading. That's
+
+Agent (Human) at 151.6s:
+Yeah. That's okay. It's just with the camera, it has to be
+
+Customer at 152.0s:
+fine.
+
+Agent (Human) at 155.5s:
+positioned at the customer because transport can if they believe it's tampering, that they can maybe extend you. I'm not too sure. I'm not part of transport. But just make sure moving forward that the camera is always face yourself. And if you notice it looks a little off, to contact or when you go to your service to get them to readjust it. Just because transport always wants the camera facing at the participant, not at the roof.
+
+Customer at 183.4s:
+Oh, okay. So what does this just take quick little steps or something?
+
+Agent (Human) at 188.9s:
+Yeah. So when you're providing a breath sample, so every time you go for a service, the photos get uploaded to the transport department, and they, you know, review your time. And if they do notice that the the camera is positioned elsewhere, they will will follow-up on it just because it's always supposed to be facing the customer. So each time you balance the device, it takes a little image of you, but that's just for the transport department's records just to ensure that it is the participant that's that's in the program. And the one blowing into the device, not the passenger or, you know, anyone else.
+
+Customer at 219.0s:
+I Yes. Yes. I understand that. So you're saying my performance period starts there?
+
+Agent (Human) at 233.1s:
+Nope. It starts with the last four months. So you were installed on the November 12, so it should start next month on the twelfth.
+
+Customer at 238.6s:
+Yes. Okay. Well, thank you for letting me know that.
+
+Agent (Human) at 245.6s:
+That's okay. That's no worries at all. You do have any other questions, we're here until 5PM.
+
+Customer at 248.1s:
+Alright. Absolutely. Was that an AI assisted at the start?
+
+Agent (Human) at 259.3s:
+Yeah. It was.
+
+Customer at 261.7s:
+It sucks.
+
+Agent (Human) at 263.1s:
+I'll let I'll let
+
+Customer at 263.6s:
+I do not want
+
+Agent (Human) at 266.6s:
+what was that? Sorry.
+
+Customer at 267.1s:
+Oh my god. Oh, it sucks. The AI is it's an I'd rather speak to a normal person.
+
+Agent (Human) at 275.9s:
+Yeah. They just answer the start of our calls just to see if it's
+
+Customer at 279.8s:
+I know. I know it's helping you.
+
+Agent (Human) at 279.8s:
+something just like a payment link or something.
+
+Customer at 283.7s:
+From a customer perspective, it sort of throws your off a it. That's all.
+
+Agent (Human) at 290.1s:
+Okay. I'll just let my team know. Thank you for your feedback.
+
+Customer at 294.6s:
+Okay. Thank you. Have a good day.
+
+Agent (Human) at 297.2s:
+Yeah. You too, Susan. Thank you so much. Bye bye.
+
+Customer at 299.6s:
+Alright. Take care. Bye.
+
+Agent (Human) at 302.0s:
+Bye bye.

@@ -1,0 +1,56 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+I have a service booked on my car tomorrow. And I'm unable to afford it. I just wanna know what my options are.
+
+Agent (Mia) at 14.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 22.7s:
+Thank you. Just to confirm, is your upcoming appointment for a regular vehicle service or is it for an interlock monitor or calibration service?
+
+Customer at 31.8s:
+Interlock.
+
+Agent (Mia) at 34.5s:
+Understood. Have you already paid for your upcoming interlock monitor service? And received a confirmation SMS?
+
+Customer at 40.9s:
+No. Because I can't afford it at this point in time.
+
+Agent (Mia) at 45.1s:
+Understood. There may be financial assistance options available depending on your location. I am you in Queensland. Tom Tomana Island?
+
+Customer at 59.7s:
+Sorry?
+
+Agent (Mia) at 61.8s:
+No worries. Are you located in Queensland, or are you in another state? This helps me check if financial assistance is available for your interlock service.
+
+Customer at 71.1s:
+Queensland.
+
+Agent (Mia) at 73.4s:
+Thanks for confirming. There's a financial assistance scheme available in Queensland. Would you like me to send you a link via SMS to apply for financial help with your interlock service?
+
+Customer at 84.3s:
+Yes, please.
+
+Agent (Mia) at 86.9s:
+Just a sec while I get that sorted for you. I've sent you a text with the link to apply for financial assistance. Is there anything else I can help you with today?
+
+Customer at 95.9s:
+That's it. Thanks. I also sorry. I also just wanted to know if I'll still be able to use my vehicle after tomorrow.
+
+Agent (Mia) at 107.5s:
+You have a seven day grace period after your service date. If you miss the service and go past the seventh day, your car will lock out, and you'll be charged a fee. Anything else I can help with?
+
+Customer at 119.9s:
+No. That's fine. Thanks.
+
+Agent (Mia) at 122.9s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day.

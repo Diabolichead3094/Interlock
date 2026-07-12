@@ -1,0 +1,167 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.3s:
+Customer service.
+
+Agent (Mia) at 9.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.5s:
+Thank you. Could you please tell me what you need help with today? You looking to book a service or calibration to make a payment or something else?
+
+Customer at 26.8s:
+Make a payment.
+
+Agent (Mia) at 29.2s:
+You have the payment value or amount ready?
+
+Customer at 31.8s:
+No.
+
+Agent (Mia) at 33.5s:
+Since you're not sure of the payment amount, I'll connect you with a specialist who can help. Are you ready to be transferred now?
+
+Customer at 39.6s:
+Yes.
+
+Agent (Mia) at 41.4s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 65.3s:
+Affordable interlocks. Good afternoon. This is Shannon. How can I help?
+
+Customer at 83.3s:
+Yeah. How you going? I just need to unlock my last three months or whatever, I've got I need to pay, like, a month service or whatever.
+
+Agent (Human) at 91.6s:
+Okay. Let's have a look. And it was Karen's
+
+Customer at 94.0s:
+The
+
+Agent (Human) at 94.4s:
+was Terrence [CUSTOMER_NAME]. Yeah?
+
+Customer at 96.9s:
+Yeah.
+
+Agent (Human) at 97.5s:
+Yeah. Terrence. And you've got the Ford Falcon?
+
+Customer at 101.6s:
+Yep.
+
+Agent (Human) at 102.5s:
+Yeah. Terrence, have you received anything from the Department of Transport about when your program ends?
+
+Customer at 109.4s:
+Yeah. It said, uh, filed on the twenty third or whatever. So it was four months since then. So the twentieth of next month.
+
+Agent (Human) at 115.7s:
+Okay. Twentieth of next month. Okay. So you just wanna pay for one month today, Terrence, just to get you through?
+
+Customer at 121.9s:
+Yes. Yeah.
+
+Agent (Human) at 123.3s:
+Perfect. I'll just bring up your payment system here. Okay. Terrence, I do have a card on file [CARD_ON_FILE]. Is it okay to use that one today?
+
+Customer at 151.7s:
+No. Where'd you go? This is a different card.
+
+Agent (Human) at 158.2s:
+Okay. Has it got your name on it, Terrence?
+
+Customer at 161.2s:
+No. It's my partner's card. I'm here.
+
+Agent (Human) at 162.6s:
+Is are they there with you? Oh, perfect. Can I just have a quick word?
+
+Customer at 164.7s:
+Yeah. Yeah.
+
+Agent (Human) at 167.9s:
+Hi. Hi. It's Shannon. How are you?
+
+Customer at 170.3s:
+Hi. Good day.
+
+Agent (Human) at 171.4s:
+That's good. Do you approve of Terrence using your card today to make the payment?
+
+Customer at 176.4s:
+Yeah. That's all good. My name is Jenna Cranfield.
+
+Agent (Human) at 177.6s:
+Okay. And the name Perfect. Thanks, Gemma. I can speak to Terrence again if you like.
+
+Customer at 184.8s:
+Okay.
+
+Agent (Human) at 185.2s:
+Thank you.
+
+Customer at 187.5s:
+Alright.
+
+Agent (Human) at 188.4s:
+Thanks, Terrence. And ready for those card details whenever you are.
+
+Customer at 193.1s:
+Two seconds. I'm just gonna transfer money. Sorry. Hang on.
+
+Agent (Human) at 195.8s:
+No. You're fine.
+
+Customer at 204.3s:
+Just [REDACTED]
+
+Agent (Human) at 208.5s:
+Yes.
+
+Customer at 208.5s:
+[REDACTED]
+
+Agent (Human) at 210.3s:
+Yes.
+
+Customer at 211.9s:
+[REDACTED]
+
+Agent (Human) at 214.0s:
+Yes.
+
+Customer at 215.3s:
+[REDACTED].
+
+Agent (Human) at 217.6s:
+And the expiry date?
+
+Customer at 219.5s:
+Zero five twenty eight
+
+Agent (Human) at 221.8s:
+And the [CVV], please.
+
+Customer at 224.8s:
+Nine seven eight.
+
+Agent (Human) at 227.1s:
+Excellent. That's gone through. I'll set that up for you, Terrence, and I'll put a note in your file that you think it's the twentieth of next month where you get your final upload done. Okay?
+
+Customer at 240.6s:
+Yep. Alright. Don't worry.
+
+Agent (Human) at 241.3s:
+Perfect. Thank you. Have a great day.
+
+Customer at 243.7s:
+Okay. Bye.
+
+Agent (Human) at 244.7s:
+Bye.

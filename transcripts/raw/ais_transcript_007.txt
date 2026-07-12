@@ -1,0 +1,500 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.0s:
+Interlocum Maryville.
+
+Agent (Mia) at 10.1s:
+I can help with that. May I have your full name for our records?
+
+Customer at 11.7s:
+Thank you.
+
+Agent (Mia) at 13.3s:
+First?
+
+Customer at 14.1s:
+Giant Bitmaid.
+
+Agent (Mia) at 16.9s:
+Appreciate that. To check your next service date on the interlock device, please make sure your car is switched off.
+
+Customer at 18.1s:
+Welcome.
+
+Agent (Mia) at 22.4s:
+Let me know when you're ready for the first step.
+
+Customer at 23.0s:
+Yeah. Ready. Set.
+
+Agent (Mia) at 26.1s:
+Great. With your car switched off, please hold down the top left
+
+Customer at 26.8s:
+Go.
+
+Agent (Mia) at 29.2s:
+button on your interlock device to enter the menu.
+
+Customer at 31.6s:
+This is [AGENT_NAME] order.
+
+Agent (Mia) at 31.6s:
+Let me know when you see the menu appear.
+
+Customer at 32.7s:
+Again. Why am I talking to an AI bot? Yep. She's on.
+
+Agent (Mia) at 37.4s:
+Understood. If you'd prefer to speak with a specialist, I can connect you now.
+
+Customer at 40.4s:
+Yeah.
+
+Agent (Mia) at 41.4s:
+Are you ready to be transferred?
+
+Customer at 42.1s:
+Definitely. He's like, fuck.
+
+Agent (Mia) at 46.5s:
+All good. Just to confirm, would you like to continue with the device guidance or do you wanna speak with a specialist now?
+
+Customer at 52.6s:
+No device guidance, please.
+
+Agent (Mia) at 55.9s:
+Understood.
+
+Customer at 56.0s:
+Just wanna speak to a specialist.
+
+Agent (Mia) at 56.9s:
+Would you like to continue with the device steps? Or
+
+Customer at 58.8s:
+No. Just I just wanna speak to the specialist, Darwin. You fucking AI thing. I'm so sorry for what's happening.
+
+Agent (Mia) at 65.7s:
+understood.
+
+Customer at 72.4s:
+You're a naughty boy.
+
+Agent (Mia) at 73.3s:
+No. I'll get you over to our customer support team now. One moment.
+
+Customer at 78.3s:
+Thank you.
+
+Agent (Mia) at 81.1s:
+One moment while I connect you to our customer support team.
+
+Customer at 82.9s:
+I've got you the first time, sweetheart. Right.
+
+Agent (Human) at 95.2s:
+Affordable
+
+Customer at 109.8s:
+Think I used to hear
+
+Agent (Human) at 109.8s:
+Hi, Shannon. Hi, Shannon. How are you?
+
+Customer at 111.6s:
+Hi, Shannon. Good. Yourself?
+
+Agent (Human) at 115.1s:
+Yeah. Not bad. How can I help?
+
+Customer at 117.7s:
+So it's Jaden calling. Oh, I'm just ringing up in regards to this inner look of mine.
+
+Agent (Human) at 120.4s:
+Yeah. Okay.
+
+Customer at 123.6s:
+That I believe should be taken out of this car because the lady at the team has explained to me that there was a wire or something within the computer
+
+Agent (Human) at 134.0s:
+Mhmm.
+
+Customer at 134.4s:
+or something.
+
+Agent (Human) at 135.5s:
+Yeah.
+
+Customer at 135.8s:
+Another lady told me that it was from a two and a half year ago saying that I didn't vote.
+
+Agent (Human) at 142.1s:
+Okay.
+
+Customer at 142.3s:
+I just don't even know how that's possible.
+
+Agent (Human) at 144.2s:
+Mhmm.
+
+Customer at 146.3s:
+But it's an extra four months, and I just that's that's not on. I've done the twelve months I've now done thirteen months, and I haven't blown over in this thing not one time. Believe there's been three mishaps, and
+
+Agent (Human) at 161.4s:
+Yeah.
+
+Customer at 162.1s:
+each and every each one, one was a nice coffee. The second time locked me out for, like, two hours, and I had to get senior constable Jay Anderson to come down and let me blow in there his
+
+Agent (Human) at 171.0s:
+Yeah.
+
+Customer at 173.6s:
+bloody thing. I just got serviced a month ago and paid money to do that.
+
+Agent (Human) at 174.6s:
+Yeah.
+
+Customer at 178.1s:
+Now I've got a bloody paid
+
+Agent (Human) at 180.1s:
+Yeah. Yeah. I got another service due.
+
+Customer at 181.0s:
+another service. The ten AMR, like, at the start of this says it I have to go through well, you guys told me I have to go through TMR to get this pulled out. I've just rung the TMR, and there's nothing that they can do.
+
+Agent (Human) at 193.5s:
+Yeah.
+
+Customer at 196.6s:
+I've gotta try and put a dispute into asking if I can get it removed.
+
+Agent (Human) at 201.1s:
+Uh-huh. Yeah.
+
+Customer at 202.3s:
+The problem I've got here is I'll go back to work on the twenty first of
+
+Agent (Human) at 206.8s:
+Yeah.
+
+Customer at 207.5s:
+week for a month, and I'm in the middle of Australia.
+
+Agent (Human) at 210.4s:
+Yeah.
+
+Customer at 212.4s:
+So
+
+Agent (Human) at 212.5s:
+Yeah. Yep. Alright.
+
+Customer at 214.7s:
+I kinda need to talk to someone who's, like, in charge of the AIS mob, I guess. And just I I believe that team on someone was liaising together just before Surely, we can get this interlock removed. Because, like, a lot of months, I'm not paying I'm not paying hand or anything. If it was a violation through the computer code, surely that that's not my fault.
+
+Agent (Human) at 242.0s:
+Yeah. Yep. Look. What I can do on my end
+
+Customer at 244.7s:
+It definitely wasn't my fault. I know that.
+
+Agent (Human) at 247.2s:
+yeah. Look. What I can do on my end is I can send them an if I have your approval. That is, and just ask them when you are eligible to get what's called your final upload. And that was what that's what decides whether you can get it out. Like,
+
+Customer at 262.2s:
+Yeah. So I spoke to the lighting watch a week a week ago. I've come home from work early.
+
+Agent (Human) at 263.0s:
+yeah.
+
+Customer at 269.6s:
+And so I believe that that takes up to two days got to take it into the bloke, and they take me for just, they upload it to the system. And within
+
+Agent (Human) at 279.7s:
+Yeah.
+
+Customer at 280.4s:
+two working days, that comes back and it tells me if I've been a good boy or a bad boy.
+
+Agent (Human) at 285.5s:
+Yeah. Yeah.
+
+Customer at 285.7s:
+I've been a good boy, and so that'll line in
+
+Agent (Human) at 287.7s:
+Mhmm.
+
+Customer at 289.4s:
+with the twenty first. If you could please do that
+
+Agent (Human) at 291.1s:
+Yep.
+
+Customer at 293.1s:
+the lady from the team said I've gotta, like, write an email and dispute it. Like, I'm lexic as all hell.
+
+Agent (Human) at 299.6s:
+Yeah. Mhmm.
+
+Customer at 300.4s:
+Can you please help me out here and just, like,
+
+Agent (Human) at 302.0s:
+Yeah. I will try my best.
+
+Customer at 303.6s:
+yeah, thank you so much.
+
+Agent (Human) at 304.4s:
+Yeah. That's alright. Look. I'm gonna be a 100% honest with you. Like, you're speaking open and honest, so I will speak open and honest with you.
+
+Customer at 306.1s:
+And yeah.
+
+Agent (Human) at 313.7s:
+It is the Department of Transport's program.
+
+Customer at 314.1s:
+Yep.
+
+Agent (Human) at 316.3s:
+Okay? We simply just you're just simply renting the device off us. So anything
+
+Customer at 321.8s:
+Mhmm.
+
+Agent (Human) at 322.8s:
+if you've been whether you've been a good boy or a naughty boy, we don't get to see any of that. Alright? We we don't get to see any of it. It's all up to them. They get to see all of it.
+
+Customer at 333.5s:
+So the violation of the computer then, like,
+
+Agent (Human) at 337.5s:
+Mhmm.
+
+Customer at 338.6s:
+that's not my fault. If I do another four months, like another $500 or whatever it may be.
+
+Agent (Human) at 345.3s:
+Yeah.
+
+Customer at 346.5s:
+I'm not I just no. I'm not I can't afford that. Like, I can, but this I'm not paying that. Hey. I haven't bloody marked this up.
+
+Agent (Human) at 353.5s:
+Yeah. You see, the thing that I'm concerned about, and is this you do get it removed and you're not eligible that you'll get pulled up and then you'll be up that, you know, you'll be up that creek, so to speak. If you do get pulled up.
+
+Customer at 368.0s:
+I've been a lot of trouble to be honest. Yeah.
+
+Agent (Human) at 370.8s:
+Yeah. So I don't want you to get it out before it's time.
+
+Customer at 372.2s:
+But I've also been in a lot of trouble if I just can't go back to work. Because
+
+Agent (Human) at 376.0s:
+Yeah.
+
+Customer at 377.4s:
+like, I don't know. I haven't blown over in this thing. It was a
+
+Agent (Human) at 379.7s:
+Yeah.
+
+Customer at 382.7s:
+computer fault, the lady said, from TMR. If you could please do it. Do I need to, like, email this dispute to the TMR, or can you
+
+Agent (Human) at 390.3s:
+Yeah. Oh, you will have to do that. We
+
+Customer at 392.2s:
+make an amazing reference for me?
+
+Agent (Human) at 394.3s:
+yeah. I can I can do some of it, but the actual dispute thing is what you're gonna to do? So that extra four months
+
+Customer at 402.5s:
+Oh, okay. Okay. No.
+
+Agent (Human) at 404.1s:
+yeah. So that extra four months that they've given you, there's on that letter somewhere is
+
+Customer at 410.1s:
+Mhmm.
+
+Agent (Human) at 411.4s:
+an email address that you respond to that you know, whether it be the from the iced coffee. Just tell them open and honestly, Jaden.
+
+Customer at 415.1s:
+Yeah. I will send that away now. But then I don't get my response back for twenty eight days. So
+
+Agent (Human) at 420.0s:
+Yeah. Yeah.
+
+Customer at 424.0s:
+we're gonna have a little pickle here, and I'm just gonna have to work Well, I know. I think this is you guys need to work out because done everything right from my end. I'm so sorry. I'm a haven't got you.
+
+Agent (Human) at 436.4s:
+No. No. And that's what I was trying to tell you, Jaden.
+
+Customer at 436.6s:
+But I'm gonna go out to work either way. And then if my car gets
+
+Agent (Human) at 440.4s:
+Yeah.
+
+Customer at 441.4s:
+stuck out there and I've gotta get towed, who's gonna pay for this? Because I'm definitely not.
+
+Agent (Human) at 445.0s:
+You're gonna you're gonna have to get that service done on the before you go back out there.
+
+Customer at 449.1s:
+So I'll have to pay again for a month, but
+
+Agent (Human) at 452.5s:
+You can, yeah, you can pay for the one month. Jayden, just to get you through.
+
+Customer at 456.1s:
+well,
+
+Agent (Human) at 457.6s:
+And that'll pass the twenty eight days for your dispute as well.
+
+Customer at 462.0s:
+Right here. It alright. So can I just pay that?
+
+Agent (Human) at 467.0s:
+Okay. So you need to
+
+Customer at 467.8s:
+And then I'll sort this out another time.
+
+Agent (Human) at 471.1s:
+yeah. Let me email them as well on my end, okay, to see what I can get.
+
+Customer at 474.4s:
+Mhmm. It's all good. Sorry. Just are you able to send me maybe, like, the invoice or something that I gotta pay just to do this, and I'll book this in Am I able to do it earlier? Do you think?
+
+Agent (Human) at 486.2s:
+Yes. Yes. Yep. You can go in tomorrow if you like.
+
+Customer at 488.9s:
+Right. Okay. I'll book this minimum. Yeah. Yeah. Yeah. I've just come back up to Kenyans. I can't forgot who I've gotta do it through.
+
+Agent (Human) at 491.9s:
+Yeah. Yeah.
+
+Customer at 496.4s:
+I don't know. Are you able to pull that information up for me, please?
+
+Agent (Human) at 499.9s:
+Yeah. I'll I'll text it all to you. So you've got it all on your phone.
+
+Customer at 504.8s:
+Thank you so much. You are a gem.
+
+Agent (Human) at 506.2s:
+No worries. Okay. And I'm gonna email TMR as well. Okay? And see what's going on.
+
+Customer at 511.2s:
+Yeah. If you don't mind, that'll be greatly appreciated.
+
+Agent (Human) at 513.8s:
+Okay. And as soon as
+
+Customer at 514.4s:
+Because it's just I don't
+
+Agent (Human) at 515.7s:
+yeah.
+
+Customer at 515.8s:
+it's [AGENT_NAME] on this. It's a hard call, bro. She's on there.
+
+Agent (Human) at 517.3s:
+Yeah. And once I get a response,
+
+Customer at 519.8s:
+And, yeah, this yep.
+
+Agent (Human) at 521.0s:
+I will give you a call. Alright? So if you see a random person calling you,
+
+Customer at 523.5s:
+Oh,
+
+Agent (Human) at 525.5s:
+pick it up because it's highly likely gonna be me. Alright?
+
+Customer at 525.9s:
+Orlando. Great. Is that your help? Because, yeah, I've been trying to check this for a week and a half.
+
+Agent (Human) at 531.1s:
+No worries. Yeah.
+
+Customer at 535.3s:
+And, like, amazing. Alright.
+
+Agent (Human) at 537.3s:
+Alright. Leave it.
+
+Customer at 537.5s:
+Thank you very much.
+
+Agent (Human) at 538.9s:
+You do your bit, and I'll do my bit. And, hopefully, we can get a result for you. Okay?
+
+Customer at 543.7s:
+Alright. I'm not gonna be able to send that email off until
+
+Agent (Human) at 544.4s:
+Alright.
+
+Customer at 546.5s:
+tonight, so I'll just pay the money, buddy.
+
+Agent (Human) at 547.1s:
+Yeah. That's okay.
+
+Customer at 549.1s:
+We'll be we'll be sorted.
+
+Agent (Human) at 550.5s:
+Yeah. Perfect. Alright then, Jade. And I'll send you an invoice now, and I'll email TMR.
+
+Customer at 552.4s:
+Thank you so much.
+
+Agent (Human) at 556.7s:
+Okay?
+
+Customer at 558.1s:
+Okay. Thank you, Bob. You have a lovely afternoon.
+
+Agent (Human) at 560.8s:
+You too.
+
+Customer at 561.0s:
+I'll talk to you later.
+
+Agent (Human) at 562.6s:
+Hopefully, we sort something out, Jaden. Okay?
+
+Customer at 565.5s:
+Appreciate it, hey. Thank you.
+
+Agent (Human) at 566.6s:
+No worries. Bye.
+
+Customer at 568.0s:
+Alright.
+
+Agent (Human) at 568.0s:
+Bye.

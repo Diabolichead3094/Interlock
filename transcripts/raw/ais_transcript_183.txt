@@ -1,0 +1,98 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.7s:
+Interlock installation.
+
+Agent (Mia) at 10.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.2s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 18.6s:
+Thank you. Have you already received a quote from us? For your interlock installation?
+
+Customer at 23.9s:
+I'm not sure.
+
+Agent (Mia) at 27.5s:
+Just a sec while I send that through. I've sent you a text with a link to submit your details. Our team will follow-up with a quote, usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 41.6s:
+Yes, please.
+
+Agent (Mia) at 44.2s:
+Great. I'll get you over to our quotes team now. Are you ready to be connected?
+
+Customer at 48.3s:
+Yes.
+
+Agent (Mia) at 52.6s:
+Thanks for confirming. I'll get you over to our quotes team now. One moment.
+
+Customer at 57.2s:
+Sarah.
+
+Agent (Mia) at 60.5s:
+You'll be connected shortly. If you have any other questions after speaking with the
+
+Agent (Human) at 92.3s:
+Hi. It's Tracy. How can I help?
+
+Customer at 94.9s:
+Hi. Good afternoon, Tracy. Company's ringing up to inquire. Do you guys service trends as well?
+
+Agent (Human) at 100.9s:
+Cairns? Yes. We have a service center in Cairns. Yes.
+
+Customer at 102.2s:
+Yeah. Okay. I just wanted to get a quote on your information on the.
+
+Agent (Human) at 109.8s:
+Okay. Sorry. I'm having a bit of trouble hearing you. There's a lot of noise where you're calling from or wind.
+
+Customer at 114.0s:
+I'm sorry.
+
+Agent (Human) at 115.2s:
+That's alright.
+
+Customer at 115.5s:
+Hold on. Give me a sec.
+
+Agent (Human) at 117.0s:
+That's okay. I'm gonna send
+
+Customer at 118.6s:
+Can you hear me now?
+
+Agent (Human) at 119.8s:
+that's much better. Thank you. Do you have a mobile number that I could send a link to for a quote?
+
+Customer at 127.5s:
+Yep. O four seven nine
+
+Agent (Human) at 129.8s:
+Yes.
+
+Customer at 131.6s:
+one two nine
+
+Agent (Human) at 132.8s:
+Mhmm.
+
+Customer at 134.0s:
+one five four.
+
+Agent (Human) at 135.4s:
+Thank you. K. I'm just gonna send that quote link to you. If you could fill in the web form, we'll be able to get that quote back to you this afternoon.
+
+Customer at 142.0s:
+Yep. Okay. Thank you.
+
+Agent (Human) at 147.4s:
+You're welcome. You have a great day. Bye bye.
+
+Customer at 149.4s:
+You too. Bye.

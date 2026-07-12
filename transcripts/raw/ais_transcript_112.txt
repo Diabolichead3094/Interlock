@@ -1,0 +1,200 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.3s:
+I don't know how much I have to pay. I rang you before. McKenzie.
+
+Agent (Mia) at 14.6s:
+Thank you. Since you're not sure of the payment amount, I'll need to connect you with specialist to help finalize your booking and payment. Are you ready to be connected now?
+
+Customer at 21.7s:
+Thank you. Yes.
+
+Agent (Mia) at 24.9s:
+I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 30.3s:
+Yes.
+
+Agent (Mia) at 32.4s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 72.2s:
+Hi, Craig. [AGENT_NAME] speaking. How can I help?
+
+Customer at 75.8s:
+Tried to do the virtual thing, but it doesn't tell you how much you gotta pay.
+
+Agent (Human) at 79.7s:
+No. Because everyone's different, so I wouldn't know. But I can help you.
+
+Customer at 84.0s:
+Yes, Thanks.
+
+Agent (Human) at 85.0s:
+Yeah. How how many
+
+Customer at 85.5s:
+I thought you just would throw it out.
+
+Agent (Human) at 87.9s:
+pardon?
+
+Customer at 89.1s:
+I thought you just withdrew it out.
+
+Agent (Human) at 91.9s:
+Let me have a look. Are you near the interview program? Maybe it's been
+
+Customer at 92.5s:
+It was Yeah. This is the last one.
+
+Agent (Human) at 97.5s:
+okay. Let me
+
+Customer at 97.7s:
+Hopefully, last three months or something.
+
+Agent (Human) at 99.9s:
+oh, that'll be nice.
+
+Customer at 101.9s:
+Unless, I mean, travel for something.
+
+Agent (Human) at 105.0s:
+You blown over?
+
+Customer at 107.4s:
+No. I just can't brake because I don't have any lymphocemic lung cancer.
+
+Agent (Human) at 110.5s:
+Oh, no.
+
+Customer at 110.6s:
+So sometimes that sometimes I'll do it eight times.
+
+Agent (Human) at 113.9s:
+Oh, gosh. A weird place to get it out there,
+
+Customer at 117.2s:
+Mhmm.
+
+Agent (Human) at 117.7s:
+Not long to go. Okay. What is happening here? Sorry. My computer is just going really slow.
+
+Customer at 130.2s:
+Go on.
+
+Agent (Human) at 139.5s:
+Oh, it's gonna be sent out to you on the nineteenth. Did you want me to take that payment now?
+
+Customer at 145.2s:
+Yeah.
+
+Agent (Human) at 145.8s:
+Yeah. And you wanna do three months?
+
+Customer at 149.0s:
+Yeah. That's till the end of it, isn't Three months?
+
+Agent (Human) at 150.7s:
+Yeah. It should take you right through to the end.
+
+Customer at 154.1s:
+Yep. Yeah. I wanna do that.
+
+Agent (Human) at 154.9s:
+Okay. Six. And the card [CARD_ON_FILE]?
+
+Customer at 162.7s:
+I know. Do not know that one. Oh, that's the old card.
+
+Agent (Human) at 168.8s:
+Got a new one?
+
+Customer at 170.9s:
+Yeah. Different number, but I think it's too oh, use it. Think. I don't know. I'll give you the new number.
+
+Agent (Human) at 177.6s:
+That's okay. Is that your name still correct?
+
+Customer at 180.6s:
+Yep. And mister Craig McKenzie.
+
+Agent (Human) at 181.2s:
+Yeah. Perfect. Yep. Go for it when you're ready.
+
+Customer at 185.1s:
+Five two one seven
+
+Agent (Human) at 186.7s:
+Uh-huh.
+
+Customer at 188.7s:
+two nine three o.
+
+Agent (Human) at 190.0s:
+Two nine three
+
+Customer at 192.1s:
+Yep.
+
+Agent (Human) at 192.6s:
+Yep.
+
+Customer at 194.0s:
+Two nine six five
+
+Agent (Human) at 195.6s:
+Uh-huh.
+
+Customer at 197.3s:
+one, double eight, one.
+
+Agent (Human) at 199.1s:
+And the expiry date.
+
+Customer at 201.8s:
+It's 0329.
+
+Agent (Human) at 204.3s:
+And save the VIN number.
+
+Customer at 206.7s:
+Six, double two,
+
+Agent (Human) at 218.4s:
+Perfect. That's all paid. I'll pop that in so you can go have your service done whenever you
+
+Customer at 224.3s:
+I've booked an
+
+Agent (Human) at 224.4s:
+worked it out with the store center?
+
+Customer at 225.5s:
+Friday because I might be going to hospital next week.
+
+Agent (Human) at 228.2s:
+Okay.
+
+Customer at 228.3s:
+So just oops. I need that confirmation text, I?
+
+Agent (Human) at 231.1s:
+Yeah. Yeah. That'll come to you very shortly. I'll do that in second. Okay?
+
+Customer at 235.5s:
+Thanks very much for your help.
+
+Agent (Human) at 236.7s:
+No worries. Thank you.
+
+Customer at 238.1s:
+Bye.
+
+Agent (Human) at 238.6s:
+See you. Bye.
+
+Customer at 238.9s:
+Bye. Bye.

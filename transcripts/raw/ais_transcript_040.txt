@@ -1,0 +1,149 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.4s:
+I need to speak to someone about getting a code for my interlock because I've been in locked out. And I also need to find out if, um, I need to make a payment with a new headset. I have to get in today.
+
+Agent (Mia) at 19.8s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 24.1s:
+Lydia May Miller.
+
+Agent (Mia) at 28.0s:
+Thank you. Can you tell me how long your device has been locked out for? Is there a countdown showing on the screen?
+
+Customer at 33.6s:
+I'm not sure.
+
+Agent (Mia) at 36.1s:
+No worries. Can you check your interlock device screen and let me know if there's a countdown timer showing? If so, what does it say?
+
+Customer at 44.9s:
+No. I'm not able to at the moment.
+
+Agent (Mia) at 48.0s:
+Understood. Since I can't confirm the lockout timer, I'll need to connect you to our customer support team for further Are you ready to be transferred now?
+
+Customer at 56.2s:
+Yep.
+
+Agent (Mia) at 58.2s:
+Thanks for letting me know. I'll get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 64.8s:
+Yes.
+
+Agent (Mia) at 66.7s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 91.0s:
+Affordable. Good morning, Lydia. You're speaking with Shannon. How are you?
+
+Customer at 111.4s:
+Hi. Good. Thanks. Um, I'm just calling because I got a message Sorry. I have to drive four hours going to get a new headset, but I'm locked out.
+
+Agent (Human) at 120.3s:
+Okay. Yep.
+
+Customer at 121.3s:
+So I needed a phone.
+
+Agent (Human) at 123.3s:
+Mhmm.
+
+Customer at 123.5s:
+But I was also wondering if I need to make a payment. I haven't received an invoice or anything.
+
+Agent (Human) at 130.4s:
+Okay. Let's have a little look. Okay. Yep. Right. Let's get you a code first off. I can send that to you via text message, or you can
+
+Customer at 151.9s:
+Yeah. That was
+
+Agent (Human) at 156.0s:
+that will be okay?
+
+Customer at 156.2s:
+that'd be fantastic.
+
+Agent (Human) at 157.9s:
+Yeah. No trouble at all.
+
+Customer at 158.2s:
+Yeah. It's just I'm waiting for my battery charger to charge. Because I have a flat battery and a flat tire. So
+
+Agent (Human) at 165.2s:
+Lydia. Oh, no.
+
+Customer at 167.3s:
+it's [AGENT_NAME] happening this morning.
+
+Agent (Human) at 168.6s:
+Yeah. Let's get this sorted. So you are going to Bowen today?
+
+Customer at 176.7s:
+Yes. Yep. That yeah. I was told to ring to get a code. So they said they had a headset there. So
+
+Agent (Human) at 182.5s:
+Yeah. So what time do you think yeah. When do you think you'll be heading up
+
+Customer at 183.5s:
+yeah, I think that's all sorted.
+
+Agent (Human) at 186.7s:
+Lydia?
+
+Customer at 189.2s:
+As in the next, like, ten minutes.
+
+Agent (Human) at 191.1s:
+Okay. Perfect. Alright. Let me text you that code. Now I can send you an invoice if you would like to make payment.
+
+Customer at 200.2s:
+That would be perfect.
+
+Agent (Human) at 201.8s:
+Alright. Let me send you an invoice and send you the code. How does that sound?
+
+Customer at 206.7s:
+Perfect.
+
+Agent (Human) at 207.8s:
+Excellent. Alright. Well, I'll get that sent out to you now. Okay, Lydia?
+
+Customer at 211.7s:
+Awesome. Thank you.
+
+Agent (Human) at 213.2s:
+Thank you,
+
+Customer at 213.4s:
+And is that all I have to do then?
+
+Agent (Human) at 215.2s:
+Yep. That's all you'll have to do.
+
+Customer at 216.6s:
+Perfect.
+
+Agent (Human) at 217.3s:
+Okay. So
+
+Customer at 218.0s:
+Thank you so much.
+
+Agent (Human) at 219.3s:
+that's alright. So just once you get that invoice, make the payment.
+
+Customer at 219.9s:
+Oh, yeah. I'll do it straight away.
+
+Agent (Human) at 224.6s:
+Yeah. Perfect. Excellent. Thank you so much.
+
+Customer at 227.4s:
+Awesome. Thank you. Have a good day.
+
+Agent (Human) at 227.6s:
+I'll talk to you soon. You too. Bye.

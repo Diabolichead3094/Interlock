@@ -1,0 +1,146 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.4s:
+Quote.
+
+Agent (Mia) at 10.6s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.8s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.4s:
+Thank you. Have you already received a quote from us before, or is this your first time request requesting one?
+
+Customer at 25.0s:
+First time requesting one.
+
+Agent (Mia) at 27.8s:
+Thanks for clarifying. I've sent you a text with a link to request your quote. Our team will follow-up usually within twenty four hours. Would you also like to speak with someone from our quotes team now?
+
+Customer at 38.6s:
+Yes.
+
+Agent (Mia) at 40.4s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 45.0s:
+Yes.
+
+Agent (Mia) at 46.6s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 82.3s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 85.7s:
+Hi there, Sarah. Uh, my name is [CUSTOMER_NAME]. I'm just trying to get a like, a ballpark figure or a potential quote on how much it costs to get an install in my car.
+
+Agent (Human) at 96.0s:
+Alright, [CUSTOMER_NAME]. So have you had a quote request link sent to you? Because you you do need to complete the request form. So that our quotes team can put that cost together for you. Let me just send it to you now while we're on the phone. So that will be going to the number that you're calling from.
+
+Customer at 123.2s:
+Yeah.
+
+Agent (Human) at 123.9s:
+And, [CUSTOMER_NAME], do you know when you're eligible to get your interlock license?
+
+Customer at 129.1s:
+I'm I'm eligible now.
+
+Agent (Human) at 130.8s:
+Okay. And the state that you're calling from?
+
+Customer at 134.2s:
+Queensland.
+
+Agent (Human) at 135.2s:
+Okay. And what's your postcode there?
+
+Customer at 139.9s:
+Four two one one
+
+Agent (Human) at 141.8s:
+4211. Alright. So our closest service center to you would be in Burley Heads. So we have master tint. But we have quite a few service centers on the Gold Coast. Have you received the text message on your phone?
+
+Customer at 161.0s:
+Oh, yeah. Yeah. Go on here.
+
+Agent (Human) at 162.5s:
+Yeah. Excellent. So what you do, you just click on that link. You'll see the form that opens up. It's not very long. Once you submit it, our team will be able to put that cost together and come back to you with the the amount to install, and then also give you the service options going forward in the program.
+
+Customer at 182.5s:
+Yeah.
+
+Agent (Human) at 182.6s:
+If we've got a concession card, be sure to in include that. Or if you've applied for financial assistance.
+
+Customer at 190.0s:
+That's like a
+
+Agent (Human) at 190.1s:
+And
+
+Customer at 191.4s:
+because I'm a TAFE student Does that count?
+
+Agent (Human) at 193.9s:
+mhmm. Do you have a concession card?
+
+Customer at 198.6s:
+I don't have a concession card. I have a student card. But
+
+Agent (Human) at 202.3s:
+Yes. So so it's through CenturyLink that you'd have a concession card, or
+
+Customer at 207.5s:
+Okay.
+
+Agent (Human) at 208.3s:
+you can apply for financial assistance through the transport office. Would you like me to send you a link to that?
+
+Customer at 215.1s:
+Yeah. Go for it. Send me a link to that. That'd be good. Thank you.
+
+Agent (Human) at 218.7s:
+Yeah. So it just helps people with the cost of the install and then going forward with the monthly servicing and rental. Okay. So I'll just send that to you. Now if you are gonna apply for financial assistance, um, I'll just let you know that it can take, you know, maybe four weeks for that
+
+Customer at 240.5s:
+Yeah.
+
+Agent (Human) at 241.8s:
+application. To go through and then get approved.
+
+Customer at 243.8s:
+Yeah. Okay.
+
+Agent (Human) at 247.2s:
+So the other thing is if you get installed before you can't claim back your install. It will help you for you going forward with the servicing and rental. Otherwise, you can wait to see if you get the approval. And then, obviously, that will assist you with towards your in store costs.
+
+Customer at 267.5s:
+Okay. No worries.
+
+Agent (Human) at 268.6s:
+Alright. So you've got that link there now as well?
+
+Customer at 272.0s:
+Yeah. I've just filled it all out and I've submitted it, but the page has gone blank. Yeah. No. Here we go. Thank you for your submission. Cool. Alright.
+
+Agent (Human) at 280.6s:
+Okay, [CUSTOMER_NAME]. Looks like it's coming to our quotes team, so we'll get on to that
+
+Customer at 280.7s:
+All good. I'll wait till you're back.
+
+Agent (Human) at 285.4s:
+for you now. Okay?
+
+Customer at 287.1s:
+Thank you very much.
+
+Agent (Human) at 288.1s:
+Thank you. Bye.
+
+Customer at 289.5s:
+Cheers. Bye.

@@ -1,0 +1,164 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+Speak to Alfredo.
+
+Agent (Mia) at 8.7s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.1s:
+[CUSTOMER_NAME].
+
+Agent (Mia) at 16.8s:
+Thank you. Just to confirm, would you like to speak with someone from our team now?
+
+Customer at 22.2s:
+Yes.
+
+Agent (Mia) at 24.2s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 57.0s:
+Affordable Interlocks. How can I help?
+
+Customer at 60.3s:
+Good day. I've just got a question regarding the interlock I've got in my car.
+
+Agent (Human) at 66.6s:
+Yeah. Can I just have your first and last name if that's okay?
+
+Customer at 70.8s:
+Yeah. [CUSTOMER_NAME] Peace.
+
+Agent (Human) at 73.8s:
+And just the vehicle that it's installed to, just the registration number or the make and model.
+
+Customer at 82.2s:
+It is 2025, 2024, Mercedes Benz CLE two hundred. Rego is five eight eight a nine b.
+
+Agent (Human) at 97.0s:
+Alrighty. How can I help?
+
+Customer at 101.1s:
+So I've just I've just noticed that the thing goes off pretty often when I'm driving, like, every five to kind of twenty minutes, thirty minutes. Do I need to pull over every time I need to retest as I'm driving, or am I okay to just
+
+Agent (Human) at 117.2s:
+Hi. No. No. Yeah. You can just grab it and blow into it. It'd be unsafe to pull over, like, especially if you're, like, on a highway or roundabout. So you blow into it for the first time. It says start engine. You start the engine.
+
+Customer at 127.5s:
+Okay.
+
+Agent (Human) at 130.2s:
+After about five minutes, it will ask you for a retest and then about every twenty to thirty minutes. But you just blow in. Like, as you're driving, you just pick up, blow it for five seconds, and then put put it back down.
+
+Customer at 140.9s:
+Okay. Cool. Yeah. That that's what I've been doing. I just wanted to make sure I wasn't yeah, getting myself in trouble. The other thing
+
+Agent (Human) at 145.7s:
+Hello. That's okay. It'd yeah, it'd be dangerous if you're pulling over all the time.
+
+Customer at 149.3s:
+thing yeah. That's what I was thinking. Yeah. I did that at first, so that was freaking annoying. Yeah.
+
+Agent (Human) at 155.3s:
+Yeah.
+
+Customer at 156.8s:
+So the other question was my other question was the it's a it's a push to start cart, and I usually I'm I'm just so used to, like, pushing the button before getting in the car. But every time I push the button, it goes turn the car on, and the thing kinda freaks out at me for a little bit. Is that does that count as a I guess, just yeah. Like, a yeah. A violation?
+
+Agent (Human) at 183.9s:
+A violation. It's a it's a start violation, but it's not a violation that will affect your program. So it it does happen naturally when you first get installed. Most people, the push push to start, they do it too. Same with keys. Some people just put their key in turn and don't and just forget. So it's not it's nothing that will extend you. But it can cause immediate recall messages. So if you do it, then it comes up with an immediate recall and a number next to it, if any immediate number ever comes up, always give us a call. Don't call Makai only because they don't know what the numbers mean. They'll just tell you to call us. But
+
+Customer at 224.1s:
+Okay.
+
+Agent (Human) at 224.4s:
+yeah, the only thing that will happen is an immediate recall message will come up, but it won't affect your program. And in the last four months, it won't extend your program either. The only thing that will extend your program is tampering with equipment, missing a service, or blowing over. So having a rating in the last four months, that that's what will extend you.
+
+Customer at 245.0s:
+Yep. Okay. Okay. Okay. Okay. And so does that mean, like, if, say, my friend is yeah. I just use mouthwash or something and then goes to blow when he's driving in it and it goes. They can see that that's not me. Right? Because of the camera, and that doesn't really
+
+Agent (Human) at 259.1s:
+Yeah. Yeah. Exactly. So never move that camera. So if there's someone jumps into your vehicle in your last four months, you especially want the camera to be facing you, because if someone blows in and it's not you, then you can dispute it and say, well, in the photos, you can clearly see it's not me driving. It's a girl or it's my mate or it's my mom or whoever it may be.
+
+Customer at 280.6s:
+Mhmm.
+
+Agent (Human) at 280.6s:
+However, if you do have a rating, I would never recommend having l someone blow in having someone else blow into it after. Because when transport checks your records, if they see that you have a rating, and then someone else starts the vehicle after and you try and dispute that, they won't be able to take it, obviously, because someone else is providing the breath sample to be able to pass. So if you do have a reading and you you don't know what it's caused by as well, you can always call our office if it's between nine to five, Monday to Friday, and then we can help you navigate what it could be caused by. But in the last four months, if if you blow into it and cause a reading, and then you've got someone with you and then they jump in the driver's seat and blow in, then you can't dispute that because you'll be able to see it's not you passing the retest.
+
+Customer at 327.8s:
+Yep. Okay. Now that that's fair. That makes sense. And just one more question. So if if they, like, get a coffee in the morning, you know, and I I think sometimes some of syrups and stuff that I call on them, and I drove there. I go to blowing it. It detects a very, very pronounced alcohol. And then I retest again in, like, thirty minutes after there's that wait time. And then it's negative again. I'm in both photos, Do you know if that counts as a violation?
+
+Agent (Human) at 357.5s:
+It's [AGENT_NAME] really hard it's hard to say because we're not trans so we don't we don't go through the distributions with customers. We just kind of provide assistance. But if you have a rating, it's always best to try and and pass it after. So best thing is also not to have coffee and then blow into it. Always make sure you're washing your mouth out with water. If you've consumed anything, like, whether that's food, or any type of beverage, especially, like, work, like, Red Bulls or energy drinks or OxyShreds, if you drink those. They will cause a reading because they have slight traces of like, an alcohol in them, like, a a base of alcohol. So if you're drinking anything like that, it will definitely
+
+Customer at 395.9s:
+Fries.
+
+Agent (Human) at 398.1s:
+cause a reading. So always keep, like, a bottle of water in the car That way you can wash your mouth out and then blow into blow into it try and pass it. But, normally, coffees and stuff only calls a five minute reading. So you should be able to pass that after. And then when it comes to disputing, you can just say, well, I had a five minute lockout. After five or ten minutes, I passed the retest. And then continued driving. Didn't have any lockouts after that, and then they'll be able to see, obviously, you have enough alcohol to continue lock out if you did have any in your system.
+
+Customer at 431.4s:
+Yeah. Right. Okay. And then they just click, okay. Yeah. That's just the system You know, the thing being a bit sensitive.
+
+Agent (Human) at 435.2s:
+Yeah.
+
+Customer at 436.5s:
+Yeah. Cool. Okay.
+
+Agent (Human) at 437.4s:
+And then also just for a reminder, if you do smoke or vape, they will also cause readings. Same as if if someone's in the vehicle and they're if they're smoking, it actually can readings as well just because of vapes and cigarettes do have a high level of chemicals in them, unfortunately. So just be a bit mindful of that too. And if any of your friends using the vehicle, same thing, like with cologne or hand sanitizer, aftershave. A lot of day to day in like, products that you use, like mouthwash even, have very high levels of alcohol that you wouldn't necessarily consider when you first you're using the device. But over time, you'll start to realize what can in calls readings.
+
+Customer at 479.4s:
+Yep. Yep. Okay. No. That that sounds good. Thank you.
+
+Agent (Human) at 482.7s:
+That's okay. Do you have any other questions while I've got you on the phone?
+
+Customer at 487.0s:
+My other question would be, what are the hours I can call this number again? Sorry.
+
+Agent (Human) at 491.1s:
+Monday to Friday, 9AM to 5PM. However, if you are ever in an emergency you can call our number, but make sure to leave a detailed voice mail saying your first name and last name, the registration number, and the reason that you're calling. And if there's an immediate recall, or an abort or error message, then to say that in the voice mail too. Just because some people pocket dial us over the weekend or you know, don't leave voice mails so our team won't call them back if we're not sure it's an emergency or not. But if, yeah, if there ever is an emergency, you can call our number. Just make sure you do leave
+
+Customer at 522.8s:
+Yep.
+
+Agent (Human) at 526.4s:
+a voice mail.
+
+Customer at 528.2s:
+Okay. Cool. So there's there's, like, people still working, and they just check the voice mails. And if there's anything, they
+
+Agent (Human) at 532.3s:
+Yeah.
+
+Customer at 532.9s:
+give you a callback kinda thing. Yeah.
+
+Agent (Human) at 533.8s:
+Yeah. And yeah. But if you ever have a lockout and
+
+Customer at 535.1s:
+Okay.
+
+Agent (Human) at 537.8s:
+between Monday to Friday, 9AM to 5PM, just call us. Because we talk to people every day, all day, so we know a lot of the things that could cause ratings and whatnot. Um, so if you ever are stuck somewhere or unsure what's causing it, just give us a call.
+
+Customer at 552.1s:
+Yep. Okay. I will. You for that.
+
+Agent (Human) at 553.6s:
+Awesome. No worries at all. You have other any other questions? Then give us a call.
+
+Customer at 558.7s:
+I will. Thank you. You've been very helpful.
+
+Agent (Human) at 559.6s:
+Thank you. No worries. Have a good day. Bye bye.
+
+Customer at 562.9s:
+K. Bye.

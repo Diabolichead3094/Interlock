@@ -1,0 +1,101 @@
+Customer at 0.0s:
+Daphne.
+
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.0s:
+Yes. So it's Roger Lily here. My car is 334HTH of Toyota Prado. And it's just come up on the on the printer up thing. That it's due for a service on next Tuesday, I think it is. Tuesday or Wednesday. It's just come up yesterday.
+
+Agent (Mia) at 30.5s:
+Thank you. Just to confirm, you'd like to check when your next service is due for your interlock device? Is that right?
+
+Customer at 37.3s:
+It's [AGENT_NAME] coming up telling me it's due next Tuesday on the eighteenth, I think it is.
+
+Agent (Mia) at 43.8s:
+Appreciate that. To double check your next service date, please make sure your car is switched off. Let me know when you're ready for the next step.
+
+Customer at 51.8s:
+It's [AGENT_NAME]. Service due twenty third of the sixth. That's next week.
+
+Agent (Mia) at 58.1s:
+Thank you. There's a seven day grace period after June 23. If you miss that, your car will lock out and a fee applies. Do you need help with anything else about your service?
+
+Customer at 69.1s:
+Well, now in Mount Isa. I'm usually all over the place, but I was in Bundaberg last summer. Is it still Isa Auto Supplies? Me to to go and get this checked?
+
+Agent (Mia) at 82.2s:
+I can help with that. The best way to confirm your nearest authorized service center is to check our website's locations page. Would you like me to send you a link via text?
+
+Customer at 92.4s:
+I've never really had to do that. I'm 72 years old, and I find it very hard Okay.
+
+Agent (Mia) at 102.6s:
+No worries. I can connect you to a specialist who can help with your service center or booking. Are you ready to be connected now?
+
+Customer at 109.8s:
+Thank you.
+
+Agent (Mia) at 111.9s:
+All good. If you need anything else, just let me know. Otherwise, thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 115.2s:
+Thank you. Thank you.
+
+Agent (Mia) at 122.7s:
+Thanks for calling Affordable Interlock Systems. Have a wonderful day. Just checking in. C a c. Any I'm on a I think I'll say can help. Yes. But suspicious toys. That's.
+
+Customer at 159.0s:
+Hello? Hello?
+
+Agent (Mia) at 163.5s:
+Yes. I'm still here. Is there anything else I can help you with to oh,
+
+Customer at 165.0s:
+Alright.
+
+Agent (Mia) at 167.5s:
+I'll yeah. So we paid it today.
+
+Customer at 171.6s:
+Well, no normally, just ring you up and then and then you and then then you charge me, and, you know, I just go to the lab to the nearest service center, and I'll get it serviced.
+
+Agent (Mia) at 183.5s:
+That's right. You just need to visit your
+
+Customer at 183.6s:
+I think this is I think this is wrong with it, but
+
+Agent (Mia) at 190.1s:
+Understood. If you'd like, I can send you a text with the link to find your nearest service center. Would you like me to do that now?
+
+Customer at 196.9s:
+I know where that is. So I just ring them and book it in?
+
+Agent (Mia) at 201.4s:
+That's correct. Just call your local service center like ESA Auto Supplies.
+
+Customer at 206.1s:
+Okay. No.
+
+Agent (Mia) at 206.1s:
+And book your interlock service directly with them. If you need their contact details, I can send you a link to our locations page. Would you like that?
+
+Customer at 214.4s:
+No. That's alright. Is it either of those supplies, are they Anyway, I'll give them a call. It's okay.
+
+Agent (Mia) at 222.1s:
+No worries. Just call ESA Auto Supply directly to book your interlock service. If you need anything else, let me know.
+
+Customer at 223.4s:
+Alright. Yes.
+
+Agent (Mia) at 228.8s:
+Otherwise, thanks for calling Affordable Interlock Systems. Have a wonderful day.
+
+Customer at 233.3s:
+Thank you. Bye.
+
+Agent (Mia) at 236.3s:
+Thanks for calling Affordable Interlock Systems.

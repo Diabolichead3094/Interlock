@@ -1,0 +1,110 @@
+Agent (Mia) at 0.2s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 5.3s:
+Changing an email
+
+Agent (Mia) at 8.5s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.0s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.0s:
+Thank you. To update your email address. Please send your new details to [EMAIL] Would you like me to text that email address to you for convenience?
+
+Customer at 27.2s:
+Yes, please.
+
+Agent (Mia) at 29.7s:
+Just a sec while I send that through. I've sent you a text with our email address Is there anything else I can help you with today?
+
+Customer at 38.2s:
+Can I ask for an operator, please?
+
+Agent (Mia) at 41.4s:
+All good.
+
+Customer at 41.8s:
+Operator.
+
+Agent (Mia) at 42.2s:
+Would you like to be connected to a specialist now?
+
+Customer at 43.7s:
+Yes. Yes. Yes, please.
+
+Agent (Mia) at 47.4s:
+To our customer support team now. One moment. Connecting you now. One moment, please.
+
+Customer at 83.0s:
+Tracy, is it Tracy, is it?
+
+Agent (Human) at 83.9s:
+Affordable Interlocks. This is [AGENT_NAME].
+
+Customer at 85.3s:
+Yes. [CUSTOMER_NAME] [CUSTOMER_NAME] Haggart here. I'm just n k seven two six seven n k seven
+
+Agent (Human) at 88.8s:
+Yes. It is.
+
+Customer at 91.2s:
+is my number plate. I'm just trying to change an email address please.
+
+Agent (Human) at 101.2s:
+Okay. Certainly. Two seconds. I'll just pull up your account here.
+
+Customer at 106.0s:
+Yep. Yep. That's the one. Yep.
+
+Agent (Human) at 106.7s:
+Okay. So it's a 1998 Toyota Hilux. Is that right? Yep. Awesome. Okay.
+
+Customer at 114.0s:
+I'm just due to probably get an email at some point. My email. Is down. I've I've been way down for while. I know that can't Just gotta upgrade it to to me to me girls in that email, please.
+
+Agent (Human) at 123.8s:
+Right. Okay. Not a problem. So I've got
+
+Customer at 128.7s:
+No. No. No.
+
+Agent (Human) at 130.5s:
+[EMAIL]
+
+Customer at 132.6s:
+Darren
+
+Agent (Human) at 134.7s:
+Okay. What's the new one?
+
+Customer at 134.7s:
+Karen. Rosa. Rachael. So k a r e n, Rita.
+
+Agent (Human) at 139.4s:
+Yes?
+
+Customer at 141.0s:
+R I t a, Young, y o u n g. At yahoo dot com.
+
+Agent (Human) at 146.3s:
+Yes. Mhmm. At yahoo dot com. So [EMAIL] Awesome. And I would also encourage you to update it with Queensland as well.
+
+Customer at 163.4s:
+Yep. Done that. Yep. Done that as well just before. Yeah. Already done. Yeah.
+
+Agent (Human) at 168.8s:
+Awesome. Fantastic.
+
+Customer at 168.8s:
+All good. Alright. Thank you.
+
+Agent (Human) at 171.6s:
+Fantastic. Awesome. I've updated all of that through our system for you.
+
+Customer at 172.6s:
+Thanks so much. Oh, okay. Bye.
+
+Agent (Human) at 176.4s:
+So you so much. Have a good day. Bye.

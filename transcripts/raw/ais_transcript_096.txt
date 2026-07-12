@@ -1,0 +1,65 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 7.4s:
+Give me a real person to talk to.
+
+Agent (Mia) at 10.1s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 15.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 18.5s:
+Thank you, sir. Are you ready to be connected to a specialist now?
+
+Customer at 23.1s:
+Yep.
+
+Agent (Mia) at 25.6s:
+I'll get you over to our customer support team now. One moment.
+
+Customer at 32.7s:
+I'm getting here in a customer accepting. My moment, it's
+
+Agent (Human) at 48.1s:
+Affordable inbox. Good afternoon. You're speaking with Shannon. Good. Good. How are you?
+
+Customer at 66.9s:
+Hi. How's it going? Yeah. Not bad. I'm I'm just calling in regards I'm just done
+
+Agent (Human) at 70.6s:
+Yeah.
+
+Customer at 73.1s:
+my quote
+
+Agent (Human) at 73.1s:
+Yeah. Yeah.
+
+Customer at 74.2s:
+to get my install changed out of one car to the other.
+
+Agent (Human) at 78.2s:
+Okay. So you've just sent that through.
+
+Customer at 79.1s:
+Yeah. So where do I go from that? I'm done that. So
+
+Agent (Human) at 82.0s:
+Yeah. So the additional vehicle form is what you've sent through. So what we'll do now is we'll reach out to the service service center
+
+Customer at 84.9s:
+yeah. Yeah.
+
+Agent (Human) at 89.2s:
+and see when they're available to do that for you. Okay? And then we'll send you a booking confirmation. And then make payment and go in and get it done. You're more than welcome. Thanks, [CUSTOMER_NAME].
+
+Customer at 103.5s:
+22. Thank you.
+
+Agent (Human) at 104.2s:
+Thanks. Bye.
+
+Customer at 107.2s:
+Zero.

@@ -1,0 +1,377 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.2s:
+I need a to to pay for a service.
+
+Agent (Mia) at 10.0s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME]?
+
+Agent (Mia) at 17.2s:
+Just to make sure I'm on the right track. Did you say social hash card?
+
+Customer at 22.4s:
+[CUSTOMER_NAME] Hascard.
+
+Agent (Mia) at 26.4s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 32.8s:
+No.
+
+Agent (Mia) at 34.8s:
+No problem. I'll connect you with a specialist who can help with your payment. Are you ready to be connected now?
+
+Customer at 41.1s:
+Yep.
+
+Agent (Mia) at 43.3s:
+Get you over to our customer support team now. One moment. Are you ready to be connected?
+
+Customer at 53.6s:
+Yep.
+
+Agent (Mia) at 55.5s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 102.1s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 105.3s:
+Hi, Sarah. How are going? It's [AGENT_NAME] speaking.
+
+Agent (Human) at 107.7s:
+Good, Josh. Yourself?
+
+Customer at 110.0s:
+Yeah. Not too bad. Need to pay for for a service.
+
+Agent (Human) at 115.6s:
+Alright. I can help you with that. So I just need I just need your last name, Josh.
+
+Customer at 118.1s:
+Oh, thank you.
+
+Agent (Human) at 122.7s:
+And your registration.
+
+Customer at 125.7s:
+Yep. It's Haskell.
+
+Agent (Human) at 127.2s:
+Mhmm.
+
+Customer at 132.9s:
+Hold on. The rego is dm61@u? Did you get that?
+
+Agent (Human) at 145.1s:
+Alright. Yes. Okay. So you got the Subaru Outback.
+
+Customer at 150.2s:
+Yep.
+
+Agent (Human) at 150.5s:
+Your your service isn't due till the July 2.
+
+Customer at 154.9s:
+Yeah. I'm do it early because I'm going for work in a rural area.
+
+Agent (Human) at 159.3s:
+Alright.
+
+Customer at 160.2s:
+Fine. So I just thought I'd how did that work? Because guys are alright if you pay through it earlier.
+
+Agent (Human) at 172.5s:
+So, normally, you've got seven days before and seven days But if you're if you've got no choice and there's no one else that can take your vehicle, it is just better to take it in so you don't miss the service. How long are you going away for?
+
+Customer at 186.5s:
+Yes. It's actually for work. And I it's three months.
+
+Agent (Human) at 193.6s:
+Okay. Going away for three months. So are you taking your vehicle with you?
+
+Customer at 201.7s:
+Yeah. Yeah.
+
+Agent (Human) at 202.8s:
+You are. Okay. Well, where would you be going to work?
+
+Customer at 209.1s:
+The snow? The snow the snowfields?
+
+Agent (Human) at 211.3s:
+Alright. So is that New South Wales?
+
+Customer at 216.1s:
+Oh, sorry. Yep. Yep. Yep.
+
+Agent (Human) at 219.1s:
+So can you give me a postcode or a a town or something?
+
+Customer at 224.9s:
+Ginderborn, I guess.
+
+Agent (Human) at 226.8s:
+K. Let's see what we've got close by. In that way, okay. We do have a service center at Queen Bean. So Langs Auto.
+
+Customer at 240.6s:
+It's, like, it's, like, three hours away.
+
+Agent (Human) at 242.8s:
+One in Leavington, Waga, See, I don't know. I I don't know geographically
+
+Customer at 252.3s:
+Yes.
+
+Agent (Human) at 252.7s:
+you know, how close that would be, but there are other service centers you know, if you had to within that three months. That you might find closer than than the normal one for you.
+
+Customer at 267.1s:
+I think my guys are the closest. It's like two and a half hours, I think. So
+
+Agent (Human) at 272.7s:
+Okay. Alright. Well, just, yeah, just putting the ideas out there anyway just because
+
+Customer at 275.1s:
+yeah.
+
+Agent (Human) at 278.2s:
+obviously, you can only put two months on your handset. So you might just need to make
+
+Customer at 282.1s:
+That's alright.
+
+Agent (Human) at 283.2s:
+make the time and and, uh, do a little drive to have that service again before three months.
+
+Customer at 290.0s:
+Yep. No. I understand that. Yep.
+
+Agent (Human) at 290.2s:
+Okay? Awesome. Alright, Josh. So you're wanting to make a payment for two months. Is that right?
+
+Customer at 298.2s:
+Yep.
+
+Agent (Human) at 298.9s:
+Okay. Now so that's 357. But you do have a $150 on your account. Which I can see it's being carrying through because you'd had a handset exchange. Earlier in the year.
+
+Customer at 317.4s:
+Yeah.
+
+Agent (Human) at 317.6s:
+So it meant that we couldn't put your full sixty days on. So
+
+Customer at 322.0s:
+Yep.
+
+Agent (Human) at 322.0s:
+that's why you've got that credit accrued. So it leaves only $207 for you to pay today.
+
+Customer at 329.7s:
+Yep. And can you email me a invoice or
+
+Agent (Human) at 332.8s:
+Oh, would you like me to send you an invoice with it?
+
+Customer at 336.2s:
+yeah. Is that okay?
+
+Agent (Human) at 337.4s:
+Yeah. I can do that. So I'll put that I'll put that together, and I'll send that through to you.
+
+Customer at 339.3s:
+Oh, perfect.
+
+Agent (Human) at 344.0s:
+For $207. Alright?
+
+Customer at 346.8s:
+Also, I'm also taking my car in for some repairs today. So you might get a phone call from my mechanic.
+
+Agent (Human) at 356.1s:
+Alright. What's the name of the business? And I'll make some notes here.
+
+Customer at 362.5s:
+Really? Scrolling. It's VNH Motor repairs.
+
+Agent (Human) at 381.2s:
+So v for Victor, n for Nelly?
+
+Customer at 383.7s:
+Yep.
+
+Agent (Human) at 384.2s:
+H for Harry,
+
+Customer at 385.9s:
+No. Sorry. The end as in, like,
+
+Agent (Human) at 389.4s:
+Oh, and. The the word and?
+
+Customer at 391.3s:
+yeah. Yeah. Yeah. Yeah. Yeah.
+
+Agent (Human) at 391.9s:
+B and h
+
+Customer at 394.7s:
+Yep. Motor repairs. Yeah.
+
+Agent (Human) at 396.4s:
+Motor repairs. Alright. And they're just gonna have your vehicle for the afternoon?
+
+Customer at 402.5s:
+Probably for a couple of days.
+
+Agent (Human) at 404.5s:
+Okay. So just let them know to give us a call, and we can give them the third party maintenance code while they're working on your car. And that way, they don't have to blow into your device. Which is preferred. Okay?
+
+Customer at 416.5s:
+Yep. Yep. Perfect. All good. Yep.
+
+Agent (Human) at 420.4s:
+Excellent. Alright. Well, once we finish speaking, I'll put that invoice together, and I'll
+
+Customer at 426.8s:
+Yep.
+
+Agent (Human) at 427.0s:
+send that through to you. Alright?
+
+Customer at 429.1s:
+Oh, perfect. All good.
+
+Agent (Human) at 431.1s:
+Okay, Josh. Have we covered everything?
+
+Customer at 433.8s:
+I think we have.
+
+Agent (Human) at 435.2s:
+Excellent. Alright. Well, you have a good afternoon.
+
+Customer at 437.3s:
+Oh, one one more thing. I feel like some more services coming up. Obviously, in two months. What's the best way to pay them? Because I think it used to be direct debit. I think the last time or every time I've just called up and paid. So is there an easier way to pay? Or
+
+Agent (Human) at 457.2s:
+So you can add your card on file. So when you make payment on the invoice today, you can opt to save your card details.
+
+Customer at 466.7s:
+Yeah.
+
+Agent (Human) at 467.7s:
+Or we can continue to send you the invoice. It's up to you.
+
+Customer at 474.2s:
+Is it possible to send the invoice, like, a week before it's due? That way, I can pay it and then and then we have to worry about it? Is that probably the easiest thing to do? Or
+
+Agent (Human) at 491.2s:
+Just depends how long your invoicing goes for
+
+Customer at 491.4s:
+or the
+
+Agent (Human) at 494.2s:
+that means that each and everyone has to be, um, edited seven days earlier than the scheduled date. So I'd have to see how easy or hard that is. Otherwise, you can just follow your handset and you can make make a payment using, um, a payment link.
+
+Customer at 519.0s:
+I'll try to have my car this afternoon. I'll see how that goes for me. Yep.
+
+Agent (Human) at 523.1s:
+Alright. So you want it to automatically just take your payment?
+
+Customer at 527.4s:
+Yeah. Because it it was set up like that before. Now now it's changed. So I think you updated your website or something, like or something happened. I can't remember.
+
+Agent (Human) at 537.5s:
+Oh, okay. That was quite some time ago now.
+
+Customer at 540.9s:
+Yeah.
+
+Agent (Human) at 542.0s:
+Last year. So let me just see.
+
+Customer at 548.7s:
+I know my card details here actually. Is is that easier?
+
+Agent (Human) at 552.7s:
+Oh, I can add it for you if you want.
+
+Customer at 555.6s:
+Yeah. Perfect.
+
+Agent (Human) at 557.3s:
+Let's have a look into that view. It's just that it's it's scheduled for three days. Three days before your due date. So this upcoming one, it would have come out on the thirtieth. But as you're gonna pay
+
+Customer at 579.4s:
+So it's probably better off. Yeah. So it's probably better just to ring up
+
+Agent (Human) at 587.8s:
+Yeah. Well, it I mean, it's easy enough to do. But it's up to you if, you know, But if your car is with you, obviously, you're going to be driving it occasionally, and you're gonna see that the handset is coming up too. So you can just call us and make a payment. And then it's done.
+
+Customer at 611.9s:
+I try and make a payment on the weekend, though, and if you guys aren't open. So, like, say, if I'm getting a payment like, quite often, I'll get one done on a Monday morning and you know, I can't make a payment on the weekend. So how would you how would you sort that out?
+
+Agent (Human) at 625.6s:
+Sorry. If you well, if you paid over the weekend, the payment would be processed on the Monday morning. So you can still get your service done on a Monday.
+
+Customer at 632.4s:
+Yeah.
+
+Agent (Human) at 634.9s:
+The only thing with it being automatically debited is the payments don't go out till 10AM. So if, for example, it's
+
+Customer at 640.7s:
+Right.
+
+Agent (Human) at 641.6s:
+fell on a Monday and didn't come out till 10AM, you'd have to wait till after that time. So that's the only other thing.
+
+Customer at 650.0s:
+Yeah.
+
+Agent (Human) at 652.1s:
+So so I'll send you the invoice for the $207. And at least you're covered for the next sixty days. And then after that,
+
+Customer at 660.1s:
+Yep.
+
+Agent (Human) at 661.5s:
+you know, seeing as you're only gonna be away for three months, you know, maybe you could just fill it out what the next step is, whether it's to add your card, have it done automatically, or whether you just continue to wait for your invoice and pay it the it comes.
+
+Customer at 678.0s:
+Yeah. Because, ideally, it'd be it'd be good to for it to be processed before those two weeks. Because it takes me a long time to converse with my with my with the guy that does it. Like, I have to fit around his time as well. He's very busy. So I like to have two weeks Yeah.
+
+Agent (Human) at 697.1s:
+Yeah. So if you're following the handset, you can always go into the service dates. You can see when the service is due. So two weeks before, you could be organizing that. And then if you wanna pay before,
+
+Customer at 711.9s:
+Yeah.
+
+Agent (Human) at 713.6s:
+you can call and pay or you can use a payment link or you can go to our website. Or you can request an invoice early. Send us an email, request it, and we can send it to you.
+
+Customer at 726.3s:
+Okay. Alright. All good. I think I'm I think I'm sorted. Yep. Alright. Sounds good.
+
+Agent (Human) at 731.8s:
+Okay. Awesome. Alright. I'll sort out this invoice for you, and we will wait to hear from V and H Motor repairs.
+
+Customer at 737.7s:
+Yep. Awesome. Thank you. Cheers.
+
+Agent (Human) at 741.0s:
+Okay? Thank you so much, Josh. Alright.
+
+Customer at 744.6s:
+Yeah. Bye.
+
+Agent (Human) at 745.4s:
+Bye.

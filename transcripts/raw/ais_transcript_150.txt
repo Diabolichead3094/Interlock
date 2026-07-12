@@ -1,0 +1,95 @@
+Agent (Mia) at 0.3s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.6s:
+Clark. Question.
+
+Agent (Mia) at 9.4s:
+Just to make sure I'm on the right track, did you say quartz? Could you please clarify how this relates to your interlock device or support needs?
+
+Customer at 18.6s:
+Hello. I'm just wanting to know about my quote.
+
+Agent (Mia) at 23.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 28.2s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 32.0s:
+Thank you. Have you already received a quote from us?
+
+Customer at 35.4s:
+Yes.
+
+Agent (Mia) at 37.6s:
+Appreciate that. Would you like to speak with someone from our quotes team now?
+
+Customer at 42.1s:
+Yes, please.
+
+Agent (Mia) at 44.3s:
+I'll get you over to our quotes team now. One moment. Are you ready to be connected?
+
+Customer at 49.2s:
+Yes.
+
+Agent (Mia) at 51.2s:
+I'll get you over to our quotes team now. One moment.
+
+Agent (Human) at 90.8s:
+Affordable Interlocks. How can I help?
+
+Customer at 93.5s:
+Hello. Yeah. I just got a quote from you guys. And just reading it, is it right that I have to pay the total installation fee to, like, book the appointment?
+
+Agent (Human) at 107.5s:
+Yes. So you do not to you you don't have to pay just now. You have to enroll first. I just confirm your name? Have you already enrolled? Or have you just received the quote?
+
+Customer at 119.4s:
+I think I just received a quote. I don't think I've enrolled.
+
+Agent (Human) at 123.2s:
+So once once you enroll and then we get you a booking, that's when we require payment for the for the the installation amount. Because once it's paid for, that's when we can calibrate the kit and ship it to the service center. So if you wanna go ahead with the booking on the quote that you've received, there should be an enroll now button, and it's big and red. Click on that. You fill out all the additional information on the enrollment form. And then once we receive that, we'll be able to get you a booking. And then once you have a booking, we'll also send you an invoice. And then that invoice does have to be paid within twenty four hours.
+
+Customer at 159.0s:
+Yep. Okay. Think that's everything. Forgot I was gonna ask now. Sorry.
+
+Agent (Human) at 169.1s:
+Okay.
+
+Customer at 169.6s:
+Yeah, this do you know just so I know, are you able to see, like, if my date that I want is available?
+
+Agent (Human) at 176.8s:
+What's your name? Sorry.
+
+Customer at 178.6s:
+[CUSTOMER_NAME] Amp.
+
+Agent (Human) at 181.3s:
+K. When when were you wanting?
+
+Customer at 183.7s:
+The July 6.
+
+Agent (Human) at 187.6s:
+That yeah. That could be available. Yeah. Just oh, it just depends. We haven't reached out to the service center yet. But once you enroll, that's plenty of time for us to be able to get the kit out there.
+
+Customer at 194.2s:
+Yeah.
+
+Agent (Human) at 197.8s:
+So if it's the sixth, then we'd need payment by the twenty ninth. 3PM. So if you wanna go ahead with enrolling, pop in the six that you're wanting for the installation, and then we'll request that with the service center. Hopefully, we can get the six for you. And then if we do, we just need payment by the twenty ninth. We always just need payment at least seven days before the actual booking. Just so we have enough time to calibrate the device and the kit and then ship it to the service center. Center.
+
+Customer at 225.3s:
+Yep. That makes sense. Okay. Thank you.
+
+Agent (Human) at 227.5s:
+No worries. If you have any other questions, we're here until five.
+
+Customer at 230.8s:
+Thank you. Bye.
+
+Agent (Human) at 231.6s:
+Thank you. Bye bye.

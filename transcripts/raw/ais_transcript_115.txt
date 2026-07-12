@@ -1,0 +1,197 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.5s:
+Customer service, please.
+
+Agent (Mia) at 9.4s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 13.3s:
+[CUSTOMER_NAME] [CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 17.0s:
+Thank you. Just to confirm, you'd like to speak with a customer service specialist now. Are you ready to be connected?
+
+Customer at 23.0s:
+Yes.
+
+Agent (Mia) at 24.9s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 55.5s:
+Hi, [CUSTOMER_NAME]. [AGENT_NAME] speaking. How are you?
+
+Customer at 58.4s:
+I'm good. Thanks. How are you?
+
+Agent (Human) at 61.0s:
+Perfect. How are you?
+
+Customer at 62.3s:
+I'm good. I'm good. I just missed your call.
+
+Agent (Human) at 63.6s:
+Good. Yes. Just wondering. Can I get your removal letter yet?
+
+Customer at 67.9s:
+Yes. I did the other day, and my in slot needs to get serviced as well. But do I pay for another month? Because it it's removed on the '20 well, is it twenty fifth? Yeah.
+
+Agent (Human) at 79.1s:
+Okay. So we just need a copy of that letter. And then we can book you in for your removal. It's totally up to you.
+
+Customer at 82.5s:
+Yes.
+
+Agent (Human) at 85.8s:
+If you wanna go in for another service before the end
+
+Customer at 86.1s:
+Yep.
+
+Agent (Human) at 89.3s:
+It's [AGENT_NAME] so because if you get it removed and you have blown over, they can ask you to put it back in.
+
+Customer at 94.6s:
+Yeah.
+
+Agent (Human) at 97.0s:
+So
+
+Customer at 97.0s:
+[SENSITIVE_CONTENT] Okay. Well, I haven't well, I'm I'm pregnant. Like, I'm, like,
+
+Agent (Human) at 100.1s:
+oh, I hope you haven't blown over.
+
+Customer at 100.2s:
+[SENSITIVE_CONTENT] seven months pregnant, so I haven't blown over.
+
+Agent (Human) at 103.6s:
+Okay. So what day are you wanting us to book you in for your removal?
+
+Customer at 108.6s:
+When can I get well, I think I think the one that says the twenty fifth, I think that's a Friday? Am I able to get it removed on the twenty fifth?
+
+Agent (Human) at 115.7s:
+Twenty fifth is Thursday.
+
+Customer at 118.0s:
+The oh, no. The twenty fifth.
+
+Agent (Human) at 121.7s:
+'25?
+
+Customer at 123.1s:
+Yeah. Yeah. Twenty five.
+
+Agent (Human) at 124.5s:
+Yes. That's a Thursday.
+
+Customer at 126.1s:
+Is it a Thursday? I thought it a Friday. My bad.
+
+Agent (Human) at 128.7s:
+[SENSITIVE_CONTENT] Pregnancy brain.
+
+Customer at 130.3s:
+Yeah. No. It's really bad.
+
+Agent (Human) at 134.8s:
+Okay. So do want Friday or Thursday?
+
+Customer at 138.2s:
+Either day will be fine.
+
+Agent (Human) at 140.4s:
+Twenty fifth or '20 what date does it say on your letter
+
+Customer at 140.8s:
+Either or the.
+
+Agent (Human) at 143.1s:
+can get it out?
+
+Customer at 143.4s:
+I'm pretty I'm pretty I'm at work at the moment, but I'm pretty sure it says that, yeah, the twenty fifth.
+
+Agent (Human) at 148.5s:
+Okay. Perfect. I'll just have to read it and make sure of the wording on there. But if you can email that through to us, then we can definitely book you in for your removal.
+
+Customer at 158.0s:
+To be honest, I think it's honestly I think the one is from the RMS. Actually, now I think about it. That's fine. Okay.
+
+Agent (Human) at 161.5s:
+Yeah. That's fine. That's Yeah. Yeah. That's that's it. That's the one we need a copy of. Yeah.
+
+Customer at 165.2s:
+Okay. Okay. Beautiful.
+
+Agent (Human) at 167.5s:
+Yeah. So are you gonna be able to send it through today or to be
+
+Customer at 171.0s:
+Yeah. I can send it after 03:00. Is that okay?
+
+Agent (Human) at 171.3s:
+On the go. Yeah. Of course. Yep. We just can't book it
+
+Customer at 175.6s:
+Okay.
+
+Agent (Human) at 176.1s:
+until we've received it. But I'll send you through our email address. I'll text it to you. And once we receive it, I'll pop a note on your account saying those are the dates that you want.
+
+Customer at 180.4s:
+Yep. Okay. Awesome. Thank you so much. I'll send it
+
+Agent (Human) at 185.0s:
+And would you wanna go to McAlpine in Tari? Is that the one you wanna go to?
+
+Customer at 189.7s:
+yes. Yes.
+
+Agent (Human) at 190.5s:
+Yeah.
+
+Customer at 190.6s:
+Please. And do you know how much it's gonna cost to get removed?
+
+Agent (Human) at 191.0s:
+Okay. I think it's $1.80 for your vehicle, but I'll double check. It might be a little bit more because
+
+Customer at 196.8s:
+Okay.
+
+Agent (Human) at 199.4s:
+you paid up until the nineteenth. So there's a few days between that and the removal, but not much
+
+Customer at 201.4s:
+Yep.
+
+Agent (Human) at 204.4s:
+more.
+
+Customer at 205.3s:
+Yeah. Because it says need to be booked. It's like that thing popped up saying I need to book by the nineteenth, and then I think it's, like, in seven days. I've got seven days after that. Yeah. Okay.
+
+Agent (Human) at 213.7s:
+Yes. You yeah. You'll be fine if we get it out the twenty fifth or twenty sixth. You're not gonna lock out.
+
+Customer at 220.3s:
+Okay. Awesome. Alright. Sounds good.
+
+Agent (Human) at 221.7s:
+Yeah. Yep. Okay.
+
+Customer at 224.7s:
+Alrighty. Alright. I'll send that email through to Savo.
+
+Agent (Human) at 227.3s:
+Amazing. Thanks, [CUSTOMER_NAME].
+
+Customer at 228.5s:
+Okay. Thank you. Thank you. Bye.
+
+Agent (Human) at 229.5s:
+Bye.

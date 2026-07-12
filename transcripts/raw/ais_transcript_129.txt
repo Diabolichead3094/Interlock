@@ -1,0 +1,107 @@
+Agent (Mia) at 0.4s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 13.3s:
+Customer service.
+
+Agent (Mia) at 15.3s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 19.6s:
+[CUSTOMER_NAME] [CUSTOMER_NAME].
+
+Agent (Mia) at 23.3s:
+Thank you. Would you like to speak with a specialist now or is there something specific I can help you with regarding your interlock service or payment?
+
+Customer at 32.3s:
+Special
+
+Agent (Mia) at 36.6s:
+Understood. Are you ready to be connected to a customer support specialist now?
+
+Customer at 40.9s:
+Yes.
+
+Agent (Mia) at 43.1s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 84.0s:
+Good afternoon. Affordable Unsolux.
+
+Customer at 87.2s:
+Hi. I'm I'm just ringing up because my partner gets his interlock out on Wednesday. I'm just inquiring about how much it costs.
+
+Agent (Human) at 93.4s:
+Okay. Can I have his name, please?
+
+Customer at 97.6s:
+Justin Johnson.
+
+Agent (Human) at 99.0s:
+Oh, what was his first name? Sorry. That cut out.
+
+Customer at 101.9s:
+Justin.
+
+Agent (Human) at 108.0s:
+Okay. And can I just confirm who I'm speaking to, please?
+
+Customer at 111.3s:
+[CUSTOMER_NAME] Neller.
+
+Agent (Human) at 113.4s:
+Okay. So have we got his removal? Have we booked the removal, have we?
+
+Customer at 121.9s:
+No. No. No. I haven't booked it. So it runs out on the seventeenth. So I'll be booking
+
+Agent (Human) at 129.7s:
+Okay. So we we actually don't we actually can't provide a quote in we get that confirmation email. Um, so once he's got something so essentially, what's gonna happen with Justin, because he's in the end of his program, Before you even get it removed, you've gotta get confirmation from transport department to say that you're gonna go for a final final data upload. So that has to happen before we even can set a removal up because they'll go for a final service so that the chance will department could get all the data up until the date of that. They said it 's the end of the program. And then two days later, forty eight hours later, then they'll them an email to say that they can have the device removed. So it's a there's a it's a two stage process for the for the end of the program for Queensland participants.
+
+Customer at 172.0s:
+Okay. So I think should I the servicing for the seventeenth, the Wednesday?
+
+Agent (Human) at 178.9s:
+Sorry. You just you're cutting out this, [CUSTOMER_NAME]. Can you just say that again? Sorry.
+
+Customer at 183.4s:
+So for because it's says on the seventeenth, then should I book it in to get a last service done on the seventeenth? Because these people need the blood book in
+
+Agent (Human) at 192.3s:
+Okay. Where does it say that's the seventeenth? Did he get that information from? Is it from the online website?
+
+Customer at 199.9s:
+Actually, on his, yeah, on his Department of Transport account.
+
+Agent (Human) at 204.2s:
+Okay. So essentially, what has to happen is on that date so he'll get an email from transport to say that he's gonna go for his final data request. If you can confirm that that's the date on the website and you need to prebook, we'll I know some services are quite busy, then just make a tentative booking for that date. But don't go on until he's checked his emails and can see that he can actually get that done.
+
+Customer at 226.9s:
+Okay.
+
+Agent (Human) at 226.9s:
+Just because if he goes in earlier, then he'll to go on again, and that means he'll have to pay for another service. So just make sure that he gets that. Make sure his emails are connected to the
+
+Customer at 232.9s:
+Alright. No.
+
+Agent (Human) at 237.6s:
+transport department system as well so that that, otherwise, they post everything out, and that just
+
+Customer at 240.4s:
+Yeah.
+
+Agent (Human) at 242.5s:
+delays everything. Just make sure so just get on to the account. Make sure that everything has got his email address And then on the seventeenth, you're checking to make sure he gets that email first. If he gets it, then contact our office, send it through, and then we can set it up as a final data request, which then triggers the once it's been completed, that will then trigger the removal process. Okay?
+
+Customer at 263.1s:
+Okay. Alright. Yeah. We'll just wait for the email then.
+
+Agent (Human) at 265.8s:
+Yeah. Cool. Awesome. Thanks, [CUSTOMER_NAME].
+
+Customer at 267.8s:
+Okay. Thank you. Bye.
+
+Agent (Human) at 268.4s:
+Okay. You're welcome. Bye bye.

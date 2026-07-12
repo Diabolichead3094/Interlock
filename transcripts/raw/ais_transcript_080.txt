@@ -1,0 +1,170 @@
+Agent (Mia) at 0.0s:
+Hello. You're speaking with Mia, a virtual assistant. How may I assist you today?
+
+Customer at 6.3s:
+Make a payment.
+
+Agent (Mia) at 9.2s:
+I can help with that. May I have your full name for our records first?
+
+Customer at 14.4s:
+[CUSTOMER_NAME] Ho.
+
+Agent (Mia) at 17.3s:
+Thank you. Do you have the payment value or amount ready?
+
+Customer at 23.0s:
+No.
+
+Agent (Mia) at 25.0s:
+Understood. Since you're not sure of the payment amount, I'll need to connect you with a specialist who can assist further. Are you ready to be connected now?
+
+Customer at 33.1s:
+Yes.
+
+Agent (Mia) at 35.0s:
+Great. What is the payment amount you'd like to pay?
+
+Customer at 48.2s:
+I don't know.
+
+Agent (Mia) at 48.8s:
+Just checking in. Are you ready to be connected to a specialist for help with your payment?
+
+Customer at 54.6s:
+Yes.
+
+Agent (Mia) at 57.0s:
+I'll get you over to our customer support team now. One moment.
+
+Agent (Human) at 98.8s:
+Affordable interlock. [AGENT_NAME] speaking.
+
+Customer at 101.9s:
+Oh, hello, Sarah. I'd like to pay make a payment over the phone for removing the interlock.
+
+Agent (Human) at 109.5s:
+Alright. So you have a booking for the removal of the interlock?
+
+Customer at 116.0s:
+I do, let me bring it up. A payment of a $176.48. It's due within twenty four hours.
+
+Agent (Human) at 127.3s:
+Alright. And what's the registration for the vehicle?
+
+Customer at 130.5s:
+Yep. Four six nine
+
+Agent (Human) at 134.4s:
+Mhmm.
+
+Customer at 134.7s:
+m for Harry, x, h for Harry.
+
+Agent (Human) at 138.6s:
+Thank you. Alright. And can I just have your first name?
+
+Customer at 144.1s:
+Phone.
+
+Agent (Human) at 146.0s:
+Alright. So from I see that you're authorized. So I can take a payment with you over the phone.
+
+Customer at 153.4s:
+Yes.
+
+Agent (Human) at 154.7s:
+And I see there's been an invoice sent. So let me just bring that up. Okay. So the card that you're using today, does that have your name on it from
+
+Customer at 167.1s:
+Yes. It does.
+
+Agent (Human) at 168.5s:
+Thank you. And no middle initial?
+
+Customer at 173.4s:
+Initial is the it's just the letter oh, it's t for Tom, h for Harry, I for igloo.
+
+Agent (Human) at 181.0s:
+Okay. Alright. And your card number?
+
+Customer at 189.8s:
+Card number [REDACTED]
+
+Agent (Human) at 194.4s:
+[REDACTED]
+
+Customer at 194.6s:
+[REDACTED], yep, [REDACTED]
+
+Agent (Human) at 200.1s:
+And [REDACTED]
+
+Customer at 204.7s:
+[REDACTED]
+
+Agent (Human) at 206.5s:
+[REDACTED]
+
+Customer at 207.9s:
+[REDACTED]
+
+Agent (Human) at 209.5s:
+one three nine. And expiry?
+
+Customer at 214.3s:
+December twenty nine.
+
+Agent (Human) at 216.4s:
+Okay. 12/29. And the [CVV] number?
+
+Customer at 221.5s:
+Let me have a look. Seven one six.
+
+Agent (Human) at 225.6s:
+716. Thank you. Alright. We'll just put that through now. And excellent. That is all done. So we will set up the removal transaction which generates the text message, the payment text message. So
+
+Customer at 243.7s:
+Yeah.
+
+Agent (Human) at 245.2s:
+that way, when you go into the service center or your dad goes in,
+
+Customer at 250.5s:
+Yeah.
+
+Agent (Human) at 250.6s:
+he's got that on his phone. Okay?
+
+Customer at 253.1s:
+Okay. Yep. If you can send it to his phone, that'll be great.
+
+Agent (Human) at 257.2s:
+Excellent. So that's the number that [CARD_ON_FILE], the one you're calling off?
+
+Customer at 262.9s:
+Yes.
+
+Agent (Human) at 263.9s:
+Okay. Excellent. Alright. Well, thank you for calling and making that payment. And he's updated his driver's license too, I see.
+
+Customer at 268.8s:
+Yes. Yes. He has.
+
+Agent (Human) at 272.1s:
+Oh, yes. That's all done. Excellent. Alright. Well, he's ready to go for that
+
+Customer at 273.2s:
+He has.
+
+Agent (Human) at 276.5s:
+interlock removal then.
+
+Customer at 278.1s:
+Okay. Thanks so much. Bye.
+
+Agent (Human) at 280.1s:
+Thank you. Bye.
+
+Customer at 281.2s:
+Bye.
