@@ -193,64 +193,93 @@
 
     <div class="task">
       <span class="prio p0">P0</span>
-      <h3>Ground actions in caller-confirmed facts</h3>
+      <h3>Make Mia act on what the caller actually said</h3>
       <div class="owner">Owner: <b>Dialog/NLU + prompt engineering</b></div>
-      <p><b>Evidence:</b> 21 calls (10.5%) — CONTEXT_IGNORED ×15, WRONG_GUIDANCE ×6
-        (critical). Signature: negation inversion — caller's “No” processed as a yes
-        (028, 035); countdown advice after a confirmed permanent lockout (065).</p>
-      <p><b>Approach:</b> polarity-check every confirmation {affirm/deny/unclear} before
-        branching; persist confirmed facts (lockout type, notice status) as slots that
-        hard-gate guidance; regression suite from 028/035/065/073.</p>
-      <div class="accept"><b>Accept:</b> zero negation inversions on golden set;
-        combined code rate ≤ 1.5% on corpus re-run.</div>
+      <p><b>The problem:</b> in 21 calls (1 in 10), Mia’s next move contradicted what the
+        caller had just told her. Worst case: the caller says <b>“No”</b> and she carries on
+        as if it were yes — in 028 she read a number back, heard “No”, and replied
+        <i>“Perfect. I’ve noted your details.”</i> In 065 the caller confirmed the serious
+        lockout type and got advice for the mild one.</p>
+      <p><b>The fix:</b> sort every answer into yes / no / unclear before acting — “no” and
+        “unclear” always mean ask again. Remember confirmed facts (lockout type, notice
+        status) for the whole call so advice can’t contradict them.</p>
+      <div class="accept"><b>Worked when:</b> ≤ 3 calls carry these codes on a fresh
+        200-call run (today 21); zero “No-treated-as-Yes” on the golden 18.</div>
     </div>
 
     <div class="task">
       <span class="prio p1">P1</span>
-      <h3>Make satisfied dialog states idempotent</h3>
+      <h3>Stop Mia repeating questions that were already answered</h3>
       <div class="owner">Owner: <b>Voice-agent flow/state-machine engineering</b></div>
-      <p><b>Evidence:</b> STATE_ECHO in 68 calls (34%) — the dominant defect. Consent
-        re-asked after a clean “Yes” (040, 042, 099); identity gate re-fired (044);
-        interrupted messages restarted from the top (043).</p>
-      <p><b>Approach:</b> slot-filled guards so satisfied states can’t re-fire;
-        commit affirmatives on first parse; resume — never restart — interrupted
-        utterances on barge-in.</p>
-      <div class="accept"><b>Accept:</b> STATE_ECHO ≤ 10% of calls on corpus re-run;
-        zero double consent-asks on golden set.</div>
+      <p><b>The problem:</b> in 1 of every 3 calls Mia re-asks something already answered —
+        usually “are you ready to be connected?” again right after the caller said yes
+        (040, 042, 099). When talked over, she restarts her whole message from the top
+        (043). It sounds broken and stretches out every call.</p>
+      <p><b>The fix:</b> once an answer is in, mark that question done so it can’t fire
+        again; on interruption, continue the sentence instead of starting over.</p>
+      <div class="accept"><b>Worked when:</b> STATE_ECHO falls from 34% to ≤ 10% of calls;
+        zero repeated consent questions on the golden 18.</div>
     </div>
 
     <div class="task">
       <span class="prio p1">P1</span>
-      <h3>Enforce the identity gate before any action</h3>
+      <h3>Always capture the caller’s name before doing anything</h3>
       <div class="owner">Owner: <b>Voice-agent flow engineering</b></div>
-      <p><b>Evidence:</b> 10 calls (5%) fail identity (critical): ID_SKIPPED ×7 (acted
-        before asking a name — 084, 111), ID_INVALID ×3 (non-name accepted — 066, 146).
-        The correct behavior already exists in production: 039 queried a garbled
-        answer and re-asked.</p>
-      <p><b>Approach:</b> make name-capture a hard precondition of action states
-        (link/transfer/callback unreachable while unset); add a name-plausibility
-        validator with one re-ask, per 039.</p>
-      <div class="accept"><b>Accept:</b> identity fail rate 0% on corpus re-run.</div>
+      <p><b>The problem:</b> in 10 calls Mia either never asked who was calling before
+        sending links or transferring (×7 — 084, 111), or accepted something that clearly
+        wasn’t a name and moved on (×3 — 066, 146). She already knows the right behavior:
+        in 039 she noticed a garbled answer and politely re-asked. It just isn’t enforced.</p>
+      <p><b>The fix:</b> make the name a hard gate — links, transfers and callbacks can’t
+        happen until a plausible name is in; if it doesn’t look like a name, ask once
+        more, like 039 did.</p>
+      <div class="accept"><b>Worked when:</b> zero identity failures on a fresh run
+        (today 10).</div>
     </div>
 
     <div class="task" style="border-color: var(--cat-1)">
       <span class="prio p1">P1</span> <span class="chip" style="color:var(--cat-1);border-color:var(--cat-1)">NEW — containment analysis</span>
-      <h3>Stop unsolicited transfer nudges; close resolved calls</h3>
+      <h3>Don’t offer a human when Mia already solved it</h3>
       <div class="owner">Owner: <b>Voice-agent flow/prompt engineering</b></div>
-      <p><b>Evidence:</b> dedicated Pass C over all 87 transfer-offer calls: 11 flagged
-        (5.5%), incl. <b>7 containable transfers</b> (024, 051, 092, 122, 149, 180, 197).
-        Signature: <i>“Would you like to speak with customer support as well?”</i> appended
-        <b>after the need was resolved</b> (7 of 11). 041 vs 149: identical resolved flows —
-        041’s caller said “No. Thank you.”, 149’s said yes and became a transfer. In 154/197
-        the human’s post-transfer answer was the 7-day grace policy Mia already knows.</p>
-      <p><b>Approach:</b> gate transfer offers on (a) caller asked, (b) CANNOT-zone need, or
-        (c) designed flow; resolved state goes straight to farewell — delete the trailing
-        nudge; require one containment attempt on answerable policy questions before any
-        escalation offer.</p>
-      <div class="accept"><b>Accept:</b> flagged calls ≤ 2 on corpus re-run
-        (<code>scripts/containment.py</code>); transferred share drops, failed doesn’t rise.</div>
+      <p><b>The problem:</b> Mia likes to end a call she just solved with
+        <i>“Would you like to speak with customer support as well?”</i> — an offer nobody
+        asked for. Polite callers say yes, and a solved call becomes a paid human handoff.
+        11 calls flagged: 7 became transfers she could have kept, 3 stayed resolved but got
+        the pointless offer. Cleanest proof: 041 and 149 are near-identical solved calls —
+        041’s caller said “No. Thank you.” and stayed resolved; 149’s said yes and got
+        transferred. Twice (154, 197) the human’s answer was the 7-day policy Mia already
+        knows.</p>
+      <p><b>The fix:</b> only offer a human when the caller asks, when the task is genuinely
+        beyond her (payments, bookings, prices, unlock codes), or when the designed flow
+        requires it. After solving, say goodbye — drop the trailing offer. Answer the policy
+        questions she knows first; escalate only if that didn’t help.</p>
+      <div class="accept"><b>Worked when:</b> flagged nudges ≤ 2 on a fresh run (today 11);
+        transferred share drops, failed doesn’t rise.</div>
     </div>
 
+  </div>
+</div>
+
+<div class="tasks">
+  <h2>How we’ll know the fixes worked</h2>
+  <div class="card">
+    <p class="sub" style="margin-bottom:10px">This eval <b>is</b> the measurement instrument: the rubric is frozen, the judge is
+      calibrated against 18 human-labeled calls (99.3% agreement), and every step is scripted.
+      The loop: <b>1)</b> re-check the judge against the golden calls before each measurement
+      (must stay ≥ 99%) · <b>2)</b> ship one fix, collect a fresh batch of ~200 calls ·
+      <b>3)</b> run the identical pipeline · <b>4)</b> compare against this baseline:</p>
+    <details class="tbl" open><summary>Success scoreboard</summary><table>
+      <tr><th>Fix</th><th>Metric to watch</th><th>Baseline (today)</th><th>Target</th></tr>
+      <tr><td>1 · Act on what the caller said</td><td>CONTEXT_IGNORED + WRONG_GUIDANCE calls</td><td>21 (10.5%)</td><td>≤ 3 (1.5%)</td></tr>
+      <tr><td>2 · Stop repeating questions</td><td>STATE_ECHO calls</td><td>68 (34%)</td><td>≤ 20 (10%)</td></tr>
+      <tr><td>3 · Name before action</td><td>identity criterion fails</td><td>10 (5%)</td><td>0</td></tr>
+      <tr><td>4 · Keep solved calls</td><td>flagged transfer nudges</td><td>11 (5.5%)</td><td>≤ 2</td></tr>
+      <tr><td colspan="4" style="color:var(--muted)">Guardrails on every run: scope violations stay ≤ 1 · failed share doesn’t rise above 16% ·
+        fully-clean calls climb from 42% · resolved share climbs as containment improves.</td></tr>
+    </table></details>
+    <p class="sub" style="margin-top:10px"><b>Caveats:</b> rare codes (fired &lt; 10 times) can swing by a few counts in a 200-call
+      batch by pure chance — treat single-digit moves as directional and confirm with a second batch. Change one thing at a
+      time, or run an A/B split (half the calls on updated Mia, both arms scored by the same judge) for the strongest causal
+      read.</p>
   </div>
 </div>
 

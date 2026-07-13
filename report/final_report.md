@@ -155,112 +155,91 @@ untouched; this analysis lives beside it.
 
 ---
 
-### TASK 1 — Make satisfied dialog states idempotent (kill STATE_ECHO)
+### TASK 1 — Make Mia act on what the caller actually said
 
-**Priority:** P1 (highest frequency — 1 in 3 calls) · **Severity family:** minor, but the
-dominant UX drag and a multiplier on every other defect
-**Suggested owner:** Voice-agent flow/state-machine engineering
+**Priority:** P0 · **Owner:** Dialog/NLU + prompt engineering
 
-**Evidence:** 68/200 calls (34%). Signature patterns: consent re-asked after a clean
-"Yes" (040, 042, 099), the identity gate re-fired after the name was given (044), an
-interrupted message restarted from the top instead of resuming (043). Co-occurs with
-6 of the 9 other behavioral codes.
+**The problem, in plain words:** in 21 calls (about 1 in 10), Mia's next move
+contradicted something the caller had *just told her*. The worst version: the caller
+says **"No"** and Mia carries on as if they said yes. In 028 she read a phone number
+back, the caller said "No", and she replied *"Perfect. I've noted your details"* —
+keeping the wrong number. In 035 the caller said *"I have NOT received one"* and Mia
+thanked him *"for confirming you've received your completion notice."* In 065 the
+caller confirmed the serious type of lockout and Mia gave the advice for the mild
+type — the caller had to correct her.
 
-**Implementation approach:**
-1. Audit the dialog state machine for transitions that re-enter a satisfied state;
-   add a `slot_filled` guard so a state that has consumed a valid answer cannot re-fire.
-2. Parse-and-commit affirmatives on first hearing: once consent/name/number is
-   captured, downstream prompts must read the slot, not re-elicit it.
-3. Fix barge-in handling: on interruption, resume the pending utterance from the
-   sentence boundary, never from the top (043's restart pattern).
-4. Regression-test against the eval: replay the 68 flagged calls' scenarios.
+**What to do about it:** before Mia acts on any answer, sort it into *yes / no /
+unclear* — "no" and "unclear" always mean ask again, never proceed. And once the
+caller has confirmed a fact (which lockout type, whether the notice arrived), keep it
+in memory for the whole call so her advice can't contradict it. Test the fix by
+replaying calls 028, 035, 065 and 073.
 
-**Acceptance criteria:** STATE_ECHO ≤ 10% of calls on a corpus re-run of this eval;
-zero double consent-asks in the 18-call golden set.
-
----
-
-### TASK 2 — Ground actions in caller-confirmed facts (kill negation inversion)
-
-**Priority:** P0 (highest severity-weighted — includes critical WRONG_GUIDANCE)
-**Suggested owner:** Dialog/NLU engineering + prompt engineering (joint)
-
-**Evidence:** 21/200 calls (10.5%): CONTEXT_IGNORED 15 (major), WRONG_GUIDANCE 6
-(critical). The corpus's signature error is **negation inversion** — caller says "No"
-to the number read-back and Mia replies "Perfect, I've noted your details" (028);
-caller says "I have NOT received one" and Mia thanks him "for confirming you've
-RECEIVED your completion notice" (035). WRONG_GUIDANCE exemplar: countdown-timer
-advice after the caller confirmed a permanent lockout (065; also 020, 022, 056).
-
-**Implementation approach:**
-1. Add an explicit polarity check on every confirmation slot: classify the caller's
-   answer {affirm / deny / unclear} before branching; "deny" and "unclear" must
-   re-elicit, never proceed.
-2. Persist confirmed situation facts (lockout type, completion-notice status, form
-   already submitted) as structured slots; make guidance branches read the slot and
-   hard-block advice that contradicts it (no countdown advice when
-   `lockout_type=permanent`).
-3. Build a negation regression suite directly from the eval's anchor calls
-   (028, 035, 065, 073) plus the 21 flagged call_ids in `results/summary.json`.
-
-**Acceptance criteria:** zero negation inversions on the golden set;
-CONTEXT_IGNORED + WRONG_GUIDANCE combined ≤ 1.5% of calls on corpus re-run.
+**How we'll know it worked:** on a fresh 200-call run, ≤ 3 calls carry these codes
+(today: 21), and zero "No-treated-as-Yes" events on the 18 golden calls.
 
 ---
 
-### TASK 3 — Enforce the identity gate before any action
+### TASK 2 — Stop Mia repeating questions that were already answered
 
-**Priority:** P1 (critical severity, zero-tolerance criterion) ·
-**Suggested owner:** Voice-agent flow engineering
+**Priority:** P1 · **Owner:** Voice-agent flow/state-machine engineering
 
-**Evidence:** 10/200 calls (5%) fail the identity criterion: ID_SKIPPED 7 (name never
-requested before an action/link/transfer — 084, 111 among worst), ID_INVALID 3 (an
-obviously-not-a-name accepted and Mia proceeded — 066, 146). The rubric's positive
-exemplar already exists in production behavior: 039 queried a garbled name-slot
-answer and re-asked.
+**The problem, in plain words:** in **1 of every 3 calls**, Mia re-asks something the
+caller already answered — usually asking "are you ready to be connected?" again right
+after the caller said yes (040, 042, 099), and in one case re-asking for a name that
+had just been given (044). When a caller talks over her, she restarts her whole
+message from the beginning instead of picking up where she left off (043). It makes
+her sound broken and stretches out every call.
 
-**Implementation approach:**
-1. Make name-capture a hard precondition on the action states (send link, transfer,
-   callback capture): the transition is unreachable while `name_captured=false`.
-2. Add a name-plausibility validator on the slot (reject digits/command words/garble);
-   on rejection, re-ask once as in 039 rather than accepting.
-3. Keep v1 leniency intentional: first-name-only still passes (per rubric);
-   log nursery ID_PARTIAL for tracking.
+**What to do about it:** once an answer is in, mark that question as done so it can't
+fire again; when the caller interrupts, continue the sentence — don't start over.
 
-**Acceptance criteria:** identity criterion fail rate 0% on corpus re-run
-(ID_SKIPPED = 0, ID_INVALID = 0).
+**How we'll know it worked:** STATE_ECHO falls from 34% of calls to 10% or less, and
+the 18 golden calls show zero repeated consent questions.
 
 ---
 
-### TASK 4 — Stop unsolicited transfer nudges; close resolved calls ⭐ NEW
+### TASK 3 — Always capture the caller's name before doing anything
 
-**Priority:** P1 (direct operational cost — every containable transfer bills human-agent
-time; also caps Mia's measurable containment rate)
-**Suggested owner:** Voice-agent flow/prompt engineering
+**Priority:** P1 · **Owner:** Voice-agent flow engineering
 
-**Evidence (§6; all quotes verbatim, turn-cited):** 11 calls flagged (5.5%), of which
-**7 transfers were containable** (092, 024, 051, 122, 149, 180, 197) and 3 resolved
-calls carried a pointless closing nudge (015, 035, 041). The trailing
-*"Would you like to speak with customer support as well?"* fires **after the need is
-already resolved** in 7 of 11 flags; 092 escalated at turn 4 without attempting the
-documented recall flow; in 154 and 197 the human's post-transfer answer was the
-seven-day grace-window policy Mia already knows.
+**The problem, in plain words:** in 10 calls Mia either never asked who was calling
+before sending links or transferring (7 calls, e.g. 084, 111), or accepted something
+that obviously wasn't a name and moved on anyway (3 calls, e.g. 066, 146). The
+frustrating part: she already knows the right behavior — in call 039 she noticed a
+garbled answer, politely queried it, and asked again. It just isn't enforced
+everywhere.
 
-**Implementation approach:**
-1. Gate the transfer offer on three conditions only: (a) caller asked for a human,
-   (b) the need requires a CANNOT-zone action (price, booking, payment-taking, record
-   edit, unlock code, legal), or (c) a designed flow mandates it (bypass redirect,
-   permanent lockout, with-notice removal). Otherwise the offer state is unreachable.
-2. Replace the resolved-state closer: after every accepted action is confirmed
-   delivered, go to farewell — remove the appended "speak with customer support as
-   well?" prompt (the 041 vs 149 pair shows the same call resolving or transferring
-   on this single sentence).
-3. For policy questions Mia can answer (grace windows, recall flows), require one
-   containment attempt before any escalation offer (fixes 092/154/197-class exits).
-4. Re-run `scripts/containment.py` after the change to re-measure.
+**What to do about it:** make the name a hard gate — links, transfers and callbacks
+simply cannot happen until a plausible name is captured. If the answer doesn't look
+like a name, ask one more time, exactly like call 039 did.
 
-**Acceptance criteria:** containable_but_transferred + resolved_then_nudged ≤ 2 calls
-on corpus re-run; transferred share of terminal states drops with no rise in failed.
+**How we'll know it worked:** zero identity failures on a fresh run (today: 10).
+
+---
+
+### TASK 4 — Don't offer a human when Mia already solved it ⭐ NEW
+
+**Priority:** P1 · **Owner:** Voice-agent flow/prompt engineering
+
+**The problem, in plain words:** Mia has a habit of finishing a call she just solved
+with *"Would you like to speak with customer support as well?"* — an offer nobody
+asked for. Polite callers say yes, and a call Mia handled becomes a human handoff
+that costs agent time. We flagged 11 such calls: 7 became transfers she could have
+kept, 3 stayed resolved but carried the pointless offer, 1 was mixed. The cleanest
+proof is the pair 041/149 — two nearly identical solved calls, where 041's caller
+said "No. Thank you." (call stayed resolved) and 149's said yes (call became a
+transfer). And twice (154, 197), the human who took the handoff answered with the
+exact seven-day policy Mia already knows.
+
+**What to do about it:** only offer a human when the caller asks, when the task is
+genuinely beyond her (payments, bookings, prices, unlock codes, legal), or when the
+designed flow requires it. After solving the request, say goodbye — drop the trailing
+offer. For policy questions she can answer, answer first and escalate only if that
+didn't help.
+
+**How we'll know it worked:** flagged nudges drop from 11 to ≤ 2 on a fresh run
+(re-run `scripts/containment.py`); the share of transferred calls falls without
+failed calls rising.
 
 ---
 
@@ -271,7 +250,44 @@ fix) · CUT_TRANSCRIPT 14% is a **platform/telephony** recording-pipeline issue,
 agent defect — route to the platform team to determine whether recordings clip or calls
 genuinely drop.
 
-## 8. Pipeline health & reproducibility
+## 8. How we'll know the fixes worked
+
+**The eval built for this report is itself the measurement instrument.** The rubric is
+frozen, the judge is calibrated against human labels (99.3% agreement), and every step
+is scripted and checkpointed — so the same yardstick can be laid against Mia before
+and after any change. The loop:
+
+1. **Freeze the yardstick.** Rubric v1 and judge v1.1 don't change between
+   measurements. Before each measurement run, re-check the judge against the 18
+   golden calls (`python3 scripts/compare.py`) — agreement must stay ≥ 99%. If the
+   yardstick moved, fix that first; never compare scores from different judges.
+2. **Ship one fix, then collect a fresh batch of ~200 calls.** The existing 200
+   transcripts are recordings of *old* behavior — they can prove a regression suite
+   passes, but only new calls can prove the live agent improved.
+3. **Run the identical pipeline** on the new batch:
+   `parse.py → run_eval.py --workers 8 → analyze.py → containment.py --workers 8`.
+4. **Compare the new `summary.json` against this report's baseline.** The scoreboard:
+
+| Fix | Metric to watch | Baseline (this report) | Target |
+|---|---|---|---|
+| 1 · Act on what the caller said | CONTEXT_IGNORED + WRONG_GUIDANCE calls | 21 (10.5%) | ≤ 3 (1.5%) |
+| 2 · Stop repeating questions | STATE_ECHO calls | 68 (34%) | ≤ 20 (10%) |
+| 3 · Name before action | identity criterion fails | 10 (5%) | 0 |
+| 4 · Keep solved calls | flagged transfer nudges | 11 (5.5%) | ≤ 2 |
+
+5. **Watch the guardrails** — improvement in one place must not break another:
+   scope violations stay ≤ 1, `failed` share doesn't rise above 16%, fully-clean
+   calls climb from 42%, and `resolved` share should climb as containment improves
+   (every kept call moves from transferred to resolved).
+
+**Two honest caveats.** First, rare events are noisy: with 200-call batches, a code
+that fired 4–10 times can swing by a few counts by pure chance — treat single-digit
+movement on rare codes as directional and confirm with a second batch before
+declaring victory. Second, change one thing at a time (or, if the platform supports
+it, run an A/B split — route half the calls to updated Mia, score both arms with the
+same judge, and compare rates directly; that is the strongest causal evidence).
+
+## 9. Pipeline health & reproducibility
 
 - 200/200 calls scored · 0 lost · transient errors auto-recovered (retry / sweep /
   bracket-repair, all logged in `results/errors.log`)
