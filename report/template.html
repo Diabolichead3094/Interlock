@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mia Voice-Agent Evaluation</title>
+<style>
+  .viz-root {
+    --page:        #f9f9f7;
+    --surface-1:   #fcfcfb;
+    --text-primary:#0b0b0b;
+    --text-secondary:#52514e;
+    --muted:       #898781;
+    --grid:        #e1e0d9;
+    --baseline:    #c3c2b7;
+    --border:      rgba(11,11,11,0.10);
+    --cat-1: #2a78d6;  /* transferred */
+    --cat-2: #eb6834;  /* failed */
+    --cat-3: #1baf7a;  /* callback */
+    --cat-4: #eda100;  /* resolved */
+    --cat-5: #4a3aa7;  /* declined */
+    --good:     #0ca30c;
+    --critical: #d03b3b;
+    --warning:  #fab219;
+    --serious:  #ec835a;
+    --na-fill:  #d6d5cd;
+    --good-text:#006300;
+    --seq-0: var(--surface-1);
+    --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec;
+    --seq-4: #3987e5; --seq-5: #256abf; --seq-6: #184f95; --seq-7: #0d366b;
+    --heat-ink-hi: #ffffff;
+    --heat-ink-lo: #0b0b0b;
+    --bar-cut: #b3b1a9;
+    --hl: rgba(42,120,214,0.10);
+  }
+  @media (prefers-color-scheme: dark) {
+    .viz-root {
+      --page:        #0d0d0d;
+      --surface-1:   #1a1a19;
+      --text-primary:#ffffff;
+      --text-secondary:#c3c2b7;
+      --muted:       #898781;
+      --grid:        #2c2c2a;
+      --baseline:    #383835;
+      --border:      rgba(255,255,255,0.10);
+      --cat-1: #3987e5; --cat-2: #d95926; --cat-3: #199e70;
+      --cat-4: #c98500; --cat-5: #9085e9;
+      --na-fill: #4a4a47;
+      --good-text:#0ca30c;
+      --seq-1: #104281; --seq-2: #1c5cab; --seq-3: #2a78d6;
+      --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #9ec5f4; --seq-7: #cde2fb;
+      --heat-ink-hi: #0b0b0b;
+      --heat-ink-lo: #ffffff;
+      --bar-cut: #5a5954;
+      --hl: rgba(57,135,229,0.16);
+    }
+  }
+  * { box-sizing: border-box; }
+  body.viz-root {
+    margin: 0; background: var(--page); color: var(--text-primary);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 24px 64px; }
+  header h1 { font-size: 22px; font-weight: 650; margin: 0 0 4px; }
+  header .meta { color: var(--text-secondary); font-size: 13px; }
+  header .meta b { color: var(--text-primary); font-weight: 600; }
+
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px,1fr));
+          gap: 12px; margin: 22px 0 18px; }
+  .tile { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 14px 16px; }
+  .tile.click { cursor: pointer; }
+  .tile.click:hover { border-color: var(--cat-1); }
+  .tile .label { color: var(--text-secondary); font-size: 12.5px; }
+  .tile .value { font-size: 30px; font-weight: 600; margin-top: 2px; }
+  .tile .sub   { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .delta { font-size: 12px; font-weight: 600; margin-left: 6px; }
+  .delta.good { color: var(--good-text); }
+  .delta.bad  { color: var(--critical); }
+  .delta.flat { color: var(--muted); }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+  .card { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 18px 18px 12px; }
+  .card h2 { font-size: 15px; font-weight: 650; margin: 0 0 2px; }
+  .card .sub { color: var(--text-secondary); font-size: 12.5px; margin: 0 0 12px; }
+  svg text { font: 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .axis-num { font-variant-numeric: tabular-nums; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 2px;
+            color: var(--text-secondary); font-size: 12.5px; }
+  .legend .key { display: inline-flex; align-items: center; gap: 6px; }
+  .legend .sw { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+  details.tbl { margin: 8px 0 4px; }
+  details.tbl summary { color: var(--muted); font-size: 12px; cursor: pointer; }
+  details.tbl table, .scoretable { border-collapse: collapse; margin-top: 8px; width: 100%;
+                      font-size: 12.5px; font-variant-numeric: tabular-nums; }
+  details.tbl th, .scoretable th { text-align: left; color: var(--text-secondary); font-weight: 600;
+                   border-bottom: 1px solid var(--grid); padding: 4px 10px 4px 0; }
+  details.tbl td, .scoretable td { border-bottom: 1px solid var(--grid); padding: 4px 10px 4px 0; }
+
+  .chip { display: inline-block; font-size: 10.5px; font-weight: 600; padding: 1px 7px;
+          border-radius: 99px; border: 1px solid var(--border); color: var(--text-secondary); }
+  .chip.critical, .chip.Fail { color: var(--critical); border-color: var(--critical); }
+  .chip.major    { color: var(--serious);  border-color: var(--serious); }
+  .chip.minor    { color: var(--text-secondary); }
+  .chip.evidence { color: var(--muted); border-style: dashed; }
+  .chip.Pass { color: var(--good-text); border-color: var(--good-text); }
+  .chip.NA { color: var(--muted); }
+  .chip.accent { color: var(--cat-1); border-color: var(--cat-1); }
+
+  /* drill panel + call view */
+  .panel { background: var(--surface-1); border: 1px solid var(--cat-1);
+           border-radius: 10px; padding: 18px; margin-top: 14px; display: none; }
+  .panel h2 { font-size: 15px; margin: 0 0 4px; }
+  .panel .sub { color: var(--text-secondary); font-size: 12.5px; margin: 0 0 10px; }
+  .panel .close { float: right; color: var(--muted); font-size: 12px; cursor: pointer;
+                  text-decoration: none; }
+  .rowlist { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .rowlist th { text-align: left; color: var(--text-secondary); font-weight: 600;
+                border-bottom: 1px solid var(--grid); padding: 5px 10px 5px 0; }
+  .rowlist td { border-bottom: 1px solid var(--grid); padding: 6px 10px 6px 0;
+                vertical-align: top; }
+  a.calllink { color: var(--cat-1); text-decoration: none; font-weight: 600;
+               font-variant-numeric: tabular-nums; }
+  a.calllink:hover { text-decoration: underline; }
+
+  .finder { margin: 16px 0 0; display: flex; gap: 10px; align-items: center; }
+  .finder input { background: var(--surface-1); border: 1px solid var(--border);
+                  color: var(--text-primary); border-radius: 8px; padding: 7px 12px;
+                  font: 13px system-ui, sans-serif; width: 300px; }
+  .finder .hits { font-size: 12.5px; color: var(--text-secondary); }
+  .finder .hits a { margin-right: 10px; }
+
+  .turn { display: flex; gap: 10px; padding: 7px 10px; border-radius: 8px; margin: 2px 0; }
+  .turn .t { color: var(--muted); font-size: 11px; min-width: 52px;
+             font-variant-numeric: tabular-nums; padding-top: 2px; }
+  .turn .who { font-weight: 650; min-width: 84px; font-size: 12px; padding-top: 1px; }
+  .turn.mia .who { color: var(--cat-1); }
+  .turn.customer .who { color: var(--text-primary); }
+  .turn.human .who { color: var(--cat-5); }
+  .turn .txt { flex: 1; }
+  .turn.hit { background: var(--hl); border-left: 3px solid var(--cat-1); }
+  .turn .tags { margin-top: 3px; display: flex; gap: 6px; flex-wrap: wrap; }
+  mark { background: var(--warning); color: #0b0b0b; padding: 0 2px; border-radius: 3px; }
+  .verdict { border: 1px solid var(--grid); border-radius: 10px; padding: 12px 14px;
+             margin-bottom: 14px; }
+  .verdict .row { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0; }
+  .verdict .rat { font-size: 12.5px; color: var(--text-secondary); margin-top: 6px; }
+
+  .tasks { margin-top: 26px; }
+  .tasks h2 { font-size: 17px; margin: 0 0 12px; }
+  .taskgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 14px; }
+  .task { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 16px 18px; }
+  .task.newcard { border-color: var(--cat-1); }
+  .task .prio { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 99px; }
+  .task .p0 { background: var(--critical); color: #fff; }
+  .task .p1 { background: var(--serious); color: #fff; }
+  .task h3 { font-size: 14.5px; margin: 10px 0 6px; }
+  .task .owner { font-size: 12.5px; color: var(--text-secondary); margin-bottom: 8px; }
+  .task .owner b { color: var(--text-primary); }
+  .task p { font-size: 12.5px; color: var(--text-secondary); margin: 6px 0; }
+  .task .accept { font-size: 12px; border-top: 1px solid var(--grid); margin-top: 10px;
+                  padding-top: 8px; color: var(--text-secondary); }
+  .task .accept b { color: var(--text-primary); }
+
+  footer { margin-top: 30px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+
+  #tip { position: fixed; pointer-events: none; z-index: 10; display: none;
+         background: var(--text-primary); color: var(--page); padding: 6px 10px;
+         border-radius: 7px; font-size: 12px; max-width: 260px; }
+  .hit-el { cursor: pointer; }
+  .hit-el:hover { opacity: 0.85; }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap">
+  <header><h1 id="hd-title"></h1><div class="meta" id="hd-meta"></div></header>
+  <div class="kpis" id="kpis"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Where calls land</h2>
+      <p class="sub">Terminal state per call. Transferred is a success state by design.
+        Click a segment to list its calls.</p>
+      <div id="donut"></div>
+      <div class="legend" id="donut-legend"></div>
+      <details class="tbl"><summary>Table view</summary><table id="donut-table"></table></details>
+    </div>
+    <div class="card">
+      <h2>Behavioral failure codes</h2>
+      <p class="sub">Calls carrying each code. CUT_TRANSCRIPT is evidence-only — excluded
+        from behavioral rates per the rubric. Click a bar to see the calls.</p>
+      <div id="bars"></div>
+      <details class="tbl"><summary>Table view</summary><table id="bars-table"></table></details>
+    </div>
+    <div class="card">
+      <h2>Criterion scorecard</h2>
+      <p class="sub">Pass / Fail / NA per rubric criterion. NA = the criterion's path
+        never activated. Click a Fail segment or the fail-rate label to see the calls.</p>
+      <div id="stack"></div>
+      <div class="legend">
+        <span class="key"><span class="sw" style="background:var(--good)"></span>Pass</span>
+        <span class="key"><span class="sw" style="background:var(--critical)"></span>Fail</span>
+        <span class="key"><span class="sw" style="background:var(--na-fill)"></span>NA</span>
+      </div>
+      <details class="tbl"><summary>Table view</summary><table id="stack-table"></table></details>
+    </div>
+    <div class="card">
+      <h2>Intent × terminal state</h2>
+      <p class="sub">Call counts (multi-intent calls count once per intent). Darker = more calls.</p>
+      <div id="heat"></div>
+      <details class="tbl"><summary>Table view</summary><table id="heat-table"></table></details>
+    </div>
+  </div>
+
+  <div class="finder">
+    <input id="finder" type="search" placeholder="Find a call… e.g. 028 or ais_transcript_028" autocomplete="off">
+    <span class="hits" id="finder-hits"></span>
+  </div>
+
+  <div class="panel" id="drill">
+    <a class="close" href="#">✕ close</a>
+    <h2 id="drill-title"></h2>
+    <p class="sub" id="drill-sub"></p>
+    <table class="rowlist" id="drill-table"></table>
+  </div>
+
+  <div class="panel" id="callview">
+    <a class="close" href="#">✕ close</a>
+    <h2 id="cv-title"></h2>
+    <div class="verdict" id="cv-verdict"></div>
+    <div id="cv-turns"></div>
+  </div>
+
+  <div class="tasks"><h2 id="tasks-title"></h2><div class="taskgrid" id="taskgrid"></div></div>
+
+  <div class="tasks"><h2>How we’ll know the fixes worked</h2>
+    <div class="card" id="scoreboard"></div>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+<div id="tip"></div>
+
+<script>
+const DATA = /*__DATA__*/ null;
+
+/* ---------- shared helpers ---------- */
+const $ = id => document.getElementById(id);
+const tip = $("tip");
+function showTip(e, html) {
+  tip.innerHTML = html; tip.style.display = "block";
+  const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8);
+  tip.style.left = x + "px"; tip.style.top = (e.clientY + 14) + "px";
+}
+function hideTip() { tip.style.display = "none"; }
+function hook(el, html, onclick) {
+  el.classList.add("hit-el");
+  el.addEventListener("mousemove", e => showTip(e, html));
+  el.addEventListener("mouseleave", hideTip);
+  if (onclick) el.addEventListener("click", () => { hideTip(); onclick(); });
+}
+const NS = "http://www.w3.org/2000/svg";
+function svgEl(tag, attrs) {
+  const el = document.createElementNS(NS, tag);
+  for (const k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+function svgRoot(w, h) {
+  const s = svgEl("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" });
+  s.style.display = "block";
+  return s;
+}
+function esc(s) { const d = document.createElement("span"); d.textContent = s; return d.innerHTML; }
+const N = DATA.meta.n;
+const pct = n => (100 * n / N).toFixed(1) + "%";
+const short = id => id.replace("ais_transcript_", "");
+function go(hash) { location.hash = hash; }
+
+/* delta chip vs baseline: lower is better unless upGood */
+function deltaChip(cur, base, upGood) {
+  if (base === null || base === undefined) return "";
+  const d = cur - base;
+  if (d === 0) return ' <span class="delta flat">＝ baseline</span>';
+  const good = upGood ? d > 0 : d < 0;
+  const arrow = d > 0 ? "▲" : "▼";
+  return ` <span class="delta ${good ? "good" : "bad"}">${arrow} ${Math.abs(d)} vs baseline</span>`;
+}
+
+/* ---------- header, KPIs ---------- */
+$("hd-title").textContent = DATA.narrative.header_title + " — " + N + "-Call Corpus";
+$("hd-meta").innerHTML = DATA.narrative.header_meta + " · " + esc(DATA.meta.generated);
+document.title = DATA.narrative.header_title;
+
+(function kpis() {
+  const k = DATA.kpis, b = DATA.baseline ? DATA.baseline.kpis : {};
+  const tiles = [
+    { l: "Calls scored", v: k.n, sub: k.health, click: null },
+    { l: "Fully clean calls", v: k.clean_pct + "%", sub: k.clean_n + " calls, no failure code",
+      d: deltaChip(k.clean_n, b.clean_n, true), click: null },
+    { l: "Behavioral failure-to-land", v: k.beh_fail_pct + "%",
+      sub: k.beh_fail_n + " calls (" + k.cut_n + " more were evidence cuts)",
+      d: deltaChip(k.beh_fail_n, b.beh_fail_n, false), click: "#list/behfail/all" },
+    { l: "Critical-criterion fails", v: k.crit_fail_pct + "%",
+      sub: k.crit_fail_n + " calls fail ≥1 critical criterion",
+      d: deltaChip(k.crit_fail_n, b.crit_fail_n, false), click: "#list/critfail/all" },
+    { l: "Scope violations", v: k.scope_fails,
+      sub: "in " + k.n + " calls — forbidden zone " + (k.scope_fails <= 1 ? "held" : "AT RISK"),
+      d: deltaChip(k.scope_fails, b.scope_fails, false), click: "#list/crit/scope" },
+  ];
+  if (DATA.containment) {
+    const c = DATA.containment;
+    tiles.push({ l: "Unsolicited transfer nudges ⭐", v: c.flagged.length,
+      sub: c.summary, d: deltaChip(c.flagged.length, b.nudges, false),
+      click: "#list/nudge/all", accent: true });
+  }
+  $("kpis").innerHTML = tiles.map((t, i) =>
+    `<div class="tile${t.click ? " click" : ""}"${t.accent ? ' style="border-color: var(--cat-1)"' : ""}` +
+    `${t.click ? ` onclick="location.hash='${t.click}'"` : ""}>` +
+    `<div class="label">${t.l}</div><div class="value">${t.v}${t.d || ""}</div>` +
+    `<div class="sub">${t.sub}</div></div>`).join("");
+})();
+
+/* ---------- donut ---------- */
+(function donut() {
+  const W = 460, H = 260, cx = 230, cy = 130, R = 100, r = 62;
+  const svg = svgRoot(W, H);
+  const total = DATA.states.reduce((a, s) => a + s.n, 0);
+  const pad = 2 / R;
+  let a0 = -Math.PI / 2;
+  DATA.states.forEach(s => {
+    const frac = s.n / total, a1 = a0 + frac * 2 * Math.PI;
+    const b0 = a0 + pad / 2, b1 = Math.max(a1 - pad / 2, b0 + 0.004);
+    const large = (b1 - b0) > Math.PI ? 1 : 0;
+    const p = ["M", cx + R * Math.cos(b0), cy + R * Math.sin(b0),
+      "A", R, R, 0, large, 1, cx + R * Math.cos(b1), cy + R * Math.sin(b1),
+      "L", cx + r * Math.cos(b1), cy + r * Math.sin(b1),
+      "A", r, r, 0, large, 0, cx + r * Math.cos(b0), cy + r * Math.sin(b0), "Z"].join(" ");
+    const path = svgEl("path", { d: p, fill: `var(--cat-${s.slot})` });
+    hook(path, `<b>${s.id}</b><br>${s.n} calls · ${pct(s.n)}<br><i>click to list calls</i>`,
+      () => go("#list/state/" + s.id));
+    svg.appendChild(path);
+    if (frac > 0.08) {
+      const mid = (a0 + a1) / 2, lr = R + 16;
+      const t = svgEl("text", {
+        x: cx + lr * Math.cos(mid), y: cy + lr * Math.sin(mid) + 4,
+        "text-anchor": Math.cos(mid) > 0.1 ? "start" : (Math.cos(mid) < -0.1 ? "end" : "middle"),
+        fill: "var(--text-secondary)" });
+      t.textContent = `${s.id} ${pct(s.n)}`;
+      svg.appendChild(t);
+    }
+    a0 = a1;
+  });
+  const c1 = svgEl("text", { x: cx, y: cy - 2, "text-anchor": "middle",
+    fill: "var(--text-primary)", "font-size": "26", "font-weight": "600" });
+  c1.textContent = String(N);
+  const c2 = svgEl("text", { x: cx, y: cy + 18, "text-anchor": "middle", fill: "var(--muted)" });
+  c2.textContent = "calls";
+  svg.appendChild(c1); svg.appendChild(c2);
+  $("donut").appendChild(svg);
+  $("donut-legend").innerHTML = DATA.states.map(s =>
+    `<span class="key"><span class="sw" style="background:var(--cat-${s.slot})"></span>${s.id} · ${s.n}</span>`).join("");
+  $("donut-table").innerHTML = "<tr><th>Terminal state</th><th>Calls</th><th>%</th></tr>" +
+    DATA.states.map(s => `<tr><td>${s.id}</td><td>${s.n}</td><td>${pct(s.n)}</td></tr>`).join("");
+})();
+
+/* ---------- failure-code bars ---------- */
+(function bars() {
+  const rows = [...DATA.codes, DATA.cut];
+  const bl = DATA.baseline ? DATA.baseline.codes : null;
+  const labelW = 150, chipW = 66, plotW = 175, rowH = 26, barH = 14;
+  const W = labelW + chipW + plotW + 84, H = rows.length * rowH + 8;
+  const svg = svgRoot(W, H);
+  const max = Math.max(...rows.map(r => r.n));
+  rows.forEach((r0, i) => {
+    const y = i * rowH + (rowH - barH) / 2;
+    const w = Math.max(3, plotW * r0.n / max);
+    const lbl = svgEl("text", { x: labelW - 6, y: y + barH - 3, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = r0.c;
+    svg.appendChild(lbl);
+    const sevInk = r0.sev === "critical" ? "var(--critical)"
+                 : r0.sev === "major" ? "var(--serious)" : "var(--muted)";
+    const sev = svgEl("text", { x: labelW + 2, y: y + barH - 3, fill: sevInk, "font-size": "10" });
+    sev.textContent = r0.sev;
+    svg.appendChild(sev);
+    const rr = Math.min(4, w / 2);
+    const d = `M ${labelW + chipW} ${y} h ${w - rr} a ${rr} ${rr} 0 0 1 ${rr} ${rr}` +
+              ` v ${barH - 2 * rr} a ${rr} ${rr} 0 0 1 ${-rr} ${rr} h ${-(w - rr)} Z`;
+    const bar = svgEl("path", { d, fill: r0.sev === "evidence" ? "var(--bar-cut)" : "var(--cat-1)" });
+    hook(bar, `<b>${r0.c}</b><br>${r0.n} calls · ${pct(r0.n)} of corpus<br>severity: ${r0.sev}` +
+      "<br><i>click to list calls</i>", () => go("#list/code/" + r0.c));
+    svg.appendChild(bar);
+    let delta = "";
+    if (bl && bl[r0.c] !== undefined && bl[r0.c] !== r0.n) {
+      const d2 = r0.n - bl[r0.c];
+      delta = "  " + (d2 > 0 ? "▲" : "▼") + Math.abs(d2);
+    }
+    const val = svgEl("text", { x: labelW + chipW + w + 6, y: y + barH - 3,
+      fill: "var(--text-secondary)", "font-size": "11.5", class: "axis-num" });
+    val.textContent = `${r0.n} · ${pct(r0.n)}${delta}`;
+    svg.appendChild(val);
+  });
+  const base = svgEl("line", { x1: labelW + chipW, y1: 0, x2: labelW + chipW,
+    y2: H - 4, stroke: "var(--baseline)", "stroke-width": 1 });
+  svg.appendChild(base);
+  $("bars").appendChild(svg);
+  $("bars-table").innerHTML = "<tr><th>Code</th><th>Severity</th><th>Calls</th><th>% of corpus</th></tr>" +
+    rows.map(r => `<tr><td>${r.c}</td><td>${r.sev}</td><td>${r.n}</td><td>${pct(r.n)}</td></tr>`).join("");
+})();
+
+/* ---------- criterion stacked bars ---------- */
+(function stack() {
+  const labelW = 128, plotW = 250, rowH = 26, barH = 14, gap = 2;
+  const W = labelW + plotW + 74, H = DATA.criteria.length * rowH + 8;
+  const svg = svgRoot(W, H);
+  DATA.criteria.forEach((r, i) => {
+    const y = i * rowH + (rowH - barH) / 2;
+    const lbl = svgEl("text", { x: labelW - 6, y: y + barH - 3, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = r.c;
+    svg.appendChild(lbl);
+    const segs = [
+      { k: "Pass", v: r.p, fill: "var(--good)", ink: "#ffffff" },
+      { k: "Fail", v: r.f, fill: "var(--critical)", ink: "#ffffff" },
+      { k: "NA",   v: r.na, fill: "var(--na-fill)", ink: "var(--text-primary)" }
+    ];
+    let x = labelW;
+    segs.forEach(s => {
+      if (!s.v) return;
+      const w = plotW * s.v / N - gap;
+      const rect = svgEl("rect", { x, y, width: Math.max(w, 1.5), height: barH, rx: 2 });
+      rect.setAttribute("fill", s.fill);
+      hook(rect, `<b>${r.c}</b> — ${s.k}<br>${s.v} calls · ${pct(s.v)}` +
+        (s.k === "Fail" ? "<br><i>click to list failing calls</i>" : ""),
+        s.k === "Fail" ? () => go("#list/crit/" + r.c) : null);
+      svg.appendChild(rect);
+      if (w > 30) {
+        const t = svgEl("text", { x: x + w / 2, y: y + barH - 3.5,
+          "text-anchor": "middle", fill: s.ink, "font-size": "10.5", class: "axis-num" });
+        t.textContent = s.v;
+        svg.appendChild(t);
+      }
+      x += w + gap;
+    });
+    const ap = r.p + r.f;
+    const fr = ap ? (100 * r.f / ap).toFixed(1) + "%" : "—";
+    const t2 = svgEl("text", { x: labelW + plotW + 8, y: y + barH - 3,
+      fill: r.f > 0 ? "var(--critical)" : "var(--muted)", "font-size": "11", class: "axis-num" });
+    t2.textContent = "fail " + fr;
+    if (r.f > 0) hook(t2, `<b>${r.c}</b>: list ${r.f} failing call(s)`, () => go("#list/crit/" + r.c));
+    svg.appendChild(t2);
+  });
+  $("stack").appendChild(svg);
+  $("stack-table").innerHTML =
+    "<tr><th>Criterion</th><th>Pass</th><th>Fail</th><th>NA</th><th>Fail rate*</th></tr>" +
+    DATA.criteria.map(r => {
+      const ap = r.p + r.f;
+      return `<tr><td>${r.c}</td><td>${r.p}</td><td>${r.f}</td><td>${r.na}</td>` +
+             `<td>${ap ? (100 * r.f / ap).toFixed(1) + "%" : "—"}</td></tr>`;
+    }).join("") +
+    `<tr><td colspan="5" style="color:var(--muted)">*of applicable (Pass+Fail)</td></tr>`;
+})();
+
+/* ---------- intent × state heatmap ---------- */
+(function heat() {
+  const labelW = 146, cell = 52, ch = 24, gap = 2, top = 20;
+  const W = labelW + DATA.stateCols.length * (cell + gap) + 8;
+  const H = top + DATA.intents.length * (ch + gap) + 6;
+  const svg = svgRoot(W, H);
+  const max = Math.max(...DATA.intents.flatMap(r => r.v));
+  DATA.stateCols.forEach((s, j) => {
+    const t = svgEl("text", { x: labelW + j * (cell + gap) + cell / 2, y: 13,
+      "text-anchor": "middle", fill: "var(--muted)", "font-size": "10.5" });
+    t.textContent = s.slice(0, 8);
+    svg.appendChild(t);
+  });
+  DATA.intents.forEach((row, i) => {
+    const y = top + i * (ch + gap);
+    const lbl = svgEl("text", { x: labelW - 6, y: y + ch - 8, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = row.i;
+    svg.appendChild(lbl);
+    row.v.forEach((v, j) => {
+      const x = labelW + j * (cell + gap);
+      let fill = "var(--seq-0)", ink = "var(--heat-ink-lo)";
+      if (v > 0) {
+        const step = Math.max(1, Math.min(7, Math.ceil(7 * Math.sqrt(v / max))));
+        fill = `var(--seq-${step})`;
+        ink = step >= 4 ? "var(--heat-ink-hi)" : "var(--heat-ink-lo)";
+      }
+      const rect = svgEl("rect", { x, y, width: cell, height: ch, rx: 3, fill });
+      if (v === 0) rect.setAttribute("stroke", "var(--grid)");
+      hook(rect, `<b>${row.i}</b> → ${DATA.stateCols[j]}<br>${v} call${v === 1 ? "" : "s"}`);
+      svg.appendChild(rect);
+      if (v > 0) {
+        const t = svgEl("text", { x: x + cell / 2, y: y + ch - 7.5,
+          "text-anchor": "middle", fill: ink, "font-size": "11", class: "axis-num" });
+        t.textContent = v;
+        svg.appendChild(t);
+      }
+    });
+  });
+  $("heat").appendChild(svg);
+  $("heat-table").innerHTML =
+    `<tr><th>Intent</th>${DATA.stateCols.map(s => `<th>${s}</th>`).join("")}</tr>` +
+    DATA.intents.map(r =>
+      `<tr><td>${r.i}</td>${r.v.map(v => `<td>${v}</td>`).join("")}</tr>`).join("");
+})();
+
+/* ---------- narrative: tasks + scoreboard + footer ---------- */
+(function narrative() {
+  const nv = DATA.narrative;
+  $("tasks-title").textContent = "Top " + nv.tasks.length + " recommendations";
+  $("taskgrid").innerHTML = nv.tasks.map(t =>
+    `<div class="task${t.new ? " newcard" : ""}">` +
+    `<span class="prio ${t.priority.toLowerCase()}">${t.priority}</span>` +
+    (t.new ? ` <span class="chip accent">${t.new_label || "NEW"}</span>` : "") +
+    `<h3>${t.title}</h3>` +
+    `<div class="owner">Owner: <b>${t.owner}</b></div>` +
+    `<p><b>The problem:</b> ${t.problem}</p>` +
+    `<p><b>The fix:</b> ${t.fix}</p>` +
+    `<div class="accept"><b>Worked when:</b> ${t.worked_when}</div></div>`).join("");
+  const sb = nv.scoreboard;
+  $("scoreboard").innerHTML =
+    `<p class="sub" style="margin-bottom:10px">${sb.intro}</p>` +
+    `<table class="scoretable"><tr><th>Fix</th><th>Metric to watch</th><th>Baseline (today)</th><th>Target</th></tr>` +
+    sb.rows.map(r => `<tr><td>${r.fix}</td><td>${r.metric}</td><td>${r.baseline}</td><td>${r.target}</td></tr>`).join("") +
+    `<tr><td colspan="4" style="color:var(--muted)">${sb.guardrails}</td></tr></table>` +
+    `<p class="sub" style="margin-top:10px">${sb.caveats}</p>`;
+  $("foot").innerHTML = nv.watch_items + "<br>" + nv.method;
+})();
+
+/* ---------- drill-down: call lists ---------- */
+function callRow(cid, extraHtml) {
+  const s = DATA.calls[cid].score;
+  return `<tr><td><a class="calllink" href="#call/${cid}">${short(cid)}</a></td>` +
+    `<td>${s.terminal_state}</td>` +
+    `<td>${s.failure_codes.map(c => `<span class="chip">${c}</span>`).join(" ") || "—"}</td>` +
+    `<td>${extraHtml}</td></tr>`;
+}
+function turnQuote(cid, t) {
+  if (t === null || t === undefined) return "";
+  const turns = DATA.calls[cid].turns;
+  if (t < 0 || t >= turns.length) return "";
+  const txt = turns[t].text;
+  return `<span style="color:var(--muted)">t${t}:</span> “${esc(txt.length > 140 ? txt.slice(0, 140) + "…" : txt)}”`;
+}
+const LISTS = {
+  code: key => ({
+    title: `Calls carrying ${key}`,
+    ids: Object.keys(DATA.calls).filter(c => DATA.calls[c].score.failure_codes.includes(key)).sort(),
+    extra: cid => `<i>${esc(DATA.calls[cid].score.rationale)}</i>`
+  }),
+  crit: key => ({
+    title: `Calls failing ${key}`,
+    ids: Object.keys(DATA.calls).filter(c => DATA.calls[c].score.criteria[key].verdict === "Fail").sort(),
+    extra: cid => turnQuote(cid, DATA.calls[cid].score.criteria[key].evidence_turn) +
+      `<br><i>${esc(DATA.calls[cid].score.rationale)}</i>`
+  }),
+  state: key => ({
+    title: `Calls landing ${key}`,
+    ids: Object.keys(DATA.calls).filter(c => DATA.calls[c].score.terminal_state === key).sort(),
+    extra: cid => `<i>${esc(DATA.calls[cid].score.rationale)}</i>`
+  }),
+  behfail: () => ({
+    title: "Behavioral failures to land (failed without a transcript cut)",
+    ids: Object.keys(DATA.calls).filter(c => {
+      const s = DATA.calls[c].score;
+      return s.terminal_state === "failed" && !s.failure_codes.includes("CUT_TRANSCRIPT");
+    }).sort(),
+    extra: cid => `<i>${esc(DATA.calls[cid].score.rationale)}</i>`
+  }),
+  critfail: () => ({
+    title: "Calls failing ≥ 1 critical criterion",
+    ids: Object.keys(DATA.calls).filter(c => DATA.kpis.critical_criteria.some(
+      k => DATA.calls[c].score.criteria[k].verdict === "Fail")).sort(),
+    extra: cid => DATA.kpis.critical_criteria.filter(
+        k => DATA.calls[cid].score.criteria[k].verdict === "Fail")
+      .map(k => `<span class="chip Fail">${k}</span>`).join(" ")
+  }),
+  nudge: () => ({
+    title: "Unsolicited transfer nudges (containment analysis)",
+    ids: DATA.containment ? DATA.containment.flagged.map(f => f.call_id) : [],
+    extra: cid => {
+      const f = DATA.containment.flagged.find(x => x.call_id === cid);
+      return `<span class="chip accent">${f.bucket}</span> ` +
+        f.evidence.map(e => `<br>${turnQuote(cid, e.turn)}`).join("") +
+        `<br><i>${esc(f.reason)}</i>`;
+    }
+  }),
+};
+function renderList(kind, key) {
+  const spec = LISTS[kind] && LISTS[kind](key);
+  if (!spec) return;
+  $("drill-title").textContent = spec.title;
+  $("drill-sub").textContent = spec.ids.length + " call(s) — click an ID to open the transcript with citations highlighted";
+  $("drill-table").innerHTML =
+    "<tr><th>Call</th><th>Landed</th><th>Codes</th><th>Evidence / judge rationale</th></tr>" +
+    spec.ids.map(cid => callRow(cid, spec.extra(cid))).join("");
+  $("drill").style.display = "block";
+  $("callview").style.display = "none";
+  $("drill").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+/* ---------- transcript view ---------- */
+function renderCall(cid) {
+  const call = DATA.calls[cid];
+  if (!call) return;
+  const s = call.score, cont = call.containment;
+  $("cv-title").textContent = cid;
+  let v = `<div class="row"><span class="chip accent">landed: ${s.terminal_state}</span>` +
+    `<span class="chip">intents: ${s.intents.join(", ")}</span>` +
+    s.failure_codes.map(c => `<span class="chip Fail">${c}</span>`).join("") + `</div>` +
+    `<div class="row">` + Object.keys(s.criteria).map(k =>
+      `<span class="chip ${s.criteria[k].verdict}">${k}: ${s.criteria[k].verdict}</span>`).join("") + `</div>` +
+    `<div class="rat"><b>Judge:</b> ${esc(s.rationale)}</div>`;
+  if (cont) {
+    v += `<div class="rat"><b>Containment:</b> <span class="chip accent">${cont.bucket}</span> ${esc(cont.reason)}</div>`;
+  }
+  $("cv-verdict").innerHTML = v;
+
+  // evidence maps
+  const critTags = {};   // turn -> [ "identity · Pass", ... ]
+  Object.keys(s.criteria).forEach(k => {
+    const e = s.criteria[k].evidence_turn;
+    if (e !== null && e !== undefined)
+      (critTags[e] = critTags[e] || []).push({ k, verdict: s.criteria[k].verdict });
+  });
+  const contMarks = {};  // turn -> [quotes]
+  if (cont) cont.evidence.forEach(e => (contMarks[e.turn] = contMarks[e.turn] || []).push(e.quote));
+
+  $("cv-turns").innerHTML = "";
+  call.turns.forEach((t, i) => {
+    const cls = t.speaker === "agent_mia" ? "mia" : (t.speaker === "customer" ? "customer" : "human");
+    const hit = critTags[i] || contMarks[i];
+    const div = document.createElement("div");
+    div.className = "turn " + cls + (hit ? " hit" : "");
+    div.id = "turn-" + i;
+    let txtHtml = esc(t.text);
+    (contMarks[i] || []).forEach(q => {
+      const eq = esc(q);
+      txtHtml = txtHtml.split(eq).join("<mark>" + eq + "</mark>");
+    });
+    const who = t.speaker === "agent_mia" ? "Mia" : (t.speaker === "customer" ? "Customer" : "Human agent");
+    let tags = "";
+    if (critTags[i]) tags += critTags[i].map(x =>
+      `<span class="chip ${x.verdict}">${x.k} · ${x.verdict}</span>`).join("");
+    if (contMarks[i]) tags += `<span class="chip accent">containment citation</span>`;
+    div.innerHTML = `<div class="t">t${i} · ${t.t}s</div><div class="who">${who}</div>` +
+      `<div class="txt">${txtHtml}${tags ? `<div class="tags">${tags}</div>` : ""}</div>`;
+    $("cv-turns").appendChild(div);
+  });
+  $("callview").style.display = "block";
+  $("callview").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+/* ---------- finder ---------- */
+$("finder").addEventListener("input", () => {
+  const q = $("finder").value.trim().toLowerCase();
+  if (!q) { $("finder-hits").innerHTML = ""; return; }
+  const hits = Object.keys(DATA.calls).filter(c => c.toLowerCase().includes(q)).sort().slice(0, 12);
+  $("finder-hits").innerHTML = hits.length
+    ? hits.map(c => `<a class="calllink" href="#call/${c}">${short(c)}</a>`).join("")
+    : "no match";
+});
+
+/* ---------- hash router ---------- */
+function route() {
+  const h = location.hash;
+  let m;
+  if ((m = h.match(/^#call\/(.+)$/))) renderCall(decodeURIComponent(m[1]));
+  else if ((m = h.match(/^#list\/([a-z]+)\/(.+)$/))) renderList(m[1], decodeURIComponent(m[2]));
+  else { $("drill").style.display = "none"; $("callview").style.display = "none"; }
+}
+window.addEventListener("hashchange", route);
+route();
+</script>
+</body>
+</html>

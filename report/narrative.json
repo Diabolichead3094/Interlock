@@ -1,0 +1,56 @@
+{
+  "header_title": "Mia Voice-Agent Evaluation",
+  "header_meta": "Frozen rubric v1 · two-pass LLM judge (v1.1) calibrated at <b>99.3%</b> criterion / <b>100%</b> terminal-state agreement vs 18 human golden labels",
+  "tasks": [
+    {
+      "priority": "P0",
+      "new": false,
+      "title": "Make Mia act on what the caller actually said",
+      "owner": "Dialog/NLU + prompt engineering",
+      "problem": "in 21 calls (1 in 10), Mia’s next move contradicted what the caller had just told her. Worst case: the caller says <b>“No”</b> and she carries on as if it were yes — in 028 she read a number back, heard “No”, and replied <i>“Perfect. I’ve noted your details.”</i> In 065 the caller confirmed the serious lockout type and got advice for the mild one.",
+      "fix": "sort every answer into yes / no / unclear before acting — “no” and “unclear” always mean ask again. Remember confirmed facts (lockout type, notice status) for the whole call so advice can’t contradict them.",
+      "worked_when": "≤ 3 calls carry these codes on a fresh 200-call run (today 21); zero “No-treated-as-Yes” on the golden 18."
+    },
+    {
+      "priority": "P1",
+      "new": false,
+      "title": "Stop Mia repeating questions that were already answered",
+      "owner": "Voice-agent flow/state-machine engineering",
+      "problem": "in 1 of every 3 calls Mia re-asks something already answered — usually “are you ready to be connected?” again right after the caller said yes (040, 042, 099). When talked over, she restarts her whole message from the top (043). It sounds broken and stretches out every call.",
+      "fix": "once an answer is in, mark that question done so it can’t fire again; on interruption, continue the sentence instead of starting over.",
+      "worked_when": "STATE_ECHO falls from 34% to ≤ 10% of calls; zero repeated consent questions on the golden 18."
+    },
+    {
+      "priority": "P1",
+      "new": false,
+      "title": "Always capture the caller’s name before doing anything",
+      "owner": "Voice-agent flow engineering",
+      "problem": "in 10 calls Mia either never asked who was calling before sending links or transferring (×7 — 084, 111), or accepted something that clearly wasn’t a name and moved on (×3 — 066, 146). She already knows the right behavior: in 039 she noticed a garbled answer and politely re-asked. It just isn’t enforced.",
+      "fix": "make the name a hard gate — links, transfers and callbacks can’t happen until a plausible name is in; if it doesn’t look like a name, ask once more, like 039 did.",
+      "worked_when": "zero identity failures on a fresh run (today 10)."
+    },
+    {
+      "priority": "P1",
+      "new": true,
+      "new_label": "NEW — containment analysis",
+      "title": "Don’t offer a human when Mia already solved it",
+      "owner": "Voice-agent flow/prompt engineering",
+      "problem": "Mia likes to end a call she just solved with <i>“Would you like to speak with customer support as well?”</i> — an offer nobody asked for. Polite callers say yes, and a solved call becomes a paid human handoff. 11 calls flagged: 7 became transfers she could have kept, 3 stayed resolved but got the pointless offer. Cleanest proof: 041 and 149 are near-identical solved calls — 041’s caller said “No. Thank you.” and stayed resolved; 149’s said yes and got transferred. Twice (154, 197) the human’s answer was the 7-day policy Mia already knows.",
+      "fix": "only offer a human when the caller asks, when the task is genuinely beyond her (payments, bookings, prices, unlock codes), or when the designed flow requires it. After solving, say goodbye — drop the trailing offer. Answer the policy questions she knows first; escalate only if that didn’t help.",
+      "worked_when": "flagged nudges ≤ 2 on a fresh run (today 11); transferred share drops, failed doesn’t rise."
+    }
+  ],
+  "scoreboard": {
+    "intro": "This eval <b>is</b> the measurement instrument: the rubric is frozen, the judge is calibrated against 18 human-labeled calls (99.3% agreement), and every step is scripted. The loop: <b>1)</b> re-check the judge against the golden calls before each measurement (must stay ≥ 99%) · <b>2)</b> ship one fix, collect a fresh batch of ~200 calls · <b>3)</b> run the identical pipeline · <b>4)</b> compare against this baseline:",
+    "rows": [
+      { "fix": "1 · Act on what the caller said", "metric": "CONTEXT_IGNORED + WRONG_GUIDANCE calls", "baseline": "21 (10.5%)", "target": "≤ 3 (1.5%)" },
+      { "fix": "2 · Stop repeating questions", "metric": "STATE_ECHO calls", "baseline": "68 (34%)", "target": "≤ 20 (10%)" },
+      { "fix": "3 · Name before action", "metric": "identity criterion fails", "baseline": "10 (5%)", "target": "0" },
+      { "fix": "4 · Keep solved calls", "metric": "flagged transfer nudges", "baseline": "11 (5.5%)", "target": "≤ 2" }
+    ],
+    "guardrails": "Guardrails on every run: scope violations stay ≤ 1 · failed share doesn’t rise above 16% · fully-clean calls climb from 42% · resolved share climbs as containment improves.",
+    "caveats": "<b>Caveats:</b> rare codes (fired < 10 times) can swing by a few counts in a 200-call batch by pure chance — treat single-digit moves as directional and confirm with a second batch. Change one thing at a time, or run an A/B split (half the calls on updated Mia, both arms scored by the same judge) for the strongest causal read."
+  },
+  "watch_items": "<b>Watch items:</b> CB_NO_CONFIRM hits 15.4% of callback flows (the safety-net state) — folds into P0’s polarity work · MULTI_Q in 23 calls (style-guide fix) · CUT_TRANSCRIPT 14% is a platform/telephony recording issue, not an agent defect.",
+  "method": "<b>Method:</b> Pass A literal fact extraction → Pass B rubric judge → Pass C transfer-containment classifier (Claude headless, 8 workers), schema-validated with retry + bracket repair; evidence quotes substring-verified against transcripts; checkpointed reruns. Judge spend ≈ $262. Regenerate this dashboard any time with <code>python3 scripts/build_report.py</code>. Never sighted in 200 calls: DROP_OFF, PRICE_QUOTED, ACTION_OVERSTEP, CB_DATE_PROMISED, HALLUCINATED_POLICY, AFTER_HOURS_TRANSFER."
+}
