@@ -5,10 +5,11 @@
 #   WORKERS=4 ./scripts/run_pipeline.sh             # fewer parallel claude calls
 #   ./scripts/run_pipeline.sh --baseline old/results  # extra args go to build_report
 #
-# For a NEW BATCH: drop the new .txt files into transcripts/raw/, archive the
-# previous results/ directory (e.g. mv results results_2026-07-13), recreate
-# an empty results/, then run this script. Every stage is checkpointed, so
-# re-running after an interruption resumes where it stopped.
+# For a NEW BATCH of calls, DON'T use this script — use the batch utility,
+# which stages into batches/<name>/, gates the judge, and auto-links deltas:
+#     python3 scripts/new_batch.py /path/to/new_txt_folder [--deploy]
+# This script re-runs the pipeline in place on the ORIGINAL corpus only.
+# Every stage is checkpointed, so re-running resumes where it stopped.
 #
 # The judge gate: compare.py prints agreement vs the 18 golden labels. If it
 # drops below ~99%, STOP — the judge moved; do not trust the batch scores.

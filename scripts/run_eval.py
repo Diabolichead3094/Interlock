@@ -314,6 +314,7 @@ def process_call(call, total, prompts, registry, model, facts_done, stats):
 
 
 def main():
+    global CALLS, RESULTS, FACTS_OUT, SCORES_OUT, ERRORS_LOG
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--limit", type=int, default=None, metavar="N",
                     help="process at most N not-yet-scored calls")
@@ -323,7 +324,18 @@ def main():
                     help="pass through to claude --model (default: CLI default)")
     ap.add_argument("--workers", type=int, default=1, metavar="N",
                     help="parallel claude calls (default 1 = sequential)")
+    ap.add_argument("--calls", default=CALLS, metavar="FILE",
+                    help="calls jsonl (default: data/calls.jsonl)")
+    ap.add_argument("--results", default=RESULTS, metavar="DIR",
+                    help="output dir for facts/scores/errors (default: results/)")
     args = ap.parse_args()
+
+    # re-point module-level outputs before any worker starts
+    CALLS = args.calls
+    RESULTS = args.results
+    FACTS_OUT = os.path.join(RESULTS, "facts.jsonl")
+    SCORES_OUT = os.path.join(RESULTS, "scores.jsonl")
+    ERRORS_LOG = os.path.join(RESULTS, "errors.log")
 
     extract_prompt = open(EXTRACT_MD, encoding="utf-8").read()
     judge_prompt = open(JUDGE_MD, encoding="utf-8").read()

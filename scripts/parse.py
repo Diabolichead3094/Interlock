@@ -21,6 +21,7 @@ Rules:
 Output object shape (one JSON line per call):
     {"call_id": "<filename without .txt>", "turns": [{"t": <float seconds>, "speaker": <str>, "text": <str>}, ...]}
 """
+import argparse
 import glob
 import json
 import os
@@ -73,7 +74,16 @@ def parse_file(path):
 
 
 def main():
-    files = sorted(glob.glob(os.path.join(RAW, "*.txt")))
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--raw", default=RAW, metavar="DIR",
+                    help="directory of *.txt transcripts (default: transcripts/raw)")
+    ap.add_argument("--out", default=OUT, metavar="FILE",
+                    help="output jsonl (default: data/calls.jsonl)")
+    ap.add_argument("--show", nargs="*", default=[], metavar="CALL_ID",
+                    help="pretty-print these calls in full after parsing")
+    args = ap.parse_args()
+
+    files = sorted(glob.glob(os.path.join(args.raw, "*.txt")))
     parsed = []    # list of (call_id, turns)
     failures = []  # list of (call_id, reason)
     for path in files:
@@ -84,13 +94,13 @@ def main():
         else:
             parsed.append((call_id, turns))
 
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
+    os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
+    with open(args.out, "w", encoding="utf-8") as f:
         for call_id, turns in parsed:
             f.write(json.dumps({"call_id": call_id, "turns": turns}, ensure_ascii=False) + "\n")
 
     turn_counts = [len(t) for _, t in parsed]
-    print("Wrote %s" % os.path.relpath(OUT, ROOT))
+    print("Wrote %s" % os.path.relpath(args.out, ROOT))
     print("total files : %d" % len(files))
     print("total parsed: %d" % len(parsed))
     if failures:
@@ -102,9 +112,9 @@ def main():
         print("turns/call  : min=%d  median=%g  max=%d"
               % (min(turn_counts), statistics.median(turn_counts), max(turn_counts)))
 
-    # pretty-print two specific calls in full
+    # pretty-print requested calls in full (opt-in via --show)
     by_id = dict(parsed)
-    for cid in ("ais_transcript_042", "ais_transcript_044"):
+    for cid in args.show:
         print("\n" + "=" * 78)
         turns = by_id.get(cid)
         if turns is None:

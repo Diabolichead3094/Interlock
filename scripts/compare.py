@@ -9,8 +9,9 @@ Joins results/scores.jsonl with labels/golden_labels.csv on Call_ID and prints:
   5. failure-code overlap: per-call sets side by side, exact-set-match rate,
      micro precision/recall/F1, and a per-code count table
 
-Usage:  python3 scripts/compare.py
+Usage:  python3 scripts/compare.py [--scores FILE]
 """
+import argparse
 import csv
 import json
 import os
@@ -39,15 +40,19 @@ def hr(title):
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--scores", default=SCORES, metavar="FILE",
+                    help="scores jsonl to compare (default: results/scores.jsonl)")
+    args = ap.parse_args()
+
     with open(GOLDEN_CSV, encoding="utf-8", newline="") as f:
         golden = {row["Call_ID"].strip(): row
                   for row in csv.DictReader(f) if row.get("Call_ID", "").strip()}
 
-    if not os.path.exists(SCORES):
-        raise SystemExit("no %s — run scripts/run_eval.py first"
-                         % os.path.relpath(SCORES, ROOT))
+    if not os.path.exists(args.scores):
+        raise SystemExit("no %s — run scripts/run_eval.py first" % args.scores)
     scores = {}
-    with open(SCORES, encoding="utf-8") as f:
+    with open(args.scores, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if line:

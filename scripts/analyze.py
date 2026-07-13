@@ -13,8 +13,9 @@ produces results/summary.json plus a console summary:
   - worst calls (most critical codes)
   - pipeline health (errors.log summary)
 
-Usage:  python3 scripts/analyze.py
+Usage:  python3 scripts/analyze.py [--results DIR]
 """
+import argparse
 import json
 import os
 import re
@@ -68,6 +69,15 @@ def pct(n, d):
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--results", default=os.path.join(ROOT, "results"), metavar="DIR",
+                    help="results dir to read scores/errors from and write summary.json to")
+    args = ap.parse_args()
+    global SCORES, ERRORS, SUMMARY_OUT
+    SCORES = os.path.join(args.results, "scores.jsonl")
+    ERRORS = os.path.join(args.results, "errors.log")
+    SUMMARY_OUT = os.path.join(args.results, "summary.json")
+
     severities = code_severities(RUBRIC)
 
     scores = {}

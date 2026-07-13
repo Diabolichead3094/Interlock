@@ -103,18 +103,21 @@ def candidates():
     calls = {json.loads(l)["call_id"]: json.loads(l) for l in open(CALLS)}
     facts = load_jsonl_map(FACTS)
     scores = load_jsonl_map(SCORES)
-    out = []
+    out, n_offered = [], 0
     for cid in sorted(scores):
         tr = facts.get(cid, {}).get("transfer", {})
         if not (tr.get("offered") or tr.get("attempted")):
             continue
+        n_offered += 1
         if "operator_request" in scores[cid].get("intents", []):
             continue
         out.append((calls[cid], facts[cid], scores[cid]["terminal_state"]))
-    return out, len(scores)
+    n_transferred = sum(1 for s in scores.values()
+                        if s["terminal_state"] == "transferred")
+    return out, len(scores), n_offered, n_transferred
 
 
-def aggregate(cands, n_scored):
+def aggregate(cands, n_scored, n_offered, n_transferred):
     recs = load_jsonl_map(OUT_JSONL)
     state_by_cid = {c["call_id"]: st for c, _, st in cands}
     buckets, citations = {}, []
@@ -131,7 +134,7 @@ def aggregate(cands, n_scored):
                            if state_by_cid.get(c) == "transferred"]
     summary = {
         "n_scored_calls": n_scored,
-        "n_transfer_offered_or_attempted": 168,
+        "n_transfer_offered_or_attempted": n_offered,
         "n_candidates": len(cands),
         "n_classified": len(recs),
         "buckets": {b: {"count": len(v), "calls": v}
@@ -141,7 +144,9 @@ def aggregate(cands, n_scored):
                           "calls": flagged},
         "flagged_transferred": {
             "count": len(transferred_flagged),
-            "pct_of_127_transferred": round(100.0 * len(transferred_flagged) / 127, 1)},
+            "n_transferred": n_transferred,
+            "pct_of_transferred": (round(100.0 * len(transferred_flagged)
+                                         / n_transferred, 1) if n_transferred else 0.0)},
         "citations": citations,
     }
     with open(OUT_JSON, "w", encoding="utf-8") as f:
@@ -150,14 +155,28 @@ def aggregate(cands, n_scored):
 
 
 def main():
+    global CALLS, FACTS, SCORES, OUT_JSONL, OUT_JSON
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--limit", type=int, default=None, metavar="N")
     ap.add_argument("--workers", type=int, default=1, metavar="N")
     ap.add_argument("--model", default=None)
+    ap.add_argument("--calls", default=CALLS, metavar="FILE",
+                    help="calls jsonl (default: data/calls.jsonl)")
+    ap.add_argument("--results", default=None, metavar="DIR",
+                    help="results dir for facts/scores in and containment out (default: results/)")
     args = ap.parse_args()
 
+    CALLS = args.calls
+    if args.results:
+        FACTS = os.path.join(args.results, "facts.jsonl")
+        SCORES = os.path.join(args.results, "scores.jsonl")
+        OUT_JSONL = os.path.join(args.results, "containment.jsonl")
+        OUT_JSON = os.path.join(args.results, "containment.json")
+        import run_eval
+        run_eval.ERRORS_LOG = os.path.join(args.results, "errors.log")
+
     prompt_md = open(PROMPT_MD, encoding="utf-8").read()
-    cands, n_scored = candidates()
+    cands, n_scored, n_offered, n_transferred = candidates()
     done_map = load_jsonl_map(OUT_JSONL)
     todo = [(c, f) for c, f, _ in cands if c["call_id"] not in done_map]
     if args.limit is not None:
@@ -175,16 +194,17 @@ def main():
     print("\nDone. classified: %d, errors: %d, cost this run: $%.4f"
           % (stats["done"] - stats["errors"], stats["errors"], stats["cost"]))
 
-    s = aggregate(cands, n_scored)
+    s = aggregate(cands, n_scored, n_offered, n_transferred)
     print("\nBuckets:")
     for b, v in s["buckets"].items():
         print("  %-28s %3d" % (b, v["count"]))
     print("Flagged total: %d (%.1f%% of corpus); flagged transferred: %d "
-          "(%.1f%% of the 127 transfers)"
+          "(%.1f%% of the %d transfers)"
           % (s["flagged_total"]["count"], s["flagged_total"]["pct_of_corpus"],
              s["flagged_transferred"]["count"],
-             s["flagged_transferred"]["pct_of_127_transferred"]))
-    print("Wrote results/containment.json")
+             s["flagged_transferred"]["pct_of_transferred"],
+             s["flagged_transferred"]["n_transferred"]))
+    print("Wrote %s" % OUT_JSON)
 
 
 if __name__ == "__main__":

@@ -136,7 +136,8 @@
   },
   "flagged_transferred": {
     "count": 7,
-    "pct_of_127_transferred": 5.5
+    "n_transferred": 127,
+    "pct_of_transferred": 5.5
   },
   "citations": [
     {
