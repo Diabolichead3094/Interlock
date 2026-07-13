@@ -27,6 +27,11 @@ re-asks questions that were already answered — and the context-grounding famil
 (CONTEXT_IGNORED + WRONG_GUIDANCE, 21 calls) includes the corpus's signature defect:
 **negation inversion**, where a caller's "No" is processed as a yes.
 
+**New in this revision — containment leak:** a dedicated transfer-containment pass
+(§6) found **11 calls (5.5%)** where Mia offered a human transfer that nobody asked
+for on a need she could resolve herself — including **7 of the 127 transfers (5.5%)**
+that should have been contained, each one billing avoidable human-agent time.
+
 ## 2. Methodology
 
 ```
@@ -104,7 +109,49 @@ The zero-tolerance criteria are effectively clean. The standout risk is
 **callback_quality: 15.4% of callback flows fail** — and callback is the safety net
 that catches failed transfers and closed-office calls.
 
-## 6. Top 3 recommendations
+## 6. Containment analysis: unsolicited transfer nudging (new)
+
+**Trigger:** reviewer observation, corroborated by the golden label comment on 041
+("Mia is unnecessarily nudging for human transfer"). **Method:** all 168 calls where
+Pass A recorded a transfer offer/attempt were prescreened to 87 candidates (caller
+never opened with an operator request), then a dedicated classifier pass (Pass C,
+`prompts/containment.md`) judged each against Mia's capability zone with the designed
+transfer flows excluded (bypass decline-redirects, permanent-lockout specialist
+routing, with-notice removals, failed-transfer fallbacks). Every quote below is
+**mechanically verified verbatim** against the cited transcript turn.
+
+| Bucket | Calls | Meaning |
+|---|---|---|
+| justified_transfer | 71 | need genuinely required a human or a designed flow |
+| **containable_but_transferred** | **7** | in-scope need, yet the call left Mia's hands |
+| caller_requested | 5 | caller did ask for a human mid-call (prescreen refinement) |
+| **resolved_then_nudged** | **3** | call resolved; the offer was pure friction |
+| **partially_containable** | **1** | containable part escalated before being attempted |
+
+**Flagged: 11/200 calls (5.5% of corpus) · 7/127 transfers (5.5%) were containable.**
+
+The signature move is a trailing *"Would you like to speak with customer support as
+well?"* **after the need is already resolved** — present in 7 of the 11 flags. When
+the caller politely accepts, a contained call converts into a paid human interaction:
+041 and 149 are near-identical resolved flows, but 041's caller said *"No. Thank you."*
+(stayed resolved) while 149's said yes (became a transfer).
+
+Evidence exemplars (full set: `results/containment.json`):
+
+| Call | Turn | Verbatim evidence |
+|---|---|---|
+| 041 (resolved_then_nudged) | 10→14 | "Sent you a text with the hub link to check your end date." → *"Would you like to speak with customer support as well?"* → caller: "No. Thank you." |
+| 149 (containable→transferred) | 10→14 | same flow, nudge accepted → *"I'll get you over to our customer support team now."* |
+| 092 (containable, ended failed) | 1→4 | caller: "A medium recall." → Mia, without attempting the documented recall flow: *"Would you like me to connect you to our customer support team now?"* |
+| 154 (partially containable) | 10→25 | Mia at t10: *"I'll connect you with a specialist…"* — the **human** then answers with policy Mia knew: *"additional seven days. So you've got till close of business next Thursday, June 25."* |
+| 197 (containable→transferred) | 10→25 | grace-window question → instant *"I'll get you over to our customer support team now…"*; human's answer was again the seven-day policy |
+| 180 (containable→transferred) | 10→20 | payment handled via Mia's own link at t10, then *"Would you like to speak with customer support as well?"* |
+
+**Rubric note:** TRANSFER_NUDGE is hereby a candidate **nursery pattern** (11 sightings
+— well past the 3-sighting graduation bar for rubric v2). The frozen v1 rubric is
+untouched; this analysis lives beside it.
+
+## 7. Top 4 recommendations
 
 ---
 
@@ -185,19 +232,54 @@ answer and re-asked.
 
 ---
 
-**Watch items (below top-3 threshold):** callback confirmation robustness
+### TASK 4 — Stop unsolicited transfer nudges; close resolved calls ⭐ NEW
+
+**Priority:** P1 (direct operational cost — every containable transfer bills human-agent
+time; also caps Mia's measurable containment rate)
+**Suggested owner:** Voice-agent flow/prompt engineering
+
+**Evidence (§6; all quotes verbatim, turn-cited):** 11 calls flagged (5.5%), of which
+**7 transfers were containable** (092, 024, 051, 122, 149, 180, 197) and 3 resolved
+calls carried a pointless closing nudge (015, 035, 041). The trailing
+*"Would you like to speak with customer support as well?"* fires **after the need is
+already resolved** in 7 of 11 flags; 092 escalated at turn 4 without attempting the
+documented recall flow; in 154 and 197 the human's post-transfer answer was the
+seven-day grace-window policy Mia already knows.
+
+**Implementation approach:**
+1. Gate the transfer offer on three conditions only: (a) caller asked for a human,
+   (b) the need requires a CANNOT-zone action (price, booking, payment-taking, record
+   edit, unlock code, legal), or (c) a designed flow mandates it (bypass redirect,
+   permanent lockout, with-notice removal). Otherwise the offer state is unreachable.
+2. Replace the resolved-state closer: after every accepted action is confirmed
+   delivered, go to farewell — remove the appended "speak with customer support as
+   well?" prompt (the 041 vs 149 pair shows the same call resolving or transferring
+   on this single sentence).
+3. For policy questions Mia can answer (grace windows, recall flows), require one
+   containment attempt before any escalation offer (fixes 092/154/197-class exits).
+4. Re-run `scripts/containment.py` after the change to re-measure.
+
+**Acceptance criteria:** containable_but_transferred + resolved_then_nudged ≤ 2 calls
+on corpus re-run; transferred share of terminal states drops with no rise in failed.
+
+---
+
+**Watch items (below top-4 threshold):** callback confirmation robustness
 (CB_NO_CONFIRM — only 4 sightings but 15.4% of the flows where it can occur; fold into
 Task 2's polarity work) · MULTI_Q compound questions (23 calls; style guide + prompt
 fix) · CUT_TRANSCRIPT 14% is a **platform/telephony** recording-pipeline issue, not an
 agent defect — route to the platform team to determine whether recordings clip or calls
 genuinely drop.
 
-## 7. Pipeline health & reproducibility
+## 8. Pipeline health & reproducibility
 
-- 200/200 calls scored · 0 lost · 14 transient errors auto-recovered (retry / sweep /
+- 200/200 calls scored · 0 lost · transient errors auto-recovered (retry / sweep /
   bracket-repair, all logged in `results/errors.log`)
-- Judge spend ≈ $231 total (incl. calibration + re-runs) · 8-worker parallel runtime
-  ~50 min for 182 calls
+- 87/87 containment candidates classified (Pass C), quote citations mechanically
+  substring-verified against transcripts
+- Judge spend ≈ $262 total (incl. calibration, re-runs, containment pass) · 8-worker
+  parallel runtime ~50 min for the 182-call corpus leg
 - Reproduce: `python3 scripts/run_eval.py --workers 8` (checkpointed; reruns skip
   scored calls) → `python3 scripts/analyze.py` → `python3 scripts/compare.py` (golden
-  agreement) · aggregates in `results/summary.json`
+  agreement) → `python3 scripts/containment.py --workers 8` · aggregates in
+  `results/summary.json` and `results/containment.json`

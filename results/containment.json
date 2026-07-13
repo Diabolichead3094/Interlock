@@ -1,0 +1,394 @@
+{
+  "n_scored_calls": 200,
+  "n_transfer_offered_or_attempted": 168,
+  "n_candidates": 87,
+  "n_classified": 87,
+  "buckets": {
+    "justified_transfer": {
+      "count": 71,
+      "calls": [
+        "ais_transcript_009",
+        "ais_transcript_013",
+        "ais_transcript_014",
+        "ais_transcript_016",
+        "ais_transcript_017",
+        "ais_transcript_020",
+        "ais_transcript_027",
+        "ais_transcript_028",
+        "ais_transcript_029",
+        "ais_transcript_033",
+        "ais_transcript_034",
+        "ais_transcript_036",
+        "ais_transcript_037",
+        "ais_transcript_042",
+        "ais_transcript_043",
+        "ais_transcript_045",
+        "ais_transcript_049",
+        "ais_transcript_055",
+        "ais_transcript_056",
+        "ais_transcript_060",
+        "ais_transcript_061",
+        "ais_transcript_062",
+        "ais_transcript_063",
+        "ais_transcript_065",
+        "ais_transcript_069",
+        "ais_transcript_071",
+        "ais_transcript_073",
+        "ais_transcript_075",
+        "ais_transcript_080",
+        "ais_transcript_089",
+        "ais_transcript_095",
+        "ais_transcript_099",
+        "ais_transcript_101",
+        "ais_transcript_104",
+        "ais_transcript_111",
+        "ais_transcript_112",
+        "ais_transcript_116",
+        "ais_transcript_118",
+        "ais_transcript_121",
+        "ais_transcript_124",
+        "ais_transcript_125",
+        "ais_transcript_128",
+        "ais_transcript_132",
+        "ais_transcript_133",
+        "ais_transcript_135",
+        "ais_transcript_139",
+        "ais_transcript_140",
+        "ais_transcript_141",
+        "ais_transcript_142",
+        "ais_transcript_145",
+        "ais_transcript_150",
+        "ais_transcript_159",
+        "ais_transcript_160",
+        "ais_transcript_162",
+        "ais_transcript_164",
+        "ais_transcript_165",
+        "ais_transcript_171",
+        "ais_transcript_172",
+        "ais_transcript_173",
+        "ais_transcript_182",
+        "ais_transcript_183",
+        "ais_transcript_185",
+        "ais_transcript_186",
+        "ais_transcript_189",
+        "ais_transcript_190",
+        "ais_transcript_191",
+        "ais_transcript_194",
+        "ais_transcript_195",
+        "ais_transcript_196",
+        "ais_transcript_198",
+        "ais_transcript_200"
+      ]
+    },
+    "containable_but_transferred": {
+      "count": 7,
+      "calls": [
+        "ais_transcript_024",
+        "ais_transcript_051",
+        "ais_transcript_092",
+        "ais_transcript_122",
+        "ais_transcript_149",
+        "ais_transcript_180",
+        "ais_transcript_197"
+      ]
+    },
+    "caller_requested": {
+      "count": 5,
+      "calls": [
+        "ais_transcript_012",
+        "ais_transcript_040",
+        "ais_transcript_131",
+        "ais_transcript_187",
+        "ais_transcript_188"
+      ]
+    },
+    "resolved_then_nudged": {
+      "count": 3,
+      "calls": [
+        "ais_transcript_015",
+        "ais_transcript_035",
+        "ais_transcript_041"
+      ]
+    },
+    "partially_containable": {
+      "count": 1,
+      "calls": [
+        "ais_transcript_154"
+      ]
+    }
+  },
+  "flagged_total": {
+    "count": 11,
+    "pct_of_corpus": 5.5,
+    "calls": [
+      "ais_transcript_015",
+      "ais_transcript_024",
+      "ais_transcript_035",
+      "ais_transcript_041",
+      "ais_transcript_051",
+      "ais_transcript_092",
+      "ais_transcript_122",
+      "ais_transcript_149",
+      "ais_transcript_154",
+      "ais_transcript_180",
+      "ais_transcript_197"
+    ]
+  },
+  "flagged_transferred": {
+    "count": 7,
+    "pct_of_127_transferred": 5.5
+  },
+  "citations": [
+    {
+      "call_id": "ais_transcript_015",
+      "bucket": "resolved_then_nudged",
+      "terminal_state": "resolved",
+      "first_offer_turn": 11,
+      "evidence": [
+        {
+          "turn": 11,
+          "quote": "I can connect you to a specialist who can help with your service center or booking."
+        },
+        {
+          "turn": 8,
+          "quote": "Is it still Isa Auto Supplies?"
+        },
+        {
+          "turn": 25,
+          "quote": "Just call your local service center like ESA Auto Supplies."
+        },
+        {
+          "turn": 28,
+          "quote": "I'll give them a call. It's okay."
+        }
+      ],
+      "reason": "Location question was containable; caller never asked for a human. Mia offered a specialist unsolicited, never connected, then resolved the need verbally (call ESA Auto Supplies). Call ended resolved; the offer was pure friction."
+    },
+    {
+      "call_id": "ais_transcript_024",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 14,
+      "evidence": [
+        {
+          "turn": 1,
+          "quote": "I'm trying to find out what's involved with the TMR training."
+        },
+        {
+          "turn": 12,
+          "quote": "I've sent you a text with the hub link"
+        },
+        {
+          "turn": 14,
+          "quote": "Would you like to speak with our customer support team about the training or anything else?"
+        }
+      ],
+      "reason": "Caller's need (TMR training explanation) was fully in Mia's CAN zone; she explained it and sent the hub link, then unsolicitedly offered customer support, and the call left her hands via transfer."
+    },
+    {
+      "call_id": "ais_transcript_035",
+      "bucket": "resolved_then_nudged",
+      "terminal_state": "resolved",
+      "first_offer_turn": 14,
+      "evidence": [
+        {
+          "turn": 13,
+          "quote": "I have not received one."
+        },
+        {
+          "turn": 14,
+          "quote": "Thanks for confirming you've received your completion notice."
+        },
+        {
+          "turn": 14,
+          "quote": "Would you like me to connect you to our customer support team now?"
+        },
+        {
+          "turn": 20,
+          "quote": "Would you like to speak with our customer support team as well?"
+        }
+      ],
+      "reason": "Caller had no completion notice; Mia misheard, offered support mid-call, then nudged again after sending the hub link that resolved the need. Both offers unsolicited on a fully containable, resolved call."
+    },
+    {
+      "call_id": "ais_transcript_041",
+      "bucket": "resolved_then_nudged",
+      "terminal_state": "resolved",
+      "first_offer_turn": 14,
+      "evidence": [
+        {
+          "turn": 1,
+          "quote": "I just had questions about when my interlock period is over."
+        },
+        {
+          "turn": 10,
+          "quote": "Sent you a text with the hub link to check your end date."
+        },
+        {
+          "turn": 14,
+          "quote": "Would you like to speak with customer support as well?"
+        },
+        {
+          "turn": 15,
+          "quote": "No. Thank you."
+        }
+      ],
+      "reason": "End-date query was fully containable; Mia sent the hub link and office email, resolving the need, then offered customer support unsolicited. Caller declined and the call closed resolved — the offer was pure friction."
+    },
+    {
+      "call_id": "ais_transcript_051",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 18,
+      "evidence": [
+        {
+          "turn": 5,
+          "quote": "I need to get it pulled out tomorrow the seventeenth."
+        },
+        {
+          "turn": 18,
+          "quote": "I've sent you a text with our office email address."
+        },
+        {
+          "turn": 18,
+          "quote": "Would you like to speak with our customer support team as well?"
+        },
+        {
+          "turn": 23,
+          "quote": "Yes. I would like a speak to your customer support team now."
+        }
+      ],
+      "reason": "Removal without completion notice is Mia's contained branch; she explained the requirement and sent the office email, then unsolicited offered customer support. The caller only accepted after the offer, and the call left Mia's hands."
+    },
+    {
+      "call_id": "ais_transcript_092",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "failed",
+      "first_offer_turn": 4,
+      "evidence": [
+        {
+          "turn": 1,
+          "quote": "A medium recall."
+        },
+        {
+          "turn": 2,
+          "quote": "I can certainly help with that."
+        },
+        {
+          "turn": 4,
+          "quote": "Would you like me to connect you to our customer support team now?"
+        }
+      ],
+      "reason": "Caller reported a recall, a documented lockout flow Mia can explain. Mia never clarified or attempted help; after collecting the name she offered transfer unsolicited, which failed into callback capture. The offer initiated the exit."
+    },
+    {
+      "call_id": "ais_transcript_122",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 8,
+      "evidence": [
+        {
+          "turn": 5,
+          "quote": "So I was just wondering if that gonna affect anything or add some to my to interlock system."
+        },
+        {
+          "turn": 8,
+          "quote": "Would you like to formally document this event or speak with a specialist about your situation?"
+        },
+        {
+          "turn": 12,
+          "quote": "I'll get you over to our customer support team now."
+        }
+      ],
+      "reason": "Caller asked a policy question (will a perfume lockout affect the program), inside Mia's explain zone. She answered only the timer part, then made an unsolicited specialist offer instead of answering; the call transferred out."
+    },
+    {
+      "call_id": "ais_transcript_149",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 10,
+      "evidence": [
+        {
+          "turn": 1,
+          "quote": "I just wanted to talk to someone about the last final service of my interlock."
+        },
+        {
+          "turn": 10,
+          "quote": "Would you like to speak with customer support as well?"
+        },
+        {
+          "turn": 14,
+          "quote": "I'll get you over to our customer support team now."
+        }
+      ],
+      "reason": "Stated need (final-service info, no notice, QLD) was fully in Mia's CAN zone and resolved via hub link and office email; Mia then made an unsolicited support offer and the call transferred out."
+    },
+    {
+      "call_id": "ais_transcript_154",
+      "bucket": "partially_containable",
+      "terminal_state": "transferred",
+      "first_offer_turn": 10,
+      "evidence": [
+        {
+          "turn": 9,
+          "quote": "Pay the service for next week because I can't afford it this Thursday."
+        },
+        {
+          "turn": 10,
+          "quote": "I'll connect you with a specialist who can help with your service booking and payment options. Are you ready to be connected now?"
+        },
+        {
+          "turn": 25,
+          "quote": "additional seven days. So you've got till close of business next Thursday, June 25."
+        }
+      ],
+      "reason": "Caller's timing question was a grace-window policy explanation Mia could give but never attempted; unknown payment amount and booking advice needed the team. Mia escalated everything immediately; human resolved mainly by explaining the grace window."
+    },
+    {
+      "call_id": "ais_transcript_180",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 20,
+      "evidence": [
+        {
+          "turn": 7,
+          "quote": "Can I pay?"
+        },
+        {
+          "turn": 10,
+          "quote": "A payment link will be sent to your mobile shortly."
+        },
+        {
+          "turn": 20,
+          "quote": "Would you like to speak with customer support as well?"
+        },
+        {
+          "turn": 22,
+          "quote": "I'll get you over to our customer support team now."
+        }
+      ],
+      "reason": "Every stated need (payment via link, end-date check via QLD hub link, office email for notice) was handled in Mia's CAN zone before turn 20; her unsolicited offer initiated the exit and the call left her hands."
+    },
+    {
+      "call_id": "ais_transcript_197",
+      "bucket": "containable_but_transferred",
+      "terminal_state": "transferred",
+      "first_offer_turn": 10,
+      "evidence": [
+        {
+          "turn": 9,
+          "quote": "I wanna know how late of a date I can go."
+        },
+        {
+          "turn": 10,
+          "quote": "I'll get you over to our customer support team now so they can confirm the latest possible date for your data upload."
+        },
+        {
+          "turn": 25,
+          "quote": "the seven days would be the twentieth after the third thirteenth"
+        }
+      ],
+      "reason": "Caller needed the latest allowable data-upload date, a seven-day grace-window policy explanation within Mia's zone. Mia offered customer support instead of attempting it; the human resolved it with a simple policy answer."
+    }
+  ]
+}

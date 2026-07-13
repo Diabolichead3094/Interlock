@@ -144,6 +144,7 @@
   <div class="tile"><div class="label">Behavioral failure-to-land</div><div class="value">2%</div><div class="sub">4 calls (28 more were evidence cuts)</div></div>
   <div class="tile"><div class="label">Critical-criterion fails</div><div class="value">16%</div><div class="sub">32 calls fail ≥1 critical criterion</div></div>
   <div class="tile"><div class="label">Scope violations</div><div class="value">1</div><div class="sub">in 200 calls — forbidden zone held</div></div>
+  <div class="tile" style="border-color: var(--cat-1)"><div class="label">Unsolicited transfer nudges ⭐</div><div class="value">11</div><div class="sub">7 containable transfers · 3 resolved-call nudges · 1 partial</div></div>
 </div>
 
 <div class="grid">
@@ -187,7 +188,7 @@
 </div>
 
 <div class="tasks">
-  <h2>Top 3 recommendations</h2>
+  <h2>Top 4 recommendations</h2>
   <div class="taskgrid">
 
     <div class="task">
@@ -232,6 +233,24 @@
       <div class="accept"><b>Accept:</b> identity fail rate 0% on corpus re-run.</div>
     </div>
 
+    <div class="task" style="border-color: var(--cat-1)">
+      <span class="prio p1">P1</span> <span class="chip" style="color:var(--cat-1);border-color:var(--cat-1)">NEW — containment analysis</span>
+      <h3>Stop unsolicited transfer nudges; close resolved calls</h3>
+      <div class="owner">Owner: <b>Voice-agent flow/prompt engineering</b></div>
+      <p><b>Evidence:</b> dedicated Pass C over all 87 transfer-offer calls: 11 flagged
+        (5.5%), incl. <b>7 containable transfers</b> (024, 051, 092, 122, 149, 180, 197).
+        Signature: <i>“Would you like to speak with customer support as well?”</i> appended
+        <b>after the need was resolved</b> (7 of 11). 041 vs 149: identical resolved flows —
+        041’s caller said “No. Thank you.”, 149’s said yes and became a transfer. In 154/197
+        the human’s post-transfer answer was the 7-day grace policy Mia already knows.</p>
+      <p><b>Approach:</b> gate transfer offers on (a) caller asked, (b) CANNOT-zone need, or
+        (c) designed flow; resolved state goes straight to farewell — delete the trailing
+        nudge; require one containment attempt on answerable policy questions before any
+        escalation offer.</p>
+      <div class="accept"><b>Accept:</b> flagged calls ≤ 2 on corpus re-run
+        (<code>scripts/containment.py</code>); transferred share drops, failed doesn’t rise.</div>
+    </div>
+
   </div>
 </div>
 
@@ -239,9 +258,11 @@
   <b>Watch items:</b> CB_NO_CONFIRM hits 15.4% of callback flows (the safety-net state) — folds
   into P0’s polarity work · MULTI_Q in 23 calls (style-guide fix) · CUT_TRANSCRIPT 14% is a
   platform/telephony recording issue, not an agent defect.<br>
-  <b>Method:</b> Pass A literal fact extraction → Pass B rubric judge (Claude headless, 8 workers),
-  schema-validated with retry + bracket repair; checkpointed reruns. Judge spend ≈ $231.
+  <b>Method:</b> Pass A literal fact extraction → Pass B rubric judge → Pass C transfer-containment
+  classifier (Claude headless, 8 workers), schema-validated with retry + bracket repair; evidence
+  quotes substring-verified against transcripts; checkpointed reruns. Judge spend ≈ $262.
   Sources: <code>results/scores.jsonl</code> · <code>results/summary.json</code> ·
+  <code>results/containment.json</code> ·
   <code>report/final_report.md</code> · never sighted in 200 calls: DROP_OFF, PRICE_QUOTED,
   ACTION_OVERSTEP, CB_DATE_PROMISED, HALLUCINATED_POLICY, AFTER_HOURS_TRANSFER.
 </footer>
