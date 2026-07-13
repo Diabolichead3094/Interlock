@@ -1,0 +1,62 @@
+{
+  "fps": 30,
+  "total": 89.46,
+  "scenes": [
+    {
+      "scene": 1,
+      "file": "vo/scene1.mp3",
+      "start": 0.5,
+      "audio": 9.04,
+      "dur": 9.49
+    },
+    {
+      "scene": 2,
+      "file": "vo/scene2.mp3",
+      "start": 9.99,
+      "audio": 10.21,
+      "dur": 10.66
+    },
+    {
+      "scene": 3,
+      "file": "vo/scene3.mp3",
+      "start": 20.65,
+      "audio": 11.1,
+      "dur": 11.55
+    },
+    {
+      "scene": 4,
+      "file": "vo/scene4.mp3",
+      "start": 32.2,
+      "audio": 13.04,
+      "dur": 13.49
+    },
+    {
+      "scene": 5,
+      "file": "vo/scene5.mp3",
+      "start": 45.69,
+      "audio": 9.2,
+      "dur": 9.65
+    },
+    {
+      "scene": 6,
+      "file": "vo/scene6.mp3",
+      "start": 55.33,
+      "audio": 11.47,
+      "dur": 11.92
+    },
+    {
+      "scene": 7,
+      "file": "vo/scene7.mp3",
+      "start": 67.25,
+      "audio": 10.71,
+      "dur": 11.16
+    },
+    {
+      "scene": 8,
+      "file": "vo/scene8.mp3",
+      "start": 78.41,
+      "audio": 9.8,
+      "dur": 10.25
+    }
+  ]
+}
