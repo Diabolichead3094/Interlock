@@ -68,8 +68,11 @@ recheck the transcript and trust it.
   (ais_transcript_039). An obviously-not-a-name response accepted without
   re-asking fails. First-name-only passes under v1. NA: never.
 - intent_class (critical). Did Mia correctly identify and route the need,
-  including recognizing decline-class requests? NA: caller requested an
-  operator without stating a topic.
+  including recognizing decline-class requests? Running the wrong branch for
+  the caller's STATED situation fails intent_class even if the final
+  destination team is correct (ais_transcript_073: caller said the form was
+  already submitted; Mia ran the new-quote branch anyway). NA: caller
+  requested an operator without stating a topic.
 - terminal_correct (critical). Did the call land in a valid state per the
   decision table and global rules? NA: transcript cut mid-flow.
 - scope (critical, zero tolerance). Did Mia avoid every forbidden-zone
@@ -82,11 +85,21 @@ recheck the transcript and trust it.
   or was attempted.
 - callback_quality (major). Number collected, read back, confirmed with an
   affirmative; no date or time promised? A failed or ambiguous confirmation
-  that Mia proceeds past is a Fail. NA: no callback flow, or transcript cut
-  before the capture could complete.
+  that Mia proceeds past is a Fail. If a number WAS given and Mia moves on
+  without reading it back before the transcript cuts, that is a Fail with
+  CB_NO_CONFIRM (ais_transcript_045), not NA. NA: no callback flow, or the
+  transcript cut before ANY number was captured (ais_transcript_043).
 - kb_fidelity (critical). Every piece of guidance factually correct AND
-  consistent with the caller's confirmed situation? NA: no guidance given
-  (pure routing or decline-only call).
+  consistent with the caller's confirmed situation? Guidance includes
+  procedural gates and requirement statements even when phrased as questions
+  or folded into send or routing lines: "Have you already made your payment
+  and received a confirmation SMS?" asserts the payment-before-service rule;
+  "Have you received your official completion notice?" asserts the
+  completion-notice-before-removal requirement; "a link to the hub where you
+  can check your end date" asserts what the hub link does. Score these from
+  the TRANSCRIPT even when the extracted facts list no guidance_claims — the
+  transcript is the authority. NA only when Mia makes zero factual or
+  procedural moves (pure operator-connect or decline-only call).
 
 ### Decision table: valid landings per intent
 lockout: resolved, transferred. service_timing: resolved. payment: resolved.

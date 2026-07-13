@@ -1,0 +1,601 @@
+{
+  "n_calls": 200,
+  "terminal_states": {
+    "resolved": {
+      "count": 18,
+      "pct": 9.0
+    },
+    "transferred": {
+      "count": 127,
+      "pct": 63.5
+    },
+    "callback": {
+      "count": 22,
+      "pct": 11.0
+    },
+    "declined": {
+      "count": 1,
+      "pct": 0.5
+    },
+    "failed": {
+      "count": 32,
+      "pct": 16.0
+    }
+  },
+  "behavioral_failure_codes": {
+    "STATE_ECHO": {
+      "count": 68,
+      "pct_of_calls": 34.0,
+      "severity": "minor",
+      "calls": [
+        "ais_transcript_005",
+        "ais_transcript_007",
+        "ais_transcript_009",
+        "ais_transcript_012",
+        "ais_transcript_014",
+        "ais_transcript_015",
+        "ais_transcript_016",
+        "ais_transcript_027",
+        "ais_transcript_028",
+        "ais_transcript_030",
+        "ais_transcript_034",
+        "ais_transcript_040",
+        "ais_transcript_042",
+        "ais_transcript_044",
+        "ais_transcript_052",
+        "ais_transcript_054",
+        "ais_transcript_055",
+        "ais_transcript_056",
+        "ais_transcript_057",
+        "ais_transcript_066",
+        "ais_transcript_069",
+        "ais_transcript_071",
+        "ais_transcript_072",
+        "ais_transcript_073",
+        "ais_transcript_075",
+        "ais_transcript_080",
+        "ais_transcript_085",
+        "ais_transcript_088",
+        "ais_transcript_089",
+        "ais_transcript_090",
+        "ais_transcript_095",
+        "ais_transcript_097",
+        "ais_transcript_099",
+        "ais_transcript_103",
+        "ais_transcript_106",
+        "ais_transcript_111",
+        "ais_transcript_112",
+        "ais_transcript_116",
+        "ais_transcript_117",
+        "ais_transcript_120",
+        "ais_transcript_121",
+        "ais_transcript_123",
+        "ais_transcript_125",
+        "ais_transcript_126",
+        "ais_transcript_130",
+        "ais_transcript_133",
+        "ais_transcript_136",
+        "ais_transcript_137",
+        "ais_transcript_142",
+        "ais_transcript_148",
+        "ais_transcript_150",
+        "ais_transcript_154",
+        "ais_transcript_159",
+        "ais_transcript_160",
+        "ais_transcript_162",
+        "ais_transcript_164",
+        "ais_transcript_165",
+        "ais_transcript_166",
+        "ais_transcript_174",
+        "ais_transcript_175",
+        "ais_transcript_186",
+        "ais_transcript_187",
+        "ais_transcript_190",
+        "ais_transcript_191",
+        "ais_transcript_194",
+        "ais_transcript_197",
+        "ais_transcript_199",
+        "ais_transcript_200"
+      ]
+    },
+    "MULTI_Q": {
+      "count": 23,
+      "pct_of_calls": 11.5,
+      "severity": "minor",
+      "calls": [
+        "ais_transcript_008",
+        "ais_transcript_016",
+        "ais_transcript_025",
+        "ais_transcript_026",
+        "ais_transcript_038",
+        "ais_transcript_040",
+        "ais_transcript_052",
+        "ais_transcript_054",
+        "ais_transcript_072",
+        "ais_transcript_077",
+        "ais_transcript_084",
+        "ais_transcript_088",
+        "ais_transcript_117",
+        "ais_transcript_135",
+        "ais_transcript_136",
+        "ais_transcript_143",
+        "ais_transcript_150",
+        "ais_transcript_156",
+        "ais_transcript_158",
+        "ais_transcript_170",
+        "ais_transcript_175",
+        "ais_transcript_178",
+        "ais_transcript_188"
+      ]
+    },
+    "CONTEXT_IGNORED": {
+      "count": 15,
+      "pct_of_calls": 7.5,
+      "severity": "major",
+      "calls": [
+        "ais_transcript_008",
+        "ais_transcript_013",
+        "ais_transcript_020",
+        "ais_transcript_032",
+        "ais_transcript_035",
+        "ais_transcript_052",
+        "ais_transcript_073",
+        "ais_transcript_090",
+        "ais_transcript_093",
+        "ais_transcript_101",
+        "ais_transcript_118",
+        "ais_transcript_133",
+        "ais_transcript_162",
+        "ais_transcript_173",
+        "ais_transcript_186"
+      ]
+    },
+    "ID_SKIPPED": {
+      "count": 7,
+      "pct_of_calls": 3.5,
+      "severity": "critical",
+      "calls": [
+        "ais_transcript_006",
+        "ais_transcript_070",
+        "ais_transcript_084",
+        "ais_transcript_111",
+        "ais_transcript_127",
+        "ais_transcript_184",
+        "ais_transcript_187"
+      ]
+    },
+    "WRONG_GUIDANCE": {
+      "count": 6,
+      "pct_of_calls": 3.0,
+      "severity": "critical",
+      "calls": [
+        "ais_transcript_020",
+        "ais_transcript_022",
+        "ais_transcript_056",
+        "ais_transcript_065",
+        "ais_transcript_138",
+        "ais_transcript_173"
+      ]
+    },
+    "CB_NO_CONFIRM": {
+      "count": 4,
+      "pct_of_calls": 2.0,
+      "severity": "major",
+      "calls": [
+        "ais_transcript_028",
+        "ais_transcript_045",
+        "ais_transcript_160",
+        "ais_transcript_195"
+      ]
+    },
+    "ID_INVALID": {
+      "count": 3,
+      "pct_of_calls": 1.5,
+      "severity": "critical",
+      "calls": [
+        "ais_transcript_019",
+        "ais_transcript_066",
+        "ais_transcript_146"
+      ]
+    },
+    "BYPASS_ENGAGED": {
+      "count": 1,
+      "pct_of_calls": 0.5,
+      "severity": "critical",
+      "calls": [
+        "ais_transcript_044"
+      ]
+    },
+    "WRONG_TEAM": {
+      "count": 1,
+      "pct_of_calls": 0.5,
+      "severity": "major",
+      "calls": [
+        "ais_transcript_095"
+      ]
+    }
+  },
+  "cut_transcript": {
+    "count": 28,
+    "pct_of_calls": 14.0,
+    "note": "evidence-only; excluded from behavioral rates",
+    "calls": [
+      "ais_transcript_021",
+      "ais_transcript_022",
+      "ais_transcript_039",
+      "ais_transcript_043",
+      "ais_transcript_044",
+      "ais_transcript_045",
+      "ais_transcript_050",
+      "ais_transcript_052",
+      "ais_transcript_053",
+      "ais_transcript_055",
+      "ais_transcript_057",
+      "ais_transcript_059",
+      "ais_transcript_064",
+      "ais_transcript_067",
+      "ais_transcript_068",
+      "ais_transcript_092",
+      "ais_transcript_094",
+      "ais_transcript_100",
+      "ais_transcript_101",
+      "ais_transcript_138",
+      "ais_transcript_146",
+      "ais_transcript_148",
+      "ais_transcript_153",
+      "ais_transcript_157",
+      "ais_transcript_159",
+      "ais_transcript_166",
+      "ais_transcript_181",
+      "ais_transcript_193"
+    ]
+  },
+  "severity_rollup": {
+    "minor": 91,
+    "critical": 17,
+    "major": 20
+  },
+  "calls_with_any_behavioral_code": {
+    "count": 100,
+    "pct": 50.0
+  },
+  "calls_fully_clean": {
+    "count": 84,
+    "pct": 42.0
+  },
+  "criteria": {
+    "identity": {
+      "Pass": 190,
+      "Fail": 10,
+      "NA": 0
+    },
+    "intent_class": {
+      "Pass": 136,
+      "Fail": 9,
+      "NA": 55
+    },
+    "terminal_correct": {
+      "Pass": 165,
+      "Fail": 7,
+      "NA": 28
+    },
+    "scope": {
+      "Pass": 199,
+      "Fail": 1,
+      "NA": 0
+    },
+    "dropoff": {
+      "Pass": 172,
+      "Fail": 0,
+      "NA": 28
+    },
+    "transfer_hygiene": {
+      "Pass": 158,
+      "Fail": 1,
+      "NA": 41
+    },
+    "callback_quality": {
+      "Pass": 22,
+      "Fail": 4,
+      "NA": 174
+    },
+    "kb_fidelity": {
+      "Pass": 112,
+      "Fail": 9,
+      "NA": 79
+    }
+  },
+  "calls_failing_any_critical_criterion": {
+    "count": 32,
+    "pct": 16.0
+  },
+  "intents": {
+    "operator_request": {
+      "count": 81,
+      "states": {
+        "transferred": 64,
+        "callback": 15,
+        "failed": 2
+      }
+    },
+    "quote": {
+      "count": 40,
+      "states": {
+        "transferred": 30,
+        "failed": 5,
+        "callback": 1,
+        "resolved": 4
+      }
+    },
+    "payment": {
+      "count": 38,
+      "states": {
+        "transferred": 32,
+        "resolved": 5,
+        "callback": 1
+      }
+    },
+    "service_timing": {
+      "count": 34,
+      "states": {
+        "transferred": 20,
+        "resolved": 8,
+        "failed": 5,
+        "callback": 1
+      }
+    },
+    "lockout": {
+      "count": 33,
+      "states": {
+        "transferred": 21,
+        "failed": 6,
+        "declined": 1,
+        "resolved": 1,
+        "callback": 4
+      }
+    },
+    "removal": {
+      "count": 30,
+      "states": {
+        "transferred": 22,
+        "resolved": 3,
+        "callback": 3,
+        "failed": 2
+      }
+    },
+    "other": {
+      "count": 22,
+      "states": {
+        "transferred": 13,
+        "failed": 6,
+        "callback": 3
+      }
+    },
+    "bypass_legal": {
+      "count": 6,
+      "states": {
+        "transferred": 1,
+        "failed": 4,
+        "declined": 1
+      }
+    },
+    "data_upload": {
+      "count": 3,
+      "states": {
+        "transferred": 2,
+        "callback": 1
+      }
+    },
+    "holiday_coordination": {
+      "count": 1,
+      "states": {
+        "failed": 1
+      }
+    }
+  },
+  "invalid_landings": [
+    {
+      "call_id": "ais_transcript_080",
+      "intent": "payment",
+      "state": "transferred"
+    },
+    {
+      "call_id": "ais_transcript_097",
+      "intent": "lockout",
+      "state": "declined"
+    },
+    {
+      "call_id": "ais_transcript_112",
+      "intent": "payment",
+      "state": "transferred"
+    },
+    {
+      "call_id": "ais_transcript_125",
+      "intent": "service_timing",
+      "state": "transferred"
+    },
+    {
+      "call_id": "ais_transcript_162",
+      "intent": "payment",
+      "state": "transferred"
+    },
+    {
+      "call_id": "ais_transcript_197",
+      "intent": "data_upload",
+      "state": "transferred"
+    }
+  ],
+  "code_cooccurrence": [
+    {
+      "pair": [
+        "MULTI_Q",
+        "STATE_ECHO"
+      ],
+      "count": 10
+    },
+    {
+      "pair": [
+        "CONTEXT_IGNORED",
+        "STATE_ECHO"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "CB_NO_CONFIRM",
+        "STATE_ECHO"
+      ],
+      "count": 2
+    },
+    {
+      "pair": [
+        "CONTEXT_IGNORED",
+        "MULTI_Q"
+      ],
+      "count": 2
+    },
+    {
+      "pair": [
+        "CONTEXT_IGNORED",
+        "WRONG_GUIDANCE"
+      ],
+      "count": 2
+    },
+    {
+      "pair": [
+        "ID_SKIPPED",
+        "STATE_ECHO"
+      ],
+      "count": 2
+    },
+    {
+      "pair": [
+        "BYPASS_ENGAGED",
+        "STATE_ECHO"
+      ],
+      "count": 1
+    },
+    {
+      "pair": [
+        "ID_INVALID",
+        "STATE_ECHO"
+      ],
+      "count": 1
+    },
+    {
+      "pair": [
+        "ID_SKIPPED",
+        "MULTI_Q"
+      ],
+      "count": 1
+    },
+    {
+      "pair": [
+        "STATE_ECHO",
+        "WRONG_TEAM"
+      ],
+      "count": 1
+    },
+    {
+      "pair": [
+        "STATE_ECHO",
+        "WRONG_GUIDANCE"
+      ],
+      "count": 1
+    }
+  ],
+  "worst_calls": [
+    {
+      "call_id": "ais_transcript_044",
+      "terminal_state": "failed",
+      "codes": [
+        "BYPASS_ENGAGED",
+        "CUT_TRANSCRIPT",
+        "STATE_ECHO"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_020",
+      "terminal_state": "transferred",
+      "codes": [
+        "CONTEXT_IGNORED",
+        "WRONG_GUIDANCE"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_022",
+      "terminal_state": "failed",
+      "codes": [
+        "CUT_TRANSCRIPT",
+        "WRONG_GUIDANCE"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_056",
+      "terminal_state": "transferred",
+      "codes": [
+        "STATE_ECHO",
+        "WRONG_GUIDANCE"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_066",
+      "terminal_state": "transferred",
+      "codes": [
+        "ID_INVALID",
+        "STATE_ECHO"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_084",
+      "terminal_state": "transferred",
+      "codes": [
+        "ID_SKIPPED",
+        "MULTI_Q"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_111",
+      "terminal_state": "transferred",
+      "codes": [
+        "ID_SKIPPED",
+        "STATE_ECHO"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_138",
+      "terminal_state": "failed",
+      "codes": [
+        "CUT_TRANSCRIPT",
+        "WRONG_GUIDANCE"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_146",
+      "terminal_state": "failed",
+      "codes": [
+        "CUT_TRANSCRIPT",
+        "ID_INVALID"
+      ],
+      "critical_codes": 1
+    },
+    {
+      "call_id": "ais_transcript_173",
+      "terminal_state": "transferred",
+      "codes": [
+        "CONTEXT_IGNORED",
+        "WRONG_GUIDANCE"
+      ],
+      "critical_codes": 1
+    }
+  ],
+  "pipeline_errors_logged": 14
+}

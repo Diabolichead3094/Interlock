@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mia Voice-Agent Evaluation — 200-Call Corpus</title>
+<style>
+  .viz-root {
+    /* chrome & ink */
+    --page:        #f9f9f7;
+    --surface-1:   #fcfcfb;
+    --text-primary:#0b0b0b;
+    --text-secondary:#52514e;
+    --muted:       #898781;
+    --grid:        #e1e0d9;
+    --baseline:    #c3c2b7;
+    --border:      rgba(11,11,11,0.10);
+    /* categorical (validated order: blue,orange,aqua,yellow,violet) */
+    --cat-1: #2a78d6;  /* transferred */
+    --cat-2: #eb6834;  /* failed */
+    --cat-3: #1baf7a;  /* callback */
+    --cat-4: #eda100;  /* resolved */
+    --cat-5: #4a3aa7;  /* declined */
+    /* status (fixed) */
+    --good:     #0ca30c;
+    --critical: #d03b3b;
+    --warning:  #fab219;
+    --serious:  #ec835a;
+    --na-fill:  #d6d5cd;
+    /* sequential blue ramp (light: low→light, high→dark) */
+    --seq-0: var(--surface-1);
+    --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec;
+    --seq-4: #3987e5; --seq-5: #256abf; --seq-6: #184f95; --seq-7: #0d366b;
+    --heat-ink-hi: #ffffff;   /* ink on dark (high) heat cells */
+    --heat-ink-lo: #0b0b0b;   /* ink on light (low) heat cells */
+    --bar-cut: #b3b1a9;       /* de-emphasis bar for evidence-only code */
+  }
+  @media (prefers-color-scheme: dark) {
+    .viz-root {
+      --page:        #0d0d0d;
+      --surface-1:   #1a1a19;
+      --text-primary:#ffffff;
+      --text-secondary:#c3c2b7;
+      --muted:       #898781;
+      --grid:        #2c2c2a;
+      --baseline:    #383835;
+      --border:      rgba(255,255,255,0.10);
+      --cat-1: #3987e5; --cat-2: #d95926; --cat-3: #199e70;
+      --cat-4: #c98500; --cat-5: #9085e9;
+      --na-fill: #4a4a47;
+      /* sequential on dark: near-zero recedes toward the dark surface */
+      --seq-1: #104281; --seq-2: #1c5cab; --seq-3: #2a78d6;
+      --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #9ec5f4; --seq-7: #cde2fb;
+      --heat-ink-hi: #0b0b0b;  /* high cells are LIGHT in dark mode */
+      --heat-ink-lo: #ffffff;
+      --bar-cut: #5a5954;
+    }
+  }
+  * { box-sizing: border-box; }
+  body.viz-root {
+    margin: 0; background: var(--page); color: var(--text-primary);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 24px 64px; }
+  header h1 { font-size: 22px; font-weight: 650; margin: 0 0 4px; }
+  header .meta { color: var(--text-secondary); font-size: 13px; }
+  header .meta b { color: var(--text-primary); font-weight: 600; }
+
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px,1fr));
+          gap: 12px; margin: 22px 0 18px; }
+  .tile { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 14px 16px; }
+  .tile .label { color: var(--text-secondary); font-size: 12.5px; }
+  .tile .value { font-size: 30px; font-weight: 600; margin-top: 2px; }
+  .tile .sub   { color: var(--muted); font-size: 12px; margin-top: 2px; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+  .card { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 18px 18px 12px; }
+  .card h2 { font-size: 15px; font-weight: 650; margin: 0 0 2px; }
+  .card .sub { color: var(--text-secondary); font-size: 12.5px; margin: 0 0 12px; }
+  svg text { font: 12px system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .axis-num { font-variant-numeric: tabular-nums; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 2px;
+            color: var(--text-secondary); font-size: 12.5px; }
+  .legend .key { display: inline-flex; align-items: center; gap: 6px; }
+  .legend .sw { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+  details.tbl { margin: 8px 0 4px; }
+  details.tbl summary { color: var(--muted); font-size: 12px; cursor: pointer; }
+  details.tbl table { border-collapse: collapse; margin-top: 8px; width: 100%;
+                      font-size: 12.5px; font-variant-numeric: tabular-nums; }
+  details.tbl th { text-align: left; color: var(--text-secondary); font-weight: 600;
+                   border-bottom: 1px solid var(--grid); padding: 4px 10px 4px 0; }
+  details.tbl td { border-bottom: 1px solid var(--grid); padding: 4px 10px 4px 0; }
+
+  .chip { display: inline-block; font-size: 10.5px; font-weight: 600; padding: 1px 7px;
+          border-radius: 99px; border: 1px solid var(--border); color: var(--text-secondary); }
+  .chip.critical { color: var(--critical); border-color: var(--critical); }
+  .chip.major    { color: var(--serious);  border-color: var(--serious); }
+  .chip.minor    { color: var(--text-secondary); }
+  .chip.evidence { color: var(--muted); border-style: dashed; }
+
+  .tasks { margin-top: 26px; }
+  .tasks h2 { font-size: 17px; margin: 0 0 12px; }
+  .taskgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 14px; }
+  .task { background: var(--surface-1); border: 1px solid var(--border);
+          border-radius: 10px; padding: 16px 18px; }
+  .task .prio { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 99px; }
+  .task .p0 { background: var(--critical); color: #fff; }
+  .task .p1 { background: var(--serious); color: #fff; }
+  .task h3 { font-size: 14.5px; margin: 10px 0 6px; }
+  .task .owner { font-size: 12.5px; color: var(--text-secondary); margin-bottom: 8px; }
+  .task .owner b { color: var(--text-primary); }
+  .task p { font-size: 12.5px; color: var(--text-secondary); margin: 6px 0; }
+  .task .accept { font-size: 12px; border-top: 1px solid var(--grid); margin-top: 10px;
+                  padding-top: 8px; color: var(--text-secondary); }
+  .task .accept b { color: var(--text-primary); }
+
+  footer { margin-top: 30px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+
+  #tip { position: fixed; pointer-events: none; z-index: 10; display: none;
+         background: var(--text-primary); color: var(--page); padding: 6px 10px;
+         border-radius: 7px; font-size: 12px; max-width: 260px; }
+  .hit { cursor: default; }
+  .hit:hover { opacity: 0.85; }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap">
+
+<header>
+  <h1>Mia Voice-Agent Evaluation — 200-Call Corpus</h1>
+  <div class="meta">Frozen rubric v1 · two-pass LLM judge (v1.1) calibrated at
+    <b>99.3%</b> criterion / <b>100%</b> terminal-state agreement vs 18 human golden labels ·
+    2026-07-13</div>
+</header>
+
+<div class="kpis">
+  <div class="tile"><div class="label">Calls scored</div><div class="value">200</div><div class="sub">0 lost, 14 auto-recovered</div></div>
+  <div class="tile"><div class="label">Fully clean calls</div><div class="value">42%</div><div class="sub">84 calls, no failure code</div></div>
+  <div class="tile"><div class="label">Behavioral failure-to-land</div><div class="value">2%</div><div class="sub">4 calls (28 more were evidence cuts)</div></div>
+  <div class="tile"><div class="label">Critical-criterion fails</div><div class="value">16%</div><div class="sub">32 calls fail ≥1 critical criterion</div></div>
+  <div class="tile"><div class="label">Scope violations</div><div class="value">1</div><div class="sub">in 200 calls — forbidden zone held</div></div>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h2>Where calls land</h2>
+    <p class="sub">Terminal state per call. Transferred is a success state by design.</p>
+    <div id="donut"></div>
+    <div class="legend" id="donut-legend"></div>
+    <details class="tbl"><summary>Table view</summary><table id="donut-table"></table></details>
+  </div>
+
+  <div class="card">
+    <h2>Behavioral failure codes</h2>
+    <p class="sub">Calls carrying each code. CUT_TRANSCRIPT is evidence-only — excluded
+      from behavioral rates per the rubric.</p>
+    <div id="bars"></div>
+    <details class="tbl"><summary>Table view</summary><table id="bars-table"></table></details>
+  </div>
+
+  <div class="card">
+    <h2>Criterion scorecard</h2>
+    <p class="sub">Pass / Fail / NA per rubric criterion, all 200 calls. NA = the
+      criterion's path never activated.</p>
+    <div id="stack"></div>
+    <div class="legend">
+      <span class="key"><span class="sw" style="background:var(--good)"></span>Pass</span>
+      <span class="key"><span class="sw" style="background:var(--critical)"></span>Fail</span>
+      <span class="key"><span class="sw" style="background:var(--na-fill)"></span>NA</span>
+    </div>
+    <details class="tbl"><summary>Table view</summary><table id="stack-table"></table></details>
+  </div>
+
+  <div class="card">
+    <h2>Intent × terminal state</h2>
+    <p class="sub">Call counts (multi-intent calls count once per intent). Darker = more calls.</p>
+    <div id="heat"></div>
+    <details class="tbl"><summary>Table view</summary><table id="heat-table"></table></details>
+  </div>
+
+</div>
+
+<div class="tasks">
+  <h2>Top 3 recommendations</h2>
+  <div class="taskgrid">
+
+    <div class="task">
+      <span class="prio p0">P0</span>
+      <h3>Ground actions in caller-confirmed facts</h3>
+      <div class="owner">Owner: <b>Dialog/NLU + prompt engineering</b></div>
+      <p><b>Evidence:</b> 21 calls (10.5%) — CONTEXT_IGNORED ×15, WRONG_GUIDANCE ×6
+        (critical). Signature: negation inversion — caller's “No” processed as a yes
+        (028, 035); countdown advice after a confirmed permanent lockout (065).</p>
+      <p><b>Approach:</b> polarity-check every confirmation {affirm/deny/unclear} before
+        branching; persist confirmed facts (lockout type, notice status) as slots that
+        hard-gate guidance; regression suite from 028/035/065/073.</p>
+      <div class="accept"><b>Accept:</b> zero negation inversions on golden set;
+        combined code rate ≤ 1.5% on corpus re-run.</div>
+    </div>
+
+    <div class="task">
+      <span class="prio p1">P1</span>
+      <h3>Make satisfied dialog states idempotent</h3>
+      <div class="owner">Owner: <b>Voice-agent flow/state-machine engineering</b></div>
+      <p><b>Evidence:</b> STATE_ECHO in 68 calls (34%) — the dominant defect. Consent
+        re-asked after a clean “Yes” (040, 042, 099); identity gate re-fired (044);
+        interrupted messages restarted from the top (043).</p>
+      <p><b>Approach:</b> slot-filled guards so satisfied states can’t re-fire;
+        commit affirmatives on first parse; resume — never restart — interrupted
+        utterances on barge-in.</p>
+      <div class="accept"><b>Accept:</b> STATE_ECHO ≤ 10% of calls on corpus re-run;
+        zero double consent-asks on golden set.</div>
+    </div>
+
+    <div class="task">
+      <span class="prio p1">P1</span>
+      <h3>Enforce the identity gate before any action</h3>
+      <div class="owner">Owner: <b>Voice-agent flow engineering</b></div>
+      <p><b>Evidence:</b> 10 calls (5%) fail identity (critical): ID_SKIPPED ×7 (acted
+        before asking a name — 084, 111), ID_INVALID ×3 (non-name accepted — 066, 146).
+        The correct behavior already exists in production: 039 queried a garbled
+        answer and re-asked.</p>
+      <p><b>Approach:</b> make name-capture a hard precondition of action states
+        (link/transfer/callback unreachable while unset); add a name-plausibility
+        validator with one re-ask, per 039.</p>
+      <div class="accept"><b>Accept:</b> identity fail rate 0% on corpus re-run.</div>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  <b>Watch items:</b> CB_NO_CONFIRM hits 15.4% of callback flows (the safety-net state) — folds
+  into P0’s polarity work · MULTI_Q in 23 calls (style-guide fix) · CUT_TRANSCRIPT 14% is a
+  platform/telephony recording issue, not an agent defect.<br>
+  <b>Method:</b> Pass A literal fact extraction → Pass B rubric judge (Claude headless, 8 workers),
+  schema-validated with retry + bracket repair; checkpointed reruns. Judge spend ≈ $231.
+  Sources: <code>results/scores.jsonl</code> · <code>results/summary.json</code> ·
+  <code>report/final_report.md</code> · never sighted in 200 calls: DROP_OFF, PRICE_QUOTED,
+  ACTION_OVERSTEP, CB_DATE_PROMISED, HALLUCINATED_POLICY, AFTER_HOURS_TRANSFER.
+</footer>
+
+</div>
+<div id="tip"></div>
+
+<script>
+const DATA = {
+  n: 200,
+  states: [   // arc/magnitude order; categorical slots assigned in this fixed order
+    { id: "transferred", n: 127, slot: 1 },
+    { id: "failed",      n: 32,  slot: 2 },
+    { id: "callback",    n: 22,  slot: 3 },
+    { id: "resolved",    n: 18,  slot: 4 },
+    { id: "declined",    n: 1,   slot: 5 }
+  ],
+  codes: [
+    { c: "STATE_ECHO",      n: 68, sev: "minor" },
+    { c: "MULTI_Q",         n: 23, sev: "minor" },
+    { c: "CONTEXT_IGNORED", n: 15, sev: "major" },
+    { c: "ID_SKIPPED",      n: 7,  sev: "critical" },
+    { c: "WRONG_GUIDANCE",  n: 6,  sev: "critical" },
+    { c: "CB_NO_CONFIRM",   n: 4,  sev: "major" },
+    { c: "ID_INVALID",      n: 3,  sev: "critical" },
+    { c: "BYPASS_ENGAGED",  n: 1,  sev: "critical" },
+    { c: "WRONG_TEAM",      n: 1,  sev: "major" }
+  ],
+  cut: { c: "CUT_TRANSCRIPT", n: 28, sev: "evidence" },
+  criteria: [
+    { c: "identity",         p: 190, f: 10, na: 0 },
+    { c: "intent_class",     p: 136, f: 9,  na: 55 },
+    { c: "terminal_correct", p: 165, f: 7,  na: 28 },
+    { c: "scope",            p: 199, f: 1,  na: 0 },
+    { c: "dropoff",          p: 172, f: 0,  na: 28 },
+    { c: "transfer_hygiene", p: 158, f: 1,  na: 41 },
+    { c: "callback_quality", p: 22,  f: 4,  na: 174 },
+    { c: "kb_fidelity",      p: 112, f: 9,  na: 79 }
+  ],
+  stateCols: ["transferred", "failed", "callback", "resolved", "declined"],
+  intents: [
+    { i: "operator_request",     v: [64, 2, 15, 0, 0] },
+    { i: "quote",                v: [30, 5, 1, 4, 0] },
+    { i: "payment",              v: [32, 0, 1, 5, 0] },
+    { i: "service_timing",       v: [20, 5, 1, 8, 0] },
+    { i: "lockout",              v: [21, 6, 4, 1, 1] },
+    { i: "removal",              v: [22, 2, 3, 3, 0] },
+    { i: "other",                v: [13, 6, 3, 0, 0] },
+    { i: "bypass_legal",         v: [1, 4, 0, 0, 1] },
+    { i: "data_upload",          v: [2, 0, 1, 0, 0] },
+    { i: "holiday_coordination", v: [0, 1, 0, 0, 0] }
+  ]
+};
+
+const tip = document.getElementById("tip");
+function showTip(e, html) {
+  tip.innerHTML = html; tip.style.display = "block";
+  const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8);
+  tip.style.left = x + "px"; tip.style.top = (e.clientY + 14) + "px";
+}
+function hideTip() { tip.style.display = "none"; }
+function hook(el, html) {
+  el.classList.add("hit");
+  el.addEventListener("mousemove", e => showTip(e, html));
+  el.addEventListener("mouseleave", hideTip);
+}
+const NS = "http://www.w3.org/2000/svg";
+function svgEl(tag, attrs) {
+  const el = document.createElementNS(NS, tag);
+  for (const k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+function svgRoot(w, h) {
+  const s = svgEl("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" });
+  s.style.display = "block";
+  return s;
+}
+const pct = n => (100 * n / DATA.n).toFixed(1) + "%";
+
+/* ---------- donut: terminal states ---------- */
+(function donut() {
+  const W = 460, H = 260, cx = 230, cy = 130, R = 100, r = 62;
+  const svg = svgRoot(W, H);
+  const total = DATA.states.reduce((a, s) => a + s.n, 0);
+  const pad = 2 / R;                       // ≈2px angular surface gap
+  let a0 = -Math.PI / 2;
+  DATA.states.forEach(s => {
+    const frac = s.n / total, a1 = a0 + frac * 2 * Math.PI;
+    const b0 = a0 + pad / 2, b1 = Math.max(a1 - pad / 2, b0 + 0.004);
+    const large = (b1 - b0) > Math.PI ? 1 : 0;
+    const p = [
+      "M", cx + R * Math.cos(b0), cy + R * Math.sin(b0),
+      "A", R, R, 0, large, 1, cx + R * Math.cos(b1), cy + R * Math.sin(b1),
+      "L", cx + r * Math.cos(b1), cy + r * Math.sin(b1),
+      "A", r, r, 0, large, 0, cx + r * Math.cos(b0), cy + r * Math.sin(b0), "Z"
+    ].join(" ");
+    const path = svgEl("path", { d: p, fill: `var(--cat-${s.slot})` });
+    hook(path, `<b>${s.id}</b><br>${s.n} calls · ${pct(s.n)}`);
+    svg.appendChild(path);
+    // direct label for large segments only (relief rule for light slots)
+    if (frac > 0.08) {
+      const mid = (a0 + a1) / 2, lr = R + 16;
+      const t = svgEl("text", {
+        x: cx + lr * Math.cos(mid), y: cy + lr * Math.sin(mid) + 4,
+        "text-anchor": Math.cos(mid) > 0.1 ? "start" : (Math.cos(mid) < -0.1 ? "end" : "middle"),
+        fill: "var(--text-secondary)"
+      });
+      t.textContent = `${s.id} ${pct(s.n)}`;
+      svg.appendChild(t);
+    }
+    a0 = a1;
+  });
+  const c1 = svgEl("text", { x: cx, y: cy - 2, "text-anchor": "middle",
+    fill: "var(--text-primary)", "font-size": "26", "font-weight": "600" });
+  c1.textContent = "200";
+  const c2 = svgEl("text", { x: cx, y: cy + 18, "text-anchor": "middle",
+    fill: "var(--muted)" });
+  c2.textContent = "calls";
+  svg.appendChild(c1); svg.appendChild(c2);
+  document.getElementById("donut").appendChild(svg);
+
+  document.getElementById("donut-legend").innerHTML = DATA.states.map(s =>
+    `<span class="key"><span class="sw" style="background:var(--cat-${s.slot})"></span>${s.id} · ${s.n}</span>`
+  ).join("");
+  document.getElementById("donut-table").innerHTML =
+    "<tr><th>Terminal state</th><th>Calls</th><th>%</th></tr>" +
+    DATA.states.map(s => `<tr><td>${s.id}</td><td>${s.n}</td><td>${pct(s.n)}</td></tr>`).join("");
+})();
+
+/* ---------- horizontal bars: failure codes (single series, one hue) ---------- */
+(function bars() {
+  const rows = [...DATA.codes, DATA.cut];
+  const labelW = 150, chipW = 66, plotW = 175, rowH = 26, barH = 14;
+  const W = labelW + chipW + plotW + 84, H = rows.length * rowH + 8;
+  const svg = svgRoot(W, H);
+  const max = Math.max(...rows.map(r => r.n));
+  rows.forEach((r0, i) => {
+    const y = i * rowH + (rowH - barH) / 2;
+    const w = Math.max(3, plotW * r0.n / max);
+    const lbl = svgEl("text", { x: labelW - 6, y: y + barH - 3, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = r0.c;
+    svg.appendChild(lbl);
+    const sevInk = r0.sev === "critical" ? "var(--critical)"
+                 : r0.sev === "major" ? "var(--serious)" : "var(--muted)";
+    const sev = svgEl("text", { x: labelW + 2, y: y + barH - 3,
+      fill: sevInk, "font-size": "10" });
+    sev.textContent = r0.sev;
+    svg.appendChild(sev);
+    // rounded data-end (right), square at baseline (left)
+    const rr = Math.min(4, w / 2);
+    const d = `M ${labelW + chipW} ${y} h ${w - rr} a ${rr} ${rr} 0 0 1 ${rr} ${rr}` +
+              ` v ${barH - 2 * rr} a ${rr} ${rr} 0 0 1 ${-rr} ${rr} h ${-(w - rr)} Z`;
+    const bar = svgEl("path", { d,
+      fill: r0.sev === "evidence" ? "var(--bar-cut)" : "var(--cat-1)" });
+    hook(bar, `<b>${r0.c}</b><br>${r0.n} calls · ${pct(r0.n)} of corpus<br>severity: ${r0.sev}` +
+      (r0.sev === "evidence" ? "<br>excluded from behavioral rates" : ""));
+    svg.appendChild(bar);
+    const val = svgEl("text", { x: labelW + chipW + w + 6, y: y + barH - 3,
+      fill: "var(--text-secondary)", "font-size": "11.5", class: "axis-num" });
+    val.textContent = `${r0.n} · ${pct(r0.n)}`;
+    svg.appendChild(val);
+  });
+  const base = svgEl("line", { x1: labelW + chipW, y1: 0, x2: labelW + chipW,
+    y2: H - 4, stroke: "var(--baseline)", "stroke-width": 1 });
+  svg.appendChild(base);
+  document.getElementById("bars").appendChild(svg);
+  document.getElementById("bars-table").innerHTML =
+    "<tr><th>Code</th><th>Severity</th><th>Calls</th><th>% of corpus</th></tr>" +
+    rows.map(r => `<tr><td>${r.c}</td><td>${r.sev}</td><td>${r.n}</td><td>${pct(r.n)}</td></tr>`).join("");
+})();
+
+/* ---------- stacked bars: criterion Pass/Fail/NA ---------- */
+(function stack() {
+  const labelW = 128, plotW = 250, rowH = 26, barH = 14, gap = 2;
+  const W = labelW + plotW + 74, H = DATA.criteria.length * rowH + 8;
+  const svg = svgRoot(W, H);
+  DATA.criteria.forEach((r, i) => {
+    const y = i * rowH + (rowH - barH) / 2;
+    const lbl = svgEl("text", { x: labelW - 6, y: y + barH - 3, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = r.c;
+    svg.appendChild(lbl);
+    const segs = [
+      { k: "Pass", v: r.p, fill: "var(--good)", ink: "#ffffff" },
+      { k: "Fail", v: r.f, fill: "var(--critical)", ink: "#ffffff" },
+      { k: "NA",   v: r.na, fill: "var(--na-fill)", ink: "var(--text-primary)" }
+    ];
+    let x = labelW;
+    segs.forEach(s => {
+      if (!s.v) return;
+      const w = plotW * s.v / DATA.n - gap;
+      const rect = svgEl("rect", { x, y, width: Math.max(w, 1.5), height: barH, rx: 2 });
+      rect.setAttribute("fill", s.fill);
+      hook(rect, `<b>${r.c}</b> — ${s.k}<br>${s.v} calls · ${pct(s.v)}`);
+      svg.appendChild(rect);
+      if (w > 30) {   // in-segment label only when it fits with padding
+        const t = svgEl("text", { x: x + w / 2, y: y + barH - 3.5,
+          "text-anchor": "middle", fill: s.ink, "font-size": "10.5", class: "axis-num" });
+        t.textContent = s.v;
+        svg.appendChild(t);
+      }
+      x += w + gap;
+    });
+    const applicable = r.p + r.f;
+    const fr = applicable ? (100 * r.f / applicable).toFixed(1) + "%" : "—";
+    const t2 = svgEl("text", { x: labelW + plotW + 8, y: y + barH - 3,
+      fill: r.f > 0 ? "var(--critical)" : "var(--muted)", "font-size": "11", class: "axis-num" });
+    t2.textContent = "fail " + fr;
+    svg.appendChild(t2);
+  });
+  document.getElementById("stack").appendChild(svg);
+  document.getElementById("stack-table").innerHTML =
+    "<tr><th>Criterion</th><th>Pass</th><th>Fail</th><th>NA</th><th>Fail rate*</th></tr>" +
+    DATA.criteria.map(r => {
+      const ap = r.p + r.f;
+      return `<tr><td>${r.c}</td><td>${r.p}</td><td>${r.f}</td><td>${r.na}</td>` +
+             `<td>${ap ? (100 * r.f / ap).toFixed(1) + "%" : "—"}</td></tr>`;
+    }).join("") +
+    `<tr><td colspan="5" style="color:var(--muted)">*of applicable (Pass+Fail)</td></tr>`;
+})();
+
+/* ---------- heatmap: intent × terminal state ---------- */
+(function heat() {
+  const labelW = 146, cell = 52, ch = 24, gap = 2, top = 20;
+  const W = labelW + DATA.stateCols.length * (cell + gap) + 8;
+  const H = top + DATA.intents.length * (ch + gap) + 6;
+  const svg = svgRoot(W, H);
+  const max = Math.max(...DATA.intents.flatMap(r => r.v));
+  DATA.stateCols.forEach((s, j) => {
+    const t = svgEl("text", { x: labelW + j * (cell + gap) + cell / 2, y: 13,
+      "text-anchor": "middle", fill: "var(--muted)", "font-size": "10.5" });
+    t.textContent = s.slice(0, 8);
+    svg.appendChild(t);
+  });
+  DATA.intents.forEach((row, i) => {
+    const y = top + i * (ch + gap);
+    const lbl = svgEl("text", { x: labelW - 6, y: y + ch - 8, "text-anchor": "end",
+      fill: "var(--text-primary)", "font-size": "11.5" });
+    lbl.textContent = row.i;
+    svg.appendChild(lbl);
+    row.v.forEach((v, j) => {
+      const x = labelW + j * (cell + gap);
+      let fill = "var(--seq-0)", ink = "var(--heat-ink-lo)", hi = false;
+      if (v > 0) {
+        const step = Math.max(1, Math.min(7, Math.ceil(7 * Math.sqrt(v / max))));
+        fill = `var(--seq-${step})`;
+        hi = step >= 4;
+        ink = hi ? "var(--heat-ink-hi)" : "var(--heat-ink-lo)";
+      }
+      const rect = svgEl("rect", { x, y, width: cell, height: ch, rx: 3, fill });
+      if (v === 0) rect.setAttribute("stroke", "var(--grid)");
+      hook(rect, `<b>${row.i}</b> → ${DATA.stateCols[j]}<br>${v} call${v === 1 ? "" : "s"}`);
+      svg.appendChild(rect);
+      if (v > 0) {
+        const t = svgEl("text", { x: x + cell / 2, y: y + ch - 7.5,
+          "text-anchor": "middle", fill: ink, "font-size": "11", class: "axis-num" });
+        t.textContent = v;
+        svg.appendChild(t);
+      }
+    });
+  });
+  document.getElementById("heat").appendChild(svg);
+  document.getElementById("heat-table").innerHTML =
+    `<tr><th>Intent</th>${DATA.stateCols.map(s => `<th>${s}</th>`).join("")}</tr>` +
+    DATA.intents.map(r =>
+      `<tr><td>${r.i}</td>${r.v.map(v => `<td>${v}</td>`).join("")}</tr>`).join("");
+})();
+</script>
+</body>
+</html>
